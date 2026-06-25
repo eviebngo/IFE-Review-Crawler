@@ -8300,7 +8300,1073 @@
       "captions": [],
       "source_tier": 2,
       "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gVXgkBUZg4w",
+      "title": "The History of In Flight Entertainment From Radio to Streaming",
+      "year": 2023,
+      "published_at": "2023-11-01T20:28:16Z",
+      "channel_title": "Tino Aviation",
+      "view_count": 1083,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=z8MDF9oRACY",
+      "title": "My First International Flight Experience & Inflight entertainment | Wandering Bongs",
+      "year": 2023,
+      "published_at": "2023-09-25T11:01:24Z",
+      "channel_title": "Wandering Bongs",
+      "view_count": 196,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wFJpZieeSvE",
+      "title": "Gulf air Boeing 787-9 coming from Bahrain 🇧🇭 to landing 🛬 Heathrow Airport London",
+      "year": 2025,
+      "published_at": "2025-10-29T00:15:02Z",
+      "channel_title": "Plane Watcher",
+      "view_count": 818,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Ka-band",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GKagUVZwqrg",
+      "title": "American Airlines Economy Class RDU to PHL Flight Review",
+      "year": 2023,
+      "published_at": "2023-07-12T15:00:12Z",
+      "channel_title": "ThePanzoAdventures",
+      "view_count": 467,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XY3E8_UN6G8",
+      "title": "Tripreport | Saudia | Economy Class | London Gatwick to Jeddah | Boeing 787-10 Dreamliner",
+      "year": 2025,
+      "published_at": "2025-08-17T18:00:35Z",
+      "channel_title": "Caz's Transport Reviews",
+      "view_count": 4632,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rgqvh6svvG0",
+      "title": "Gulf air Boeing 787–9 coming from the dammam to landing Heathrow Airport London ￼￼",
+      "year": 2026,
+      "published_at": "2026-04-19T10:27:14Z",
+      "channel_title": "Plane Watcher",
+      "view_count": 992,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HXHH1iCBSVk",
+      "title": "LATAM - Full Business Class Review",
+      "year": 2023,
+      "published_at": "2023-08-20T09:48:34Z",
+      "channel_title": "DennisBunnik Travels",
+      "view_count": 65102,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=b6LOGIUWO6Q",
+      "title": "LATAM Business Class Review | Boeing 767-300 from New York to Lima (JFK–LIM)",
+      "year": 2026,
+      "published_at": "2026-05-10T16:35:44Z",
+      "channel_title": "Just Travelin'",
+      "view_count": 1427,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 1
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=R3CmKjsXRmA",
+      "title": "Is LATAM's Boeing 787 Dreamliner The MOST COMFORTABLE Flight Experience?",
+      "year": 2026,
+      "published_at": "2026-01-21T16:03:11Z",
+      "channel_title": "CodeNation USA",
+      "view_count": 17,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 16
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 11
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 11
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0Uv681CTLGA",
+      "title": "Is All Aisle Access ALWAYS Better on a LATAM 787-9 in Business Class? 🇨🇱→🇺🇸 10 Hours to New York",
+      "year": 2025,
+      "published_at": "2025-07-24T11:30:01Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 34122,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "alaska airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rzp4XdqPWTU",
+      "title": "LATAM's Bizarre Business Class: 787-9 Dreamliner Review | Melbourne - Auckland (via Sydney)",
+      "year": 2023,
+      "published_at": "2023-07-04T16:45:58Z",
+      "channel_title": "Flight Formula",
+      "view_count": 39344,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=osPSvEdY6EI",
+      "title": "Wait..LATAM Business Class is Suddenly Good??",
+      "year": 2025,
+      "published_at": "2025-09-07T19:00:43Z",
+      "channel_title": "Chris Long Haul",
+      "view_count": 8744,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GhfSMcqs4qA",
+      "title": "TRIP REPORT | LATAM 787 Business Class | Madrid to Lima – 12h Flight To South America!",
+      "year": 2024,
+      "published_at": "2024-05-03T14:00:22Z",
+      "channel_title": "Welcome Aboard",
+      "view_count": 16327,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LIaUrLfz9Rc",
+      "title": "LATAM 777-300 Business Class Seat Review | Couples Seat Experience",
+      "year": 2026,
+      "published_at": "2026-04-10T16:15:02Z",
+      "channel_title": "BrandonJohnson10K",
+      "view_count": 439,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3g8rb60W4ZI",
+      "title": "Is LATAM’s Premium Business Class Worth It? Flying B777-300 from Lisbon to São Paulo with Miles",
+      "year": 2025,
+      "published_at": "2025-10-18T18:00:06Z",
+      "channel_title": "Estevam Around the World",
+      "view_count": 888,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RkaXI5QCL04",
+      "title": "LATAM Premium Economy Review | LATAM Plus | Worth It? #latam #colombia #travelblogger",
+      "year": 2025,
+      "published_at": "2025-06-20T00:00:37Z",
+      "channel_title": "Touchdown Money Travel",
+      "view_count": 12565,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sgAww7NuE0Y",
+      "title": "LATAM's Brand New 767 Business Class! (Lima - Atlanta Trip Report)",
+      "year": 2025,
+      "published_at": "2025-07-12T11:01:34Z",
+      "channel_title": "Travel At Random",
+      "view_count": 9354,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yBO-Vrf7U1o",
+      "title": "LATAM New Business Class Suites Trip Report",
+      "year": 2025,
+      "published_at": "2025-06-11T16:01:36Z",
+      "channel_title": "iTripReport",
+      "view_count": 53924,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gtEFffyg2WA",
+      "title": "LATAM business class flight review",
+      "year": 2023,
+      "published_at": "2023-06-30T22:56:35Z",
+      "channel_title": "Mitch Shannon",
+      "view_count": 4178,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9ndwJB45FFs",
+      "title": "LATAM Airlines Premium Economy Review | Rio to Buenos Aires ✈️ Was It Worth It?",
+      "year": 2026,
+      "published_at": "2026-01-09T13:43:18Z",
+      "channel_title": "Living Jetsetters",
+      "view_count": 1911,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7lNnx3RLwo0",
+      "title": "LATAM 777-300ER Business Class Trip Report",
+      "year": 2024,
+      "published_at": "2024-10-23T19:19:51Z",
+      "channel_title": "TheDesignAir",
+      "view_count": 32469,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=juPWvbDzuaU",
+      "title": "1-Minute Flight Review (LATAM): Domestic Premium Economy",
+      "year": 2025,
+      "published_at": "2025-08-06T23:01:01Z",
+      "channel_title": "Phlying Doctor",
+      "view_count": 2721,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Iix_8_9p2no",
+      "title": "Qantas Business Class | Boeing 787-9 | Santiago→Sydney (SCL-SYD) Flight & Latam Lounge Review",
+      "year": 2026,
+      "published_at": "2026-06-13T08:00:01Z",
+      "channel_title": "Peggy Snowden Europe",
+      "view_count": 10445,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KxRV-rxb5E0",
+      "title": "LATAM 767 Business Class Review | New York to Lima (JFK–LIM) – Flying South America’s Flag Carrier!",
+      "year": 2025,
+      "published_at": "2025-10-13T01:30:25Z",
+      "channel_title": "Miles to Luxury",
+      "view_count": 2801,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TRV_JDykCvg",
+      "title": "[LATAM] Largest Airline in South America | Boston - São Paulo (GRU) | B787",
+      "year": 2023,
+      "published_at": "2023-09-19T04:00:13Z",
+      "channel_title": "Korean Che — Travel & Flight Review 코리안 체",
+      "view_count": 1091,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xuC2qpwejHc",
+      "title": "Airplane passing by in the opposite direction ✈️ #airport #flight #shorts #travel",
+      "year": 2025,
+      "published_at": "2025-01-17T15:30:23Z",
+      "channel_title": "Beyond Captures",
+      "view_count": 2978,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a320",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=svv-lEtPUY4",
+      "title": "LATAM Boeing 787-9 Flight Review (JFK-GRU) | Centurion Lounge & In-flight Experience",
+      "year": 2023,
+      "published_at": "2023-07-22T00:30:07Z",
+      "channel_title": "Phlying Doctor",
+      "view_count": 10182,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3YzREh-v3po",
+      "title": "NEWYORK TO SANTIAGO : LATAM AIRLINE || BOEING 787 #flight #travel #ytshorts #shorts",
+      "year": 2024,
+      "published_at": "2024-10-17T10:30:02Z",
+      "channel_title": "Hawai_Yatra",
+      "view_count": 979,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.businesstraveller.com/news/top-5-airlines-for-inflight-entertainment-2024/",
+      "title": "The 5 Best Airlines for Inflight Entertainment in 2024 - Business Traveller",
+      "year": 2024,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 13
+        },
+        {
+          "keyword": "ana",
+          "mentions": 7
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 5
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 4
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "content_count": "6,500+",
+        "wifi_type": "Starlink",
+        "controller": "Tablet"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
     }
   ],
-  "last_updated": "2026-06-25T17:11:51.048402"
+  "last_updated": "2026-06-25T17:17:53.387042"
 }
