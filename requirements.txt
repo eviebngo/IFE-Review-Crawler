@@ -4,3 +4,4 @@ flask
 gunicorn
 youtube-transcript-api
 python-dotenv
+anthropic

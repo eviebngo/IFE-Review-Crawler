@@ -134,9 +134,13 @@ tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
 
 .tr-btn{display:inline-flex;align-items:center;gap:4px;padding:3px 8px;border-radius:4px;background:var(--green-bg);color:var(--green);font-size:11px;font-weight:600;cursor:pointer;border:1px solid #9be9a8;user-select:none}
 .tr-btn:hover{background:#c3f0ca}
+.ai-btn{background:#ddf4ff;color:#1f6feb;border-color:#9ecbf5}
+.ai-btn:hover{background:#c0e7ff}
 .tr-none{color:var(--muted);font-size:11px}
 .tr-drawer{display:none;margin-top:6px;border:1px solid var(--border2);border-radius:6px;overflow:hidden}
 .tr-drawer.open{display:block}
+.ai-summary{padding:10px 12px;background:#f6f8ff;border-bottom:1px solid #d0d9f0;font-size:11.5px;line-height:1.65;color:#1a2f5a}
+.ai-label{display:inline-block;font-size:9px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:#1f6feb;background:#ddf4ff;padding:2px 7px;border-radius:3px;margin-bottom:7px;border:1px solid #9ecbf5}
 .tr-exc{padding:8px 10px;font-size:11px;line-height:1.55;color:#7d4e00;background:#fff8e1;border-bottom:1px solid #ffe082}
 .cap-section{padding:6px 10px}
 .cap-hd{font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:5px}
@@ -232,7 +236,7 @@ tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
         <th class="c-air">Airlines</th>
         <th class="c-type">Type</th>
         <th class="c-feat">Features</th>
-        <th class="c-tr">Transcript</th>
+        <th class="c-tr">AI Summary / Transcript</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -517,24 +521,42 @@ function render(d){
 }
 
 function buildTrans(r,n){
-  if(!r.transcript_available) return '<span class="tr-none">No transcript</span>';
+  const hasSummary = !!r.ai_summary;
+  const hasTrans   = r.transcript_available && ((r.captions||[]).length>0 || r.transcript_excerpt);
+  if(!hasSummary && !hasTrans) return '<span class="tr-none">—</span>';
+
   const id='dr'+n;
-  const exc=r.transcript_excerpt?'<div class="tr-exc">'+esc(r.transcript_excerpt)+'</div>':'';
-  // Build base YouTube URL for timestamp links
+
+  // AI summary block
+  const summaryHtml = hasSummary
+    ? '<div class="ai-summary"><div class="ai-label">✦ AI Summary</div>'+esc(r.ai_summary)+'</div>'
+    : '';
+
+  // Transcript excerpt (most IFE-relevant quote)
+  const excHtml = r.transcript_excerpt
+    ? '<div class="tr-exc">'+esc(r.transcript_excerpt)+'</div>'
+    : '';
+
+  // Timestamped IFE quote captions
   const ytBase = (r.url||'').includes('youtube.com/watch?v=')
-    ? r.url.split('&')[0]   // strip existing params except v=
-    : null;
-  const caps=(r.captions||[]).map(c=>{
-    const ts = esc(c.timestamp);
+    ? r.url.split('&')[0] : null;
+  const caps = (r.captions||[]).map(c=>{
+    const ts   = esc(c.timestamp);
     const tsEl = (ytBase && c.start_seconds != null)
       ? '<a class="cap-ts cap-ts-link" href="'+ytBase+'&t='+c.start_seconds+'s" target="_blank" rel="noopener">'+ts+'</a>'
       : '<span class="cap-ts">'+ts+'</span>';
     return '<div class="cap-row">'+tsEl+esc(c.text)+'</div>';
   }).join('');
-  return '<span class="tr-btn" data-dr="'+id+'">▶ Transcript</span>'+
-    '<div class="tr-drawer" id="'+id+'">'+exc+
-    (caps?'<div class="cap-section"><div class="cap-hd">Captions</div>'+caps+'</div>':'')+
-    '</div>';
+  const capsHtml = caps
+    ? '<div class="cap-section"><div class="cap-hd">IFE Quotes (click timestamp to jump)</div>'+caps+'</div>'
+    : '';
+
+  // Button: "✦ AI Summary" if we have one, otherwise "▶ Transcript"
+  const btnCls = hasSummary ? 'tr-btn ai-btn' : 'tr-btn';
+  const btnLbl = hasSummary ? '✦ AI Summary' : '▶ Transcript';
+
+  return '<span class="'+btnCls+'" data-dr="'+id+'">'+btnLbl+'</span>'+
+    '<div class="tr-drawer" id="'+id+'">'+summaryHtml+excHtml+capsHtml+'</div>';
 }
 
 document.addEventListener('click',e=>{

@@ -966,20 +966,51 @@ class IFECrawler:
 
             chosen_idx.sort()  # chronological order for display
 
-            # Excerpt = the single highest-scoring segment (most IFE-relevant quote)
-            best_seg = segs[order[0]] if order else segs[0]
-            best_text = best_seg["text"].strip()
-            excerpt = best_text + ("…" if len(full) > len(best_text) else "")
+            def _is_display_sentence(text: str) -> bool:
+                t = text.strip()
+                if len(t) < 35:
+                    return False
+                # Caption artifacts: [Music], ♪, (applause), >>>, etc.
+                if re.match(r'^[\[\(♪♫►>\s]', t) or re.match(r'^\[.*\]$', t):
+                    return False
+                tl = t.lower()
+                # Must contain at least one IFE-context word
+                ife_ctx = [
+                    "entertainment", "screen", "display", "content", "movie", "music",
+                    "game", "wifi", "wi-fi", "headphone", "seat", "monitor", "channel",
+                    "system", "panasonic", "thales", "rave", "safran", "streaming",
+                    "touchscreen", "quality", "resolution", "4k", "inch", "bluetooth",
+                    "usb", "charging", "class", "flight", "airline", "cabin", "passenger",
+                    "watch", "listen", "connect", "interface", "remote", "audio", "video",
+                    "divertissement", "bordunterhaltung", "écran",
+                    "娱乐", "エンタメ", "엔터테인먼트", "entretenimiento", "entretenimento",
+                ]
+                return any(kw in tl for kw in ife_ctx)
 
+            # Excerpt: highest-scored segment that is display-worthy; else first segment
+            excerpt_text = None
+            for i in order:
+                t = segs[i]["text"].strip()
+                if _is_display_sentence(t):
+                    excerpt_text = t
+                    break
+            if not excerpt_text:
+                excerpt_text = segs[order[0]]["text"].strip() if order else segs[0]["text"].strip()
+            excerpt = excerpt_text + ("…" if len(full) > len(excerpt_text) else "")
+
+            # Captions: only display-worthy sentences (skip fragments/artifacts)
             caps = []
             for i in chosen_idx[:5]:
                 s = segs[i]
+                t = s["text"].strip()
+                if not _is_display_sentence(t):
+                    continue
                 raw = int(s["start"])
                 m, sec = raw // 60, raw % 60
                 caps.append({
                     "timestamp":     f"{m}:{sec:02d}",
                     "start_seconds": raw,
-                    "text":          s["text"].strip(),
+                    "text":          t,
                 })
 
             return True, excerpt, caps, full
