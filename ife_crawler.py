@@ -524,9 +524,10 @@ class IFECrawler:
         "Accept-Language": "en-US,en;q=0.9",
     }
 
-    def __init__(self, verify_ssl: bool = False, api_key: str = ""):
+    def __init__(self, verify_ssl: bool = False, api_key: str = "", openai_key: str = ""):
         self.verify_ssl = verify_ssl
         self.api_key = api_key
+        self.openai_key = openai_key
         self.visited: set = set()
         self.results: List[dict] = []
         self.session = requests.Session()
@@ -914,7 +915,85 @@ class IFECrawler:
         except Exception:
             return None
 
+    @staticmethod
+    def _is_display_sentence(text: str) -> bool:
+        t = text.strip()
+        if len(t) < 35:
+            return False
+        if re.match(r'^[\[\(♪♫►>\s]', t) or re.match(r'^\[.*\]$', t):
+            return False
+        tl = t.lower()
+        ife_ctx = [
+            "entertainment", "screen", "display", "content", "movie", "music",
+            "game", "wifi", "wi-fi", "headphone", "seat", "monitor", "channel",
+            "system", "panasonic", "thales", "rave", "safran", "streaming",
+            "touchscreen", "quality", "resolution", "4k", "inch", "bluetooth",
+            "usb", "charging", "class", "flight", "airline", "cabin", "passenger",
+            "watch", "listen", "connect", "interface", "remote", "audio", "video",
+            "divertissement", "bordunterhaltung", "écran",
+            "娱乐", "エンタメ", "엔터테인먼트", "entretenimiento", "entretenimento",
+        ]
+        return any(kw in tl for kw in ife_ctx)
+
+    @staticmethod
+    def _segs_to_caps(segs: list, score_kws: list):
+        """Convert raw transcript segments to (excerpt, captions, full_text)."""
+        full = " ".join(s["text"] for s in segs)
+
+        def seg_score(idx):
+            chunk = " ".join(
+                segs[j]["text"]
+                for j in range(max(0, idx - 1), min(len(segs), idx + 2))
+            ).lower()
+            return sum(1 for kw in score_kws if kw in chunk)
+
+        order = sorted(range(len(segs)), key=lambda i: -seg_score(i))
+        chosen_idx = []
+        for i in order:
+            if seg_score(i) == 0:
+                break
+            if not any(abs(i - j) < 15 for j in chosen_idx):
+                chosen_idx.append(i)
+            if len(chosen_idx) >= 5:
+                break
+
+        if len(chosen_idx) < 5:
+            step = max(1, len(segs) // 5)
+            for k in range(0, min(len(segs), step * 5), step):
+                if not any(abs(k - j) < 5 for j in chosen_idx) and len(chosen_idx) < 5:
+                    chosen_idx.append(k)
+        chosen_idx.sort()
+
+        is_ok = IFECrawler._is_display_sentence
+        excerpt_text = None
+        for i in order:
+            t = segs[i]["text"].strip()
+            if is_ok(t):
+                excerpt_text = t
+                break
+        if not excerpt_text:
+            excerpt_text = segs[order[0]]["text"].strip() if order else segs[0]["text"].strip()
+        excerpt = excerpt_text + ("…" if len(full) > len(excerpt_text) else "")
+
+        caps = []
+        for i in chosen_idx[:5]:
+            s = segs[i]
+            t = s["text"].strip()
+            if not is_ok(t):
+                continue
+            raw = int(s["start"])
+            m, sec = raw // 60, raw % 60
+            caps.append({"timestamp": f"{m}:{sec:02d}", "start_seconds": raw, "text": t})
+
+        return excerpt, caps, full
+
     def _get_transcript(self, video_id: str):
+        score_kws = (
+            [kw for kws in IFE_FEATURE_KEYWORDS.values() for kw in kws]
+            + [p for patterns in IFE_SYSTEM_PATTERNS.values() for p in patterns]
+        )
+        # ── 1. YouTube transcript API ─────────────────────────────────────────
+        ip_blocked = False
         try:
             api = YouTubeTranscriptApi()
             try:
@@ -924,7 +1003,6 @@ class IFECrawler:
                     "es", "pt", "tr", "it", "ar", "nl", "fi", "no",
                 ])
             except Exception:
-                # Fall back to any available auto-generated transcript
                 tlist = api.list(video_id)
                 auto = next(iter(tlist._generated_transcripts.values()), None)
                 if auto:
@@ -932,91 +1010,60 @@ class IFECrawler:
                 else:
                     raise
             segs = [{"text": s.text, "start": s.start} for s in fetched]
-            if not segs:
+            if segs:
+                excerpt, caps, full = self._segs_to_caps(segs, score_kws)
+                return True, excerpt, caps, full
+        except Exception as e:
+            if "IpBlocked" in type(e).__name__:
+                ip_blocked = True
+
+        # ── 2. Whisper fallback (skipped when IP-blocked — download would fail too) ──
+        if self.openai_key and not ip_blocked:
+            return self._whisper_transcript(video_id, score_kws)
+
+        return False, None, [], ""
+
+    def _whisper_transcript(self, video_id: str, score_kws: list):
+        """Download audio via yt-dlp and transcribe with OpenAI Whisper."""
+        try:
+            import yt_dlp
+            import openai
+            import tempfile
+            import os as _os
+
+            url = f"https://www.youtube.com/watch?v={video_id}"
+            with tempfile.TemporaryDirectory() as tmpdir:
+                ydl_opts = {
+                    "format": "worstaudio/worst",
+                    "outtmpl": _os.path.join(tmpdir, "%(id)s.%(ext)s"),
+                    "quiet": True,
+                    "no_warnings": True,
+                }
+                with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                    ydl.download([url])
+
+                files = _os.listdir(tmpdir)
+                if not files:
+                    return False, None, [], ""
+                audio_path = _os.path.join(tmpdir, files[0])
+
+                if _os.path.getsize(audio_path) > 24 * 1024 * 1024:
+                    return False, None, [], ""
+
+                client = openai.OpenAI(api_key=self.openai_key)
+                with open(audio_path, "rb") as f:
+                    result = client.audio.transcriptions.create(
+                        model="whisper-1",
+                        file=f,
+                        response_format="verbose_json",
+                        timestamp_granularities=["segment"],
+                    )
+
+            if not getattr(result, "segments", None):
                 return False, None, [], ""
-            full = " ".join(s["text"] for s in segs)
 
-            # Keywords used to score each segment for IFE relevance
-            score_kws = (
-                [kw for kws in IFE_FEATURE_KEYWORDS.values() for kw in kws]
-                + [p for patterns in IFE_SYSTEM_PATTERNS.values() for p in patterns]
-            )
-
-            def seg_score(idx):
-                # 3-segment sliding window for context
-                chunk = " ".join(
-                    segs[j]["text"]
-                    for j in range(max(0, idx - 1), min(len(segs), idx + 2))
-                ).lower()
-                return sum(1 for kw in score_kws if kw in chunk)
-
-            # Pick top 5 IFE-relevant segments, spaced at least 15 segments apart
-            order = sorted(range(len(segs)), key=lambda i: -seg_score(i))
-            chosen_idx = []
-            for i in order:
-                if seg_score(i) == 0:
-                    break
-                if not any(abs(i - j) < 15 for j in chosen_idx):
-                    chosen_idx.append(i)
-                if len(chosen_idx) >= 5:
-                    break
-
-            # Fill with evenly-spaced segments if fewer than 5 IFE hits
-            if len(chosen_idx) < 5:
-                step = max(1, len(segs) // 5)
-                for k in range(0, min(len(segs), step * 5), step):
-                    if not any(abs(k - j) < 5 for j in chosen_idx) and len(chosen_idx) < 5:
-                        chosen_idx.append(k)
-
-            chosen_idx.sort()  # chronological order for display
-
-            def _is_display_sentence(text: str) -> bool:
-                t = text.strip()
-                if len(t) < 35:
-                    return False
-                # Caption artifacts: [Music], ♪, (applause), >>>, etc.
-                if re.match(r'^[\[\(♪♫►>\s]', t) or re.match(r'^\[.*\]$', t):
-                    return False
-                tl = t.lower()
-                # Must contain at least one IFE-context word
-                ife_ctx = [
-                    "entertainment", "screen", "display", "content", "movie", "music",
-                    "game", "wifi", "wi-fi", "headphone", "seat", "monitor", "channel",
-                    "system", "panasonic", "thales", "rave", "safran", "streaming",
-                    "touchscreen", "quality", "resolution", "4k", "inch", "bluetooth",
-                    "usb", "charging", "class", "flight", "airline", "cabin", "passenger",
-                    "watch", "listen", "connect", "interface", "remote", "audio", "video",
-                    "divertissement", "bordunterhaltung", "écran",
-                    "娱乐", "エンタメ", "엔터테인먼트", "entretenimiento", "entretenimento",
-                ]
-                return any(kw in tl for kw in ife_ctx)
-
-            # Excerpt: highest-scored segment that is display-worthy; else first segment
-            excerpt_text = None
-            for i in order:
-                t = segs[i]["text"].strip()
-                if _is_display_sentence(t):
-                    excerpt_text = t
-                    break
-            if not excerpt_text:
-                excerpt_text = segs[order[0]]["text"].strip() if order else segs[0]["text"].strip()
-            excerpt = excerpt_text + ("…" if len(full) > len(excerpt_text) else "")
-
-            # Captions: only display-worthy sentences (skip fragments/artifacts)
-            caps = []
-            for i in chosen_idx[:5]:
-                s = segs[i]
-                t = s["text"].strip()
-                if not _is_display_sentence(t):
-                    continue
-                raw = int(s["start"])
-                m, sec = raw // 60, raw % 60
-                caps.append({
-                    "timestamp":     f"{m}:{sec:02d}",
-                    "start_seconds": raw,
-                    "text":          t,
-                })
-
+            segs = [{"text": seg.text, "start": seg.start} for seg in result.segments]
+            excerpt, caps, full = self._segs_to_caps(segs, score_kws)
             return True, excerpt, caps, full
         except Exception:
             return False, None, [], ""

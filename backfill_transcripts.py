@@ -1,15 +1,32 @@
 """
-Retroactively fetches real transcripts for all YouTube videos in the cache
-that currently have no transcript. Tries manual captions first, then
-auto-generated. Updates ife_cache.json in place.
+Retroactively fetches transcripts for all YouTube videos in the cache
+that currently have no transcript.
+
+Strategy (in order):
+  1. youtube-transcript-api (fast, free — manual + auto captions)
+  2. OpenAI Whisper via yt-dlp audio download (covers videos with no captions)
+
+Requires OPENAI_API_KEY in .env for the Whisper fallback.
+Saves a checkpoint every 25 videos.
 """
 import json
+import os
 import sys
 import time
+import tempfile
+from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).parent / ".env")
+except ImportError:
+    pass
+
 from youtube_transcript_api import YouTubeTranscriptApi
+
+OPENAI_KEY = os.environ.get("OPENAI_API_KEY", "")
 
 IFE_KEYWORDS = [
     "ife", "inflight entertainment", "in-flight entertainment",
@@ -29,7 +46,7 @@ def score_seg(text):
     return sum(1 for kw in IFE_KEYWORDS if kw in t)
 
 
-def pick_caps(segs, n=5):
+def segs_to_result(segs, n=5):
     scored = sorted(enumerate(segs), key=lambda x: -score_seg(x[1]["text"]))
     chosen = []
     for i, seg in scored:
@@ -54,7 +71,8 @@ def pick_caps(segs, n=5):
     return caps, excerpt
 
 
-def fetch_segs(api, video_id):
+def fetch_yt_segs(api, video_id):
+    """Try YouTube transcript API (manual → auto-generated → any language)."""
     try:
         fetched = api.fetch(video_id, languages=[
             "en", "en-US", "en-GB",
@@ -64,7 +82,6 @@ def fetch_segs(api, video_id):
         return [{"text": s.text, "start": s.start} for s in fetched]
     except Exception:
         pass
-    # Fall back: try every available transcript (any language, manual or auto-generated)
     try:
         tlist = api.list(video_id)
         for t in sorted(tlist, key=lambda x: x.is_generated):
@@ -79,6 +96,54 @@ def fetch_segs(api, video_id):
     return None
 
 
+def fetch_whisper_segs(video_id):
+    """Download audio with yt-dlp and transcribe with OpenAI Whisper."""
+    if not OPENAI_KEY:
+        return None
+    try:
+        import yt_dlp
+        import openai
+    except ImportError:
+        return None
+
+    try:
+        url = f"https://www.youtube.com/watch?v={video_id}"
+        with tempfile.TemporaryDirectory() as tmpdir:
+            ydl_opts = {
+                "format": "worstaudio/worst",
+                "outtmpl": os.path.join(tmpdir, "%(id)s.%(ext)s"),
+                "quiet": True,
+                "no_warnings": True,
+            }
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                ydl.download([url])
+
+            files = os.listdir(tmpdir)
+            if not files:
+                return None
+            audio_path = os.path.join(tmpdir, files[0])
+
+            if os.path.getsize(audio_path) > 24 * 1024 * 1024:
+                print(f"    audio too large ({os.path.getsize(audio_path)//1024//1024}MB), skipping Whisper")
+                return None
+
+            client = openai.OpenAI(api_key=OPENAI_KEY)
+            with open(audio_path, "rb") as f:
+                result = client.audio.transcriptions.create(
+                    model="whisper-1",
+                    file=f,
+                    response_format="verbose_json",
+                    timestamp_granularities=["segment"],
+                )
+
+        if not getattr(result, "segments", None):
+            return None
+        return [{"text": seg.text, "start": seg.start} for seg in result.segments]
+    except Exception as e:
+        print(f"    Whisper error: {e}")
+        return None
+
+
 def main():
     with open("ife_cache.json", encoding="utf-8") as f:
         data = json.load(f)
@@ -88,36 +153,57 @@ def main():
         r for r in reviews
         if "youtube.com/watch?v=" in r.get("url", "") and not r.get("transcript_available")
     ]
-    print(f"Videos to process: {len(targets)}")
+    print(f"Videos without transcript: {len(targets)}")
+    if OPENAI_KEY:
+        print("Whisper fallback: ENABLED")
+    else:
+        print("Whisper fallback: DISABLED (set OPENAI_API_KEY to enable)")
 
     api = YouTubeTranscriptApi()
-    patched = 0
-    failed = 0
+    yt_ok = yt_fail = whisper_ok = whisper_fail = 0
 
     for idx, r in enumerate(targets, 1):
         vid_id = r["url"].split("watch?v=")[1].split("&")[0]
-        segs = fetch_segs(api, vid_id)
+
+        # 1. YouTube transcript API
+        segs = fetch_yt_segs(api, vid_id)
         if segs:
-            caps, excerpt = pick_caps(segs)
+            caps, excerpt = segs_to_result(segs)
             r["transcript_available"] = True
             r["transcript_excerpt"] = excerpt
             r["captions"] = caps
-            patched += 1
-            print(f"[{idx}/{len(targets)}] OK   {vid_id} ({len(caps)} caps)")
+            yt_ok += 1
+            print(f"[{idx}/{len(targets)}] YT-OK    {vid_id}")
         else:
-            failed += 1
-            print(f"[{idx}/{len(targets)}] FAIL {vid_id}")
-        # Save every 25 videos in case of interruption
+            # 2. Whisper fallback
+            segs = fetch_whisper_segs(vid_id)
+            if segs:
+                caps, excerpt = segs_to_result(segs)
+                r["transcript_available"] = True
+                r["transcript_excerpt"] = excerpt
+                r["captions"] = caps
+                r["transcript_source"] = "whisper"
+                whisper_ok += 1
+                print(f"[{idx}/{len(targets)}] WH-OK    {vid_id}  ({len(caps)} caps via Whisper)")
+            else:
+                whisper_fail += 1
+                yt_fail += 1
+                print(f"[{idx}/{len(targets)}] FAIL     {vid_id}")
+
         if idx % 25 == 0:
             with open("ife_cache.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"  -- checkpoint saved ({patched} patched, {failed} failed so far) --")
-        time.sleep(0.3)
+            print(f"  -- checkpoint: YT={yt_ok} Whisper={whisper_ok} fail={whisper_fail} --")
+
+        time.sleep(0.5)
 
     with open("ife_cache.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"\nDone. Patched: {patched} | Failed: {failed} | Total: {len(targets)}")
+    print(f"\nDone.")
+    print(f"  YouTube captions:  {yt_ok} ok")
+    print(f"  Whisper:           {whisper_ok} ok")
+    print(f"  Still missing:     {whisper_fail}")
 
 
 if __name__ == "__main__":

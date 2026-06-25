@@ -4,3 +4,5 @@ flask
 gunicorn
 youtube-transcript-api
 python-dotenv
+yt-dlp
+openai

@@ -37,7 +37,8 @@ def main():
     before = len(existing)
 
     days_lookback = int(os.environ.get("DAYS_LOOKBACK", "14"))
-    crawler = IFECrawler(verify_ssl=False, api_key=api_key)
+    openai_key = os.environ.get("OPENAI_API_KEY", "")
+    crawler = IFECrawler(verify_ssl=False, api_key=api_key, openai_key=openai_key)
     results = crawler.auto_discover(existing_urls=existing, max_results=2000, days_lookback=days_lookback)
 
     if results:

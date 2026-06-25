@@ -21,6 +21,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch missing transcripts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python backfill_transcripts.py
 
       - name: Save updated cache
