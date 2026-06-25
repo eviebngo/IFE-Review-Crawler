@@ -403,98 +403,82 @@ AUTO_DISCOVERY_QUERIES = [
 ]
 
 YOUTUBE_QUERIES = [
-    # IFE system-specific
+    # ── IFE systems ───────────────────────────────────────────────────────────
+    # (system name is the differentiator — no year needed, date handled by published_after)
     "Panasonic Astrova inflight entertainment review",
     "Panasonic eX3 inflight entertainment review",
     "Thales AVANT inflight entertainment review",
     "Thales AVANT Up inflight entertainment review",
     "Emirates ICE inflight entertainment review",
-    "Safran RAVE IFE review",
-    "Safran RAVE Ultra inflight entertainment",
-    "Safran Passenger Innovations IFE",
-    "SPI RAVE Ultra airline review",
-    "Oryx One Qatar inflight entertainment review",
-    "KrisWorld Singapore Airlines entertainment review",
+    "Safran RAVE Ultra inflight entertainment review",
+    "SPI RAVE inflight entertainment review",
+    "Oryx One inflight entertainment review",
+    "KrisWorld inflight entertainment review",
     "StudioCX Cathay Pacific entertainment review",
     "Collins Venue IFE review",
     "Gogo Avance inflight wifi review",
-    "Anuvu inflight entertainment system review",
-    "Viasat inflight wifi airline speed test",
-    "Inmarsat GX aviation wifi review",
-    # Business/first class
-    "Emirates A380 first class review",
-    "Emirates 777 business class inflight entertainment",
-    "Qatar Airways Qsuite inflight entertainment 2024",
-    "Qatar Airways A350 business class review 2025",
-    "Singapore Airlines business class inflight entertainment review",
-    "Cathay Pacific A350 business class inflight entertainment",
-    "ANA 787 business class inflight entertainment review",
-    "Japan Airlines A350 business class review",
-    "Lufthansa A350 business class inflight entertainment",
-    "British Airways Club World inflight entertainment review",
-    "Turkish Airlines business class inflight entertainment review",
-    "Air France B777 business class RAVE Ultra review",
-    "Virgin Atlantic A350 first class RAVE Ultra review",
-    "Finnair A350 business class inflight entertainment",
-    "Delta One business class inflight entertainment review",
-    "United Polaris inflight entertainment review",
-    "American Airlines business class inflight entertainment",
-    "Etihad A350 business class inflight entertainment",
-    "Korean Air business class inflight entertainment review",
-    "Qantas A380 business class inflight entertainment",
-    "Icelandair inflight entertainment RAVE review",
-    "Air India business class inflight entertainment review",
-    "Oman Air business class inflight entertainment review",
-    # Economy class
-    "Emirates economy class inflight entertainment review",
-    "Qatar Airways economy class inflight entertainment review",
-    "Singapore Airlines economy class inflight entertainment review",
-    "British Airways economy class inflight entertainment review",
-    "Air France economy class inflight entertainment review",
-    "Turkish Airlines economy class inflight entertainment review",
-    "Delta economy class inflight entertainment review",
-    "United economy class inflight entertainment review",
-    "Virgin Atlantic economy class inflight entertainment review",
-    # Premium economy
-    "Emirates premium economy inflight entertainment review",
-    "Qatar Airways premium economy inflight entertainment review",
-    "Air France premium economy inflight entertainment review",
-    "Delta Premium Select inflight entertainment review",
-    "United Premium Plus inflight entertainment review",
-    # Starlink & WiFi
+    "Viasat inflight wifi airline review",
+
+    # ── Airlines ─────────────────────────────────────────────────────────────
+    # One query per airline covers all cabin classes — no need to repeat per class
+    "Emirates inflight entertainment review",
+    "Qatar Airways inflight entertainment review",
+    "Singapore Airlines inflight entertainment review",
+    "Cathay Pacific inflight entertainment review",
+    "ANA inflight entertainment review",
+    "Japan Airlines inflight entertainment review",
+    "Lufthansa inflight entertainment review",
+    "British Airways inflight entertainment review",
+    "Turkish Airlines inflight entertainment review",
+    "Air France inflight entertainment review",
+    "Virgin Atlantic RAVE Ultra inflight entertainment",
+    "Finnair inflight entertainment review",
+    "Delta inflight entertainment review",
+    "United Airlines inflight entertainment review",
+    "American Airlines inflight entertainment review",
+    "Etihad inflight entertainment review",
+    "Korean Air inflight entertainment review",
+    "Qantas inflight entertainment review",
+    "Icelandair RAVE inflight entertainment",
+    "Air India inflight entertainment review",
+    "Oman Air inflight entertainment review",
+
+    # ── WiFi & Starlink ───────────────────────────────────────────────────────
     "Alaska Airlines Starlink wifi review",
     "Delta Starlink inflight wifi review",
     "Air New Zealand Starlink inflight wifi review",
-    "airline inflight wifi speed test 2025",
-    # Aircraft-specific
-    "A380 inflight entertainment seatback review",
-    "A350 inflight entertainment system review",
+    "airline inflight wifi speed test",
+
+    # ── Aircraft ──────────────────────────────────────────────────────────────
+    "A380 inflight entertainment review",
+    "A350 inflight entertainment review",
     "Boeing 787 inflight entertainment review",
     "Boeing 777 inflight entertainment review",
     "A321neo inflight entertainment review",
-    # Industry & awards
-    "best airline inflight entertainment 2024",
-    "best airline inflight entertainment 2025",
+
+    # ── Industry & awards ─────────────────────────────────────────────────────
+    "best airline inflight entertainment award",
     "APEX passenger choice award inflight entertainment",
-    "new inflight entertainment system launch 2025",
-    # General
-    "inflight entertainment IFE review 2024",
-    "inflight entertainment IFE review 2025",
+    "new inflight entertainment system launch",
+
+    # ── General ───────────────────────────────────────────────────────────────
+    "inflight entertainment IFE review",
     "4K inflight entertainment seatback review",
     "OLED inflight entertainment review",
-    # Non-English YouTube searches
-    "Air France business class divertissement bord avis",
-    "Lufthansa Business Class Bordunterhaltung Bewertung",
-    "ANA ビジネスクラス 機内エンターテインメント レビュー",
-    "JAL ビジネスクラス 機内エンターテインメント レビュー",
-    "대한항공 비즈니스 기내 엔터테인먼트 리뷰",
+
+    # ── Non-English ───────────────────────────────────────────────────────────
+    "Air France divertissement bord avis",
+    "Lufthansa Bordunterhaltung Bewertung",
+    "ANA 機内エンターテインメント レビュー",
+    "JAL 機内エンターテインメント レビュー",
+    "대한항공 기내 엔터테인먼트 리뷰",
     "아시아나항공 기내 엔터테인먼트 리뷰",
-    "中华航空 商务舱 机内娱乐 评测",
-    "长荣航空 商务舱 评测",
-    "Iberia clase ejecutiva entretenimiento a bordo",
-    "LATAM clase ejecutiva entretenimiento a bordo reseña",
-    "TAP Air Portugal classe executiva entretenimento bordo",
-    "Turkish Airlines business class inflight entertainment inceleme",
+    "中华航空 机内娱乐 评测",
+    "长荣航空 机内娱乐 评测",
+    "Iberia entretenimiento a bordo reseña",
+    "LATAM entretenimiento a bordo reseña",
+    "TAP Air Portugal entretenimento bordo avaliação",
+    "Turkish Airlines inflight entertainment inceleme",
 ]
 
 # Known trusted source URLs to scrape directly (Tier 1 targets)
