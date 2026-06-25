@@ -75,6 +75,33 @@ IFE_TITLE_KEYWORDS = [
     "inflight wifi review", "airline wifi review", "starlink wifi flight",
     "gogo wifi", "ife award", "passenger choice award",
     "gogo avance", "anuvu", "immfly", "bluebox",
+    # French — Air France, Corsair, Transavia
+    "divertissement à bord", "divertissement en vol", "système de divertissement",
+    "écran siège", "écran de siège", "ife avis", "divertissement bord",
+    "avis vol", "revue vol", "test vol", "classe affaires avis",
+    # German — Lufthansa, Swiss, Austrian
+    "bordunterhaltung", "unterhaltungssystem", "sitzbildschirm",
+    "inflight entertainment test", "inflight entertainment bewertung",
+    "business class bewertung", "erfahrungsbericht flug",
+    # Japanese — ANA, JAL
+    "機内エンターテインメント", "機内エンタメ", "シートモニター",
+    "ビジネスクラス レビュー", "エコノミー レビュー", "機内 レビュー",
+    # Korean — Korean Air, Asiana
+    "기내 엔터테인먼트", "기내 오락", "좌석 모니터", "기내 리뷰",
+    "비즈니스 클래스 리뷰", "대한항공 리뷰", "아시아나 리뷰",
+    # Chinese — China Airlines, Air China, China Eastern, EVA Air
+    "机内娱乐", "机舱娱乐", "座椅屏幕", "影音系统",
+    "機內娛樂", "座椅螢幕", "商務艙評測", "头等舱评测",
+    # Spanish — Iberia, LATAM, Avianca
+    "entretenimiento a bordo", "pantalla del asiento", "sistema de entretenimiento",
+    "clase ejecutiva opinión", "clase turista revisión", "reseña vuelo",
+    # Portuguese — TAP, LATAM Brasil
+    "entretenimento a bordo", "tela do assento", "sistema de entretenimento",
+    "avaliação voo", "classe executiva avaliação", "revisão voo",
+    # Turkish — Turkish Airlines
+    "uçuş eğlence sistemi", "koltuk ekranı", "iş sınıfı inceleme",
+    # Italian — ITA Airways, Neos
+    "intrattenimento a bordo", "schermo del sedile", "business class recensione",
 ]
 
 
@@ -344,6 +371,28 @@ AUTO_DISCOVERY_QUERIES = [
     'new inflight entertainment system airline launch 2025',
     'aircraft interiors expo IFE system 2024',
     'airline wifi Starlink passenger review 2025',
+    # French (Air France, Corsair — both RAVE Ultra operators)
+    '"divertissement à bord" Air France avis',
+    '"divertissement en vol" Air France classe affaires',
+    'Corsair "divertissement bord" avis',
+    # German (Lufthansa, Swiss, Austrian)
+    '"Bordunterhaltung" Lufthansa Test Bewertung',
+    'Lufthansa Business Class "inflight entertainment" Bewertung',
+    # Japanese (ANA, JAL — Panasonic major customer)
+    'ANA 機内エンターテインメント レビュー',
+    'JAL 機内エンターテインメント レビュー',
+    # Korean (Korean Air — RAVE operator)
+    '대한항공 기내 엔터테인먼트 리뷰',
+    # Chinese (China Airlines, Air China, EVA Air)
+    '中华航空 机内娱乐系统 评测',
+    '长荣航空 机内娱乐 评测',
+    # Spanish (Iberia, LATAM — Panasonic/Thales)
+    'Iberia "entretenimiento a bordo" opinión clase',
+    'LATAM "entretenimiento a bordo" revisión',
+    # Portuguese (TAP Air Portugal — Thales)
+    'TAP "entretenimento a bordo" avaliação',
+    # Turkish (Turkish Airlines — Panasonic)
+    'Türk Hava Yolları uçuş inceleme eğlence sistemi',
 ]
 
 YOUTUBE_QUERIES = [
@@ -427,6 +476,21 @@ YOUTUBE_QUERIES = [
     "inflight entertainment IFE review 2025",
     "4K inflight entertainment seatback review",
     "OLED inflight entertainment review",
+    # Non-English YouTube searches (~14 queries = 1,400 units, keeps total under 10K)
+    "Air France business class divertissement bord avis",
+    "Lufthansa Business Class Bordunterhaltung Bewertung",
+    "ANA ビジネスクラス 機内エンターテインメント レビュー",
+    "JAL ビジネスクラス 機内エンターテインメント レビュー",
+    "대한항공 비즈니스 기내 엔터테인먼트 리뷰",
+    "아시아나항공 기내 엔터테인먼트 리뷰",
+    "中华航空 商务舱 机内娱乐 评测",
+    "长荣航空 商务舱 评测",
+    "Iberia clase ejecutiva entretenimiento a bordo",
+    "LATAM clase ejecutiva entretenimiento a bordo reseña",
+    "TAP Air Portugal classe executiva entretenimento bordo",
+    "Turkish Airlines business class inflight entertainment inceleme",
+    "Korean Air RAVE Ultra inflight entertainment review",
+    "Air France RAVE Ultra inflight entertainment review",
 ]
 
 # Known trusted source URLs to scrape directly (Tier 1 targets)
@@ -850,11 +914,19 @@ class IFECrawler:
         try:
             api = YouTubeTranscriptApi()
             try:
-                fetched = api.fetch(video_id, languages=["en", "en-US", "en-GB"])
+                fetched = api.fetch(video_id, languages=[
+                    "en", "en-US", "en-GB",
+                    "fr", "de", "ja", "ko", "zh", "zh-TW", "zh-CN",
+                    "es", "pt", "tr", "it", "ar", "nl", "fi", "no",
+                ])
             except Exception:
-                # Fall back to auto-generated captions (YouTube generates these for most videos)
+                # Fall back to any available auto-generated transcript
                 tlist = api.list(video_id)
-                fetched = tlist.find_generated_transcript(["en"]).fetch()
+                auto = next(iter(tlist._generated_transcripts.values()), None)
+                if auto:
+                    fetched = auto.fetch()
+                else:
+                    raise
             segs = [{"text": s.text, "start": s.start} for s in fetched]
             if not segs:
                 return False, None, [], ""
