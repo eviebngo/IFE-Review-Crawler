@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+flask
+gunicorn
+youtube-transcript-api
+python-dotenv

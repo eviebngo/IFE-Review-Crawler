@@ -1,0 +1,14 @@
+[Unit]
+Description=IFE Crawler Flask App
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/simple_crawler
+EnvironmentFile=/home/ubuntu/simple_crawler/.env
+ExecStart=/home/ubuntu/simple_crawler/.venv/bin/gunicorn --workers 2 --bind 127.0.0.1:5000 app:app
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

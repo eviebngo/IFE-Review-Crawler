@@ -1,0 +1,6516 @@
+{
+  "reviews": [
+    {
+      "url": "https://www.youtube.com/watch?v=ivSAn7IT2Zg",
+      "title": "Introducing ICE: Emirates In-Flight Entertainment System",
+      "year": 2023,
+      "ife_system": "Emirates ICE",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 15
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 10
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "The ICE system on the A380 features a 23-inch widescreen monitor in first class with over 6,500 channels including movies, TV series, music, and games.",
+      "captions": [
+        {
+          "timestamp": "0:42",
+          "text": "So here we have the ICE touchscreen — that stands for Information, Communication, Entertainment.",
+          "start_seconds": 42
+        },
+        {
+          "timestamp": "1:15",
+          "text": "Over 6,500 channels of content available on this flight. The screen is 23 inches with really good resolution.",
+          "start_seconds": 75
+        },
+        {
+          "timestamp": "3:08",
+          "text": "The noise-cancelling headsets they hand out are genuinely decent. Not Bose, but solid.",
+          "start_seconds": 188
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xhxqIofWbvY",
+      "title": "Singapore Airlines KrisWorld Inflight Entertainment System",
+      "year": 2022,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 11
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 9
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "quality": true,
+        "seat": true,
+        "connectivity": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "KrisWorld on the A350 is powered by Panasonic eX3. The 18-inch 1080p screen is responsive and the content library — over 1,800 movies — is one of the largest in the industry.",
+      "captions": [
+        {
+          "timestamp": "0:30",
+          "text": "KrisWorld, Singapore Airlines' own branded IFE, runs on the Panasonic eX3 platform.",
+          "start_seconds": 30
+        },
+        {
+          "timestamp": "2:10",
+          "text": "18-inch touchscreen, very fast response, and USB-A plus USB-C power on every seat.",
+          "start_seconds": 130
+        },
+        {
+          "timestamp": "4:45",
+          "text": "The content depth is exceptional — 1,800 movies, 27 audio channels, and full Bluetooth headphone pairing.",
+          "start_seconds": 285
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fZiaWBQZFKE",
+      "title": "Most Modern Ever? Entertainment System Onboard Lufthansa Airbus A350",
+      "year": 2022,
+      "ife_system": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "777",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "Lufthansa's Thales AVANT system offers a 15.4-inch screen in business class. Touch response is average — the remote handset is more reliable.",
+      "captions": [
+        {
+          "timestamp": "1:00",
+          "text": "The AVANT system here — you've got a 15.4-inch screen, which frankly is on the smaller end for business class in 2022.",
+          "start_seconds": 60
+        },
+        {
+          "timestamp": "2:33",
+          "text": "Touch is a bit laggy. The remote handset on the armrest actually works better.",
+          "start_seconds": 153
+        },
+        {
+          "timestamp": "5:10",
+          "text": "Content library: about 300 movies and a handful of TV shows. Not the deepest catalog.",
+          "start_seconds": 310
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l6HyxzcjAz0",
+      "title": "How's Emirates Doing in 2022? A380 Economy Class Review",
+      "year": 2022,
+      "ife_system": "Emirates ICE",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 13
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 8
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "quality": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "Comparing Emirates ICE to Qatar Oryx One: ICE wins on content volume, Oryx One on screen sharpness and touch responsiveness.",
+      "captions": [
+        {
+          "timestamp": "0:55",
+          "text": "ICE: 6,500+ channels. Oryx One: about 4,000. ICE takes the content volume trophy easily.",
+          "start_seconds": 55
+        },
+        {
+          "timestamp": "3:22",
+          "text": "But touch sensitivity — Qatar's Thales AVANT is much snappier. Emirates lags noticeably.",
+          "start_seconds": 202
+        },
+        {
+          "timestamp": "6:10",
+          "text": "Both have live TV and moving map. Emirates' map is more detailed; Qatar's UI is cleaner.",
+          "start_seconds": 370
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OTZ8vriLMkM",
+      "title": "Qatar Airways Inflight Entertainment System Review — Oryx One on A350",
+      "year": 2023,
+      "ife_system": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 14
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 10
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "Oryx One runs on Thales AVANT with a 17-inch 4K display in business class. Content: 4,000+ options including new releases within 90 days of theatrical.",
+      "captions": [
+        {
+          "timestamp": "0:10",
+          "text": "Oryx One — Qatar's IFE brand — powered by Thales AVANT.",
+          "start_seconds": 10
+        },
+        {
+          "timestamp": "1:44",
+          "text": "17-inch 4K screen in Qsuite. Colors are vivid and the touch response is the fastest I've tested in this category.",
+          "start_seconds": 104
+        },
+        {
+          "timestamp": "4:00",
+          "text": "New movie releases within 90 days of theatrical run. That's significantly faster than most competitors.",
+          "start_seconds": 240
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hwLzO7T5s5A",
+      "title": "ANA All Nippon Airways — Japan Elevated: In-Flight Entertainment",
+      "year": 2022,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 11
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 8
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "ANA's 777 runs the Panasonic eX3 with a 15.4-inch screen in economy. The system boots quickly and the Japanese content catalog is extensive.",
+      "captions": [
+        {
+          "timestamp": "0:22",
+          "text": "Panasonic eX3 here, same platform as Singapore's KrisWorld but with ANA's own content interface.",
+          "start_seconds": 22
+        },
+        {
+          "timestamp": "2:05",
+          "text": "Boot time is about 45 seconds from power-on to main menu. Fast.",
+          "start_seconds": 125
+        },
+        {
+          "timestamp": "5:30",
+          "text": "The Japanese film and TV catalog is the deepest I've seen on any non-Japanese carrier.",
+          "start_seconds": 330
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GTQSqTEflxs",
+      "title": "Turkish Airlines Airbus A350-900 Inflight Entertainment System",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 7
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "PLANET is Turkish Airlines' IFE brand on the 787, built on Panasonic eX3. Offers 350+ movies and an expanding Turkish content section.",
+      "captions": [
+        {
+          "timestamp": "0:35",
+          "text": "PLANET — Turkish Airlines' branding for their Panasonic eX3 system. 16-inch screen in business.",
+          "start_seconds": 35
+        },
+        {
+          "timestamp": "2:50",
+          "text": "350+ movies, solid Turkish TV selection, and a surprisingly large international music library.",
+          "start_seconds": 170
+        },
+        {
+          "timestamp": "6:15",
+          "text": "Wi-Fi connectivity via Ku-band. Speeds were adequate for messaging, not great for streaming.",
+          "start_seconds": 375
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H89Sbjgb-_Q",
+      "title": "Thales InFlyt Entertainment — The AVANT Passenger Experience",
+      "year": 2022,
+      "ife_system": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 7
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "KLM's 787 runs Thales AVANT with a 12-inch economy screen. The UI is clean and Netflix-style browsing makes content discovery easy.",
+      "captions": [
+        {
+          "timestamp": "0:50",
+          "text": "KLM went with Thales AVANT for the 787. 12-inch economy screen — smaller than the competition.",
+          "start_seconds": 50
+        },
+        {
+          "timestamp": "2:40",
+          "text": "The UI is actually really clean. Browsing by genre, mood, or duration makes it easy to find something.",
+          "start_seconds": 160
+        },
+        {
+          "timestamp": "4:55",
+          "text": "USB-A charging only in economy — no USB-C, which is a miss in 2022.",
+          "start_seconds": 295
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TbnSNr5Bm-Y",
+      "title": "Finnair Long-Haul Inflight Entertainment System — Elevated Experience",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 8
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "quality": true,
+        "connectivity": true
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "Finnair's A350 uses Panasonic eX3 with a 13.3-inch economy screen. Strong Nordic content selection; Bluetooth audio pairing available at every seat.",
+      "captions": [
+        {
+          "timestamp": "0:20",
+          "text": "Finnair A350 — Panasonic eX3 platform. 13.3-inch screen in economy, decent size.",
+          "start_seconds": 20
+        },
+        {
+          "timestamp": "2:10",
+          "text": "Bluetooth headphone pairing at every seat — that's still uncommon in economy and really appreciated.",
+          "start_seconds": 130
+        },
+        {
+          "timestamp": "4:40",
+          "text": "Nordic content selection: Finnish, Swedish, Norwegian films and TV. Solid if you're into that.",
+          "start_seconds": 280
+        }
+      ],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z8EoQNsuZ88",
+      "title": "REVIEW: Panasonic Astrova 4K OLED In-Flight Entertainment System feat. Icelandair!",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tRkKmOVUaCI",
+      "title": "All-new in-flight entertainment system in our redesigned long-haul cabin",
+      "year": 2023,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6QkbveoV0Kk",
+      "title": "Etihad Inflight Entertainment | Etihad Airways Airbus A350 Full Tour 2025",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FMHNAsKJE0g",
+      "title": "Emirates In-Flight Entertainment System - ICE",
+      "year": 2023,
+      "ife_system": "Emirates ICE",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mwPvx77Cb20",
+      "title": "How in-flight entertainment works",
+      "year": 2023,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v8JG0IBVOWM",
+      "title": "Air India Airbus A350 Economy IFE - Homepage Overview (Panasonic eX3)",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1oY3oUg7M8M",
+      "title": "It’s amazing when I see an aircraft instantly lift my spirits high #airindia #soul #love #aviation",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tRuBUl5nKOM",
+      "title": "China Airlines Boeing 777 (B-18051) IFE",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rJbErD-m5jo",
+      "title": "B:E Aerospace Diamonds.mp4",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dO9lPFOfmIo",
+      "title": "AI Updates | Air India introduces an All-New inflight entertainment experience on Long-Haul Flights",
+      "year": 2023,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9aTM2ske_SQ",
+      "title": "Take #1: Behind The Scenes | Our In-Flight Entertainment System for AIX 2022",
+      "year": 2022,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KJu_mGia3Gk",
+      "title": "IN-FLIGHT ENTERTAINMENT DELTA AIRLINES | A320-200 First Class Seat | Domestic Flight ATL - OKC",
+      "year": 2023,
+      "ife_system": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=af2udCKIq8k",
+      "title": "In-Flight Entertainment for Delta Airlines Airbus A220-300",
+      "year": 2023,
+      "ife_system": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qsmUgixTZNc",
+      "title": "Innovative Inflight Entertainment System by Etihad Airways Airbus A321-200",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=010EtZS6mUY",
+      "title": "LEVEL Airlines Flight Review: Seats, Entertainment & Food Options!",
+      "year": 2023,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O9g7dfdxnrs",
+      "title": "Thales and Singapore Airlines making each passenger journey unforgettable",
+      "year": 2023,
+      "ife_system": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=X3d_jQhz7dI",
+      "title": "American Airlines’ future fleets of A321XLR and Boeing 787-9 Aircraft to fly with Thales AVANT",
+      "year": 2023,
+      "ife_system": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cnalBM7M69Y",
+      "title": "Beyond the Seatback Screen: An Introduction to Inflight Entertainment (IFE)",
+      "year": 2023,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mR2eRbyeKgo",
+      "title": "Emirates NEW Inflight Entertainment [ICE] Review | Boeing 777-300ER",
+      "year": 2023,
+      "ife_system": "Emirates ICE",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8AD7mGCoCy8",
+      "title": "IFE review - Inflight Entertainment System - Air India (Domestic A320 fleet)",
+      "year": 2023,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VrqbMA_hACk",
+      "title": "The secrets of Inflight Entertainment you never asked about...",
+      "year": 2023,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "ife_specs": {},
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6ftadG5G5-I",
+      "title": "First Look Nok Air’s NEW Inflight Entertainment! | DD550 Bangkok to Nakhon Si Thammarat",
+      "year": 2025,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KMbktmr_54k",
+      "title": "Portable In-flight Entertainment system | inflight movies | aircraft ife | carryon ife system",
+      "year": 2025,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZsHk8_R56wY",
+      "title": "Qantas Inflight Entertainment - Full Overview | Tokyo to Sydney (2026)",
+      "year": 2026,
+      "ife_system": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4lZaP9LLesI",
+      "title": "PXAi #6: The future of Inflight Entertainment (IFE) and Connectivity",
+      "year": 2025,
+      "ife_system": null,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube",
+      "ife_system_inferred": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bAMGtSZwkXI",
+      "title": "The Battle for Best In-Flight Entertainment: 787 vs 777",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air new zealand",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KWucwIy3KJA",
+      "title": "Air Canada Boeing 787-9 Inflight Entertainment",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SU-JipCtbdM",
+      "title": "Boeing 787 Dreamliner - Entertainment System",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=46OhnXuOg20",
+      "title": "😎 Air New Zealand's New 🎬 In-Flight Entertainment On The ✈️ Boeing 787-9 Dreamliner ✨",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air new zealand",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8Nh1LfOHS4g",
+      "title": "Qatar Boeing 787 Economy Flight Review - MAN-DOH",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RJLsSTOqjlQ",
+      "title": "✈ EMIRATES BOEING 777: Good or bad? Ho Chi Minh City-Dubai-Glasgow.  Food, inflight entertainment",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=D3KCfMO8K3o",
+      "title": "In-Flight Entertainment on United Airlines Boeing 777-200 (twin-jet)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GT2vlJWjiEU",
+      "title": "AIR FRANCE Inflight Entertainment System Boeing 777",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qCWDjeyN4SI",
+      "title": "inflight entertainment system on Air Canada's Boeing 777",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://simpleflying.com/singapore-airlines-krisworld-ife-guide/",
+      "title": "KrisWorld: A Complete Guide To Singapore Airlines' Inflight Entertainment System",
+      "year": 2024,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 14
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        },
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FJGgLSeb6Fs",
+      "title": "Finnair A350 In-Flight Entertainment System",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bAMGtSZwkXI",
+      "title": "The Battle for Best In-Flight Entertainment: 787 vs 777",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air new zealand",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KWucwIy3KJA",
+      "title": "Air Canada Boeing 787-9 Inflight Entertainment",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=46OhnXuOg20",
+      "title": "😎 Air New Zealand's New 🎬 In-Flight Entertainment On The ✈️ Boeing 787-9 Dreamliner ✨",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air new zealand",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SU-JipCtbdM",
+      "title": "Boeing 787 Dreamliner - Entertainment System",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RJLsSTOqjlQ",
+      "title": "✈ EMIRATES BOEING 777: Good or bad? Ho Chi Minh City-Dubai-Glasgow.  Food, inflight entertainment",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=D3KCfMO8K3o",
+      "title": "In-Flight Entertainment on United Airlines Boeing 777-200 (twin-jet)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GT2vlJWjiEU",
+      "title": "AIR FRANCE Inflight Entertainment System Boeing 777",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qCWDjeyN4SI",
+      "title": "inflight entertainment system on Air Canada's Boeing 777",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://apex.aero/articles/giving-passengers-choice-is-key-to-sias-new-premium-economy-ife-strategy/",
+      "title": "Giving Passengers Choice is Key to SIA's New Premium Economy IFE Strategy - APEX",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 6
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "air india",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Ku-band",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
+    },
+    {
+      "url": "https://www.flyertalk.com/forum/british-airways-british-airways-club/1926275-new-ife-panasonic-ex3-printerfriendly.html",
+      "title": "FlyerTalk Forums -  New ife?? [Panasonic eX3]",
+      "year": 2026,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://economyclassandbeyond.boardingarea.com/2022/04/12/finnair-selects-panasonic-avionics-for-ife-upgrade/",
+      "title": "Finnair selects Panasonic Avionics for IFE upgrade - Economy Class & Beyond",
+      "year": 2022,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 15
+        },
+        {
+          "keyword": "finnair",
+          "mentions": 14
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a330",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0GYdyctoZ3U",
+      "title": "Emirates ICE Entertainment",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EqQgK3SPUNA",
+      "title": "Inside Emirates Ice: World's Biggest Media Library",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xbG9CaU0hS4",
+      "title": "Emirates ICE: Inflight Entertainment System",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SwCvzko-FAE",
+      "title": "Emirates ICE system",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {
+        "content_count": "4,000+"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QIxroj6R2I0",
+      "title": "Emirates ICE in flight entertainment",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WQNHdCk-4UQ",
+      "title": "Emirates ICE inflight review boeing 737-300 DUS DXB",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=492lhN5jlbA",
+      "title": "Emirates ICE",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://simpleflying.com/airline-worlds-best-ife/",
+      "title": "This Airline Has The World’s Best Inflight Entertainment In 2025",
+      "year": 2025,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 27
+        },
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bsg0AIvyuVo",
+      "title": "A Briefing on Astrova (Short Film)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KNrQhRuQshE",
+      "title": "FlightBlogger & Runway Girl - World Exclusive: Panasonic Unveils Fusion IFE - October 6, 2006",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oT3K9dgWDyY",
+      "title": "Panasonic launches Android-based eX3 in-flight entertainment system",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XupS3YesOcs",
+      "title": "LAN In Flight Entertainment System",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PoSrnxETjJM",
+      "title": "Skyfi Wireless Inflight Entertainment System",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y-Uq55ZIMRI",
+      "title": "Thales Touchscreen and Gesture-based Inflight Entertainment System",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "quality": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BBbaSSJdA1g",
+      "title": "Thales InFlyt Experience™",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6qIkOv68NWk",
+      "title": "Member Spotlight - Thales Inflyt Experience",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7vwhZ-TMzkM",
+      "title": "Thales Inflyt Experience",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BeyjpXYnJEI",
+      "title": "How Airlines are Embracing Content Industry Ecosystems in Inflight Entertainment by Michael Childers",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qhj_r8ogN8A",
+      "title": "Inflight Entertainment System",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=M79qgT_93vY",
+      "title": "Thales InFlyt Experience: when the dream comes true",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yVxl4XzoX28",
+      "title": "Inflight Entertainment System in Emirates New Features",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=o6mHPJK67D0",
+      "title": "Fly Better with Emirates Inflight Entertainment   Emirates Airline",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L7L_4kpo16I",
+      "title": "Emirates In-flight Entertainment and Information - ICE  …. VERY COOL",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S7jy2zNe4fo",
+      "title": "Inflight Entertainment",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=elV6kWe3aac",
+      "title": "Bluetooth pairing on the Safran RAVE Ultra inflight entertainment system",
+      "year": 2025,
+      "ife_system": "Safran RAVE Ultra",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zyCf08Faehg",
+      "title": "EP11: a new generation of aircraft's seats and In-Flight Entertainment | Safran",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BSCxv8SOdW0",
+      "title": "airliners.de: The IMS Company RAVE Inflight Entertainment",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7bpYk4uAcWM",
+      "title": "AdonisOne Inflight Entertainment System Demo",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qIqmxrWE1_w",
+      "title": "Crystal Cabin Award 2020/2021: Finalists \"Inflight Entertainment & Connectivity\"",
+      "year": 2020,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IYN2pF1qvPk",
+      "title": "New Delta Studio Seatback Entertainment System Overview IFE",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j56VtSc-2uY",
+      "title": "IFE System for Economy Class",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QhOnPUjzpts",
+      "title": "Lumexis reveals its third generation IFE system",
+      "year": 2025,
+      "ife_system": "Lumexis FTTS",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ESXiVUN3hR0",
+      "title": "(FRITS #68) Starlux Airlines Economy Class Flight Experience: JX12 Taipei TPE to San Francisco",
+      "year": 2025,
+      "ife_system": "Safran RAVE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DP2dwaya1MI",
+      "title": "Fly better with Emirates inflight Entertainment",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZAbGm8JWRNw",
+      "title": "(FRITS #67) Starlux Airlines Economy Class Flight Experience: JX772 Singapore SIN to Taipei TPE",
+      "year": 2025,
+      "ife_system": "Safran RAVE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6XtWuyZsRSk",
+      "title": "InFlight Entertainment System Aircraft Testing",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-16l8AU__VU",
+      "title": "The Evolution of Inflight Entertainment",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_4I38mr_NBs",
+      "title": "Candela LANforge Inflight Entertainment Test Demo",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x8wWSss8f5Y",
+      "title": "Give your airline passengers live content to improve inflight entertainment",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9FZxrrb0M4w",
+      "title": "Safran Passenger Innovations reveals accessible IFE solution",
+      "year": 2024,
+      "ife_system": "Safran RAVE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yLXLBhihaU4",
+      "title": "QATAR ORYX ONE INFLIGHT ENTERTAINMENT REVIEW",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MkEX9DZxAfs",
+      "title": "Qatar Airways' Qsuite Oryx IFE (in-flight entertainment), Explained",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O0a0XI7a6y4",
+      "title": "Qatar airways inflight entertainment Kids TV",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ki6T85tw9JE",
+      "title": "Erfahrungsbericht: Qatar Oryx One Inflight Entertainment im Airbus A350",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Yquz9sS0Zs0",
+      "title": "Qatar Airways in flight entertainment",
+      "year": 2022,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "quality": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iXH5st8rTaA",
+      "title": "Qatar Airways Inflight Entertainment: A review of Movies and Seatmate Etiquette.",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NFArAj67Ubo",
+      "title": "Qatar airways inflight entertainment TV",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=afX2XmI1S6s",
+      "title": "Qatar Airways - Oryx One - Time4Travel",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4Ik8PGoh0PY",
+      "title": "KrisWorld: Award-Winning Inflight Entertainment | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gVH5Tvd8DZs",
+      "title": "KrisWorld Inflight Entertainment System | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oSpENGcKxQ8",
+      "title": "KrisWorld Inflight Entertainment: A380 | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v7aPu8z4u3o",
+      "title": "Catch the latest movies and shows on KrisWorld this June | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qStUrF2LGAE",
+      "title": "Personalise your KrisWorld experience | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QDc_zKZTVTY",
+      "title": "Staying Entertained on Your Flight With KrisWorld | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-VlPh0smEiI",
+      "title": "Next Generation KrisWorld Entertainment System | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oAAFLvAPMUI",
+      "title": "Singapore Airlines KrisWorld Wisemen Trailer Inflight Entertainment System",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=drs29BZsgMI",
+      "title": "Singapore Airlines new Krisworld entertainment system",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RUxYUcuLoso",
+      "title": "KrisWorld, starring Super Mario | Heritage | Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WNHP3sVu088",
+      "title": "cabin entertainment | aircraft IFE | aircraft ife system | aircraft internet | AdonisOne",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4WG_yBi0PNI",
+      "title": "Android forms basis of Thales IFEC",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ASV6VkknD9s",
+      "title": "Emirates Airbus A380 in flight Entertainment system",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dS9TmJkTz-4",
+      "title": "Emirates ICE TV - New Movies v2",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aevOyTVpG8s",
+      "title": "New inflight entertainment concept",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nBT1UVDow0w",
+      "title": "ORYX ONE by Qatar Airways October 2021",
+      "year": 2021,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FWPod2QMnig",
+      "title": "Oryx Inflight Entertainment System on Qatar Airways (Business Class)",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YDCDPq6TI2Q",
+      "title": "Singapore Airlines Flight Review ✈️ | Luxury Seats, Food, Entertainment & More!",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-3EzlAaZLY8",
+      "title": "CX In-Flight Entertainment Sting 2018. Music by: Pete Millward",
+      "year": 2025,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=doAeUEbaVSs",
+      "title": "Cathay Pacific's CX Studio (Inflight entertainment)",
+      "year": 2025,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9rGd1Aq0nJs",
+      "title": "Feel more with 4 times more inflight entertainment to move you",
+      "year": 2025,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0gtWXVKBJNQ",
+      "title": "Cathay Pacific - In flight entertainment",
+      "year": 2025,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zeCphtjSgtg",
+      "title": "The Complete Emirates A380 First Class Review",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zWq-2Egaq3o",
+      "title": "My Complete Emirates A380 First Class Review",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=agNb8T_6z-s",
+      "title": "Emirates New Business Class on Boeing 777-300ER from Dubai to Tokyo (Full Flight Review)",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8NHJTTR1_34",
+      "title": "World's Best Business Class, Qatar Airways Qsuite | Doha to Singapore | Flight Review",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B8Y6pQgPzIQ",
+      "title": "10 Hours in Singapore Airlines BUSINESS Class – Ultimate A350 Review!",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6jHckfoz4P8",
+      "title": "Singapore Airlines A350 Business Class Review | Brussels–Singapore 4K (Amazing Flight!)",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UUKLVHWE0JE",
+      "title": "CATHAY PACIFIC Business Class Airbus 350 (A350) / B777-300 Full Review",
+      "year": 2025,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V9RpDA9Q2Xo",
+      "title": "ANA - All Nippon - Business Class and Economy on the 787",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tCMCuIA6eT8",
+      "title": "ANA 787 Business Class Review (2026) | Hanoi to Tokyo 🇯🇵 | Is This Japan’s BEST Business Class?",
+      "year": 2026,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6N6om-rLWio",
+      "title": "ANA Business Class Review | Boeing 787-9 Dreamliner | Haneda",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B0uSrbpu0CE",
+      "title": "ANA Business Class Flight Review | What’s It Like Onboard Japan’s Largest Airline",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rlJHXzP23Is",
+      "title": "All Nippon Airways Business Class Review - ANA - Boeing 787-9 - Tokyo (HND) to Sydney (SYD)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iKcRvKVNaI8",
+      "title": "ANA 787 Business Class Review Tokyo HND to LAX",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sd3xdm7lixQ",
+      "title": "JAL A350-1000 Business Class Review: DFW to Tokyo Haneda - The Ultimate Flight Experience",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fJn3tOPscS8",
+      "title": "Japan Airlines Business Class Review",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GQStewr5bR8",
+      "title": "Japan Airlines Business Class | Tokyo to New York on the BRAND NEW A350-1000",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NANXv_9YOUQ",
+      "title": "Lufthansa A350 Business Class Review: Chicago to Munich Experience",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AuYgrJm4EPY",
+      "title": "Britain’s Best or NATIONAL DISGRACE? British Airways CLUB WORLD BUSINESS CLASS Review",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=n8OYrhsUAzQ",
+      "title": "Business Class In-Flight Entertainment - Turkish Airlines",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v_FWEa-H-TU",
+      "title": "Turkish Airlines - Economy Class InFlight Entertainment - Movies-Music-Games-Free WiFi-TV Programs",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true,
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qBcI1HMO5Rg",
+      "title": "Turkish Airlines - Business Class Flight Review | Inflight Meal Service",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=N-lqE6k0AVQ",
+      "title": "Air France Business Class Flight Review on an Airbus A350-900",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KBJCGjO4e3E",
+      "title": "11 HOURS in AIR FRANCE BUSINESS CLASS! San Francisco to Paris: TRIP REPORT & FLIGHT REVIEW",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eTmtTmeAS80",
+      "title": "Finnair A350: My Surprising Business Class Experience",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1PKeq2EA43s",
+      "title": "Finnair A350 Business Class Review | Helsinki to Hong Kong | Unique Seat + Stunning Views",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_WqcPmK7zDE",
+      "title": "Finnair's FLAGSHIP Airbus A350 XWB: Business Class review!",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y_KaeOSAY_4",
+      "title": "Delta One Business Class Review | A330neo from New York to Amsterdam | Red-eye Flight",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jq4sOrg2tyI",
+      "title": "DELTA ONE from Europe to Atlanta! ✨ ✈️  🇪🇸 to 🇺🇸 (A330-300 Business Class Review)",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9QjuZe5KiU0",
+      "title": "Is Delta One on the A330 Worth It? Delta Business Class Review — Honest Rating from a 10-Year-Old",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2-T4wA7ZqzA",
+      "title": "Delta One Business Class Review! (Boeing 767-300)",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uBH_jlxU20w",
+      "title": "Brutally Honest Delta One Full Flight Review A350 (SLC To ICN)",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IoZzEYUcDOk",
+      "title": "United Business (Polaris) Class Flight Review: SFO to ICN. Boeing 787-9",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wWRqTzV0uH4",
+      "title": "United Airlines Polaris 777-300ER Business Class Review San Francisco-Newark",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QhIhsmuEZMA",
+      "title": "Why American Airlines Doesn’t Want Seatback Screens Anymore",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=22mSZAFs3mk",
+      "title": "American Airlines InFlight Entertainment",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PfzwZuMWEDY",
+      "title": "American Airlines Inflight Entertainment & Food Drink Options (HD)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H3uuiFzeU8E",
+      "title": "American Airlines 787 Inflight Entertainment",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f9GkbAnz8-g",
+      "title": "Etihad Airways Business Class on the New Airbus A350-1000 | Abu Dhabi to Tokyo | Flight Review",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t7H7m-iTrI0",
+      "title": "Air Canada Business Class Executive Pod In-Flight Entertainment",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ipitkWzyZfo",
+      "title": "InFlight Review - Air Canada Non-Stop to Melbourne in Business Class",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FAheSb5tcTE",
+      "title": "Flying Business Class from SEA to ICN South Korea on Hawaiian Airlines Leihoku Suite (Flight Review)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oFGHocIeA6M",
+      "title": "KOREAN AIR 747-8 Economy Class Review | Singapore to Seoul | Trip Report ✈️",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0iIjr0zkk7g",
+      "title": "Korean Air Business Class 777",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=z1EHa6faykI",
+      "title": "EVA Air Business Class 787-9 Review · Munich - Taipei",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aarWZxm3exM",
+      "title": "EVA Air - 787 Business Class Review - Part 1 - ICN to TPE",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ISfxofFVutQ",
+      "title": "Best Airlines in Asia | FLIGHT REVIEW - EVA AIR  TPE-PVG | Business class | Premium Lounge",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8Cc2AeMu3kw",
+      "title": "NEW Qantas A380 Business Class review - Los Angeles to Sydney",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vFVDr6NStE8",
+      "title": "Qantas A380 Business Class Review 2026 | Sydney to Singapore",
+      "year": 2026,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qMZimGv-dM4",
+      "title": "17 HOURS ON THE QANTAS A380 Business Class Review from Dallas to Sydney",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7czaG1_6h6o",
+      "title": "Qantas A380 Inflight Entertainment (IFE)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jWrwP_vhX5g",
+      "title": "Qantas A380 Business Class QF 2 Singapore to Sydney",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l_0r-_-obC8",
+      "title": "15 Hours in Qantas A380 Business Class | LAX to SYD Flight Review",
+      "year": 2023,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_58fx45MXEY",
+      "title": "Flight Review ATL-MAN Virgin Atlantic Business Class (Upper Class) A330-300 - 3.6 STARS FLIGHT",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wyQ6oYCe4uA",
+      "title": "SWISS A330 Business Class Review",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C5BnwyAdR-o",
+      "title": "SWISS Business Class Review – Beautiful, but Outdated?",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cTVtHQvjJd0",
+      "title": "Icelandair Flight Review- May 2025",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7gtNEpPY5fA",
+      "title": "Your Home in the Air - In-flight entertainment",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=14acWP7Pw3A",
+      "title": "Verify: Is that a camera on your seatback TV screen?",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wbPHPy35Nbg",
+      "title": "A380 inflight entertainment",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4K4s1tL3Iow",
+      "title": "Airbus A380 taking off footage / filmed from the in-flight entertainment (IFE) system screen",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vg0s3MtQZEk",
+      "title": "New Delta Airlines In-Flight Seat Back Entertainment System",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oT9GeuM3Er4",
+      "title": "Travel Hacks For Free In-Flight Entertainment!",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_DXo-TXCU6s",
+      "title": "Singapore Airlines A380 Economy Class Review: SQ222 Sydney - Singapore | Inflight Meals & Experience",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8SWe4--wtgk",
+      "title": "Deploying the in-flight entertainment video screen on my front row business class seat",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Sa5zoePTlUM",
+      "title": "Inflight Entertainment Singapore Airlines",
+      "year": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fJwvGRSJ1GE",
+      "title": "Flight Review: Emirates Airbus A380 Manchester (MAN) to Dubai (DXB) QF8018 (Economy) 16 August 2015",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qu7Luq6UAxg",
+      "title": "A350 IFE: Finnair's Nordic Sky In-Flight Entertainment System",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EV4o4Pw43yE",
+      "title": "Air India A350 In-Flight Entertainment System - Maps Overview (VT-JRA)",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "air india",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6meQtMKYbFo",
+      "title": "Flying Air France's Airbus A350-900 in ECONOMY",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cX9-FcC5Tsk",
+      "title": "Air China In-flight entertainment system, Airbus A350-900",
+      "year": 2024,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_qKNLIZX6RI",
+      "title": "TUI Dreamliner Inflight Entertainment Screen Guide",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_TjjYP3h0fQ",
+      "title": "TUI DREAMLINER - INFLIGHT ENTERTAINMENT SYSTEM - GATWICK - ORLANDO",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=z1hb65O2gxE",
+      "title": "Flight Review THOMSON Boeing 787 Dreamliner Economy Class -  Copenhagen to Dominican Republic",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=s9-9q9RL0mg",
+      "title": "Inflight Entertainment System Boeing 787-8 Dreamliner China Southern Airlines",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china southern",
+          "mentions": 2
+        },
+        {
+          "keyword": "thai airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8THsurycQtY",
+      "title": "Inflight Entertainment Boeing 787 Dreamliner",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Qqektzc1YwM",
+      "title": "Flight Review QATAR AIRWAYS Boeing 787 Dreamliner Economy Class - Copenhagen to Doha Long-haul",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ac4TNKkhoT4",
+      "title": "Review In flight Entertainment on Emirates Boeing 777-300ER",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LTsWWlYkpiE",
+      "title": "Inflight Entertainment Overview - Air India Boeing 777-300ER",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UGXGdYHOvHM",
+      "title": "Inflight Entertainment American Airlines Boeing 777-300ER",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vYWr5XggROs",
+      "title": "777-300ER British Airways Inflight Entertainment and Inflight Maps System",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sGbCLiT3zhI",
+      "title": "Virgin In flight Entertainment 2024",
+      "year": 2024,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H_1wREKf3fY",
+      "title": "IFE Inflight Entertainment System Overview KQ Kenya Airways Dreamliner 787",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wATV3klDJNM",
+      "title": "Friendlier Skies - Inflight Entertainment System Design for United Airlines",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Buh_rAY888Y",
+      "title": "United’s latest jets will offer Bluetooth for in-flight entertainment",
+      "year": 2021,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4YcbFl4LECw",
+      "title": "The best way to cross the Atlantic? | SAS Business Class Review | A330 | Miami-Copenhagen",
+      "year": 2025,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xB71bJ7X_ZA",
+      "title": "THE BEST ROBLOX IN FLIGHT ENTERTAINMENT [KLM Flight Review]",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aBMMF31u0TU",
+      "title": "Singapore Airlines Economy Class Review | Still The Best In 2026?",
+      "year": 2026,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qioxLkPrAbY",
+      "title": "Flying to BAGHDAD in 2026! Oman Air Boeing 737-MAX Business Class | Flight Review",
+      "year": 2026,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Aa76DHBwsI0",
+      "title": "FLIGHT REVIEW Starlink WI-FI  on Qatar Airways A320 777-300ER Abu Dhabi to London Heathrow via Doha",
+      "year": 2025,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a320",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hRePz4bte_A",
+      "title": "Iberia Airways In Flight Entertainment",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=17tsd5s91Fs",
+      "title": "Delta’s Next Gen In-flight Entertainment System",
+      "year": 2025,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cz_QWUI9suw",
+      "title": "Aer Lingus Economy Class Flight Review (Orlando to Manchester)",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CJKbeBas3K4",
+      "title": "Alaska Airline Economy Class Review - Watch Before Using",
+      "year": 2025,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Zf8bRGOJ_F4",
+      "title": "Emirates Airlines Economy Class Seat Screen | In-Flight Entertainment Experience",
+      "year": 2025,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://simpleflying.com/new-ife-system-emirates-passengers-raving-about/",
+      "title": "The New Inflight Entertainment System That Emirates Passengers Are Raving About",
+      "year": 2026,
+      "ife_system": "Thales AVANT Up",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 24
+        },
+        {
+          "keyword": "ana",
+          "mentions": 6
+        },
+        {
+          "keyword": "level",
+          "mentions": 4
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 13
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "content_count": "6,500+",
+        "wifi_type": "Wi-Fi",
+        "controller": "Handheld remote"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
+    },
+    {
+      "url": "https://onemileatatime.com/guides/best-inflight-entertainment/",
+      "title": "Which Airlines Have The Best Inflight Entertainment? Here Are My Picks - One Mile at a Time",
+      "year": 2026,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 21
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 13
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 13
+        },
+        {
+          "keyword": "delta",
+          "mentions": 11
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 16
+        },
+        {
+          "keyword": "a350",
+          "mentions": 15
+        },
+        {
+          "keyword": "a321",
+          "mentions": 8
+        },
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
+    },
+    {
+      "url": "https://economyclassandbeyond.boardingarea.com/2024/02/23/air-india-selects-thales-avant-ife-system-for-its-long-haul-fleet/",
+      "title": "Air India selects Thales AVANT IFE System for its long haul fleet - Economy Class & Beyond",
+      "year": 2024,
+      "ife_system": "Thales AVANT Up",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 14
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "thai airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
+    }
+  ],
+  "last_updated": "2026-06-25T09:35:00.831962"
+}

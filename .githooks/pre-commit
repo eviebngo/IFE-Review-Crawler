@@ -1,0 +1,6 @@
+#!/bin/sh
+# Pre-commit hook that applies allowed updates from `updates/` and stages them.
+# Enable hooks with: `git config core.hooksPath .githooks`
+
+python3 hooks/auto_apply.py --apply --stage || true
+exit 0
