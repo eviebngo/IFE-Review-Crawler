@@ -333,6 +333,9 @@ KNOWN_IFE_CHANNELS: dict = {
     "Eric Struk":               "UCDv-Fv9bAt-1bU9EBOnqHvw",  # verified ✓
     "Dennis Bunnik":            "UCQrk97MBH6DToctKRfQJcNQ",  # verified ✓ (DennisBunnik Travels)
     "iTripReport":              "UCujsRp13yioFAhhHZcEgkYw",  # verified ✓
+    "Jayden Wong":              "UChH-Hz5BxUKDA0olzqcAGpw",  # verified ✓
+    "RoryDing Travels":         "UClLxsJJL11SLXwh4C8I3sWQ",  # verified ✓
+    "First Travel":             "UCQRRH7H30Z_kSKW4TsPuKew",  # verified ✓
 }
 
 

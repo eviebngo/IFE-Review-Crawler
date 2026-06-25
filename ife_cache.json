@@ -425,9 +425,35 @@
         "entertainment_system": true,
         "quality": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "in-flight entertainment system. They now",
+      "captions": [
+        {
+          "timestamp": "0:57",
+          "start_seconds": 57,
+          "text": "in-flight entertainment system. They now"
+        },
+        {
+          "timestamp": "2:48",
+          "start_seconds": 168,
+          "text": "just limit the in-flight entertainment"
+        },
+        {
+          "timestamp": "11:49",
+          "start_seconds": 709,
+          "text": "inflight entertainment systems. Uh this"
+        },
+        {
+          "timestamp": "14:22",
+          "start_seconds": 862,
+          "text": "in-flight entertainment system. It just"
+        },
+        {
+          "timestamp": "19:24",
+          "start_seconds": 1164,
+          "text": "inflight entertainment systems that I"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -523,9 +549,35 @@
         "entertainment_system": true,
         "seat": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "in-flight entertainment or ife",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "in-flight entertainment or ife"
+        },
+        {
+          "timestamp": "0:47",
+          "start_seconds": 47,
+          "text": "while in-flight entertainment might feel"
+        },
+        {
+          "timestamp": "3:16",
+          "start_seconds": 196,
+          "text": "aircraft cabin with ife screens can"
+        },
+        {
+          "timestamp": "3:52",
+          "start_seconds": 232,
+          "text": "in-flight movies are divided into early"
+        },
+        {
+          "timestamp": "4:38",
+          "start_seconds": 278,
+          "text": "for other movies airlines could just"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -673,9 +725,15 @@
       "airlines_mentioned": [],
       "aircraft_mentioned": [],
       "ife_features": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "[Music]",
+      "captions": [
+        {
+          "timestamp": "0:03",
+          "start_seconds": 3,
+          "text": "[Music]"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -717,9 +775,20 @@
         "entertainment_system": true,
         "seat": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "[Music]",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "[Music]"
+        },
+        {
+          "timestamp": "1:34",
+          "start_seconds": 94,
+          "text": "you"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -747,9 +816,35 @@
         "entertainment_system": true,
         "content": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "C speak like woke me for to flight 7:35",
+      "captions": [
+        {
+          "timestamp": "0:15",
+          "start_seconds": 15,
+          "text": "C speak like woke me for to flight 7:35"
+        },
+        {
+          "timestamp": "0:30",
+          "start_seconds": 30,
+          "text": "possible 4 hours 3 minutes wheels up to"
+        },
+        {
+          "timestamp": "0:43",
+          "start_seconds": 43,
+          "text": "here in a couple minutes glad to have"
+        },
+        {
+          "timestamp": "1:16",
+          "start_seconds": 76,
+          "text": "either underneath a seat in front of you"
+        },
+        {
+          "timestamp": "1:42",
+          "start_seconds": 102,
+          "text": "please contact the flight attendant for"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -800,9 +895,35 @@
         "entertainment_system": true,
         "seat": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "their seat back entertainment the",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "this is level Airlines and I'm going to"
+        },
+        {
+          "timestamp": "0:24",
+          "start_seconds": 24,
+          "text": "their seat back entertainment the"
+        },
+        {
+          "timestamp": "0:47",
+          "start_seconds": 47,
+          "text": "tight the seats left little leg room as"
+        },
+        {
+          "timestamp": "0:57",
+          "start_seconds": 57,
+          "text": "problem this flight however was a"
+        },
+        {
+          "timestamp": "1:22",
+          "start_seconds": 82,
+          "text": "Airlines have you been on if you have"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -865,9 +986,15 @@
         }
       ],
       "ife_features": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "[Music]",
+      "captions": [
+        {
+          "timestamp": "0:01",
+          "start_seconds": 1,
+          "text": "[Music]"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -886,9 +1013,35 @@
         "quality": true,
         "seat": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "of inflight entertainment systems and",
+      "captions": [
+        {
+          "timestamp": "0:25",
+          "start_seconds": 25,
+          "text": "listen to music on the seatback screen"
+        },
+        {
+          "timestamp": "1:10",
+          "start_seconds": 70,
+          "text": "of inflight entertainment systems and"
+        },
+        {
+          "timestamp": "4:33",
+          "start_seconds": 273,
+          "text": "inflight movies with the same new"
+        },
+        {
+          "timestamp": "5:22",
+          "start_seconds": 322,
+          "text": "individual seatback screens in the late"
+        },
+        {
+          "timestamp": "11:50",
+          "start_seconds": 710,
+          "text": "Wi-Fi or an in-flight entertainment"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -941,9 +1094,25 @@
       "ife_features": {
         "entertainment_system": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "In this video I will show you the details of the Inflight Entertainment System",
+      "captions": [
+        {
+          "timestamp": "0:13",
+          "start_seconds": 13,
+          "text": "In this video I will show you the details of the Inflight Entertainment System"
+        },
+        {
+          "timestamp": "0:52",
+          "start_seconds": 52,
+          "text": "The on screen touch controls give you an option of changing channels, volume and the brightness of the screen."
+        },
+        {
+          "timestamp": "1:52",
+          "start_seconds": 112,
+          "text": "just how they have on their long haul Boeing aircrafts"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -960,9 +1129,35 @@
       "ife_features": {
         "content": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "buy their movies and TV shows from and",
+      "captions": [
+        {
+          "timestamp": "0:25",
+          "start_seconds": 25,
+          "text": "infolet entertainment system is even"
+        },
+        {
+          "timestamp": "0:50",
+          "start_seconds": 50,
+          "text": "find on influence Entertainment Systems"
+        },
+        {
+          "timestamp": "1:17",
+          "start_seconds": 77,
+          "text": "buy their movies and TV shows from and"
+        },
+        {
+          "timestamp": "2:37",
+          "start_seconds": 157,
+          "text": "the movies in TV shows from the studios"
+        },
+        {
+          "timestamp": "14:12",
+          "start_seconds": 852,
+          "text": "inflight entertainment industry um but"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -980,9 +1175,35 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "Heat.",
+      "captions": [
+        {
+          "timestamp": "0:16",
+          "start_seconds": 16,
+          "text": "Heat."
+        },
+        {
+          "timestamp": "4:17",
+          "start_seconds": 257,
+          "text": "Heat. Heat."
+        },
+        {
+          "timestamp": "6:59",
+          "start_seconds": 419,
+          "text": "Heat. Heat."
+        },
+        {
+          "timestamp": "12:07",
+          "start_seconds": 727,
+          "text": "restor."
+        },
+        {
+          "timestamp": "12:41",
+          "start_seconds": 761,
+          "text": "Really?"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube",
       "ife_system_inferred": false
@@ -1001,9 +1222,15 @@
         "connectivity": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "[Music]",
+      "captions": [
+        {
+          "timestamp": "0:01",
+          "start_seconds": 1,
+          "text": "[Music]"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube",
       "ife_system_inferred": false
@@ -1045,9 +1272,35 @@
         "connectivity": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "world of inflight entertainment and",
+      "captions": [
+        {
+          "timestamp": "0:05",
+          "start_seconds": 5,
+          "text": "world of inflight entertainment and"
+        },
+        {
+          "timestamp": "0:54",
+          "start_seconds": 54,
+          "text": "Airlines however they come with higher"
+        },
+        {
+          "timestamp": "1:17",
+          "start_seconds": 77,
+          "text": "initiatives in between we have"
+        },
+        {
+          "timestamp": "1:40",
+          "start_seconds": 100,
+          "text": "powered Wi-Fi if systems depends on your"
+        },
+        {
+          "timestamp": "2:07",
+          "start_seconds": 127,
+          "text": "entertainment and connectivity ask PX"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube",
       "ife_system_inferred": false
@@ -1087,9 +1340,25 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "Round two, in-flight entertainment and",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "Round two, in-flight entertainment and"
+        },
+        {
+          "timestamp": "0:17",
+          "start_seconds": 17,
+          "text": "blanket, a bottle of water, and a high"
+        },
+        {
+          "timestamp": "0:45",
+          "start_seconds": 45,
+          "text": "AC power outlet and a USBA port at every"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube"
     },
@@ -1230,9 +1499,35 @@
       ],
       "ife_features": {},
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "these inflight entertainment the camera",
+      "captions": [
+        {
+          "timestamp": "0:06",
+          "start_seconds": 6,
+          "text": "endless Adventures today we travel to"
+        },
+        {
+          "timestamp": "0:42",
+          "start_seconds": 42,
+          "text": "first class but the economy was all with"
+        },
+        {
+          "timestamp": "2:37",
+          "start_seconds": 157,
+          "text": "the cabin to our seats in row 18 the 787"
+        },
+        {
+          "timestamp": "3:24",
+          "start_seconds": 204,
+          "text": "Flight down in the seat back pocket we"
+        },
+        {
+          "timestamp": "4:54",
+          "start_seconds": 294,
+          "text": "these inflight entertainment the camera"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube"
     },
@@ -1261,9 +1556,35 @@
       ],
       "ife_features": {},
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "in flight entertainment was not bad",
+      "captions": [
+        {
+          "timestamp": "0:09",
+          "start_seconds": 9,
+          "text": "today I'm going to be catching flights"
+        },
+        {
+          "timestamp": "0:49",
+          "start_seconds": 49,
+          "text": "if I wanted to change seats and I told"
+        },
+        {
+          "timestamp": "2:55",
+          "start_seconds": 175,
+          "text": "sleep on flights but at least I've got"
+        },
+        {
+          "timestamp": "3:51",
+          "start_seconds": 231,
+          "text": "this will be a divider Glasgow flight"
+        },
+        {
+          "timestamp": "8:50",
+          "start_seconds": 530,
+          "text": "in flight entertainment was not bad"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube"
     },
@@ -1508,9 +1829,25 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "Round two, in-flight entertainment and",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "Round two, in-flight entertainment and"
+        },
+        {
+          "timestamp": "0:17",
+          "start_seconds": 17,
+          "text": "blanket, a bottle of water, and a high"
+        },
+        {
+          "timestamp": "0:45",
+          "start_seconds": 45,
+          "text": "AC power outlet and a USBA port at every"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube"
     },
@@ -1652,9 +1989,35 @@
       ],
       "ife_features": {},
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "in flight entertainment was not bad",
+      "captions": [
+        {
+          "timestamp": "0:09",
+          "start_seconds": 9,
+          "text": "today I'm going to be catching flights"
+        },
+        {
+          "timestamp": "0:49",
+          "start_seconds": 49,
+          "text": "if I wanted to change seats and I told"
+        },
+        {
+          "timestamp": "2:55",
+          "start_seconds": 175,
+          "text": "sleep on flights but at least I've got"
+        },
+        {
+          "timestamp": "3:51",
+          "start_seconds": 231,
+          "text": "this will be a divider Glasgow flight"
+        },
+        {
+          "timestamp": "8:50",
+          "start_seconds": 530,
+          "text": "in flight entertainment was not bad"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube"
     },
@@ -1947,9 +2310,35 @@
       "aircraft_mentioned": [],
       "ife_features": {},
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "of the biggest movies ever made. Along",
+      "captions": [
+        {
+          "timestamp": "0:16",
+          "start_seconds": 16,
+          "text": "of the biggest movies ever made. Along"
+        },
+        {
+          "timestamp": "0:56",
+          "start_seconds": 56,
+          "text": "our entertainment comes in 50 languages."
+        },
+        {
+          "timestamp": "1:32",
+          "start_seconds": 92,
+          "text": "And on most of our flights,"
+        },
+        {
+          "timestamp": "2:11",
+          "start_seconds": 131,
+          "text": "And on board this flight, we have"
+        },
+        {
+          "timestamp": "2:50",
+          "start_seconds": 170,
+          "text": "in your seat pocket or ask your cabin"
+        }
+      ],
       "source_tier": 2,
       "source_name": "YouTube"
     },
