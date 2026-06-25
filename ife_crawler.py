@@ -878,10 +878,48 @@ class IFECrawler:
             if not segs:
                 return False, None, [], ""
             full = " ".join(s["text"] for s in segs)
-            excerpt = full[:300].strip() + ("…" if len(full) > 300 else "")
-            step = max(1, len(segs) // 5)
+
+            # Keywords used to score each segment for IFE relevance
+            score_kws = (
+                [kw for kws in IFE_FEATURE_KEYWORDS.values() for kw in kws]
+                + [p for patterns in IFE_SYSTEM_PATTERNS.values() for p in patterns]
+            )
+
+            def seg_score(idx):
+                # 3-segment sliding window for context
+                chunk = " ".join(
+                    segs[j]["text"]
+                    for j in range(max(0, idx - 1), min(len(segs), idx + 2))
+                ).lower()
+                return sum(1 for kw in score_kws if kw in chunk)
+
+            # Pick top 5 IFE-relevant segments, spaced at least 15 segments apart
+            order = sorted(range(len(segs)), key=lambda i: -seg_score(i))
+            chosen_idx = []
+            for i in order:
+                if seg_score(i) == 0:
+                    break
+                if not any(abs(i - j) < 15 for j in chosen_idx):
+                    chosen_idx.append(i)
+                if len(chosen_idx) >= 5:
+                    break
+
+            # Fill with evenly-spaced segments if fewer than 5 IFE hits
+            if len(chosen_idx) < 5:
+                step = max(1, len(segs) // 5)
+                for k in range(0, min(len(segs), step * 5), step):
+                    if not any(abs(k - j) < 5 for j in chosen_idx) and len(chosen_idx) < 5:
+                        chosen_idx.append(k)
+
+            chosen_idx.sort()  # chronological order for display
+
+            # Excerpt = the single highest-scoring segment (most IFE-relevant quote)
+            best_seg = segs[order[0]] if order else segs[0]
+            best_text = best_seg["text"].strip()
+            excerpt = best_text + ("…" if len(full) > len(best_text) else "")
+
             caps = []
-            for i in range(0, min(len(segs), step * 5), step):
+            for i in chosen_idx[:5]:
                 s = segs[i]
                 raw = int(s["start"])
                 m, sec = raw // 60, raw % 60
@@ -890,7 +928,8 @@ class IFECrawler:
                     "start_seconds": raw,
                     "text":          s["text"].strip(),
                 })
-            return True, excerpt, caps[:5], full
+
+            return True, excerpt, caps, full
         except Exception:
             return False, None, [], ""
 

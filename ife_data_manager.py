@@ -111,12 +111,13 @@ class IFEDataManager:
     def _relevance(self, r):
         """Compute an IFE content density score (purely factual, not quality)."""
         score = 0.0
-        score += min(len(r.get("ife_features", {})) * 0.15, 0.6)
-        if r.get("ife_system"):
-            score += 0.2
+        # Transcript resources always rank above non-transcript (0.60 base guarantee)
         if r.get("transcript_available"):
-            score += 0.15
-        score += min(len(r.get("airlines_mentioned", [])) * 0.05, 0.15)
+            score += 0.60
+        score += min(len(r.get("ife_features", {})) * 0.12, 0.24)
+        if r.get("ife_system"):
+            score += 0.12
+        score += min(len(r.get("airlines_mentioned", [])) * 0.04, 0.08)
         return round(min(score, 1.0), 3)
 
     def filter_reviews(self, filters):
