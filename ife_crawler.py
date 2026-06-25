@@ -336,6 +336,10 @@ KNOWN_IFE_CHANNELS: dict = {
     "Jayden Wong":              "UChH-Hz5BxUKDA0olzqcAGpw",  # verified ✓
     "RoryDing Travels":         "UClLxsJJL11SLXwh4C8I3sWQ",  # verified ✓
     "First Travel":             "UCQRRH7H30Z_kSKW4TsPuKew",  # verified ✓
+    "Sam Chui":                 "UCfYCRj25JJQ41JGPqiqXmJw",  # verified ✓
+    "Luxury Travel Expert":     "UCYxsXxbjJO1YYa9yQ3lKC8w",  # verified ✓
+    "TPG Travels":              "UCufeRIBzaIc2MAJbbZhPJEg",  # verified ✓ (The Points Guy)
+    "Flight Formula":           "UCFCtPTN9M6nmmDbllaZgGuA",  # verified ✓
 }
 
 
@@ -474,12 +478,11 @@ YOUTUBE_QUERIES = [
     "APEX passenger choice award inflight entertainment",
     "new inflight entertainment system launch 2025",
     # General
-    "inflight entertainment IFE review 2023",
     "inflight entertainment IFE review 2024",
     "inflight entertainment IFE review 2025",
     "4K inflight entertainment seatback review",
     "OLED inflight entertainment review",
-    # Non-English YouTube searches (~14 queries = 1,400 units, keeps total under 10K)
+    # Non-English YouTube searches
     "Air France business class divertissement bord avis",
     "Lufthansa Business Class Bordunterhaltung Bewertung",
     "ANA ビジネスクラス 機内エンターテインメント レビュー",
@@ -492,8 +495,6 @@ YOUTUBE_QUERIES = [
     "LATAM clase ejecutiva entretenimiento a bordo reseña",
     "TAP Air Portugal classe executiva entretenimento bordo",
     "Turkish Airlines business class inflight entertainment inceleme",
-    "Korean Air RAVE Ultra inflight entertainment review",
-    "Air France RAVE Ultra inflight entertainment review",
 ]
 
 # Known trusted source URLs to scrape directly (Tier 1 targets)
