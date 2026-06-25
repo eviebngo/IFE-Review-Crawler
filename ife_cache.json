@@ -9379,7 +9379,105 @@
       "captions": [],
       "source_tier": 1,
       "source_name": "Press"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=p3esJgV13QY",
+      "title": "Emirates B777 Business Class | Tokyo-Dubai (This is the best product out there!) SUBTITLES",
+      "year": 2026,
+      "published_at": "2026-06-14T08:00:06Z",
+      "channel_title": "Travel Expertos",
+      "view_count": 4515,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 24
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 13
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 10
+        },
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "controller": "Tablet"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KAESZSsZwnw",
+      "title": "I Flew 13 Hours from Taipei to Phoenix on STARLUX in Business Class | TPE to PHX Starlux Full Review",
+      "year": 2026,
+      "published_at": "2026-06-12T21:39:01Z",
+      "channel_title": "Vincent Goh",
+      "view_count": 8772,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "alaska airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "YouTube"
     }
   ],
-  "last_updated": "2026-06-25T10:52:16.371600"
+  "last_updated": "2026-06-25T18:25:17.188332"
 }
