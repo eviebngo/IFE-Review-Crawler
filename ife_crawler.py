@@ -300,10 +300,12 @@ KNOWN_IFE_CHANNELS: dict = {
     "ThemeParksandAttractions": "UCAzX7J8GbLSELJX4ecUI04A",  # verified ✓
     "Chris Films Things":       "UCIIotzUXweA445T6h8fBXRQ",  # verified ✓
     "theplanesguy":             "UClm9qlyx-E68Q3gGuaBj-SQ",  # verified ✓
-    "Dennis Bunnik": "UCsQLTECz1bCA56JIryaw-lA",
-    "FromtheWing":   "UCOBUoOstpv-yCHZk2B77gXw", 
-    "iTripReport":   "UCOBUoOstpv-yCHZk2B77gXw",   # verified ✓
-    "Nonstop Dan":   "UCLQ5XNN9iT4DmCbZXpy5Fdw",   
+    "From the Wing":            "UCOBUoOstpv-yCHZk2B77gXw",  # verified ✓
+    "Nonstop Dan":              "UCLQ5XNN9iT4DmCbZXpy5Fdw",  # verified ✓
+    "Simply Aviation":          "UCEF-9XhkdyFY0hMRUkmxXfQ",  # verified ✓
+    "Eric Struk":               "UCDv-Fv9bAt-1bU9EBOnqHvw",  # verified ✓
+    "Dennis Bunnik":            "UCQrk97MBH6DToctKRfQJcNQ",  # verified ✓ (DennisBunnik Travels)
+    "iTripReport":              "UCujsRp13yioFAhhHZcEgkYw",  # verified ✓
 }
 
 
@@ -846,7 +848,13 @@ class IFECrawler:
 
     def _get_transcript(self, video_id: str):
         try:
-            fetched = YouTubeTranscriptApi().fetch(video_id, languages=["en", "en-US", "en-GB"])
+            api = YouTubeTranscriptApi()
+            try:
+                fetched = api.fetch(video_id, languages=["en", "en-US", "en-GB"])
+            except Exception:
+                # Fall back to auto-generated captions (YouTube generates these for most videos)
+                tlist = api.list(video_id)
+                fetched = tlist.find_generated_transcript(["en"]).fetch()
             segs = [{"text": s.text, "start": s.start} for s in fetched]
             if not segs:
                 return False, None, [], ""
