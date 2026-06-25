@@ -288,19 +288,14 @@ def infer_ife_system(airlines: list, aircraft: list) -> Optional[str]:
 
 
 # ── Known IFE reviewer YouTube channels ──────────────────────────────────────
-# Values are YouTube channel IDs. Add more as you discover them.
-# Find a channel ID: go to the channel page → view source → search "channelId"
-KNOWN_IFE_CHANNELS = {
-    "Dennis Bunnik":      "UCnbHzEKE-ER4tcpLGiF8NqQ",
-    "iTripReport":        "UCp8BgMSAd7hqyBLZTGwLMtQ",
-    "Million Miles Marc": "UCLEIKCVe7zN4hKxvMnF7iHQ",
-    "OrlandoAviation":    "UCKje6mH_fGpCYFDKrS3gJ2Q",
-    "Traverse":           "UCqcFNHOBRhSfRKwH9OLGPOA",
-    "Sam Chui":           "UC_1E7b2z_mOsC2Djg5SfhNA",
-    "Noel Philips":       "UCbymNa87jPXxWYYqWJopMQg",
-    "Josh Cahill":        "UCGrFZuBmTKWpJ7hOZHXBNrA",
-    "Zach D Films":       "UCXoV9oBMTGpCGQNSEqRchZQ",
-    "Dan Flying Solo":    "UCqCwhMVDpCJMoOCxTo6tMFw",
+# How to find a channel ID:
+#   1. Go to the channel's YouTube page
+#   2. Right-click → View Page Source
+#   3. Ctrl+F → search for "channelId" — copy the 24-character UC... value
+# Each channel search costs 100 API units, same as a keyword search.
+KNOWN_IFE_CHANNELS: dict = {
+    # Add verified channel IDs here, e.g.:
+    # "Sam Chui": "UC_xxxxxxxxxxxxxxxxxxxxxx",
 }
 
 
@@ -360,20 +355,18 @@ YOUTUBE_QUERIES = [
     "Anuvu inflight entertainment system review",
     "Viasat inflight wifi airline speed test",
     "Inmarsat GX aviation wifi review",
-    # Business/first class (high IFE coverage)
+    # Business/first class
     "Emirates A380 first class review",
     "Emirates 777 business class inflight entertainment",
     "Qatar Airways Qsuite inflight entertainment 2024",
     "Qatar Airways A350 business class review 2025",
-    "Singapore Airlines A380 Suites inflight entertainment",
-    "Singapore Airlines A350 business class review",
+    "Singapore Airlines business class inflight entertainment review",
     "Cathay Pacific A350 business class inflight entertainment",
     "ANA 787 business class inflight entertainment review",
     "Japan Airlines A350 business class review",
     "Lufthansa A350 business class inflight entertainment",
     "British Airways Club World inflight entertainment review",
     "Turkish Airlines business class inflight entertainment review",
-    "Air France business class inflight entertainment 2024",
     "Air France B777 business class RAVE Ultra review",
     "Virgin Atlantic A350 first class RAVE Ultra review",
     "Finnair A350 business class inflight entertainment",
@@ -381,76 +374,47 @@ YOUTUBE_QUERIES = [
     "United Polaris inflight entertainment review",
     "American Airlines business class inflight entertainment",
     "Etihad A350 business class inflight entertainment",
-    "Air Canada Signature inflight entertainment review",
     "Korean Air business class inflight entertainment review",
-    "EVA Air business class inflight entertainment review",
     "Qantas A380 business class inflight entertainment",
-    "Swiss business class inflight entertainment review",
     "Icelandair inflight entertainment RAVE review",
     "Air India business class inflight entertainment review",
     "Oman Air business class inflight entertainment review",
-    "Gulf Air business class inflight entertainment review",
-    "Saudia business class inflight entertainment review",
-    "LATAM business class inflight entertainment review",
-    "Norwegian long haul business class inflight entertainment",
-    # Economy class (highest review volume — huge gap previously)
+    # Economy class
     "Emirates economy class inflight entertainment review",
     "Qatar Airways economy class inflight entertainment review",
     "Singapore Airlines economy class inflight entertainment review",
-    "Cathay Pacific economy class inflight entertainment review",
     "British Airways economy class inflight entertainment review",
-    "Lufthansa economy class inflight entertainment review",
     "Air France economy class inflight entertainment review",
     "Turkish Airlines economy class inflight entertainment review",
     "Delta economy class inflight entertainment review",
     "United economy class inflight entertainment review",
-    "American Airlines economy class inflight entertainment review",
-    "Japan Airlines economy class inflight entertainment review",
-    "ANA economy class inflight entertainment review",
     "Virgin Atlantic economy class inflight entertainment review",
     # Premium economy
     "Emirates premium economy inflight entertainment review",
     "Qatar Airways premium economy inflight entertainment review",
-    "Singapore Airlines premium economy inflight entertainment review",
     "Air France premium economy inflight entertainment review",
     "Delta Premium Select inflight entertainment review",
     "United Premium Plus inflight entertainment review",
-    "British Airways World Traveller Plus inflight entertainment review",
-    "Japan Airlines premium economy inflight entertainment review",
-    # Starlink & WiFi (rapidly growing category)
+    # Starlink & WiFi
     "Alaska Airlines Starlink wifi review",
-    "Hawaiian Airlines Starlink inflight wifi review",
     "Delta Starlink inflight wifi review",
-    "United Airlines Starlink inflight wifi review",
     "Air New Zealand Starlink inflight wifi review",
-    "inflight wifi speed test Starlink 2024",
-    "inflight wifi speed test Starlink 2025",
-    "airline wifi review 2024",
-    "airline wifi review 2025",
+    "airline inflight wifi speed test 2025",
     # Aircraft-specific
     "A380 inflight entertainment seatback review",
     "A350 inflight entertainment system review",
-    "A350-1000 inflight entertainment review",
     "Boeing 787 inflight entertainment review",
     "Boeing 777 inflight entertainment review",
-    "Boeing 777X inflight entertainment review",
     "A321neo inflight entertainment review",
-    "Boeing 737 MAX inflight entertainment review",
-    "A220 inflight entertainment review",
     # Industry & awards
     "best airline inflight entertainment 2024",
     "best airline inflight entertainment 2025",
     "APEX passenger choice award inflight entertainment",
-    "worst airline inflight entertainment review",
-    "airline IFE upgrade seatback 2024",
-    "airline IFE upgrade seatback 2025",
-    "new inflight entertainment system launch 2024",
     "new inflight entertainment system launch 2025",
     # General
     "inflight entertainment IFE review 2023",
     "inflight entertainment IFE review 2024",
     "inflight entertainment IFE review 2025",
-    "inflight entertainment IFE review 2026",
     "4K inflight entertainment seatback review",
     "OLED inflight entertainment review",
 ]
