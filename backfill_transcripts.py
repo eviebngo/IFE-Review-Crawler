@@ -6,10 +6,11 @@ Strategy (in order):
   1. youtube-transcript-api  — fast, free, manual + auto captions
   2. Local Whisper via yt-dlp — covers videos with no YouTube captions at all
 
-No API keys required. Requires: yt-dlp, openai-whisper, ffmpeg in PATH.
-Set WHISPER_MODEL env var to override model size (default: base).
-Saves a checkpoint every 25 videos.
+Env vars:
+  YOUTUBE_COOKIES_B64  — base64-encoded Netscape cookies.txt (bypasses IP block)
+  WHISPER_MODEL        — Whisper model size (default: base)
 """
+import base64
 import json
 import os
 import sys
@@ -20,6 +21,20 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 from youtube_transcript_api import YouTubeTranscriptApi
+
+# Write cookies.txt from env if provided, return path or None
+def _setup_cookies(tmpdir: str) -> str | None:
+    b64 = os.environ.get("YOUTUBE_COOKIES_B64", "").strip()
+    if not b64:
+        return None
+    try:
+        path = os.path.join(tmpdir, "cookies.txt")
+        with open(path, "wb") as f:
+            f.write(base64.b64decode(b64))
+        return path
+    except Exception as e:
+        print(f"  Warning: could not decode YOUTUBE_COOKIES_B64 — {e}")
+        return None
 
 IFE_KEYWORDS = [
     "ife", "inflight entertainment", "in-flight entertainment",
@@ -64,8 +79,12 @@ def segs_to_result(segs, n=5):
     return caps, excerpt
 
 
-def fetch_yt_segs(api, video_id):
+def fetch_yt_segs(video_id, cookies_path=None):
     """Try YouTube transcript API (manual → auto-generated → any language)."""
+    try:
+        api = YouTubeTranscriptApi(cookies=cookies_path) if cookies_path else YouTubeTranscriptApi()
+    except TypeError:
+        api = YouTubeTranscriptApi()
     try:
         fetched = api.fetch(video_id, languages=[
             "en", "en-US", "en-GB",
@@ -123,7 +142,7 @@ class _SilentLogger:
     def error(self, msg): self.errors.append(msg.lower())
 
 
-def fetch_whisper_segs(model, video_id):
+def fetch_whisper_segs(model, video_id, cookies_path=None):
     """Download audio with yt-dlp and transcribe with local Whisper.
     Returns (status, segs) where status is one of the _WHISPER_* constants."""
     if model is None:
@@ -145,6 +164,8 @@ def fetch_whisper_segs(model, video_id):
                 "nocheckcertificate": True,
                 "logger": logger,
             }
+            if cookies_path:
+                ydl_opts["cookiefile"] = cookies_path
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 ydl.download([url])
 
@@ -186,7 +207,14 @@ def main():
     ]
     print(f"Videos without transcript: {len(targets)}")
 
-    api = YouTubeTranscriptApi()
+    # Set up cookies (bypasses IP block on GitHub Actions datacenter IPs)
+    _cookie_dir = tempfile.mkdtemp()
+    cookies_path = _setup_cookies(_cookie_dir)
+    if cookies_path:
+        print("  Using YOUTUBE_COOKIES_B64 for authentication.")
+    else:
+        print("  No cookies — some videos may be IP-blocked. Set YOUTUBE_COOKIES_B64 to fix.")
+
     whisper_model = load_whisper_model()
     yt_ok = whisper_ok = skipped = blocked = failed = 0
     to_remove = []   # private / unavailable video URLs
@@ -196,7 +224,7 @@ def main():
         vid_id = r["url"].split("watch?v=")[1].split("&")[0]
 
         # 1. YouTube transcript API
-        segs = fetch_yt_segs(api, vid_id)
+        segs = fetch_yt_segs(vid_id, cookies_path=cookies_path)
         if segs:
             caps, excerpt = segs_to_result(segs)
             r["transcript_available"] = True
@@ -211,7 +239,7 @@ def main():
 
         else:
             # 2. Local Whisper fallback
-            status, segs = fetch_whisper_segs(whisper_model, vid_id)
+            status, segs = fetch_whisper_segs(whisper_model, vid_id, cookies_path=cookies_path)
             if status == _WHISPER_OK:
                 caps, excerpt = segs_to_result(segs)
                 r["transcript_available"] = True

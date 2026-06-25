@@ -26,6 +26,7 @@ jobs:
       - name: Fetch missing transcripts
         env:
           WHISPER_MODEL: base
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
         run: python backfill_transcripts.py
 
       - name: Save updated cache
