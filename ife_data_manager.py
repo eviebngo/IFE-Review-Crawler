@@ -34,19 +34,18 @@ class IFEDataManager:
 
     def _backfill_fields(self):
         """Add default values for fields introduced after initial seed."""
-        from ife_crawler import infer_ife_system, source_tier as compute_tier
+        from ife_crawler import infer_ife_system, source_tier as compute_tier, is_official_promo
         for r in self.data.get("reviews", []):
             r.setdefault("ife_specs", {})
             r.setdefault("ife_system_inferred", False)
-            # Recompute tier from URL so seeded records get the right value
-            if "source_tier" not in r or r.get("source_name") == "General":
-                if r.get("media_type") == "video":
-                    r["source_tier"] = 2
-                    r["source_name"] = "YouTube"
-                else:
-                    t = compute_tier(r.get("url", ""))
-                    r["source_tier"] = t
-                    r["source_name"] = {1: "Press", 2: "Creator"}.get(t, "General")
+            if r.get("media_type") == "video":
+                r["source_tier"] = 2
+                # Always re-derive for videos so "YouTube" entries get corrected
+                r["source_name"] = "Official" if is_official_promo(r.get("title", "")) else "Creator"
+            elif "source_tier" not in r or r.get("source_name") in ("General", None, "YouTube"):
+                t = compute_tier(r.get("url", ""))
+                r["source_tier"] = t
+                r["source_name"] = {1: "Press", 2: "Creator"}.get(t, "General")
             # Backfill start_seconds on captions that only have a "M:SS" string
             for cap in r.get("captions", []):
                 if "start_seconds" not in cap and cap.get("timestamp"):
@@ -96,7 +95,11 @@ class IFEDataManager:
             if r.get("media_type"):
                 media_types.add(r["media_type"])
 
-        source_tiers = {"Press (T1)", "Creator (T2)", "General (T3)"}
+        source_names = set()
+        for r in self.data.get("reviews", []):
+            name = r.get("source_name", "Creator")
+            if name in ("Press", "Creator", "Official"):
+                source_names.add(name)
 
         return {
             "years":        sorted(years, reverse=True),
@@ -105,7 +108,7 @@ class IFEDataManager:
             "ife_features": sorted(ife_features),
             "media_types":  sorted(media_types),
             "transcript":   sorted(transcript_options),
-            "source_tiers": sorted(source_tiers),
+            "source_tiers": sorted(source_names),
         }
 
     def _relevance(self, r):
@@ -158,10 +161,9 @@ class IFEDataManager:
                 results = [r for r in results if not r.get("transcript_available")]
 
         if filters.get("source_tiers"):
-            tier_map = {"Press (T1)": 1, "Creator (T2)": 2, "General (T3)": 3}
-            wanted = {tier_map[t] for t in filters["source_tiers"] if t in tier_map}
+            wanted = set(filters["source_tiers"])
             if wanted:
-                results = [r for r in results if r.get("source_tier", 3) in wanted]
+                results = [r for r in results if r.get("source_name", "Creator") in wanted]
 
         # Always sort by relevance descending
         results.sort(key=self._relevance, reverse=True)

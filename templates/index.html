@@ -109,6 +109,7 @@ tr[data-sys="rave"] td:first-child{border-left-color:var(--r-sa)}
 .tier-1{display:inline-block;padding:1px 6px;border-radius:3px;background:#d4edda;color:#1a7f37;font-size:10px;font-weight:700}
 .tier-2{display:inline-block;padding:1px 6px;border-radius:3px;background:#ddf4ff;color:#0550ae;font-size:10px;font-weight:700}
 .tier-3{display:inline-block;padding:1px 6px;border-radius:3px;background:#f0f0f0;color:#6e6e6e;font-size:10px;font-weight:700}
+.tier-off{display:inline-block;padding:1px 6px;border-radius:3px;background:#fff1e0;color:#a34800;font-size:10px;font-weight:700}
 .c-year{width:50px;text-align:center;font-family:var(--mono);font-weight:600;color:var(--muted)}
 .c-sys{width:145px}
 .c-air{width:150px}
@@ -501,7 +502,9 @@ function render(d){
     const sysCls=sysClass(r.ife_system);
     const sysDat=sysData(r.ife_system);
     const tier=r.source_tier||3;
-    const tierLabel=tier===1?'Press':tier===2?'Creator':'General';
+    const srcName=r.source_name||'';
+    const tierCls=srcName==='Official'?'tier-off':'tier-'+tier;
+    const tierLabel=srcName==='Official'?'Official':(tier===1?'Press':tier===2?'Creator':'General');
     const specs=r.ife_specs||{};
     const specChips=[
       specs.screen_size?'&#128250; '+specs.screen_size:'',
@@ -519,7 +522,7 @@ function render(d){
       '<td class="c-title">'+
         '<div style="display:flex;align-items:flex-start;gap:5px">'+
           '<strong style="flex:1;min-width:0">'+esc(r.title||'Untitled')+'</strong>'+
-          '<span class="tier-'+tier+'">'+tierLabel+'</span>'+
+          '<span class="'+tierCls+'">'+tierLabel+'</span>'+
         '</div>'+
         '<a href="'+esc(r.url||'#')+'" target="_blank" rel="noopener">'+host(r.url)+'</a>'+
         (specChips?'<div class="specs">'+specChips+'</div>':'')+

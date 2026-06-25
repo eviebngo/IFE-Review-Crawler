@@ -56,6 +56,22 @@ def source_tier(url: str) -> int:
 
 TIER_LABELS = {1: "Press", 2: "Creator", 3: "General"}
 
+# Detects titles that read as official airline/brand promotional content rather
+# than independent creator reviews. High-precision — only very explicit signals.
+_OFFICIAL_PROMO_RE = re.compile(
+    r'^\s*introducing\b'                                      # "Introducing ICE:..."
+    r'|^\s*discover\s+(?:our|the)\b'                          # "Discover our new..."
+    r'|^\s*welcome\s+(?:aboard|to\s+our)\b'                   # "Welcome aboard..."
+    r'|\bpresents?\s+(?:its\s+|the\s+|our\s+|new\s+)*(?:ife|inflight|in.flight|entertainment|system)\b'
+    r'|\bour\s+new\s+(?:ife|inflight|in.flight|entertainment)\b'
+    r'|\bnew\s+.*\bentertainment\s+system\b.*\blaunch\b'
+    r'|^\s*(?:unveiling|launching|announcing)\b',
+    re.IGNORECASE,
+)
+
+def is_official_promo(title: str) -> bool:
+    return bool(_OFFICIAL_PROMO_RE.search(title))
+
 
 # ── IFE keyword gate ──────────────────────────────────────────────────────────
 IFE_TITLE_KEYWORDS = [
@@ -789,7 +805,7 @@ class IFECrawler:
             "transcript_excerpt":   excerpt,
             "captions":             captions,
             "source_tier":          2,
-            "source_name":          "YouTube",
+            "source_name":          "Official" if is_official_promo(title) else "Creator",
         }
 
     def _ddg_search_youtube(self, query: str, limit: int = 5) -> List[str]:
@@ -893,7 +909,7 @@ class IFECrawler:
                 "transcript_excerpt":   excerpt,
                 "captions":             captions,
                 "source_tier":          2,
-                "source_name":          "YouTube",
+                "source_name":          "Official" if is_official_promo(title) else "Creator",
             }
         except Exception:
             return None
