@@ -104,16 +104,36 @@ def load_whisper_model():
         return None
 
 
+_BOT_SIGNALS = ("sign in to confirm", "not a bot", "sign in if you")
+_SKIP_SIGNALS = ("private video", "video unavailable", "has been removed", "account has been terminated")
+
+# Return values for fetch_whisper_segs
+_WHISPER_OK    = "ok"
+_WHISPER_SKIP  = "skip"   # private/unavailable — remove from cache
+_WHISPER_BLOCK = "block"  # bot-detected — stop trying Whisper for this run
+_WHISPER_FAIL  = "fail"   # generic failure
+
+
+class _SilentLogger:
+    """Captures yt-dlp error text without printing it."""
+    def __init__(self):
+        self.errors = []
+    def debug(self, msg): pass
+    def warning(self, msg): pass
+    def error(self, msg): self.errors.append(msg.lower())
+
+
 def fetch_whisper_segs(model, video_id):
-    """Download audio with yt-dlp and transcribe with local Whisper."""
+    """Download audio with yt-dlp and transcribe with local Whisper.
+    Returns (status, segs) where status is one of the _WHISPER_* constants."""
     if model is None:
-        return None
+        return _WHISPER_FAIL, None
     try:
         import yt_dlp
     except ImportError:
-        print("  yt-dlp not installed — run: pip install yt-dlp")
-        return None
+        return _WHISPER_FAIL, None
 
+    logger = _SilentLogger()
     try:
         url = f"https://www.youtube.com/watch?v={video_id}"
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -122,23 +142,37 @@ def fetch_whisper_segs(model, video_id):
                 "outtmpl": os.path.join(tmpdir, "%(id)s.%(ext)s"),
                 "quiet": True,
                 "no_warnings": True,
+                "nocheckcertificate": True,
+                "logger": logger,
             }
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 ydl.download([url])
 
+            # Check captured errors even if download didn't raise
+            combined = " ".join(logger.errors)
+            if any(s in combined for s in _SKIP_SIGNALS):
+                return _WHISPER_SKIP, None
+            if any(s in combined for s in _BOT_SIGNALS):
+                return _WHISPER_BLOCK, None
+
             files = os.listdir(tmpdir)
             if not files:
-                return None
+                return _WHISPER_FAIL, None
             audio_path = os.path.join(tmpdir, files[0])
             result = model.transcribe(audio_path, verbose=False)
 
         segments = result.get("segments") or []
         if not segments:
-            return None
-        return [{"text": seg["text"], "start": seg["start"]} for seg in segments]
+            return _WHISPER_FAIL, None
+        return _WHISPER_OK, [{"text": seg["text"], "start": seg["start"]} for seg in segments]
+
     except Exception as e:
-        print(f"    Whisper error: {e}")
-        return None
+        msg = str(e).lower()
+        if any(s in msg for s in _SKIP_SIGNALS):
+            return _WHISPER_SKIP, None
+        if any(s in msg for s in _BOT_SIGNALS):
+            return _WHISPER_BLOCK, None
+        return _WHISPER_FAIL, None
 
 
 def main():
@@ -154,7 +188,9 @@ def main():
 
     api = YouTubeTranscriptApi()
     whisper_model = load_whisper_model()
-    yt_ok = yt_fail = whisper_ok = whisper_fail = 0
+    yt_ok = whisper_ok = skipped = blocked = failed = 0
+    to_remove = []   # private / unavailable video URLs
+    whisper_blocked = False
 
     for idx, r in enumerate(targets, 1):
         vid_id = r["url"].split("watch?v=")[1].split("&")[0]
@@ -168,10 +204,15 @@ def main():
             r["captions"] = caps
             yt_ok += 1
             print(f"[{idx}/{len(targets)}] YT-OK    {vid_id}")
+
+        elif whisper_blocked:
+            failed += 1
+            print(f"[{idx}/{len(targets)}] SKIP-WH  {vid_id}  (bot-blocked on this runner)")
+
         else:
             # 2. Local Whisper fallback
-            segs = fetch_whisper_segs(whisper_model, vid_id)
-            if segs:
+            status, segs = fetch_whisper_segs(whisper_model, vid_id)
+            if status == _WHISPER_OK:
                 caps, excerpt = segs_to_result(segs)
                 r["transcript_available"] = True
                 r["transcript_excerpt"] = excerpt
@@ -179,25 +220,41 @@ def main():
                 r["transcript_source"] = "whisper"
                 whisper_ok += 1
                 print(f"[{idx}/{len(targets)}] WH-OK    {vid_id}  ({len(caps)} caps)")
+            elif status == _WHISPER_SKIP:
+                to_remove.append(r["url"])
+                skipped += 1
+                print(f"[{idx}/{len(targets)}] REMOVED  {vid_id}  (private/unavailable)")
+            elif status == _WHISPER_BLOCK:
+                whisper_blocked = True
+                failed += 1
+                print(f"[{idx}/{len(targets)}] BOT-BLOCK {vid_id}  (Whisper disabled for this run)")
             else:
-                whisper_fail += 1
-                yt_fail += 1
+                failed += 1
                 print(f"[{idx}/{len(targets)}] FAIL     {vid_id}")
 
         if idx % 25 == 0:
             with open("ife_cache.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"  -- checkpoint: YT={yt_ok} Whisper={whisper_ok} fail={whisper_fail} --")
+            print(f"  -- checkpoint: YT={yt_ok} Whisper={whisper_ok} removed={skipped} fail={failed} --")
 
         time.sleep(0.5)
+
+    # Purge private/unavailable videos from the cache
+    if to_remove:
+        before = len(data["reviews"])
+        data["reviews"] = [r for r in data["reviews"] if r.get("url") not in set(to_remove)]
+        print(f"\nPurged {before - len(data['reviews'])} private/unavailable videos.")
 
     with open("ife_cache.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"\nDone.")
-    print(f"  YouTube captions:  {yt_ok} ok")
-    print(f"  Whisper:           {whisper_ok} ok")
-    print(f"  Still missing:     {whisper_fail}")
+    print(f"  YouTube captions:  {yt_ok}")
+    print(f"  Whisper:           {whisper_ok}")
+    print(f"  Purged (private):  {skipped}")
+    print(f"  Still missing:     {failed}")
+    if whisper_blocked:
+        print("  NOTE: Whisper was bot-blocked — re-run locally with browser cookies for remaining videos.")
 
 
 if __name__ == "__main__":

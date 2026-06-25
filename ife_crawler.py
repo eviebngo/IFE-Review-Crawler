@@ -1039,6 +1039,13 @@ class IFECrawler:
             import tempfile
             import os as _os
 
+            class _Q:
+                errors = []
+                def debug(self, m): pass
+                def warning(self, m): pass
+                def error(self, m): self.errors.append(m.lower())
+
+            logger = _Q()
             url = f"https://www.youtube.com/watch?v={video_id}"
             with tempfile.TemporaryDirectory() as tmpdir:
                 ydl_opts = {
@@ -1046,9 +1053,15 @@ class IFECrawler:
                     "outtmpl": _os.path.join(tmpdir, "%(id)s.%(ext)s"),
                     "quiet": True,
                     "no_warnings": True,
+                    "nocheckcertificate": True,
+                    "logger": logger,
                 }
                 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                     ydl.download([url])
+                # Bot-detected or private — bail silently
+                errs = " ".join(logger.errors)
+                if any(s in errs for s in ("sign in", "private video", "not a bot", "unavailable")):
+                    return False, None, [], ""
 
                 files = _os.listdir(tmpdir)
                 if not files:
