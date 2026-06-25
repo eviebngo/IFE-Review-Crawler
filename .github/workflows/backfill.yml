@@ -1,0 +1,42 @@
+name: IFE Historical Backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      days_lookback:
+        description: 'How many days back to search (e.g. 1095 = 3 years)'
+        required: true
+        default: '1095'
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run backfill
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          DAYS_LOOKBACK: ${{ github.event.inputs.days_lookback }}
+        run: python daily_crawl.py
+
+      - name: Save updated cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ife_cache.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: IFE backfill (${{ github.event.inputs.days_lookback }} days)"
+            git push
+          fi

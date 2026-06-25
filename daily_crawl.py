@@ -36,9 +36,9 @@ def main():
     existing = {r["url"] for r in data_manager.data.get("reviews", [])}
     before = len(existing)
 
+    days_lookback = int(os.environ.get("DAYS_LOOKBACK", "14"))
     crawler = IFECrawler(verify_ssl=False, api_key=api_key)
-    # days_lookback=7 — only surface videos published in the last week per daily run
-    results = crawler.auto_discover(existing_urls=existing, max_results=500, days_lookback=7)
+    results = crawler.auto_discover(existing_urls=existing, max_results=2000, days_lookback=days_lookback)
 
     if results:
         data_manager.reload_from_disk()

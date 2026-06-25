@@ -27,13 +27,17 @@ SOURCE_TIERS = {
         "routesonline.com", "ch-aviation.com", "atwonline.com",
         "aerotime.aero", "aviationbusinessnews.com", "passengerexperience.aero",
         "apex.aero", "aircraft-interior-expo.com",
+        "paxinternational.com", "businesstraveller.com", "airlineratings.com",
+        "ainonline.com", "aircraft-interiors-international.com", "runwaygirlnetwork.com",
+        "aviationpros.com", "cntraveler.com", "travelandleisure.com",
     ],
     # Tier 2 — specialist aviation/travel creators and blogs
     2: [
         "youtube.com", "samchui.com", "noelphilips.com",
         "flyertalk.com", "airfarewatchdog.com", "headsforaplane.com",
         "travelisfree.com", "ausbt.com.au", "executive-traveller.com",
-        "headforpoints.com", "loungebuddy.com",
+        "headforpoints.com", "loungebuddy.com", "thedesignair.net",
+        "seatguru.com", "airlinequality.com", "joshcahill.com",
     ],
 }
 
@@ -68,6 +72,9 @@ IFE_TITLE_KEYWORDS = [
     "business class review", "first class review", "economy class review",
     "premium economy review", "cabin review", "seat review", "flight review",
     "entertainment screen", "video on demand", "seatback screen",
+    "inflight wifi review", "airline wifi review", "starlink wifi flight",
+    "gogo wifi", "ife award", "passenger choice award",
+    "gogo avance", "anuvu", "immfly", "bluebox",
 ]
 
 
@@ -90,6 +97,10 @@ IFE_SYSTEM_PATTERNS = {
     "KrisWorld":           ["krisworld"],
     "StudioCX":            ["studiocx", "studio cx"],
     "Lumexis FTTS":        ["lumexis", "ftts"],
+    "Gogo Avance":         ["gogo avance", "gogo vision", "gogo inflight"],
+    "Anuvu":               ["anuvu", "global eagle entertainment"],
+    "Immfly":              ["immfly"],
+    "Bluebox Wow":         ["bluebox wow", "bluebox aviation"],
 }
 
 
@@ -276,14 +287,33 @@ def infer_ife_system(airlines: list, aircraft: list) -> Optional[str]:
     return None
 
 
+# ── Known IFE reviewer YouTube channels ──────────────────────────────────────
+# Values are YouTube channel IDs. Add more as you discover them.
+# Find a channel ID: go to the channel page → view source → search "channelId"
+KNOWN_IFE_CHANNELS = {
+    "Dennis Bunnik":      "UCnbHzEKE-ER4tcpLGiF8NqQ",
+    "iTripReport":        "UCp8BgMSAd7hqyBLZTGwLMtQ",
+    "Million Miles Marc": "UCLEIKCVe7zN4hKxvMnF7iHQ",
+    "OrlandoAviation":    "UCKje6mH_fGpCYFDKrS3gJ2Q",
+    "Traverse":           "UCqcFNHOBRhSfRKwH9OLGPOA",
+    "Sam Chui":           "UC_1E7b2z_mOsC2Djg5SfhNA",
+    "Noel Philips":       "UCbymNa87jPXxWYYqWJopMQg",
+    "Josh Cahill":        "UCGrFZuBmTKWpJ7hOZHXBNrA",
+    "Zach D Films":       "UCXoV9oBMTGpCGQNSEqRchZQ",
+    "Dan Flying Solo":    "UCqCwhMVDpCJMoOCxTo6tMFw",
+}
+
+
 # ── Search queries ────────────────────────────────────────────────────────────
 AUTO_DISCOVERY_QUERIES = [
+    '"inflight entertainment" review 2024',
     '"inflight entertainment" review 2025',
     '"inflight entertainment" review 2026',
     '"in-flight entertainment" IFE system review 2025',
     '"Panasonic Astrova" airline review',
     '"Panasonic eX3" airline review',
     '"Thales AVANT" airline review',
+    '"Thales AVANT Up" airline inflight entertainment',
     '"Safran RAVE" inflight entertainment',
     '"Safran RAVE Ultra" IFE review',
     '"Safran Passenger Innovations" IFE',
@@ -291,12 +321,24 @@ AUTO_DISCOVERY_QUERIES = [
     '"Emirates ICE" inflight entertainment',
     '"Oryx One" Qatar inflight entertainment',
     '"KrisWorld" Singapore Airlines entertainment',
+    'airline IFE system review 2024',
     'airline IFE system review 2025',
     'airline IFE system review 2026',
     'seatback entertainment system airline review 2025',
     '"4K inflight entertainment" review',
     '"Panasonic Astrova" 4K OLED IFE',
+    'Starlink inflight wifi airline 2024',
     'Starlink inflight wifi airline 2025',
+    '"best inflight entertainment" airline award 2024',
+    '"best inflight entertainment" airline award 2025',
+    'APEX passenger choice award inflight entertainment 2024',
+    'APEX passenger choice award inflight entertainment 2025',
+    '"Gogo Avance" airline inflight entertainment',
+    '"Anuvu" inflight entertainment airline',
+    'new inflight entertainment system airline launch 2024',
+    'new inflight entertainment system airline launch 2025',
+    'aircraft interiors expo IFE system 2024',
+    'airline wifi Starlink passenger review 2025',
 ]
 
 YOUTUBE_QUERIES = [
@@ -304,15 +346,21 @@ YOUTUBE_QUERIES = [
     "Panasonic Astrova inflight entertainment review",
     "Panasonic eX3 inflight entertainment review",
     "Thales AVANT inflight entertainment review",
+    "Thales AVANT Up inflight entertainment review",
     "Emirates ICE inflight entertainment review",
     "Safran RAVE IFE review",
     "Safran RAVE Ultra inflight entertainment",
     "Safran Passenger Innovations IFE",
+    "SPI RAVE Ultra airline review",
     "Oryx One Qatar inflight entertainment review",
     "KrisWorld Singapore Airlines entertainment review",
     "StudioCX Cathay Pacific entertainment review",
     "Collins Venue IFE review",
-    # Airline business/first class reviews (always include IFE coverage)
+    "Gogo Avance inflight wifi review",
+    "Anuvu inflight entertainment system review",
+    "Viasat inflight wifi airline speed test",
+    "Inmarsat GX aviation wifi review",
+    # Business/first class (high IFE coverage)
     "Emirates A380 first class review",
     "Emirates 777 business class inflight entertainment",
     "Qatar Airways Qsuite inflight entertainment 2024",
@@ -326,6 +374,8 @@ YOUTUBE_QUERIES = [
     "British Airways Club World inflight entertainment review",
     "Turkish Airlines business class inflight entertainment review",
     "Air France business class inflight entertainment 2024",
+    "Air France B777 business class RAVE Ultra review",
+    "Virgin Atlantic A350 first class RAVE Ultra review",
     "Finnair A350 business class inflight entertainment",
     "Delta One business class inflight entertainment review",
     "United Polaris inflight entertainment review",
@@ -335,21 +385,74 @@ YOUTUBE_QUERIES = [
     "Korean Air business class inflight entertainment review",
     "EVA Air business class inflight entertainment review",
     "Qantas A380 business class inflight entertainment",
-    "Virgin Atlantic inflight entertainment Upper Class",
     "Swiss business class inflight entertainment review",
     "Icelandair inflight entertainment RAVE review",
-    # Aircraft-specific IFE
+    "Air India business class inflight entertainment review",
+    "Oman Air business class inflight entertainment review",
+    "Gulf Air business class inflight entertainment review",
+    "Saudia business class inflight entertainment review",
+    "LATAM business class inflight entertainment review",
+    "Norwegian long haul business class inflight entertainment",
+    # Economy class (highest review volume — huge gap previously)
+    "Emirates economy class inflight entertainment review",
+    "Qatar Airways economy class inflight entertainment review",
+    "Singapore Airlines economy class inflight entertainment review",
+    "Cathay Pacific economy class inflight entertainment review",
+    "British Airways economy class inflight entertainment review",
+    "Lufthansa economy class inflight entertainment review",
+    "Air France economy class inflight entertainment review",
+    "Turkish Airlines economy class inflight entertainment review",
+    "Delta economy class inflight entertainment review",
+    "United economy class inflight entertainment review",
+    "American Airlines economy class inflight entertainment review",
+    "Japan Airlines economy class inflight entertainment review",
+    "ANA economy class inflight entertainment review",
+    "Virgin Atlantic economy class inflight entertainment review",
+    # Premium economy
+    "Emirates premium economy inflight entertainment review",
+    "Qatar Airways premium economy inflight entertainment review",
+    "Singapore Airlines premium economy inflight entertainment review",
+    "Air France premium economy inflight entertainment review",
+    "Delta Premium Select inflight entertainment review",
+    "United Premium Plus inflight entertainment review",
+    "British Airways World Traveller Plus inflight entertainment review",
+    "Japan Airlines premium economy inflight entertainment review",
+    # Starlink & WiFi (rapidly growing category)
+    "Alaska Airlines Starlink wifi review",
+    "Hawaiian Airlines Starlink inflight wifi review",
+    "Delta Starlink inflight wifi review",
+    "United Airlines Starlink inflight wifi review",
+    "Air New Zealand Starlink inflight wifi review",
+    "inflight wifi speed test Starlink 2024",
+    "inflight wifi speed test Starlink 2025",
+    "airline wifi review 2024",
+    "airline wifi review 2025",
+    # Aircraft-specific
     "A380 inflight entertainment seatback review",
     "A350 inflight entertainment system review",
+    "A350-1000 inflight entertainment review",
     "Boeing 787 inflight entertainment review",
     "Boeing 777 inflight entertainment review",
-    # Economy & general
+    "Boeing 777X inflight entertainment review",
+    "A321neo inflight entertainment review",
+    "Boeing 737 MAX inflight entertainment review",
+    "A220 inflight entertainment review",
+    # Industry & awards
+    "best airline inflight entertainment 2024",
+    "best airline inflight entertainment 2025",
+    "APEX passenger choice award inflight entertainment",
+    "worst airline inflight entertainment review",
+    "airline IFE upgrade seatback 2024",
+    "airline IFE upgrade seatback 2025",
+    "new inflight entertainment system launch 2024",
+    "new inflight entertainment system launch 2025",
+    # General
+    "inflight entertainment IFE review 2023",
     "inflight entertainment IFE review 2024",
     "inflight entertainment IFE review 2025",
     "inflight entertainment IFE review 2026",
-    "Starlink inflight wifi airline review",
     "4K inflight entertainment seatback review",
-    "airline economy class inflight entertainment review 2025",
+    "OLED inflight entertainment review",
 ]
 
 # Known trusted source URLs to scrape directly (Tier 1 targets)
@@ -406,6 +509,16 @@ class IFECrawler:
             seen_ids: set = set()
             for query in YOUTUBE_QUERIES:
                 ids = self._yt_search_api(query, limit=50, published_after=published_after)
+                for vid_id in ids:
+                    if vid_id not in seen_ids:
+                        url = f"https://www.youtube.com/watch?v={vid_id}"
+                        if url not in self.visited:
+                            seen_ids.add(vid_id)
+                            all_ids.append(vid_id)
+
+            # Also pull recent uploads from every known IFE reviewer channel directly
+            for channel_name, channel_id in KNOWN_IFE_CHANNELS.items():
+                ids = self._yt_search_channel(channel_id, limit=50, published_after=published_after)
                 for vid_id in ids:
                     if vid_id not in seen_ids:
                         url = f"https://www.youtube.com/watch?v={vid_id}"
@@ -529,6 +642,34 @@ class IFECrawler:
             "type": "video",
             "maxResults": min(limit, 50),
             "order": "relevance",
+            "key": self.api_key,
+        }
+        if published_after:
+            params["publishedAfter"] = published_after
+        try:
+            resp = self.session.get(
+                "https://www.googleapis.com/youtube/v3/search",
+                params=params,
+                timeout=15,
+                verify=self.verify_ssl,
+            )
+            resp.raise_for_status()
+            return [
+                item["id"]["videoId"]
+                for item in resp.json().get("items", [])
+                if item.get("id", {}).get("videoId")
+            ]
+        except Exception:
+            return []
+
+    def _yt_search_channel(self, channel_id: str, limit: int = 50, published_after: str = None) -> List[str]:
+        """Search within a specific channel — catches reviewers regardless of keyword matching."""
+        params = {
+            "part": "id",
+            "channelId": channel_id,
+            "type": "video",
+            "maxResults": min(limit, 50),
+            "order": "date",
             "key": self.api_key,
         }
         if published_after:
