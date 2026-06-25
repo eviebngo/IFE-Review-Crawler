@@ -294,8 +294,16 @@ def infer_ife_system(airlines: list, aircraft: list) -> Optional[str]:
 #   3. Ctrl+F → search for "channelId" — copy the 24-character UC... value
 # Each channel search costs 100 API units, same as a keyword search.
 KNOWN_IFE_CHANNELS: dict = {
-    # Add verified channel IDs here, e.g.:
-    # "Sam Chui": "UC_xxxxxxxxxxxxxxxxxxxxxx",
+    # Verified channel IDs — each costs 100 API units/day
+    # To verify: channels?part=snippet&id=UC... (1 unit, batch up to 50)
+    "Million Miles Marc":       "UCGZI_9g_4mWWZbTvO1N9Y4Q",  # verified ✓
+    "ThemeParksandAttractions": "UCAzX7J8GbLSELJX4ecUI04A",  # verified ✓
+    "Chris Films Things":       "UCIIotzUXweA445T6h8fBXRQ",  # verified ✓
+    "theplanesguy":             "UClm9qlyx-E68Q3gGuaBj-SQ",  # verified ✓
+    "Dennis Bunnik": "UCsQLTECz1bCA56JIryaw-lA",
+    "FromtheWing":   "UCOBUoOstpv-yCHZk2B77gXw", 
+    "iTripReport":   "UCOBUoOstpv-yCHZk2B77gXw",   # verified ✓
+    "Nonstop Dan":   "UCLQ5XNN9iT4DmCbZXpy5Fdw",   
 }
 
 
@@ -838,7 +846,8 @@ class IFECrawler:
 
     def _get_transcript(self, video_id: str):
         try:
-            segs = YouTubeTranscriptApi.get_transcript(video_id, languages=["en", "en-US", "en-GB"])
+            fetched = YouTubeTranscriptApi().fetch(video_id, languages=["en", "en-US", "en-GB"])
+            segs = [{"text": s.text, "start": s.start} for s in fetched]
             if not segs:
                 return False, None, [], ""
             full = " ".join(s["text"] for s in segs)

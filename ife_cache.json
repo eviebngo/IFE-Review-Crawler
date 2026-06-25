@@ -26,22 +26,32 @@
         "seat": true
       },
       "transcript_available": true,
-      "transcript_excerpt": "The ICE system on the A380 features a 23-inch widescreen monitor in first class with over 6,500 channels including movies, TV series, music, and games.",
+      "transcript_excerpt": "you'll find some of the biggest movies ever made",
       "captions": [
         {
-          "timestamp": "0:42",
-          "text": "So here we have the ICE touchscreen — that stands for Information, Communication, Entertainment.",
-          "start_seconds": 42
+          "timestamp": "0:15",
+          "start_seconds": 15,
+          "text": "you'll find some of the biggest movies ever made"
         },
         {
-          "timestamp": "1:15",
-          "text": "Over 6,500 channels of content available on this flight. The screen is 23 inches with really good resolution.",
-          "start_seconds": 75
+          "timestamp": "0:51",
+          "start_seconds": 51,
+          "text": "to Bollywood"
         },
         {
-          "timestamp": "3:08",
-          "text": "The noise-cancelling headsets they hand out are genuinely decent. Not Bose, but solid.",
-          "start_seconds": 188
+          "timestamp": "1:19",
+          "start_seconds": 79,
+          "text": "But if you're not in the mood for a movie"
+        },
+        {
+          "timestamp": "1:51",
+          "start_seconds": 111,
+          "text": "stay in touch with your friends with our onboard wifi."
+        },
+        {
+          "timestamp": "2:21",
+          "start_seconds": 141,
+          "text": "the more you'll be rewarded if you're a member of Skywards"
         }
       ],
       "ife_specs": {},
@@ -74,25 +84,9 @@
         "seat": true,
         "connectivity": true
       },
-      "transcript_available": true,
-      "transcript_excerpt": "KrisWorld on the A350 is powered by Panasonic eX3. The 18-inch 1080p screen is responsive and the content library — over 1,800 movies — is one of the largest in the industry.",
-      "captions": [
-        {
-          "timestamp": "0:30",
-          "text": "KrisWorld, Singapore Airlines' own branded IFE, runs on the Panasonic eX3 platform.",
-          "start_seconds": 30
-        },
-        {
-          "timestamp": "2:10",
-          "text": "18-inch touchscreen, very fast response, and USB-A plus USB-C power on every seat.",
-          "start_seconds": 130
-        },
-        {
-          "timestamp": "4:45",
-          "text": "The content depth is exceptional — 1,800 movies, 27 audio channels, and full Bluetooth headphone pairing.",
-          "start_seconds": 285
-        }
-      ],
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -124,25 +118,9 @@
         "entertainment_system": true,
         "quality": true
       },
-      "transcript_available": true,
-      "transcript_excerpt": "Lufthansa's Thales AVANT system offers a 15.4-inch screen in business class. Touch response is average — the remote handset is more reliable.",
-      "captions": [
-        {
-          "timestamp": "1:00",
-          "text": "The AVANT system here — you've got a 15.4-inch screen, which frankly is on the smaller end for business class in 2022.",
-          "start_seconds": 60
-        },
-        {
-          "timestamp": "2:33",
-          "text": "Touch is a bit laggy. The remote handset on the armrest actually works better.",
-          "start_seconds": 153
-        },
-        {
-          "timestamp": "5:10",
-          "text": "Content library: about 300 movies and a handful of TV shows. Not the deepest catalog.",
-          "start_seconds": 310
-        }
-      ],
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -176,22 +154,32 @@
         "quality": true
       },
       "transcript_available": true,
-      "transcript_excerpt": "Comparing Emirates ICE to Qatar Oryx One: ICE wins on content volume, Oryx One on screen sharpness and touch responsiveness.",
+      "transcript_excerpt": "touchscreen TV a USB port and a TV",
       "captions": [
         {
-          "timestamp": "0:55",
-          "text": "ICE: 6,500+ channels. Oryx One: about 4,000. ICE takes the content volume trophy easily.",
-          "start_seconds": 55
+          "timestamp": "0:39",
+          "start_seconds": 39,
+          "text": "to Bangkok and The Travelers have"
         },
         {
-          "timestamp": "3:22",
-          "text": "But touch sensitivity — Qatar's Thales AVANT is much snappier. Emirates lags noticeably.",
-          "start_seconds": 202
+          "timestamp": "2:13",
+          "start_seconds": 133,
+          "text": "beautifully displayed here one thing I"
         },
         {
-          "timestamp": "6:10",
-          "text": "Both have live TV and moving map. Emirates' map is more detailed; Qatar's UI is cleaner.",
-          "start_seconds": 370
+          "timestamp": "5:38",
+          "start_seconds": 338,
+          "text": "touchscreen TV a USB port and a TV"
+        },
+        {
+          "timestamp": "6:04",
+          "start_seconds": 364,
+          "text": "is humongous according to the Internet"
+        },
+        {
+          "timestamp": "13:41",
+          "start_seconds": 821,
+          "text": "movies alone you've got a few dozens of"
         }
       ],
       "ife_specs": {},
@@ -225,22 +213,32 @@
         "seat": true
       },
       "transcript_available": true,
-      "transcript_excerpt": "Oryx One runs on Thales AVANT with a 17-inch 4K display in business class. Content: 4,000+ options including new releases within 90 days of theatrical.",
+      "transcript_excerpt": "movies TV audio and games quite",
       "captions": [
         {
-          "timestamp": "0:10",
-          "text": "Oryx One — Qatar's IFE brand — powered by Thales AVANT.",
-          "start_seconds": 10
+          "timestamp": "0:03",
+          "start_seconds": 3,
+          "text": "I'm not going to show you every move and"
         },
         {
-          "timestamp": "1:44",
-          "text": "17-inch 4K screen in Qsuite. Colors are vivid and the touch response is the fastest I've tested in this category.",
-          "start_seconds": 104
+          "timestamp": "0:42",
+          "start_seconds": 42,
+          "text": "for Wi-Fi on board"
         },
         {
-          "timestamp": "4:00",
-          "text": "New movie releases within 90 days of theatrical run. That's significantly faster than most competitors.",
-          "start_seconds": 240
+          "timestamp": "1:33",
+          "start_seconds": 93,
+          "text": "movies TV audio and games quite"
+        },
+        {
+          "timestamp": "2:04",
+          "start_seconds": 124,
+          "text": "interesting movies will suddenly pop up"
+        },
+        {
+          "timestamp": "2:39",
+          "start_seconds": 159,
+          "text": "Wi-Fi as it says there NFC HDMI"
         }
       ],
       "ife_specs": {},
@@ -272,25 +270,9 @@
         "connectivity": true,
         "quality": true
       },
-      "transcript_available": true,
-      "transcript_excerpt": "ANA's 777 runs the Panasonic eX3 with a 15.4-inch screen in economy. The system boots quickly and the Japanese content catalog is extensive.",
-      "captions": [
-        {
-          "timestamp": "0:22",
-          "text": "Panasonic eX3 here, same platform as Singapore's KrisWorld but with ANA's own content interface.",
-          "start_seconds": 22
-        },
-        {
-          "timestamp": "2:05",
-          "text": "Boot time is about 45 seconds from power-on to main menu. Fast.",
-          "start_seconds": 125
-        },
-        {
-          "timestamp": "5:30",
-          "text": "The Japanese film and TV catalog is the deepest I've seen on any non-Japanese carrier.",
-          "start_seconds": 330
-        }
-      ],
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -320,25 +302,9 @@
         "connectivity": true,
         "quality": true
       },
-      "transcript_available": true,
-      "transcript_excerpt": "PLANET is Turkish Airlines' IFE brand on the 787, built on Panasonic eX3. Offers 350+ movies and an expanding Turkish content section.",
-      "captions": [
-        {
-          "timestamp": "0:35",
-          "text": "PLANET — Turkish Airlines' branding for their Panasonic eX3 system. 16-inch screen in business.",
-          "start_seconds": 35
-        },
-        {
-          "timestamp": "2:50",
-          "text": "350+ movies, solid Turkish TV selection, and a surprisingly large international music library.",
-          "start_seconds": 170
-        },
-        {
-          "timestamp": "6:15",
-          "text": "Wi-Fi connectivity via Ku-band. Speeds were adequate for messaging, not great for streaming.",
-          "start_seconds": 375
-        }
-      ],
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -367,25 +333,9 @@
         "content": true,
         "connectivity": true
       },
-      "transcript_available": true,
-      "transcript_excerpt": "KLM's 787 runs Thales AVANT with a 12-inch economy screen. The UI is clean and Netflix-style browsing makes content discovery easy.",
-      "captions": [
-        {
-          "timestamp": "0:50",
-          "text": "KLM went with Thales AVANT for the 787. 12-inch economy screen — smaller than the competition.",
-          "start_seconds": 50
-        },
-        {
-          "timestamp": "2:40",
-          "text": "The UI is actually really clean. Browsing by genre, mood, or duration makes it easy to find something.",
-          "start_seconds": 160
-        },
-        {
-          "timestamp": "4:55",
-          "text": "USB-A charging only in economy — no USB-C, which is a miss in 2022.",
-          "start_seconds": 295
-        }
-      ],
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "YouTube",
@@ -416,22 +366,32 @@
         "connectivity": true
       },
       "transcript_available": true,
-      "transcript_excerpt": "Finnair's A350 uses Panasonic eX3 with a 13.3-inch economy screen. Strong Nordic content selection; Bluetooth audio pairing available at every seat.",
+      "transcript_excerpt": "award-winning in-flight entertainment",
       "captions": [
         {
-          "timestamp": "0:20",
-          "text": "Finnair A350 — Panasonic eX3 platform. 13.3-inch screen in economy, decent size.",
-          "start_seconds": 20
+          "timestamp": "0:07",
+          "start_seconds": 7,
+          "text": "award-winning in-flight entertainment"
         },
         {
-          "timestamp": "2:10",
-          "text": "Bluetooth headphone pairing at every seat — that's still uncommon in economy and really appreciated.",
-          "start_seconds": 130
+          "timestamp": "0:19",
+          "start_seconds": 19,
+          "text": "our competitors and innovate something"
         },
         {
-          "timestamp": "4:40",
-          "text": "Nordic content selection: Finnish, Swedish, Norwegian films and TV. Solid if you're into that.",
-          "start_seconds": 280
+          "timestamp": "0:33",
+          "start_seconds": 33,
+          "text": "Entertainment Systems the whole system"
+        },
+        {
+          "timestamp": "0:58",
+          "start_seconds": 58,
+          "text": "details concerning your flight and make"
+        },
+        {
+          "timestamp": "1:29",
+          "start_seconds": 89,
+          "text": "in flight entertainment system and what"
         }
       ],
       "ife_specs": {},
@@ -9366,7 +9326,60 @@
       "captions": [],
       "source_tier": 1,
       "source_name": "Press"
+    },
+    {
+      "url": "https://runwaygirlnetwork.com/2024/02/air-india-thales-avant-up/",
+      "title": "Press Release: Air India picks Thales AVANT Up IFE for 51 aircraftRunway Girl",
+      "year": 2024,
+      "ife_system": "Thales AVANT Up",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 15
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
     }
   ],
-  "last_updated": "2026-06-25T17:17:53.387042"
+  "last_updated": "2026-06-25T10:52:16.371600"
 }
