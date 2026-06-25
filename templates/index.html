@@ -11,7 +11,8 @@
   --text:#0d1117;--muted:#6e7681;--accent:#1f6feb;--accent-l:#ddf4ff;
   --hdr:#0d1117;--hdr-t:#7d8590;--mono:'Consolas','Menlo',monospace;
   --green:#2ea043;--green-bg:#d4edda;--purple:#8957e5;--purple-bg:#f0e8ff;
-  --r-em:#cf222e;--r-pa:#1f6feb;--r-th:#2ea043;--r-vi:#d29922;--r-qt:#6e40c9;
+  --orange:#a34800;--orange-bg:#fff1e0;
+  --r-em:#cf222e;--r-pa:#1f6feb;--r-th:#2ea043;--r-vi:#d29922;--r-qt:#6e40c9;--r-sa:#a34800;
 }
 html,body{height:100%;font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);font-size:13px}
 .app{display:flex;flex-direction:column;height:100vh;overflow:hidden}
@@ -95,9 +96,11 @@ tr[data-sys="thales"] td:first-child{border-left-color:var(--r-th)}
 tr[data-sys="emirates"] td:first-child{border-left-color:var(--r-em)}
 tr[data-sys="viasat"] td:first-child{border-left-color:var(--r-vi)}
 tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
+tr[data-sys="safran"] td:first-child{border-left-color:var(--r-sa)}
+tr[data-sys="rave"] td:first-child{border-left-color:var(--r-sa)}
 
 .c-n{width:36px;font-family:var(--mono);font-size:11px;color:var(--muted);padding-left:14px}
-.c-title{min-width:190px;max-width:260px}
+.c-title{min-width:220px;max-width:340px}
 .c-title strong{display:block;font-weight:600;line-height:1.35;margin-bottom:2px}
 .c-title a{font-size:10px;color:var(--accent);text-decoration:none;font-family:var(--mono)}
 .c-title a:hover{text-decoration:underline}
@@ -110,8 +113,8 @@ tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
 .c-sys{width:145px}
 .c-air{width:150px}
 .c-type{width:68px;text-align:center}
-.c-feat{width:170px}
 .c-tr{min-width:125px}
+.tr-inline{margin-top:5px;font-size:10.5px;color:var(--muted);line-height:1.45;font-style:italic;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
 /* IFE system badges — color by vendor */
 .sys{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;white-space:nowrap}
@@ -120,6 +123,7 @@ tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
 .sys-em{background:#ffdce0;color:#a40e26}
 .sys-vi{background:#fff3cd;color:#7d4e00}
 .sys-qt{background:#f0e8ff;color:#5a32a3}
+.sys-sa{background:#fff1e0;color:#a34800}
 .sys-xx{background:#f0f0f0;color:#6e6e6e}
 .sys.inferred{opacity:.72;border:1px dashed currentColor;background:transparent!important}
 
@@ -180,7 +184,7 @@ tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
 <header class="nav">
   <span class="brand">IFE<em>ReviewDB</em></span>
   <div class="vsep"></div>
-  <span class="nav-path">ife_cache › reviews</span>
+  <span class="nav-path">IFE · global reviews</span>
   <div class="nav-r">
     <div class="crawl">
       <div class="cdot" id="cdot"></div>
@@ -230,12 +234,11 @@ tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
     <thead>
       <tr>
         <th class="c-n">#</th>
-        <th class="c-title">Title / Source / Specs</th>
+        <th class="c-title">Title / Source / Excerpt</th>
         <th class="c-year">Year</th>
         <th class="c-sys">IFE System</th>
         <th class="c-air">Airlines</th>
         <th class="c-type">Type</th>
-        <th class="c-feat">Features</th>
         <th class="c-tr">Transcript</th>
       </tr>
     </thead>
@@ -272,7 +275,15 @@ const DEFS = [
 
 const SYS_MAP = {
   panasonic:'pa', thales:'th', emirates:'em', viasat:'vi',
-  oryx:'qt', krisworld:'qt', studioex:'pa',
+  oryx:'qt', krisworld:'qt', studiocx:'pa',
+  safran:'sa', rave:'sa', spi:'sa',
+};
+const FEAT_LABELS = {
+  entertainment_system:'IFE', connectivity:'WiFi', seat_display:'Screen',
+  '4k_display':'4K', bluetooth_audio:'BT Audio', usb_power:'USB',
+  content_library:'Content', streaming:'Streaming', touch_screen:'Touch',
+  noise_cancelling:'ANC', controller:'Controller', wifi:'WiFi',
+  live_tv:'Live TV', moving_map:'Map',
 };
 function sysClass(name){
   if(!name) return 'sys-xx';
@@ -483,7 +494,10 @@ function render(d){
     const n=offset+i+1;
     const mt=r.media_type||'article';
     const airlines=(r.airlines_mentioned||[]).map(a=>'<span class="air-tag">'+esc(a.keyword)+'</span>').join('');
-    const feats=Object.keys(r.ife_features||{}).map(f=>'<span class="feat-tag">'+esc(f)+'</span>').join('');
+    const feats=Object.keys(r.ife_features||{}).map(f=>{
+      const label=FEAT_LABELS[f]||f.replace(/_/g,' ');
+      return '<span class="feat-tag">'+esc(label)+'</span>';
+    }).join('');
     const sysCls=sysClass(r.ife_system);
     const sysDat=sysData(r.ife_system);
     const tier=r.source_tier||3;
@@ -495,6 +509,9 @@ function render(d){
       specs.wifi_type?'WiFi: '+specs.wifi_type:'',
       specs.controller||'',
     ].filter(Boolean).map(s=>'<span class="spec-chip">'+esc(s)+'</span>').join('');
+    const exc=r.transcript_excerpt
+      ? '“'+esc(r.transcript_excerpt.slice(0,155))+(r.transcript_excerpt.length>155?'…”':'”')
+      : '';
     const tr=document.createElement('tr');
     if(sysDat) tr.dataset.sys=sysDat;
     tr.innerHTML=
@@ -506,12 +523,13 @@ function render(d){
         '</div>'+
         '<a href="'+esc(r.url||'#')+'" target="_blank" rel="noopener">'+host(r.url)+'</a>'+
         (specChips?'<div class="specs">'+specChips+'</div>':'')+
+        (feats?'<div class="feat-tags" style="margin-top:3px">'+feats+'</div>':'')+
+        (exc?'<div class="tr-inline">'+exc+'</div>':'')+
       '</td>'+
       '<td class="c-year">'+(r.year||'—')+'</td>'+
       '<td class="c-sys">'+(r.ife_system?'<span class="sys '+sysCls+(r.ife_system_inferred?' inferred':'')+'">'+esc(r.ife_system)+(r.ife_system_inferred?' <span title="Inferred from airline/aircraft">~</span>':'')+'</span>':'<span style="color:var(--muted)">—</span>')+'</td>'+
       '<td class="c-air"><div class="air-tags">'+(airlines||'<span style="color:var(--muted)">—</span>')+'</div></td>'+
       '<td class="c-type"><span class="type-'+(mt==='video'?'v':'a')+'">'+mt+'</span></td>'+
-      '<td class="c-feat"><div class="feat-tags">'+(feats||'<span style="color:var(--muted)">—</span>')+'</div></td>'+
       '<td class="c-tr">'+buildTrans(r,n)+'</td>';
     tb.appendChild(tr);
   });

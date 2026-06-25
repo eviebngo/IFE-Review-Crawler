@@ -154,7 +154,15 @@ def filter_ife_reviews():
         filtered = data_manager.filter_reviews(body)
 
         if search:
-            filtered = [r for r in filtered if search in (r.get("title") or "").lower()]
+            def _matches(r):
+                if search in (r.get("title") or "").lower():
+                    return True
+                if search in (r.get("transcript_excerpt") or "").lower():
+                    return True
+                if any(search in (c.get("text") or "").lower() for c in r.get("captions") or []):
+                    return True
+                return False
+            filtered = [r for r in filtered if _matches(r)]
 
         paged = data_manager.paginate(filtered, page, PER_PAGE)
         return jsonify({
