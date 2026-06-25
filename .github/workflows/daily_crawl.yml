@@ -27,12 +27,6 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python daily_crawl.py
 
-      - name: Generate AI summaries for new entries
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python generate_summaries.py
-        continue-on-error: true   # don't fail the whole workflow if summarizer errors
-
       - name: Save updated cache
         run: |
           git config user.name "github-actions[bot]"

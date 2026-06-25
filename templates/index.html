@@ -236,7 +236,7 @@ tr[data-sys="qatar"] td:first-child{border-left-color:var(--r-qt)}
         <th class="c-air">Airlines</th>
         <th class="c-type">Type</th>
         <th class="c-feat">Features</th>
-        <th class="c-tr">AI Summary / Transcript</th>
+        <th class="c-tr">Transcript</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -521,42 +521,22 @@ function render(d){
 }
 
 function buildTrans(r,n){
-  const hasSummary = !!r.ai_summary;
-  const hasTrans   = r.transcript_available && ((r.captions||[]).length>0 || r.transcript_excerpt);
-  if(!hasSummary && !hasTrans) return '<span class="tr-none">—</span>';
-
+  if(!r.transcript_available) return '<span class="tr-none">No transcript</span>';
   const id='dr'+n;
-
-  // AI summary block
-  const summaryHtml = hasSummary
-    ? '<div class="ai-summary"><div class="ai-label">✦ AI Summary</div>'+esc(r.ai_summary)+'</div>'
-    : '';
-
-  // Transcript excerpt (most IFE-relevant quote)
-  const excHtml = r.transcript_excerpt
-    ? '<div class="tr-exc">'+esc(r.transcript_excerpt)+'</div>'
-    : '';
-
-  // Timestamped IFE quote captions
+  const exc=r.transcript_excerpt?'<div class="tr-exc">'+esc(r.transcript_excerpt)+'</div>':'';
   const ytBase = (r.url||'').includes('youtube.com/watch?v=')
     ? r.url.split('&')[0] : null;
-  const caps = (r.captions||[]).map(c=>{
-    const ts   = esc(c.timestamp);
+  const caps=(r.captions||[]).map(c=>{
+    const ts = esc(c.timestamp);
     const tsEl = (ytBase && c.start_seconds != null)
       ? '<a class="cap-ts cap-ts-link" href="'+ytBase+'&t='+c.start_seconds+'s" target="_blank" rel="noopener">'+ts+'</a>'
       : '<span class="cap-ts">'+ts+'</span>';
     return '<div class="cap-row">'+tsEl+esc(c.text)+'</div>';
   }).join('');
-  const capsHtml = caps
-    ? '<div class="cap-section"><div class="cap-hd">IFE Quotes (click timestamp to jump)</div>'+caps+'</div>'
-    : '';
-
-  // Button: "✦ AI Summary" if we have one, otherwise "▶ Transcript"
-  const btnCls = hasSummary ? 'tr-btn ai-btn' : 'tr-btn';
-  const btnLbl = hasSummary ? '✦ AI Summary' : '▶ Transcript';
-
-  return '<span class="'+btnCls+'" data-dr="'+id+'">'+btnLbl+'</span>'+
-    '<div class="tr-drawer" id="'+id+'">'+summaryHtml+excHtml+capsHtml+'</div>';
+  return '<span class="tr-btn" data-dr="'+id+'">▶ Transcript</span>'+
+    '<div class="tr-drawer" id="'+id+'">'+exc+
+    (caps?'<div class="cap-section"><div class="cap-hd">IFE Quotes (click timestamp to jump)</div>'+caps+'</div>':'')+
+    '</div>';
 }
 
 document.addEventListener('click',e=>{
