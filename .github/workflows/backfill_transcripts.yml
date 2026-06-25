@@ -17,12 +17,15 @@ jobs:
           python-version: '3.11'
           cache: pip
 
+      - name: Install ffmpeg
+        run: sudo apt-get install -y ffmpeg
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Fetch missing transcripts
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          WHISPER_MODEL: base
         run: python backfill_transcripts.py
 
       - name: Save updated cache
@@ -31,6 +34,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ife_cache.json
           if ! git diff --staged --quiet; then
-            git commit -m "chore: backfill transcripts (multilingual)"
+            git commit -m "chore: backfill transcripts (YouTube + Whisper)"
             git push
           fi

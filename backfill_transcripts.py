@@ -3,10 +3,11 @@ Retroactively fetches transcripts for all YouTube videos in the cache
 that currently have no transcript.
 
 Strategy (in order):
-  1. youtube-transcript-api (fast, free — manual + auto captions)
-  2. OpenAI Whisper via yt-dlp audio download (covers videos with no captions)
+  1. youtube-transcript-api  — fast, free, manual + auto captions
+  2. Local Whisper via yt-dlp — covers videos with no YouTube captions at all
 
-Requires OPENAI_API_KEY in .env for the Whisper fallback.
+No API keys required. Requires: yt-dlp, openai-whisper, ffmpeg in PATH.
+Set WHISPER_MODEL env var to override model size (default: base).
 Saves a checkpoint every 25 videos.
 """
 import json
@@ -18,15 +19,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-try:
-    from dotenv import load_dotenv
-    load_dotenv(Path(__file__).parent / ".env")
-except ImportError:
-    pass
-
 from youtube_transcript_api import YouTubeTranscriptApi
-
-OPENAI_KEY = os.environ.get("OPENAI_API_KEY", "")
 
 IFE_KEYWORDS = [
     "ife", "inflight entertainment", "in-flight entertainment",
@@ -96,14 +89,29 @@ def fetch_yt_segs(api, video_id):
     return None
 
 
-def fetch_whisper_segs(video_id):
-    """Download audio with yt-dlp and transcribe with OpenAI Whisper."""
-    if not OPENAI_KEY:
+def load_whisper_model():
+    """Load local Whisper model once. Returns None if not installed."""
+    try:
+        import whisper
+        size = os.environ.get("WHISPER_MODEL", "base")
+        print(f"Loading Whisper '{size}' model (first run downloads ~145MB)...")
+        return whisper.load_model(size)
+    except ImportError:
+        print("openai-whisper not installed — run: pip install openai-whisper")
+        return None
+    except Exception as e:
+        print(f"Whisper load error: {e}")
+        return None
+
+
+def fetch_whisper_segs(model, video_id):
+    """Download audio with yt-dlp and transcribe with local Whisper."""
+    if model is None:
         return None
     try:
         import yt_dlp
-        import openai
     except ImportError:
+        print("  yt-dlp not installed — run: pip install yt-dlp")
         return None
 
     try:
@@ -122,23 +130,12 @@ def fetch_whisper_segs(video_id):
             if not files:
                 return None
             audio_path = os.path.join(tmpdir, files[0])
+            result = model.transcribe(audio_path, verbose=False)
 
-            if os.path.getsize(audio_path) > 24 * 1024 * 1024:
-                print(f"    audio too large ({os.path.getsize(audio_path)//1024//1024}MB), skipping Whisper")
-                return None
-
-            client = openai.OpenAI(api_key=OPENAI_KEY)
-            with open(audio_path, "rb") as f:
-                result = client.audio.transcriptions.create(
-                    model="whisper-1",
-                    file=f,
-                    response_format="verbose_json",
-                    timestamp_granularities=["segment"],
-                )
-
-        if not getattr(result, "segments", None):
+        segments = result.get("segments") or []
+        if not segments:
             return None
-        return [{"text": seg.text, "start": seg.start} for seg in result.segments]
+        return [{"text": seg["text"], "start": seg["start"]} for seg in segments]
     except Exception as e:
         print(f"    Whisper error: {e}")
         return None
@@ -154,12 +151,9 @@ def main():
         if "youtube.com/watch?v=" in r.get("url", "") and not r.get("transcript_available")
     ]
     print(f"Videos without transcript: {len(targets)}")
-    if OPENAI_KEY:
-        print("Whisper fallback: ENABLED")
-    else:
-        print("Whisper fallback: DISABLED (set OPENAI_API_KEY to enable)")
 
     api = YouTubeTranscriptApi()
+    whisper_model = load_whisper_model()
     yt_ok = yt_fail = whisper_ok = whisper_fail = 0
 
     for idx, r in enumerate(targets, 1):
@@ -175,8 +169,8 @@ def main():
             yt_ok += 1
             print(f"[{idx}/{len(targets)}] YT-OK    {vid_id}")
         else:
-            # 2. Whisper fallback
-            segs = fetch_whisper_segs(vid_id)
+            # 2. Local Whisper fallback
+            segs = fetch_whisper_segs(whisper_model, vid_id)
             if segs:
                 caps, excerpt = segs_to_result(segs)
                 r["transcript_available"] = True
@@ -184,7 +178,7 @@ def main():
                 r["captions"] = caps
                 r["transcript_source"] = "whisper"
                 whisper_ok += 1
-                print(f"[{idx}/{len(targets)}] WH-OK    {vid_id}  ({len(caps)} caps via Whisper)")
+                print(f"[{idx}/{len(targets)}] WH-OK    {vid_id}  ({len(caps)} caps)")
             else:
                 whisper_fail += 1
                 yt_fail += 1

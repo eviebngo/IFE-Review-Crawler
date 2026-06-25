@@ -5,4 +5,4 @@ gunicorn
 youtube-transcript-api
 python-dotenv
 yt-dlp
-openai
+openai-whisper

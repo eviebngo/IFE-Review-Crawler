@@ -25,7 +25,7 @@ jobs:
       - name: Run crawl
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          WHISPER_MODEL: base
         run: python daily_crawl.py
 
       - name: Save updated cache

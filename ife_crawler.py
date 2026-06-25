@@ -524,10 +524,10 @@ class IFECrawler:
         "Accept-Language": "en-US,en;q=0.9",
     }
 
-    def __init__(self, verify_ssl: bool = False, api_key: str = "", openai_key: str = ""):
+    def __init__(self, verify_ssl: bool = False, api_key: str = ""):
         self.verify_ssl = verify_ssl
         self.api_key = api_key
-        self.openai_key = openai_key
+        self._whisper_model = None
         self.visited: set = set()
         self.results: List[dict] = []
         self.session = requests.Session()
@@ -1017,17 +1017,25 @@ class IFECrawler:
             if "IpBlocked" in type(e).__name__:
                 ip_blocked = True
 
-        # ── 2. Whisper fallback (skipped when IP-blocked — download would fail too) ──
-        if self.openai_key and not ip_blocked:
+        # ── 2. Whisper fallback (skipped when IP-blocked — yt-dlp would fail too) ──
+        if not ip_blocked:
             return self._whisper_transcript(video_id, score_kws)
 
         return False, None, [], ""
 
+    def _load_whisper(self):
+        """Lazy-load the local Whisper model (cached on self after first call)."""
+        if self._whisper_model is None:
+            import whisper as _whisper
+            import os as _os
+            size = _os.environ.get("WHISPER_MODEL", "base")
+            self._whisper_model = _whisper.load_model(size)
+        return self._whisper_model
+
     def _whisper_transcript(self, video_id: str, score_kws: list):
-        """Download audio via yt-dlp and transcribe with OpenAI Whisper."""
+        """Download audio via yt-dlp and transcribe with local Whisper model."""
         try:
             import yt_dlp
-            import openai
             import tempfile
             import os as _os
 
@@ -1047,22 +1055,14 @@ class IFECrawler:
                     return False, None, [], ""
                 audio_path = _os.path.join(tmpdir, files[0])
 
-                if _os.path.getsize(audio_path) > 24 * 1024 * 1024:
-                    return False, None, [], ""
+                model = self._load_whisper()
+                result = model.transcribe(audio_path, verbose=False)
 
-                client = openai.OpenAI(api_key=self.openai_key)
-                with open(audio_path, "rb") as f:
-                    result = client.audio.transcriptions.create(
-                        model="whisper-1",
-                        file=f,
-                        response_format="verbose_json",
-                        timestamp_granularities=["segment"],
-                    )
-
-            if not getattr(result, "segments", None):
+            segments = result.get("segments") or []
+            if not segments:
                 return False, None, [], ""
 
-            segs = [{"text": seg.text, "start": seg.start} for seg in result.segments]
+            segs = [{"text": seg["text"], "start": seg["start"]} for seg in segments]
             excerpt, caps, full = self._segs_to_caps(segs, score_kws)
             return True, excerpt, caps, full
         except Exception:
