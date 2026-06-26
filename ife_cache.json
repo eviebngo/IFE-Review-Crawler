@@ -60,39 +60,6 @@
       "ife_system_inferred": false
     },
     {
-      "url": "https://www.youtube.com/watch?v=xhxqIofWbvY",
-      "title": "Singapore Airlines KrisWorld Inflight Entertainment System",
-      "year": 2022,
-      "ife_system": "Panasonic eX3",
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "singapore airlines",
-          "mentions": 11
-        }
-      ],
-      "aircraft_mentioned": [
-        {
-          "keyword": "a350",
-          "mentions": 9
-        }
-      ],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "quality": true,
-        "seat": true,
-        "connectivity": true
-      },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "ife_specs": {},
-      "source_tier": 2,
-      "source_name": "YouTube",
-      "ife_system_inferred": false
-    },
-    {
       "url": "https://www.youtube.com/watch?v=fZiaWBQZFKE",
       "title": "Most Modern Ever? Entertainment System Onboard Lufthansa Airbus A350",
       "year": 2022,
