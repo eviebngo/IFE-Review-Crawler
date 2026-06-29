@@ -74,6 +74,24 @@ def is_official_promo(title: str) -> bool:
 
 
 # ── IFE keyword gate ──────────────────────────────────────────────────────────
+def _is_spam_video(title: str, duration_iso: str = "") -> bool:
+    """Return True for Shorts, viral spam, or non-IFE hashtag floods."""
+    hashtags = re.findall(r'#\w+', title)
+    if len(hashtags) >= 4:
+        return True
+    tl = title.lower()
+    if "#shorts" in tl or "#short " in tl or "| shorts" in tl:
+        return True
+    # ISO 8601 duration: PT23S = 23s, PT1M = 60s — reject under 90 seconds
+    if duration_iso:
+        m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration_iso)
+        if m:
+            h, mn, s = (int(x or 0) for x in m.groups())
+            if h * 3600 + mn * 60 + s < 90:
+                return True
+    return False
+
+
 IFE_TITLE_KEYWORDS = [
     "inflight entertainment", "in-flight entertainment", "in flight entertainment",
     "ife system", "ife review", "ife ",
@@ -761,6 +779,10 @@ class IFECrawler:
         snippet = item.get("snippet", {})
         title = snippet.get("title", "").strip()
         description = snippet.get("description", "").strip()
+
+        duration_iso = item.get("contentDetails", {}).get("duration", "")
+        if _is_spam_video(title, duration_iso):
+            return None
 
         if not self._has_ife_keyword(title) and not self._has_ife_keyword(description):
             return None
