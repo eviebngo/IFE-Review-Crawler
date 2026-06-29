@@ -269,13 +269,25 @@
         "connectivity": true,
         "quality": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "P incent",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "P incent"
+        },
+        {
+          "timestamp": "1:23",
+          "start_seconds": 83,
+          "text": "Oh"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "Creator",
-      "ife_system_inferred": false
+      "ife_system_inferred": false,
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=H89Sbjgb-_Q",
@@ -300,13 +312,20 @@
         "content": true,
         "connectivity": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "Thanks a lot.",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "Thanks a lot."
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "Creator",
-      "ife_system_inferred": false
+      "ife_system_inferred": false,
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=TbnSNr5Bm-Y",
@@ -575,13 +594,20 @@
       "ife_features": {
         "entertainment_system": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "I'm going to go to the next one.",
+      "captions": [
+        {
+          "timestamp": "2:00",
+          "start_seconds": 120,
+          "text": "I'm going to go to the next one."
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "Creator",
-      "ife_system_inferred": false
+      "ife_system_inferred": false,
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=1oY3oUg7M8M",
@@ -918,13 +944,20 @@
         "entertainment_system": true,
         "connectivity": true
       },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "After this negotiations that's released,...",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "After this negotiations that's released,..."
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "Creator",
-      "ife_system_inferred": false
+      "ife_system_inferred": false,
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=X3d_jQhz7dI",
@@ -1037,13 +1070,25 @@
         }
       ],
       "ife_features": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "19 Koen",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "19 Koen"
+        },
+        {
+          "timestamp": "2:48",
+          "start_seconds": 168,
+          "text": "Riffe River"
+        }
+      ],
       "ife_specs": {},
       "source_tier": 2,
       "source_name": "Creator",
-      "ife_system_inferred": true
+      "ife_system_inferred": true,
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=8AD7mGCoCy8",
@@ -1395,11 +1440,18 @@
         "seat": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "uced,",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "uced,"
+        }
+      ],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=46OhnXuOg20",
@@ -1436,11 +1488,23 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "you",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "you"
+        },
+        {
+          "timestamp": "2:30",
+          "start_seconds": 150,
+          "text": "you"
+        }
+      ],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=8Nh1LfOHS4g",
@@ -1657,11 +1721,18 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "Puis",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "Puis"
+        }
+      ],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "transcript_source": "whisper"
     },
     {
       "url": "https://simpleflying.com/singapore-airlines-krisworld-ife-guide/",
@@ -1755,11 +1826,18 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "ctor insecure",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "ctor insecure"
+        }
+      ],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=bAMGtSZwkXI",
@@ -1892,11 +1970,23 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "you",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "you"
+        },
+        {
+          "timestamp": "2:30",
+          "start_seconds": 150,
+          "text": "you"
+        }
+      ],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=SU-JipCtbdM",
@@ -1925,11 +2015,18 @@
         "seat": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "uced,",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "uced,"
+        }
+      ],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "transcript_source": "whisper"
     },
     {
       "url": "https://www.youtube.com/watch?v=RJLsSTOqjlQ",
@@ -2090,11 +2187,18 @@
         "entertainment_system": true
       },
       "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
+      "transcript_available": true,
+      "transcript_excerpt": "Puis",
+      "captions": [
+        {
+          "timestamp": "0:00",
+          "start_seconds": 0,
+          "text": "Puis"
+        }
+      ],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "transcript_source": "whisper"
     },
     {
       "url": "https://apex.aero/articles/giving-passengers-choice-is-key-to-sias-new-premium-economy-ife-strategy/",
