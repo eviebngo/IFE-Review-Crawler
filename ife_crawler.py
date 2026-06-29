@@ -92,9 +92,22 @@ def _is_spam_video(title: str, duration_iso: str = "") -> bool:
     return False
 
 
+# Broad keywords that are only valid when they appear in the TITLE — not descriptions.
+# Descriptions of AI drama, movie reviews, etc. also contain these words.
+_IFE_TITLE_ONLY_KEYWORDS = {
+    "business class review", "first class review", "economy class review",
+    "premium economy review", "cabin review", "seat review", "flight review",
+    "entertainment screen", "video on demand",
+    "inflight wifi review", "airline wifi review", "starlink wifi flight",
+}
+
+# Standalone "ife" word — needs boundary check to avoid matching "life", "wife", "knife"
+_IFE_WORD_RE = re.compile(r'\bife\b', re.IGNORECASE)
+
+
 IFE_TITLE_KEYWORDS = [
     "inflight entertainment", "in-flight entertainment", "in flight entertainment",
-    "ife system", "ife review", "ife ",
+    "ife system", "ife review",
     "panasonic ex3", "panasonic ex2", "panasonic ex1", "panasonic astrova",
     "thales avant", "thales inflyt", "safran rave", "spi rave",
     "emirates ice", "viasat ife", "oryx one", "krisworld",
@@ -784,7 +797,11 @@ class IFECrawler:
         if _is_spam_video(title, duration_iso):
             return None
 
-        if not self._has_ife_keyword(title) and not self._has_ife_keyword(description):
+        title_match = self._has_ife_keyword(title)
+        # Description-only: skip broad keywords (flight review, seat review, etc.)
+        # so AI drama / movie review descriptions don't slip through via "life"/"wife".
+        desc_match = self._has_ife_keyword(description, skip_broad=True)
+        if not title_match and not desc_match:
             return None
 
         published_at = snippet.get("publishedAt", "")
@@ -1159,9 +1176,14 @@ class IFECrawler:
 
     # ── Text helpers ──────────────────────────────────────────────────────────
 
-    def _has_ife_keyword(self, text: str) -> bool:
+    def _has_ife_keyword(self, text: str, skip_broad: bool = False) -> bool:
         t = text.lower()
-        return any(kw in t for kw in IFE_TITLE_KEYWORDS)
+        for kw in IFE_TITLE_KEYWORDS:
+            if skip_broad and kw in _IFE_TITLE_ONLY_KEYWORDS:
+                continue
+            if kw in t:
+                return True
+        return bool(_IFE_WORD_RE.search(t))
 
     def _detect_system(self, text: str) -> Optional[str]:
         t = text.lower()

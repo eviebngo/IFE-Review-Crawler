@@ -16218,7 +16218,61 @@
       "captions": [],
       "source_tier": 1,
       "source_name": "Press"
+    },
+    {
+      "url": "https://runwaygirlnetwork.com/2025/03/new-gui-and-actual-4k-shine-in-cathays-a321neo-panasonic-ife/",
+      "title": "New GUI and actual 4K shine in Cathay’s A321neo Panasonic IFE - Runway GirlRunway Girl",
+      "year": 2025,
+      "ife_system": "Anuvu",
+      "ife_system_inferred": false,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 11
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 1
+        },
+        {
+          "keyword": "tap air portugal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 7
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
     }
   ],
-  "last_updated": "2026-06-29T09:07:53.189922"
+  "last_updated": "2026-06-29T14:04:59.214355"
 }
