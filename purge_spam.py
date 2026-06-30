@@ -1,17 +1,18 @@
-"""Targeted purge: remove known bad entries and junk patterns."""
+"""Targeted purge: remove junk videos and non-IFE press articles."""
 import json
 import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-# Exact title substring matches for known bad entries
 BAD_TITLE_SUBSTRINGS = [
     "DALE WAS ACTING REALLY STRANGE",
     "Kannur Squad Review",
+    "Book-The-Cook",
+    "book the cook",
+    "Book the Cook",
 ]
 
-# Junk title regex — AI drama, non-aviation, spam
 _JUNK_RE = re.compile(
     r'\bzerg\b'
     r'|\bevolution\s+system\b'
@@ -58,12 +59,31 @@ _JUNK_RE = re.compile(
     re.IGNORECASE,
 )
 
+# IFE-specific terms that should appear in a relevant press article
+_IFE_CONTENT_KEYWORDS = [
+    "inflight entertainment", "in-flight entertainment", "ife system",
+    "seatback", "seat-back", "seat back screen", "entertainment screen",
+    "panasonic", "thales", "safran", "rave ife", "krisworld", "oryx",
+    "studiocx", "wifi", "wi-fi", "onboard wifi", "gogo", "viasat",
+    "entertainment system", "video on demand", "noise cancelling headphone",
+]
 
-def _is_spam(title: str) -> bool:
+
+def _is_spam(title):
     if len(re.findall(r'#\w+', title)) >= 4:
         return True
     tl = title.lower()
     return "#shorts" in tl or "#short " in tl or "| shorts" in tl
+
+
+def _press_has_ife_content(r):
+    """Return True if press article actually covers IFE topics."""
+    combined = " ".join([
+        r.get("title", ""),
+        r.get("excerpt", "") or "",
+        r.get("content", "") or "",
+    ]).lower()
+    return any(kw in combined for kw in _IFE_CONTENT_KEYWORDS) or bool(r.get("ife_features"))
 
 
 with open("ife_cache.json", encoding="utf-8") as f:
@@ -74,13 +94,16 @@ kept, removed = [], []
 
 for r in data["reviews"]:
     title = r.get("title", "")
+    is_press = r.get("source_tier") == 1
+
     bad = (
         _is_spam(title)
         or _JUNK_RE.search(title)
-        or any(s in title for s in BAD_TITLE_SUBSTRINGS)
+        or any(s.lower() in title.lower() for s in BAD_TITLE_SUBSTRINGS)
+        or (is_press and not _press_has_ife_content(r))
     )
     if bad:
-        removed.append(title[:90])
+        removed.append(f"[{'press' if is_press else 'video'}] {title[:80]}")
     else:
         kept.append(r)
 

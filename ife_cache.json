@@ -15039,7 +15039,282 @@
       "captions": [],
       "source_tier": 1,
       "source_name": "Press"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MMxUQQCnEL8",
+      "title": "14 HOURS ONBOARD CATHAY PACIFIC BUSINESS Class From Hong Kong to Rome",
+      "year": 2026,
+      "published_at": "2026-06-28T06:30:16Z",
+      "channel_title": "Aidan Unfiltered",
+      "view_count": 6702,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": true,
+      "transcript_excerpt": "many many awards in their entertainment…",
+      "captions": [
+        {
+          "timestamp": "13:42",
+          "start_seconds": 822,
+          "text": "many many awards in their entertainment"
+        }
+      ],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7T5BVYmNNGI",
+      "title": "Inside Cathay Pacific's 777 Regional Business Class | Hong Kong to Shanghai",
+      "year": 2026,
+      "published_at": "2026-06-30T08:00:28Z",
+      "channel_title": "Luke Crisp ",
+      "view_count": 118,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "an extendable leg rest, AC power, USBA…",
+      "captions": [
+        {
+          "timestamp": "3:36",
+          "start_seconds": 216,
+          "text": "an extendable leg rest, AC power, USBA"
+        }
+      ],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=raBrD9QFJYo",
+      "title": "Cathay Pacific Economy Class | The best in the world? | Shanghai to Hong Kong | With LOUNGE!",
+      "year": 2026,
+      "published_at": "2026-06-26T07:00:07Z",
+      "channel_title": "Fly_with_jo",
+      "view_count": 576,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_7sSSey0Hfg",
+      "title": "Probé Premium Business de LATAM en Boeing 787 — y el NUEVO aeropuerto de Lima me sorprendió más 🤯",
+      "year": 2026,
+      "published_at": "2026-06-28T21:45:04Z",
+      "channel_title": "Nicolás Larenas",
+      "view_count": 3856,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "level",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 14
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": true,
+      "transcript_excerpt": "extensive. I saw that there were about 100 options to watch. You have movies, you have TV series,…",
+      "captions": [
+        {
+          "timestamp": "10:02",
+          "start_seconds": 602,
+          "text": "the TAM seats are like on this type of flight and on this type of plane. That was the idea. Well,"
+        },
+        {
+          "timestamp": "11:29",
+          "start_seconds": 689,
+          "text": "sorry—in all of Latin America. We have American Airlines, Delta, Swiss, British Airways, and UAT"
+        },
+        {
+          "timestamp": "18:06",
+          "start_seconds": 1086,
+          "text": "extensive. I saw that there were about 100 options to watch. You have movies, you have TV series,"
+        },
+        {
+          "timestamp": "20:24",
+          "start_seconds": 1224,
+          "text": "call the cabin crew—whatever you want. You can do it all from this control to make your"
+        }
+      ],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=q2vZsO2PkYE",
+      "title": "South African Airways A330-300 | Johannesburg - Cape Town | Trip Report",
+      "year": 2026,
+      "published_at": "2026-06-27T10:00:30Z",
+      "channel_title": "GM Aviation",
+      "view_count": 12427,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uzcwYv2ltd4",
+      "title": "I Flew Singapore Airlines A380 Economy to Sydney — Here's What It's Actually Like",
+      "year": 2026,
+      "published_at": "2026-06-26T08:21:14Z",
+      "channel_title": "Fly with Brandon",
+      "view_count": 768,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "screen_size": "11\"",
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "entertainment screen is 11 in with an…",
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-06-29T14:04:59.214355"
+  "last_updated": "2026-06-30T09:11:29.204187"
 }
