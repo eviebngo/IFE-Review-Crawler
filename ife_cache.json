@@ -6446,41 +6446,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xB71bJ7X_ZA",
-      "title": "THE BEST ROBLOX IN FLIGHT ENTERTAINMENT [KLM Flight Review]",
-      "year": 2025,
-      "ife_system": "Thales AVANT",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "klm",
-          "mentions": 4
-        }
-      ],
-      "aircraft_mentioned": [
-        {
-          "keyword": "787",
-          "mentions": 1
-        },
-        {
-          "keyword": "dreamliner",
-          "mentions": 1
-        },
-        {
-          "keyword": "boeing",
-          "mentions": 1
-        }
-      ],
-      "ife_features": {},
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=aBMMF31u0TU",
       "title": "Singapore Airlines Economy Class Review | Still The Best In 2026?",
       "year": 2026,
@@ -7731,28 +7696,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=3c8MGOKpZJM",
-      "title": "After 7 years together, she learned she was a substitute, left, married a tycoon—he regretted it!",
-      "year": 2026,
-      "published_at": "2026-06-24T11:30:05Z",
-      "channel_title": "CruelLove Drama",
-      "view_count": 902,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=EdRFk7jj7QU",
       "title": "Delta Airlines Boeing 757-200 Domestic First Class review | Atlanta to New York JFK (The 757th 757!)",
       "year": 2026,
@@ -7815,29 +7758,6 @@
         "entertainment_system": true,
         "seat": true,
         "usb_power": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=4IObXFZMFq8",
-      "title": "🔥Reborn in 1932, He Gets an Infinite Weapon Exchange System and Builds an Invincible Resistance Army",
-      "year": 2026,
-      "published_at": "2026-06-22T10:30:26Z",
-      "channel_title": "Bella's Comic Chronicles",
-      "view_count": 1859,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "connectivity": true
       },
       "ife_specs": {},
       "transcript_available": false,
@@ -8502,34 +8422,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Nm8YB8XkTjQ",
-      "title": "United Airlines Roblox | Business  | Newark (EWR) -- Washington (DCA) | CRJ 550",
-      "year": 2026,
-      "published_at": "2026-06-19T01:28:21Z",
-      "channel_title": "I&S TV",
-      "view_count": 84,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "united airlines",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=S5bEaRTWugM",
       "title": "Trip Report | American Airlines | Orlando - Miami",
       "year": 2026,
@@ -8556,30 +8448,6 @@
         }
       ],
       "ife_features": {
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=yyWSXwr_d00",
-      "title": "Norwegian Star Cruise Ship Review: Is This Classic NCL Ship Still Worth It? 2026",
-      "year": 2026,
-      "published_at": "2026-06-24T09:00:12Z",
-      "channel_title": "CruiseTalesToday",
-      "view_count": 9,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
         "seat": true
       },
       "ife_specs": {},
@@ -10108,85 +9976,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Iqstv6e5U4c",
-      "title": "Secret Heiress Stewardess Fired, Her Glam Banquet Return Stuns Ex-Captain",
-      "year": 2026,
-      "published_at": "2026-06-23T13:00:37Z",
-      "channel_title": "Crush Vows",
-      "view_count": 2136,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=EmsDp5dCCnw",
-      "title": "SAVE THOUSANDS! 🤩 2023 Lagoon 55 Sailing Catamaran Liveaboard Yacht Tour",
-      "year": 2026,
-      "published_at": "2026-06-20T15:00:30Z",
-      "channel_title": "NautiStyles",
-      "view_count": 214121,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 2
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=vDh52w4jWq8",
-      "title": "We HAD to do it! M/Y \"Enterprise\" Baglietto Explorer SuperYacht Tour | NOW in 4K REMASTERED! 🎉",
-      "year": 2026,
-      "published_at": "2026-06-17T23:30:11Z",
-      "channel_title": "NautiStyles",
-      "view_count": 94854,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "4k_display": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=T6bJJ5IJayY",
       "title": "Delta Air Lines is back in HONG KONG 🇭🇰✈️🇺🇸 A350 ECONOMY class",
       "year": 2026,
@@ -10373,30 +10162,6 @@
       "aircraft_mentioned": [],
       "ife_features": {
         "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=QkG-rQtIhhk",
-      "title": "My Husband Lied About His Business Trip... Then My Parents Saw Him With Her At The Airport",
-      "year": 2026,
-      "published_at": "2026-06-24T12:30:37Z",
-      "channel_title": "Evelyn Revange",
-      "view_count": 5,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "seat": true,
-        "usb_power": true
       },
       "ife_specs": {},
       "transcript_available": false,
@@ -10643,38 +10408,6 @@
       ],
       "ife_features": {
         "content": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=MhdimL_cIiI",
-      "title": "NO BREAKS EDITION: Pregnant Girlfriend Poisoned Trial — TN v. Blaise Taylor — Day 4",
-      "year": 2026,
-      "published_at": "2026-06-27T07:49:41Z",
-      "channel_title": "Justice Is A Process!!!!",
-      "view_count": 644,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        },
-        {
-          "keyword": "klm",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
         "seat": true
       },
       "ife_specs": {},
@@ -11720,145 +11453,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
-      "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
-      "year": 2026,
-      "published_at": "2026-06-27T13:00:25Z",
-      "channel_title": "National Geographic",
-      "view_count": 67891,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=EPze8MRjrnY",
-      "title": "My Chat Group Connects Different Worlds, and I Became a Millionaire Just by Selling Bread!",
-      "year": 2026,
-      "published_at": "2026-06-26T12:00:33Z",
-      "channel_title": "COMICS STORM",
-      "view_count": 835,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true
-      },
-      "ife_specs": {
-        "controller": "Tablet"
-      },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=q010CjrV4k4",
-      "title": "🇳🇴 Danish Practice Lesson | Episode 150 | Danish Speaking & Listening | Fluent Danish",
-      "year": 2026,
-      "published_at": "2026-06-25T16:00:15Z",
-      "channel_title": "Danish Practice",
-      "view_count": 77,
-      "ife_system": "Thales AVANT",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "swiss",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=B-F4BAgsq2c",
-      "title": "🇸🇪 Swedish Practice Lesson | Episode 150 | Swedish Speaking & Listening | Fluent Swedish  | SVENSKA",
-      "year": 2026,
-      "published_at": "2026-06-25T16:00:18Z",
-      "channel_title": "Swedish Practice",
-      "view_count": 88,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 1
-        },
-        {
-          "keyword": "swiss",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=U6LhOqd7A3g",
-      "title": "Learn Russian Fast 🇷🇺 | 50 Easy Russian Conversations for Beginner Level A2-B1!",
-      "year": 2026,
-      "published_at": "2026-06-25T08:17:56Z",
-      "channel_title": "LingoTalks RU",
-      "view_count": 673,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "level",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=fY98kvnHOLc",
       "title": "Abu Dhabi to Manchester Flight Experience | Etihad Airways B 787-9 Flight | UK | M Firasath AK",
       "year": 2026,
@@ -12145,28 +11739,6 @@
       "ife_features": {
         "entertainment_system": true,
         "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=CC6S25XJ0Ks",
-      "title": "Donald Trump’s Endgame | The Tim Dillon Show #501",
-      "year": 2026,
-      "published_at": "2026-06-27T16:15:06Z",
-      "channel_title": "The Tim Dillon Show",
-      "view_count": 356548,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
       },
       "ife_specs": {},
       "transcript_available": false,
@@ -12508,33 +12080,6 @@
       "ife_features": {
         "entertainment_system": true,
         "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=o_mfNrvJnqM",
-      "title": "🇳🇴 Norwegian Practice | Ep 150 | Norwegian Speaking & Listening | Fluent Norwegian",
-      "year": 2026,
-      "published_at": "2026-06-25T16:00:04Z",
-      "channel_title": "Norwegian Practice",
-      "view_count": 212,
-      "ife_system": "Thales AVANT",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "swiss",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
       },
       "ife_specs": {},
       "transcript_available": false,
@@ -13583,79 +13128,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=SQrxjDo848s",
-      "title": "Bankrupt CEO Took In Beggar From Phone Booth—Unaware She Was Lucky Daughter Bringing Endless Wealth!",
-      "year": 2026,
-      "published_at": "2026-06-27T19:00:09Z",
-      "channel_title": "CranberryDrama",
-      "view_count": 6450,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "connectivity": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=G68c1W4gm1I",
-      "title": "ABC World News Tonight with David Muir Full Broadcast - June 22, 2026",
-      "year": 2026,
-      "published_at": "2026-06-23T02:00:01Z",
-      "channel_title": "ABC News",
-      "view_count": 706178,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=gUF5jhcUypo",
-      "title": "The F-Rank Weakling Awakens An Overpowered Necromancer Bloodline.",
-      "year": 2026,
-      "published_at": "2026-06-27T15:00:25Z",
-      "channel_title": "Nice Recap",
-      "view_count": 306,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=HIfYZb46VNc",
       "title": "Meet Our Sponsors: Panasonic",
       "year": 2026,
@@ -13798,28 +13270,6 @@
       ],
       "ife_features": {
         "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=K5H8OTCF5ls",
-      "title": "My Rich Wife Offered Me $50 Million To Divorce -  Too Bad Now She Can Read My Mind!💔",
-      "year": 2026,
-      "published_at": "2026-06-26T13:20:18Z",
-      "channel_title": "King's Manhwa Recap2",
-      "view_count": 3470,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
       },
       "ife_specs": {},
       "transcript_available": false,
@@ -14023,35 +13473,6 @@
       ],
       "ife_features": {
         "entertainment_system": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=E879-maok2Y",
-      "title": "Eastern Airways Roblox | Flexible | Leeds Bradford (LBA) -- Newquay Cornwall (NQY) | Dash 8 Q400",
-      "year": 2026,
-      "published_at": "2026-06-15T18:25:57Z",
-      "channel_title": "I&S TV",
-      "view_count": 70,
-      "ife_system": "Viasat (streaming)",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "southwest",
-          "mentions": 6
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
         "seat": true
       },
       "ife_specs": {},
@@ -14859,28 +14280,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=inm1Uh6xGCE",
-      "title": "Nikola Tesla - The visionary who invented our future | DW Documentary",
-      "year": 2026,
-      "published_at": "2026-06-25T07:55:57Z",
-      "channel_title": "DW Documentary",
-      "view_count": 32043,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=wEIIi3M_oH8",
       "title": "He Deliberately Brought Took Country Wife To Banquet To Shame Her—Unexpect She Was The CEO!Too Late!",
       "year": 2026,
@@ -15101,61 +14500,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=v7H-0z9-Yiw",
-      "title": "1 Day = Hatches 100K Ant Soldiers! His Zerg Evolution System Builds a Mighty Ant Empire Overnight",
-      "year": 2026,
-      "published_at": "2026-06-27T11:30:26Z",
-      "channel_title": "Panda Fantasy Chronicles",
-      "view_count": 989,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "level",
-          "mentions": 623
-        },
-        {
-          "keyword": "ana",
-          "mentions": 276
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true,
-        "4k_display": true,
-        "quality": true,
-        "seat": true,
-        "usb_power": true
-      },
-      "ife_specs": {
-        "controller": "Handheld remote"
-      },
-      "transcript_available": true,
-      "transcript_excerpt": "husband? The attending physician's face…",
-      "captions": [
-        {
-          "timestamp": "236:04",
-          "start_seconds": 14164,
-          "text": "was just a husband and father. Seeing"
-        },
-        {
-          "timestamp": "395:04",
-          "start_seconds": 23704,
-          "text": "through short videos, living a very"
-        },
-        {
-          "timestamp": "816:29",
-          "start_seconds": 48989,
-          "text": "was the villain, a demon in movies and"
-        }
-      ],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=_F4_jMhxY_U",
       "title": "NEVER Book a Short Layover in Bogota Colombia! Avianca Airlines Flight Review (Cartagena to NY)",
       "year": 2026,
@@ -15207,231 +14551,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-RrGxdRcQD0",
-      "title": "Dumped as a loser, I woke up with a System and landed a burning jet!",
-      "year": 2026,
-      "published_at": "2026-06-23T16:00:09Z",
-      "channel_title": "Payback King Drama",
-      "view_count": 35430,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "level",
-          "mentions": 6
-        },
-        {
-          "keyword": "ana",
-          "mentions": 2
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true,
-        "seat": true,
-        "usb_power": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "tier pilot system activated. Claim your…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=fRK7xZW4kLQ",
-      "title": "3rd Night | 2017 | Free Horror Movie",
-      "year": 2026,
-      "published_at": "2026-06-27T00:00:20Z",
-      "channel_title": "Bigtime - Cult & Horror Movies",
-      "view_count": 2143,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "first night he'll watch you play, he'll ask…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=uxKUER3TEes",
-      "title": "DALE WAS ACTING REALLY STRANGE! 😳 Then We Discovered This Incredible Castle...",
-      "year": 2026,
-      "published_at": "2026-06-28T19:00:06Z",
-      "channel_title": "butlersempire",
-      "view_count": 11378,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        },
-        {
-          "keyword": "level",
-          "mentions": 3
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "seat": true
-      },
-      "ife_specs": {
-        "controller": "Handheld remote"
-      },
-      "transcript_available": true,
-      "transcript_excerpt": "entertainment there, music and stuff like that. \nI think it's £10 a ticket. Same as what it was 2…",
-      "captions": [
-        {
-          "timestamp": "18:57",
-          "start_seconds": 1137,
-          "text": "haunted. I bet. I bet it is. Graveyard. Don't say \nthat. Sh. I wonder what this was then. Probably"
-        }
-      ],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=EN4tdB4Hsho",
-      "title": "खऱ्या पोलिसांचा थरारक आणि नादखुळा तपास! 🚔🔥 | Kannur Squad Review @RDchiShala #khadus",
-      "year": 2026,
-      "published_at": "2026-06-28T10:16:26Z",
-      "channel_title": "Khadus",
-      "view_count": 877,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "भावांनो या पिक्चरचा अजय देवगन अजून कसा…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=OGj1qjjB-20",
-      "title": "On my BD,I discovered 4bros' love was a scheme for her—Fought back! Married the CEO!Now you cry!",
-      "year": 2026,
-      "published_at": "2026-06-29T07:04:55Z",
-      "channel_title": "Crunch Mint",
-      "view_count": 2761,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        },
-        {
-          "keyword": "level",
-          "mentions": 2
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "connectivity": true,
-        "seat": true,
-        "usb_power": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "Your husband, Li Minglan,\ninvested in her lab…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=n1_Ojf8yMpo",
-      "title": "An Anniversary Hike Ends with Only One Spouse Coming Home (S1, E8) | Meet, Marry, Murder | Full Ep",
-      "year": 2026,
-      "published_at": "2026-06-22T22:00:23Z",
-      "channel_title": "A&E",
-      "view_count": 35101,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true,
-        "usb_power": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "to do whatever\nthat the husband said.…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=lNP6XnA__Eg",
-      "title": "Southwest Airlines Roblox | Basic Cabin | Chicago Midway (MDW) -- Orlando (MCO) | 737-700",
-      "year": 2026,
-      "published_at": "2026-06-24T19:13:28Z",
-      "channel_title": "I&S TV",
-      "view_count": 77,
-      "ife_system": "Viasat (streaming)",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "southwest",
-          "mentions": 7
-        }
-      ],
-      "aircraft_mentioned": [
-        {
-          "keyword": "737",
-          "mentions": 2
-        }
-      ],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=diBGWd44DvM",
       "title": "KLM Boeing 777-300ER Economy Class | Singapore to Bali | Full Flight Report",
       "year": 2026,
@@ -15465,42 +14584,6 @@
       "transcript_available": false,
       "transcript_excerpt": null,
       "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=oA7zYrgCXJI",
-      "title": "Woman Framed Me For Pushing Her, But CEO Heard My Mind. Plan Fails, Ceo Loves Me More!",
-      "year": 2026,
-      "published_at": "2026-06-29T11:00:21Z",
-      "channel_title": "SkySweet Drama",
-      "view_count": 380,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "usb_power": true
-      },
-      "ife_specs": {
-        "controller": "Tablet"
-      },
-      "transcript_available": true,
-      "transcript_excerpt": "away from you. Matters between husband…",
-      "captions": [
-        {
-          "timestamp": "123:10",
-          "start_seconds": 7390,
-          "text": "away from you. Matters between husband"
-        }
-      ],
       "source_tier": 2,
       "source_name": "Creator"
     },
@@ -15662,61 +14745,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=v7H-0z9-Yiw",
-      "title": "1 Day = Hatches 100K Ant Soldiers! His Zerg Evolution System Builds a Mighty Ant Empire Overnight",
-      "year": 2026,
-      "published_at": "2026-06-27T11:30:26Z",
-      "channel_title": "Panda Fantasy Chronicles",
-      "view_count": 989,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "level",
-          "mentions": 623
-        },
-        {
-          "keyword": "ana",
-          "mentions": 276
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true,
-        "4k_display": true,
-        "quality": true,
-        "seat": true,
-        "usb_power": true
-      },
-      "ife_specs": {
-        "controller": "Handheld remote"
-      },
-      "transcript_available": true,
-      "transcript_excerpt": "husband? The attending physician's face…",
-      "captions": [
-        {
-          "timestamp": "236:04",
-          "start_seconds": 14164,
-          "text": "was just a husband and father. Seeing"
-        },
-        {
-          "timestamp": "395:04",
-          "start_seconds": 23704,
-          "text": "through short videos, living a very"
-        },
-        {
-          "timestamp": "816:29",
-          "start_seconds": 48989,
-          "text": "was the villain, a demon in movies and"
-        }
-      ],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=_F4_jMhxY_U",
       "title": "NEVER Book a Short Layover in Bogota Colombia! Avianca Airlines Flight Review (Cartagena to NY)",
       "year": 2026,
@@ -15768,197 +14796,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-RrGxdRcQD0",
-      "title": "Dumped as a loser, I woke up with a System and landed a burning jet!",
-      "year": 2026,
-      "published_at": "2026-06-23T16:00:09Z",
-      "channel_title": "Payback King Drama",
-      "view_count": 35430,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "level",
-          "mentions": 6
-        },
-        {
-          "keyword": "ana",
-          "mentions": 2
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true,
-        "seat": true,
-        "usb_power": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "tier pilot system activated. Claim your…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=uxKUER3TEes",
-      "title": "DALE WAS ACTING REALLY STRANGE! 😳 Then We Discovered This Incredible Castle...",
-      "year": 2026,
-      "published_at": "2026-06-28T19:00:06Z",
-      "channel_title": "butlersempire",
-      "view_count": 11378,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        },
-        {
-          "keyword": "level",
-          "mentions": 3
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "seat": true
-      },
-      "ife_specs": {
-        "controller": "Handheld remote"
-      },
-      "transcript_available": true,
-      "transcript_excerpt": "entertainment there, music and stuff like that. \nI think it's £10 a ticket. Same as what it was 2…",
-      "captions": [
-        {
-          "timestamp": "18:57",
-          "start_seconds": 1137,
-          "text": "haunted. I bet. I bet it is. Graveyard. Don't say \nthat. Sh. I wonder what this was then. Probably"
-        }
-      ],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=fRK7xZW4kLQ",
-      "title": "3rd Night | 2017 | Free Horror Movie",
-      "year": 2026,
-      "published_at": "2026-06-27T00:00:20Z",
-      "channel_title": "Bigtime - Cult & Horror Movies",
-      "view_count": 2143,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "first night he'll watch you play, he'll ask…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=EN4tdB4Hsho",
-      "title": "खऱ्या पोलिसांचा थरारक आणि नादखुळा तपास! 🚔🔥 | Kannur Squad Review @RDchiShala #khadus",
-      "year": 2026,
-      "published_at": "2026-06-28T10:16:26Z",
-      "channel_title": "Khadus",
-      "view_count": 893,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "भावांनो या पिक्चरचा अजय देवगन अजून कसा…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=OGj1qjjB-20",
-      "title": "On my BD,I discovered 4bros' love was a scheme for her—Fought back! Married the CEO!Now you cry!",
-      "year": 2026,
-      "published_at": "2026-06-29T07:04:55Z",
-      "channel_title": "Crunch Mint",
-      "view_count": 2761,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        },
-        {
-          "keyword": "level",
-          "mentions": 2
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "connectivity": true,
-        "seat": true,
-        "usb_power": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "Your husband, Li Minglan,\ninvested in her lab…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=n1_Ojf8yMpo",
-      "title": "An Anniversary Hike Ends with Only One Spouse Coming Home (S1, E8) | Meet, Marry, Murder | Full Ep",
-      "year": 2026,
-      "published_at": "2026-06-22T22:00:23Z",
-      "channel_title": "A&E",
-      "view_count": 35101,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true,
-        "usb_power": true
-      },
-      "ife_specs": {},
-      "transcript_available": true,
-      "transcript_excerpt": "to do whatever\nthat the husband said.…",
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=X1qrtFNFfTw",
       "title": "An EPIC Simming Experience! | Just Flight Fokker F100 Professional | Full Flight Review | MSFS",
       "year": 2026,
@@ -16001,40 +14838,6 @@
       "source_name": "Creator"
     },
     {
-      "url": "https://www.youtube.com/watch?v=lNP6XnA__Eg",
-      "title": "Southwest Airlines Roblox | Basic Cabin | Chicago Midway (MDW) -- Orlando (MCO) | 737-700",
-      "year": 2026,
-      "published_at": "2026-06-24T19:13:28Z",
-      "channel_title": "I&S TV",
-      "view_count": 77,
-      "ife_system": "Viasat (streaming)",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "southwest",
-          "mentions": 7
-        }
-      ],
-      "aircraft_mentioned": [
-        {
-          "keyword": "737",
-          "mentions": 2
-        }
-      ],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=diBGWd44DvM",
       "title": "KLM Boeing 777-300ER Economy Class | Singapore to Bali | Full Flight Report",
       "year": 2026,
@@ -16068,42 +14871,6 @@
       "transcript_available": false,
       "transcript_excerpt": null,
       "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=oA7zYrgCXJI",
-      "title": "Woman Framed Me For Pushing Her, But CEO Heard My Mind. Plan Fails, Ceo Loves Me More!",
-      "year": 2026,
-      "published_at": "2026-06-29T11:00:21Z",
-      "channel_title": "SkySweet Drama",
-      "view_count": 380,
-      "ife_system": "Panasonic eX3",
-      "ife_system_inferred": true,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 3
-        }
-      ],
-      "aircraft_mentioned": [],
-      "ife_features": {
-        "entertainment_system": true,
-        "usb_power": true
-      },
-      "ife_specs": {
-        "controller": "Tablet"
-      },
-      "transcript_available": true,
-      "transcript_excerpt": "away from you. Matters between husband…",
-      "captions": [
-        {
-          "timestamp": "123:10",
-          "start_seconds": 7390,
-          "text": "away from you. Matters between husband"
-        }
-      ],
       "source_tier": 2,
       "source_name": "Creator"
     },
