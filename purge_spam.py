@@ -11,6 +11,7 @@ BAD_TITLE_SUBSTRINGS = [
     "Book-The-Cook",
     "book the cook",
     "Book the Cook",
+    "Yue Yuting",
 ]
 
 _JUNK_RE = re.compile(
@@ -55,7 +56,10 @@ _JUNK_RE = re.compile(
     r'|\boverpowered\s+(necromancer|system|bloodline)\b'
     r'|\bdiscovered.*castle\b'
     r'|\bsquad\s+review\s+@\w'
-    r'|\bmeet,?\s+marry,?\s+murder\b',
+    r'|\bmeet,?\s+marry,?\s+murder\b'
+    r'|\bpure\s+temptation\b'
+    r'|\badulterous\s+husband\b'
+    r'|\bhas\s+the\s+general\s+completely\s+crazy\b',
     re.IGNORECASE,
 )
 

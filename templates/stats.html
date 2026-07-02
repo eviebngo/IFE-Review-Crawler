@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>IFE · Stats</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#f5f5f7;color:#1d1d1f;font-size:14px}
+  nav{background:#fff;border-bottom:1px solid #e0e0e0;padding:10px 24px;display:flex;align-items:center;gap:16px}
+  nav a{text-decoration:none;color:#555;font-size:13px}
+  nav a:hover{color:#000}
+  nav .brand{font-weight:600;color:#1d1d1f;font-size:15px;margin-right:8px}
+  .page{max-width:1100px;margin:0 auto;padding:24px 16px}
+  h1{font-size:22px;font-weight:600;margin-bottom:4px}
+  .sub{color:#888;font-size:12px;margin-bottom:24px}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:28px}
+  .card{background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:16px 20px}
+  .card .val{font-size:32px;font-weight:700;line-height:1}
+  .card .lbl{font-size:11px;color:#888;margin-top:4px;text-transform:uppercase;letter-spacing:.04em}
+  .card.pos .val{color:#2a7a2a}
+  .card.neg .val{color:#a33}
+  .section{background:#fff;border:1px solid #e0e0e0;border-radius:10px;padding:20px 24px;margin-bottom:20px}
+  .section h2{font-size:14px;font-weight:600;margin-bottom:16px;text-transform:uppercase;letter-spacing:.05em;color:#555}
+  .bar-row{display:flex;align-items:center;gap:10px;margin-bottom:8px;font-size:13px}
+  .bar-label{width:190px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex-shrink:0}
+  .bar-track{flex:1;background:#f0f0f0;border-radius:4px;height:16px;overflow:hidden}
+  .bar-fill{height:100%;border-radius:4px;background:#0071e3}
+  .bar-fill.sa{background:#a34800}
+  .bar-count{width:40px;text-align:right;color:#888;font-size:12px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th{text-align:left;font-weight:600;color:#888;font-size:11px;text-transform:uppercase;letter-spacing:.04em;padding:6px 10px;border-bottom:1px solid #e0e0e0}
+  td{padding:7px 10px;border-bottom:1px solid #f0f0f0}
+  tr:last-child td{border-bottom:none}
+  .sentiment-row{display:flex;gap:12px;align-items:center}
+  .sent-block{flex:1;border-radius:8px;padding:14px 16px;text-align:center}
+  .sent-block .n{font-size:28px;font-weight:700}
+  .sent-block .l{font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-top:2px}
+  .sent-block.pos{background:#d4edda;color:#155724}
+  .sent-block.neu{background:#e2e3e5;color:#383d41}
+  .sent-block.neg{background:#f8d7da;color:#721c24}
+  .year-grid{display:flex;gap:8px;align-items:flex-end;height:80px}
+  .year-col{display:flex;flex-direction:column;align-items:center;gap:4px;flex:1}
+  .year-bar{width:100%;background:#0071e3;border-radius:3px 3px 0 0;min-height:4px}
+  .year-lbl{font-size:10px;color:#888}
+  .year-val{font-size:10px;color:#555;font-weight:600}
+  .export-btn{display:inline-block;margin-bottom:20px;padding:8px 18px;background:#0071e3;color:#fff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500}
+  .export-btn:hover{background:#005bb5}
+  .two-col{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:640px){.two-col{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<nav>
+  <span class="brand">IFE</span>
+  <a href="/">Reviews</a>
+  <a href="/stats" style="color:#000;font-weight:600">Stats</a>
+  <a href="/export.csv">Export CSV</a>
+</nav>
+<div class="page">
+  <h1>IFE Review Stats</h1>
+  <div class="sub">Last updated: {{ last_updated[:19].replace('T',' ') if last_updated else 'unknown' }}</div>
+
+  <a class="export-btn" href="/export.csv">Download CSV</a>
+
+  <!-- Summary cards -->
+  <div class="cards">
+    <div class="card">
+      <div class="val">{{ total }}</div>
+      <div class="lbl">Total entries</div>
+    </div>
+    <div class="card">
+      <div class="val">{{ with_transcript }}</div>
+      <div class="lbl">With transcript</div>
+    </div>
+    <div class="card">
+      <div class="val">{{ ((with_transcript / total * 100) | int) if total else 0 }}%</div>
+      <div class="lbl">Transcript coverage</div>
+    </div>
+    <div class="card">
+      <div class="val">{{ by_source.get('Press', 0) }}</div>
+      <div class="lbl">Press articles</div>
+    </div>
+    <div class="card">
+      <div class="val">{{ by_source.get('Creator', 0) + by_source.get('Official', 0) }}</div>
+      <div class="lbl">Videos</div>
+    </div>
+    <div class="card pos">
+      <div class="val">{{ sentiment.positive }}</div>
+      <div class="lbl">Positive reviews</div>
+    </div>
+    <div class="card neg">
+      <div class="val">{{ sentiment.negative }}</div>
+      <div class="lbl">Negative reviews</div>
+    </div>
+  </div>
+
+  <!-- Sentiment -->
+  <div class="section">
+    <h2>Sentiment breakdown</h2>
+    <div class="sentiment-row">
+      <div class="sent-block pos">
+        <div class="n">{{ sentiment.positive }}</div>
+        <div class="l">Positive</div>
+      </div>
+      <div class="sent-block neu">
+        <div class="n">{{ sentiment.neutral }}</div>
+        <div class="l">Neutral</div>
+      </div>
+      <div class="sent-block neg">
+        <div class="n">{{ sentiment.negative }}</div>
+        <div class="l">Negative</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="two-col">
+    <!-- IFE Systems -->
+    <div class="section">
+      <h2>IFE systems by coverage</h2>
+      {% for name, count in top_systems %}
+      <div class="bar-row">
+        <span class="bar-label" title="{{ name }}">{{ name }}</span>
+        <div class="bar-track">
+          <div class="bar-fill {% if 'safran' in name.lower() or 'rave' in name.lower() %}sa{% endif %}"
+               style="width:{{ (count / max_sys * 100) | int }}%"></div>
+        </div>
+        <span class="bar-count">{{ count }}</span>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Airlines -->
+    <div class="section">
+      <h2>Top airlines mentioned</h2>
+      <table>
+        <thead><tr><th>Airline</th><th style="text-align:right">Mentions</th></tr></thead>
+        <tbody>
+        {% for airline, count in top_airlines %}
+        <tr><td>{{ airline }}</td><td style="text-align:right;color:#888">{{ count }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Year breakdown -->
+  {% if years %}
+  <div class="section">
+    <h2>Reviews by year</h2>
+    {% set max_yr = years | map(attribute=1) | max %}
+    <div class="year-grid">
+      {% for yr, cnt in years %}
+      <div class="year-col">
+        <span class="year-val">{{ cnt }}</span>
+        <div class="year-bar" style="height:{{ (cnt / max_yr * 60) | int }}px"></div>
+        <span class="year-lbl">{{ yr }}</span>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+</div>
+</body>
+</html>

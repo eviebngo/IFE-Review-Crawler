@@ -1,10 +1,12 @@
+import csv
+import io
 import json
 import os
 import threading
 import time
 from datetime import datetime
 from pathlib import Path
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, Response
 
 try:
     from dotenv import load_dotenv
@@ -207,6 +209,80 @@ def ife_refresh():
         })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+
+@app.route("/stats")
+def stats():
+    data_manager.reload_from_disk()
+    reviews = data_manager.data.get("reviews", [])
+    total = len(reviews)
+    with_transcript = sum(1 for r in reviews if r.get("transcript_available"))
+    by_source = {}
+    by_system = {}
+    by_airline = {}
+    by_year = {}
+    by_sentiment = {"positive": 0, "neutral": 0, "negative": 0}
+
+    for r in reviews:
+        src = r.get("source_name", "Creator")
+        by_source[src] = by_source.get(src, 0) + 1
+        sys = r.get("ife_system")
+        if sys:
+            by_system[sys] = by_system.get(sys, 0) + 1
+        for a in r.get("airlines_mentioned", []):
+            k = a["keyword"]
+            by_airline[k] = by_airline.get(k, 0) + 1
+        yr = r.get("year")
+        if yr:
+            by_year[str(yr)] = by_year.get(str(yr), 0) + 1
+        sent = r.get("sentiment", "neutral")
+        if sent in by_sentiment:
+            by_sentiment[sent] += 1
+
+    top_systems = sorted(by_system.items(), key=lambda x: x[1], reverse=True)[:12]
+    top_airlines = sorted(by_airline.items(), key=lambda x: x[1], reverse=True)[:15]
+    years_sorted = sorted(by_year.items())
+    max_sys = top_systems[0][1] if top_systems else 1
+
+    return render_template("stats.html",
+        total=total,
+        with_transcript=with_transcript,
+        by_source=by_source,
+        top_systems=top_systems,
+        top_airlines=top_airlines,
+        years=years_sorted,
+        sentiment=by_sentiment,
+        max_sys=max_sys,
+        last_updated=data_manager.data.get("last_updated", ""),
+    )
+
+
+@app.route("/export.csv")
+def export_csv():
+    data_manager.reload_from_disk()
+    reviews = data_manager.data.get("reviews", [])
+    out = io.StringIO()
+    w = csv.writer(out)
+    w.writerow(["title", "url", "year", "source", "ife_system", "inferred",
+                "airlines", "features", "sentiment", "transcript_excerpt"])
+    for r in reviews:
+        w.writerow([
+            r.get("title", ""),
+            r.get("url", ""),
+            r.get("year", ""),
+            r.get("source_name", ""),
+            r.get("ife_system", ""),
+            "yes" if r.get("ife_system_inferred") else "no",
+            "|".join(a["keyword"] for a in r.get("airlines_mentioned", [])),
+            "|".join(r.get("ife_features", {}).keys()),
+            r.get("sentiment", ""),
+            (r.get("transcript_excerpt") or "")[:300],
+        ])
+    return Response(
+        "﻿" + out.getvalue(),  # BOM for Excel UTF-8
+        mimetype="text/csv",
+        headers={"Content-Disposition": "attachment; filename=ife_reviews.csv"},
+    )
 
 
 if __name__ == "__main__":

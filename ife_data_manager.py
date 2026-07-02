@@ -3,6 +3,37 @@ import os
 from datetime import datetime
 from ife_crawler import IFECrawler
 
+# ── VADER sentiment (optional — degrades gracefully if nltk missing) ──────────
+try:
+    from nltk.sentiment.vader import SentimentIntensityAnalyzer as _VADER
+    import nltk as _nltk
+    try:
+        _sia = _VADER()
+    except LookupError:
+        _nltk.download("vader_lexicon", quiet=True)
+        _sia = _VADER()
+    _VADER_OK = True
+except ImportError:
+    _VADER_OK = False
+
+
+def _compute_sentiment(r: dict) -> tuple:
+    if not _VADER_OK:
+        return "neutral", 0.0
+    text = " ".join(filter(None, [
+        r.get("title", ""),
+        r.get("transcript_excerpt") or "",
+        r.get("excerpt") or "",
+    ]))
+    if not text.strip():
+        return "neutral", 0.0
+    compound = _sia.polarity_scores(text)["compound"]
+    if compound >= 0.05:
+        return "positive", round(compound, 3)
+    if compound <= -0.05:
+        return "negative", round(compound, 3)
+    return "neutral", round(compound, 3)
+
 
 class IFEDataManager:
     """Manages cached IFE review data with filtering and pagination."""
@@ -54,6 +85,11 @@ class IFEDataManager:
                         cap["start_seconds"] = int(parts[0]) * 60 + int(parts[1])
                     except Exception:
                         pass
+            # Sentiment
+            if "sentiment" not in r:
+                label, score = _compute_sentiment(r)
+                r["sentiment"] = label
+                r["sentiment_score"] = score
             # Backfill inference for seeded records with no detected system
             if not r.get("ife_system"):
                 inferred = infer_ife_system(
