@@ -20660,7 +20660,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=jslTtyiqLKo",
@@ -20717,7 +20719,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.318
     },
     {
       "url": "https://www.youtube.com/watch?v=1YPVNFjZ6zQ",
@@ -20755,7 +20759,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=dehK6s23hq4",
@@ -20806,7 +20812,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=px-eZ5Nqg-s",
@@ -20847,7 +20855,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=2pJ1P8GFzg8",
@@ -20883,7 +20893,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=rWqQe2feYPg",
@@ -20921,8 +20933,266 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yAJwdjLukvI",
+      "title": "Lufthansa Allegris Business Class Review (A350-900 Chicago to Munich): Are They Finally Competitive?",
+      "year": 2026,
+      "published_at": "2026-07-14T05:00:00Z",
+      "channel_title": "Mel's Miles",
+      "view_count": 29,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y0Ine-HAdV0",
+      "title": "Heathrow Airport Plane Spotting British Airways A380 American Airlines 777",
+      "year": 2026,
+      "published_at": "2026-07-13T11:15:38Z",
+      "channel_title": "WorldAviation 4K",
+      "view_count": 260,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 10
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 6
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 9
+        },
+        {
+          "keyword": "a350",
+          "mentions": 7
+        },
+        {
+          "keyword": "a380",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "787",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Zzu92UrcXyg",
+      "title": "Singapore Airlines BUSINESS CLASS | Airbus A350 M Medium Haul | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-12T02:56:21Z",
+      "channel_title": "SkyStaySmill",
+      "view_count": 192,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pwSUHn4hQdg",
+      "title": "Is this the BEST Sri Lankan Airlines can offer? | Jakarta - Colombo A321neo Economy Class",
+      "year": 2026,
+      "published_at": "2026-07-08T13:45:15Z",
+      "channel_title": "Tristen’s Trip Reviews",
+      "view_count": 2399,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iqCRfJCCjuQ",
+      "title": "I Got Upgraded for FREE! Shanghai Airlines Business Class",
+      "year": 2026,
+      "published_at": "2026-07-11T17:27:38Z",
+      "channel_title": "mosmiles",
+      "view_count": 202,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7PkXwb5wIsY",
+      "title": "Turkish Airlines Business Class on a A350-900 | Istanbul to Bangkok",
+      "year": 2026,
+      "published_at": "2026-07-13T11:00:07Z",
+      "channel_title": "Jason Kaakoush",
+      "view_count": 65,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-13T06:27:17.721045"
+  "last_updated": "2026-07-14T05:38:49.881008"
 }
