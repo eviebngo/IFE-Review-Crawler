@@ -20971,7 +20971,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.178
     },
     {
       "url": "https://www.youtube.com/watch?v=y0Ine-HAdV0",
@@ -21037,7 +21039,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Zzu92UrcXyg",
@@ -21090,7 +21094,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=pwSUHn4hQdg",
@@ -21122,7 +21128,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
     },
     {
       "url": "https://www.youtube.com/watch?v=iqCRfJCCjuQ",
@@ -21154,7 +21162,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.651
     },
     {
       "url": "https://www.youtube.com/watch?v=7PkXwb5wIsY",
@@ -21191,8 +21201,451 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dyaWhw83TQg",
+      "title": "DOH-ORD ECONOMY Flight Review (Qatar Airways A350-1000)",
+      "year": 2026,
+      "published_at": "2026-07-11T07:18:37Z",
+      "channel_title": "Zach Tufenkjian",
+      "view_count": 74,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=giwyqEJkO9Y",
+      "title": "Scoot Economy Class: Flying Scoot Airlines Singapore to Kuala Lumpur",
+      "year": 2026,
+      "published_at": "2026-07-06T16:00:04Z",
+      "channel_title": "ONESkyFlyer",
+      "view_count": 8474,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yth8gcIbqqk",
+      "title": "Thai Airways A350 Economy Deep Dive - Is This Route Worth Booking?",
+      "year": 2026,
+      "published_at": "2026-07-14T08:00:26Z",
+      "channel_title": "Travel & Eat with Mike & Lil",
+      "view_count": 677,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XaiUcXcowTo",
+      "title": "Take my advice, AVOID Air China at all costs",
+      "year": 2026,
+      "published_at": "2026-07-13T15:10:16Z",
+      "channel_title": "James Warren-Oliver",
+      "view_count": 1656,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Zd5DDjmiWrs",
+      "title": "2026 Airbus A380 – The Ultimate Super Jumbo Jet Review | Luxury Interior, Performance & Features.",
+      "year": 2026,
+      "published_at": "2026-07-15T05:00:22Z",
+      "channel_title": "SmartDrive Reviews\n",
+      "view_count": 0,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 19
+        },
+        {
+          "keyword": "a380",
+          "mentions": 15
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5G096fbZcHg",
+      "title": "Flying the STRETCH Dreamliner! Singapore Airlines Boeing 787-10 • SQ422 to Mumbai",
+      "year": 2026,
+      "published_at": "2026-07-14T02:01:04Z",
+      "channel_title": "Sydney Airways",
+      "view_count": 60,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Ku-band",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IOqnsARFNMw",
+      "title": "Singapore Airlines Boeing 777-300ER Full Flight | SQ211",
+      "year": 2026,
+      "published_at": "2026-07-15T02:01:11Z",
+      "channel_title": "Sydney Airways",
+      "view_count": 11,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-13GmQvUUg0",
+      "title": "Thai Airways Royal Silk Business Class A350-900 Review Seoul - Bangkok",
+      "year": 2026,
+      "published_at": "2026-07-13T05:56:08Z",
+      "channel_title": "Traverse",
+      "view_count": 1975,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "thai airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jVzqOLb_bss",
+      "title": "【ANA13便】ANAボーイング787で羽田空港から大阪・伊丹空港へ｜搭乗レビュー",
+      "year": 2026,
+      "published_at": "2026-07-14T10:12:40Z",
+      "channel_title": "GTA5 HOTLINE",
+      "view_count": 24,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 8
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YYgq0bf2sg0",
+      "title": "AIR EUROPA renueva su ECONOMY en el ATLÁNTICO",
+      "year": 2026,
+      "published_at": "2026-07-09T20:55:06Z",
+      "channel_title": "JClassTraveller",
+      "view_count": 10088,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "delta",
+          "mentions": 2
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 8
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=W_Siuot-4WA",
+      "title": "ADVANCED AIR PILATUS PC-12 | Las Vegas - Merced | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-14T16:30:18Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 1631,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-14T05:38:49.881008"
+  "last_updated": "2026-07-15T05:40:11.503201"
 }
