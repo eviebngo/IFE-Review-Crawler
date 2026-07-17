@@ -21732,7 +21732,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
     },
     {
       "url": "https://www.youtube.com/watch?v=bJnXM2vUdV8",
@@ -21782,7 +21784,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=pLG5h4xEyGc",
@@ -21807,7 +21811,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=ScBoMo8Hu3I",
@@ -21848,7 +21854,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.294
     },
     {
       "url": "https://www.youtube.com/watch?v=cy2pKxuAlVw",
@@ -21875,7 +21883,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=R8xCUA_PIQk",
@@ -21942,7 +21952,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qEAXd-zlAhY",
@@ -21973,7 +21985,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=DMPkpEEvFHM",
@@ -22009,7 +22023,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.475
     },
     {
       "url": "https://www.youtube.com/watch?v=i3mp73gBQIA",
@@ -22053,7 +22069,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=maeHxfwD7bc",
@@ -22102,7 +22120,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=NfPxETgw8Yk",
@@ -22137,7 +22157,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=RRTt_IMNtSw",
@@ -22174,7 +22196,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
     },
     {
       "url": "https://www.youtube.com/watch?v=SXZrQYiving",
@@ -22206,7 +22230,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=tmX6gAjQpPQ",
@@ -22237,8 +22263,293 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KugVp6amgzE",
+      "title": "TRIP REPORT: Qatar Airways Boeing 787-9 Economy Class | Doha (DOH) to Johannesburg (JNB)",
+      "year": 2026,
+      "published_at": "2026-07-16T22:04:38Z",
+      "channel_title": "MichTs1",
+      "view_count": 0,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 7
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 11
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 8
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 6
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j49tLH9hAEI",
+      "title": "Hawaii to California! American Airlines HNL to LAX Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-16T12:50:56Z",
+      "channel_title": "Daryl Pritchard Videos",
+      "view_count": 49,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eKfNbuszlAs",
+      "title": "American Airlines CRJ-900 from Daytona to CLT Flight Review!!",
+      "year": 2026,
+      "published_at": "2026-07-15T16:00:35Z",
+      "channel_title": "Winged Reviews",
+      "view_count": 9,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KcXTN95iLYs",
+      "title": "I flew across the Atlantic to a huge North African hub: my full Royal Air Maroc flight review",
+      "year": 2026,
+      "published_at": "2026-07-16T19:45:18Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 99,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x_JOsNoCWBQ",
+      "title": "My Unbiased Opinion About Philippine Airlines Business Class + Secret First Class Lounge Hack",
+      "year": 2026,
+      "published_at": "2026-07-17T01:45:20Z",
+      "channel_title": "Forgot My Passport",
+      "view_count": 83,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Tablet"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sPikW6-ZdQs",
+      "title": "Traveling from Bangkok to Abu Dhabi by Etihad Boeing 787 || Flight takeoff and landing",
+      "year": 2026,
+      "published_at": "2026-07-16T07:15:10Z",
+      "channel_title": "No Limit",
+      "view_count": 77,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 9
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bm_Bp-N5nTw",
+      "title": "Southwest Airlines | Basic Cabin | Dallas Love Field (DAL) -- Boston (BOS) | 737-700",
+      "year": 2026,
+      "published_at": "2026-07-16T18:41:44Z",
+      "channel_title": "I&S TV",
+      "view_count": 20,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "southwest",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-16T05:48:39.871910"
+  "last_updated": "2026-07-17T05:49:13.706252"
 }
