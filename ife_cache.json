@@ -22600,7 +22600,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=BKnEkywFfus",
@@ -22642,7 +22644,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=X5mWYLKJY5A",
@@ -22683,7 +22687,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=fcxHO4jqisI",
@@ -22723,7 +22729,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=H3Prfb8HMoQ",
@@ -22759,7 +22767,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.542
     },
     {
       "url": "https://www.youtube.com/watch?v=-ajX9erzl9w",
@@ -22809,7 +22819,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=1OGU2WHRMVQ",
@@ -22847,7 +22859,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Nq4uLudSHV8",
@@ -22887,7 +22901,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=J3f0XYzyvok",
@@ -22926,7 +22942,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ll2deXEPWr4",
@@ -22958,7 +22976,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.25
     },
     {
       "url": "https://www.youtube.com/watch?v=ziPuAvMwJAo",
@@ -22990,7 +23010,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=kRoM4LFU-z4",
@@ -23017,8 +23039,55 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GrtyW-6VI_E",
+      "title": "Austrian Airlines Business Class Review | Boeing 777 Vienna to Maldives | Flying Chef Onboard!",
+      "year": 2026,
+      "published_at": "2026-07-18T08:00:21Z",
+      "channel_title": "Luxury Travel Expert",
+      "view_count": 14441,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "austrian airlines",
+          "mentions": 7
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-18T05:35:19.523157"
+  "last_updated": "2026-07-19T06:03:13.127564"
 }
