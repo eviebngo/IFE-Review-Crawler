@@ -23086,8 +23086,187 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-tZoAiMfrs0",
+      "title": "Singapore Airlines A380 Economy Class Review: SQ325 Frankfurt to Singapore",
+      "year": 2026,
+      "published_at": "2026-07-10T10:48:18Z",
+      "channel_title": "Plane Chaser",
+      "view_count": 7946,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "korean air",
+          "mentions": 1
+        },
+        {
+          "keyword": "china southern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "a380",
+          "mentions": 4
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cp3QA-vvNs4",
+      "title": "3 Hours Across Asia With Cathay Pacific 🇭🇰 Boeing 777-300er Economy Review (Hong Kong to Bangkok)",
+      "year": 2026,
+      "published_at": "2026-07-19T15:55:29Z",
+      "channel_title": "Aussie Student Traveller",
+      "view_count": 44,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bowKUX-8wD8",
+      "title": "Is Air Canada Premium Economy Worth It? Full Honest Review ✈️",
+      "year": 2026,
+      "published_at": "2026-07-20T02:53:46Z",
+      "channel_title": "Zindagi Ke Gol Gappe",
+      "view_count": 3,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 6
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hlxAwJktwsg",
+      "title": "GHANA’S ACCRA INTERNATIONAL AIRPORT WELCOMES FIRST-EVER EMIRATES FLIGHT EK789 TO BOOST OPERATIONS",
+      "year": 2026,
+      "published_at": "2026-07-14T18:00:23Z",
+      "channel_title": "Md Blackboi",
+      "view_count": 745,
+      "ife_system": "Thales AVANT Up",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 35
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-19T06:03:13.127564"
+  "last_updated": "2026-07-20T06:24:29.218875"
 }
