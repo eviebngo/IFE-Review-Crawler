@@ -25632,7 +25632,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.25
     },
     {
       "url": "https://www.youtube.com/watch?v=ObDI1Bcevns",
@@ -25669,8 +25671,58 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SeG6bJBoJSY",
+      "title": "I DIDN'T EXPECT THIS... Turkish Airlines Boeing 787-9 Economy Review (Hong Kong to Istanbul) 🇭🇰 🇹🇷",
+      "year": 2026,
+      "published_at": "2026-07-28T21:03:19Z",
+      "channel_title": "Aussie Student Traveller",
+      "view_count": 16,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-28T05:54:12.652254"
+  "last_updated": "2026-07-29T05:59:28.084698"
 }
