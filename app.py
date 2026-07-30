@@ -1139,6 +1139,50 @@ def add_note():
     return jsonify({"status": "success", "notes": notes[url]})
 
 
+# ── Saved videos (persisted to flags.json, keyed by review URL) ────────────────
+# Server-side so bookmarks survive browser changes and work from any device
+# on the network (they used to live in per-browser localStorage).
+
+FLAGS_FILE = Path(__file__).parent / "flags.json"
+_flags_lock = threading.Lock()
+
+
+def _load_flags():
+    if FLAGS_FILE.exists():
+        try:
+            return json.loads(FLAGS_FILE.read_text(encoding="utf-8"))
+        except (ValueError, OSError):
+            return {}
+    return {}
+
+
+@app.route("/api/flags", methods=["GET"])
+def get_flags():
+    return jsonify({"status": "success", "flags": _load_flags()})
+
+
+@app.route("/api/flags", methods=["POST"])
+def set_flag():
+    body = request.get_json() or {}
+    url = (body.get("url") or "").strip()
+    if not url:
+        return jsonify({"status": "error", "error": "url required"}), 400
+    with _flags_lock:
+        flags = _load_flags()
+        if body.get("on"):
+            flags[url] = {
+                "url": url,
+                "title": (body.get("title") or "Untitled")[:200],
+                "channel": (body.get("channel") or "")[:100],
+                "year": body.get("year") or "",
+                "ts": body.get("ts") or int(time.time() * 1000),
+            }
+        else:
+            flags.pop(url, None)
+        FLAGS_FILE.write_text(json.dumps(flags, indent=2, ensure_ascii=False), encoding="utf-8")
+    return jsonify({"status": "success", "count": len(flags)})
+
+
 @app.route("/report")
 def report():
     """On-demand printable intelligence digest (print to PDF from the browser)."""

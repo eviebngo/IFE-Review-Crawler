@@ -491,16 +491,28 @@ function anyFilter(){return !!(Object.keys(activeFacets()).length||S.searchQ||S.
 async function loadFilterOpts(){if(S.filterOpts)return S.filterOpts;try{const d=await (await fetch('/api/ife-filter-options')).json();if(d.status==='success')S.filterOpts=d.options;}catch{}return S.filterOpts||{};}
 
 /* ── flagged videos (localStorage) — personal "reference later" list ── */
-// Map keyed by review URL -> {url,title,channel,year,ts}
-let FLAGS=JSON.parse(localStorage.getItem('rave-flags')||'{}');
-function saveFlags(){localStorage.setItem('rave-flags',JSON.stringify(FLAGS));}
+// Map keyed by review URL -> {url,title,channel,year,ts}. Stored SERVER-SIDE
+// (flags.json) so saves survive browser/device/address changes.
+let FLAGS={};
+function postFlag(f,on){fetch('/api/flags',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({...f,on})}).catch(()=>{});}
+async function loadFlags(){
+  try{const d=await (await fetch('/api/flags')).json();if(d.status==='success')FLAGS=d.flags||{};}catch{}
+  // one-time migration of old browser-local bookmarks to the server
+  try{
+    const legacy=JSON.parse(localStorage.getItem('rave-flags')||'{}');
+    Object.values(legacy).forEach(f=>{if(f&&f.url&&!FLAGS[f.url]){FLAGS[f.url]=f;postFlag(f,true);}});
+    if(Object.keys(legacy).length)localStorage.removeItem('rave-flags');
+  }catch{}
+  refreshAlerts();
+  return FLAGS;
+}
 function isFlagged(url){return !!(url&&FLAGS[url]);}
 function flagCount(){return Object.keys(FLAGS).length;}
 function toggleFlag(r){
   const url=r&&r.url;if(!url)return false;
-  if(FLAGS[url])delete FLAGS[url];
-  else FLAGS[url]={url,title:r.title||'Untitled',channel:r.channel_title||r.source_name||'Creator',year:r.year||'',ts:Date.now()};
-  saveFlags();refreshAlerts();return isFlagged(url);
+  if(FLAGS[url]){const f=FLAGS[url];delete FLAGS[url];postFlag(f,false);}
+  else{FLAGS[url]={url,title:r.title||'Untitled',channel:r.channel_title||r.source_name||'Creator',year:r.year||'',ts:Date.now()};postFlag(FLAGS[url],true);}
+  refreshAlerts();return isFlagged(url);
 }
 function refreshAlerts(){
   const b=$('alertBadge');if(!b)return;
@@ -517,8 +529,8 @@ function renderAlertPanel(){
     if(e.target.closest('.ap-x'))return;
     const u=el.dataset.u;if(u){p.classList.add('hide');openReviewByUrl(u);}
   }));
-  p.querySelectorAll('.ap-x').forEach(b=>b.addEventListener('click',e=>{e.stopPropagation();delete FLAGS[b.dataset.rm];saveFlags();refreshAlerts();renderAlertPanel();refreshFlagIcons();}));
-  const cl=$('apClear');if(cl)cl.addEventListener('click',()=>{FLAGS={};saveFlags();refreshAlerts();renderAlertPanel();refreshFlagIcons();});
+  p.querySelectorAll('.ap-x').forEach(b=>b.addEventListener('click',e=>{e.stopPropagation();const u=b.dataset.rm;if(FLAGS[u]){postFlag(FLAGS[u],false);delete FLAGS[u];}refreshAlerts();renderAlertPanel();refreshFlagIcons();}));
+  const cl=$('apClear');if(cl)cl.addEventListener('click',()=>{Object.values(FLAGS).forEach(f=>postFlag(f,false));FLAGS={};refreshAlerts();renderAlertPanel();refreshFlagIcons();});
 }
 function toggleAlerts(){const p=$('alertPanel');if(p.classList.contains('hide')){renderAlertPanel();p.classList.remove('hide');}else p.classList.add('hide');}
 // Re-sync every flag button's on/off state to FLAGS (after removals from the panel).
@@ -1153,7 +1165,7 @@ document.addEventListener('DOMContentLoaded',()=>{
   document.querySelectorAll('#chatSugg button').forEach(b=>b.addEventListener('click',()=>{ci.value=b.textContent;sendChat();}));
   document.addEventListener('keydown',e=>{if(e.key==='Escape'){if($('chat').classList.contains('show'))closeChat();else if($('mback').classList.contains('show'))closeModal();else if(!$('alertPanel').classList.contains('hide'))$('alertPanel').classList.add('hide');}});
   const startTab=restoreURL()||'Dashboard';
-  loadNotes().then(()=>{ setTab(startTab); refreshAlerts(); });
+  Promise.all([loadNotes(),loadFlags()]).then(()=>{ setTab(startTab); refreshAlerts(); });
 });
 </script>
 </body>
