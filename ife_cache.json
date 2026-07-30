@@ -18437,7 +18437,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Ijnj6loi9LM",
@@ -18468,7 +18470,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=P_B0DwELvWI",
@@ -18510,7 +18514,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=oGdICeFpTcU",
@@ -18546,7 +18552,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=yO4wY0QD1CQ",
@@ -18587,7 +18595,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.103
     },
     {
       "url": "https://www.youtube.com/watch?v=2p-3ffIRNIY",
@@ -18634,7 +18644,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=roNmgoCrnvI",
@@ -18675,7 +18687,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UwQpWGG3LDQ",
@@ -18724,7 +18738,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=KC9ilCjBqLQ",
@@ -18769,7 +18785,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=AIhcF_-cy94",
@@ -18820,7 +18838,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=hAZpRPOqOWg",
@@ -18845,7 +18865,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.477
     },
     {
       "url": "https://www.youtube.com/watch?v=Srtc1yv4aqs",
@@ -18890,7 +18912,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=iNTcbyWdPpE",
@@ -18930,7 +18954,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=noOVSfZWgQE",
@@ -18963,7 +18989,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=L64xG9wqMYQ",
@@ -18998,7 +19026,9 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.765
     },
     {
       "url": "https://www.youtube.com/watch?v=4Ys_7zuT4LI",
@@ -19020,8 +19050,6679 @@
       "transcript_excerpt": null,
       "captions": [],
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UKGSBfC9Mvw",
+      "title": "ANA Super Dense 514-seater 777-300 - Sapporo to Tokyo Haneda",
+      "year": 2026,
+      "published_at": "2026-07-09T04:16:56Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 10570,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "finnair",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.599
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xO6qcQGrj4U",
+      "title": "QATAR AIRWAYS A350-900 ECONOMY CLASS FLIGHT REVIEW | London (LHR) To Doha (DOH) #qatarairways #a350",
+      "year": 2026,
+      "published_at": "2026-07-08T18:49:31Z",
+      "channel_title": "MichTs1",
+      "view_count": 104,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 8
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 4
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 19
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 8
+        },
+        {
+          "keyword": "a380",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://apex.aero/ifsa-apex-award-recipients/",
+      "title": "2026 APEX/IFSA Award Recipients - APEX",
+      "year": 2026,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "delta",
+          "mentions": 2
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press",
+      "sentiment": "positive",
+      "sentiment_score": 0.542
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q5WFXY_dgO4",
+      "title": "Is Singapore Airlines Worth the Premium? | Singapore to Jakarta on the A350-900",
+      "year": 2026,
+      "published_at": "2026-07-10T11:00:09Z",
+      "channel_title": "Wingsight Aviation",
+      "view_count": 47,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wK0YLOi1bM4",
+      "title": "Flying SINGAPORE AIRLINES 787-10 to New Delhi! | TRIP REPORT",
+      "year": 2026,
+      "published_at": "2026-07-09T08:30:28Z",
+      "channel_title": "Isaacflyaway",
+      "view_count": 2228,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iCQF8LT_31g",
+      "title": "STARLUX Airlines Business Class Review | Best Business Class in Asia?",
+      "year": 2026,
+      "published_at": "2026-07-10T09:30:29Z",
+      "channel_title": "Our Travel SA",
+      "view_count": 60,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "alaska airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CE_RBLdMjSE",
+      "title": "Korean Air Economy Class | What to Expect Before You Fly",
+      "year": 2026,
+      "published_at": "2026-07-10T09:02:22Z",
+      "channel_title": "ASAP Tickets",
+      "view_count": 30,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZUa1Tx73b7E",
+      "title": "American Airlines Premium Economy Review | JFK to London Heathrow (LHR) + British Air Check-In Drama",
+      "year": 2026,
+      "published_at": "2026-07-08T20:20:57Z",
+      "channel_title": "Daryl Pritchard Videos",
+      "view_count": 49,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 7
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J4VxQ2o836w",
+      "title": "VEGAS VLOG | DAY 16 | Travel Day Home ✈️ | One Last Gamble, Airport Beers & Did We Get the Upgrade?",
+      "year": 2026,
+      "published_at": "2026-07-10T07:00:07Z",
+      "channel_title": "Hunting Vegas",
+      "view_count": 1045,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j-qH3Wz5HsU",
+      "title": "Is Air India’s B787 Dreamliner Worth It? | Delhi to Mumbai Economy Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-10T13:15:11Z",
+      "channel_title": "AeroWings Aviation ",
+      "view_count": 254,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 9
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nI2evlE-Kpo",
+      "title": "THAI's Dreamliner - Actually GOOD?? TG202 Phuket to Bangkok Full Flight Experience | Boeing 787-9",
+      "year": 2026,
+      "published_at": "2026-07-10T11:00:27Z",
+      "channel_title": "Traveller TP",
+      "view_count": 250,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "dreamliner",
+          "mentions": 5
+        },
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.612
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vNw5hEfImWs",
+      "title": "UU 888  🇹🇭🇷🇪 A Daytime Business Class Flight Across the Indian Ocean | Air Austral Club Austral",
+      "year": 2026,
+      "published_at": "2026-07-10T10:00:39Z",
+      "channel_title": "LuxuryAvGeek",
+      "view_count": 2211,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mxbwRSbp4ek",
+      "title": "The 10 WORST LONG HAUL ECONOMY CLASS Airlines in 2026",
+      "year": 2026,
+      "published_at": "2026-07-09T12:15:00Z",
+      "channel_title": "Epic Voyage",
+      "view_count": 840,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "air france",
+          "mentions": 1
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.703
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0ARv4vFQA7E",
+      "title": "🇪🇸Barcelona (BCN) - Abu Dhabi (AUH) 🇦🇪 Etihad Airways Boeing 787-9 [FULL FLIGHT REPORT}",
+      "year": 2026,
+      "published_at": "2026-07-04T02:22:33Z",
+      "channel_title": "Melbourne Aviation ",
+      "view_count": 0,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Handheld remote"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QO_pzuauMAQ",
+      "title": "After 3 Flights on LOT Polish Airlines, We Finally Flew the 787-9 Dreamliner",
+      "year": 2026,
+      "published_at": "2026-07-09T15:43:11Z",
+      "channel_title": "Your Travel Moves",
+      "view_count": 80,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 6
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 5
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wE3B1b1IdF4",
+      "title": "AIR CHINA BOEING 747-8i (Economy) | Beijing - Frankfurt | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-10T15:30:29Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 9160,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YXqgKV8gMCc",
+      "title": "Emirates NEW Business Class Review | Boeing 777 Dubai to Brussels | Full Flight Experience",
+      "year": 2026,
+      "published_at": "2026-07-11T08:00:16Z",
+      "channel_title": "Luxury Travel Expert",
+      "view_count": 29461,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 15
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qQiTkrNOsF4",
+      "title": "Singapore Airlines Airbus A350 | Singapore to Ho Chi Minh City | Trip Report",
+      "year": 2026,
+      "published_at": "2026-07-11T10:00:06Z",
+      "channel_title": "Flying Asia",
+      "view_count": 238,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lw0eaEqBJ-k",
+      "title": "Singapore Airlines Economy Class B787-10 - Bangkok to Singapore Flight Review #290",
+      "year": 2026,
+      "published_at": "2026-07-08T09:00:38Z",
+      "channel_title": "Zacc Travels",
+      "view_count": 1149,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nwa83gfxzH8",
+      "title": "AVOID This Cathay Pacific A330-300 Business Class! | 🇭🇰 Hong Kong to 🇨🇳 Chongqing",
+      "year": 2026,
+      "published_at": "2026-07-11T07:28:41Z",
+      "channel_title": "TheWindowSeat",
+      "view_count": 98,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.498
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zVZGGBgRXFM",
+      "title": "Cathay Pacific A350 Hong Kong to Perth Economy Class - \"The World's Best BUSINESS CLASS LOUNGE?\"",
+      "year": 2026,
+      "published_at": "2026-07-04T01:33:23Z",
+      "channel_title": "Wander Voyager",
+      "view_count": 364,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0vQUhd5WbsQ",
+      "title": "シンガポール経由でバリ島へ✈️世界最高峰のシンガポール航空が快適すぎた！大行列を回避するe-VOA入国テクニック【海外旅行VLOG】エコノミー搭乗記",
+      "year": 2026,
+      "published_at": "2026-07-11T11:00:06Z",
+      "channel_title": "FOODOJO (miyu)",
+      "view_count": 709,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J62J5vysVjM",
+      "title": "British Airways 777 Economy: Good Food, Horrible Legroom!",
+      "year": 2026,
+      "published_at": "2026-07-11T10:01:14Z",
+      "channel_title": "First Travel",
+      "view_count": 19,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.224
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ojKum9HwrrI",
+      "title": "Trip Report | Turkish Airlines and Azerbaijan Airlines Business Class",
+      "year": 2026,
+      "published_at": "2026-07-11T19:33:54Z",
+      "channel_title": "Ibrahim IMANOV",
+      "view_count": 15,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=99Y1oQ_-Re0",
+      "title": "Can an Elite Lounge Beat Europe’s Best Onboard Food? (TAP vs Finnair)",
+      "year": 2026,
+      "published_at": "2026-07-05T10:00:10Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 12340,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 10
+        },
+        {
+          "keyword": "tap air portugal",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=488DPBOHdcU",
+      "title": "Is Thai Airways Economy Worth It? | 11 Hours from Stockholm to Bangkok 🇸🇪🇹🇭",
+      "year": 2026,
+      "published_at": "2026-07-10T02:26:48Z",
+      "channel_title": "AndreasTheGreat",
+      "view_count": 150,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 7
+        },
+        {
+          "keyword": "finnair",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-xWj_oMj4Jk",
+      "title": "Is American Airlines First Class Review (A321neo Phoenix to Charlotte)",
+      "year": 2026,
+      "published_at": "2026-07-11T13:00:34Z",
+      "channel_title": "Travel At Random",
+      "view_count": 746,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 4
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Eu_LVgMinrE",
+      "title": "American Airlines First Class A321 & B737-800 | ATL-PHX-LAS-DFW-ATL",
+      "year": 2026,
+      "published_at": "2026-07-10T15:31:48Z",
+      "channel_title": "Fly Guys",
+      "view_count": 199,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "alaska airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "a321",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qgH8F9cRskY",
+      "title": "FANTASTIC Vietnam Airlines Business Class | Boeing 787-10 Dreamliner | Seoul to Saigon (VN409)",
+      "year": 2026,
+      "published_at": "2026-07-08T11:07:21Z",
+      "channel_title": "Rai Voyages",
+      "view_count": 886,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.652
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xGAkZiRtt3o",
+      "title": "JEDDAH 🇸🇦 to MANILA 🇵🇭 | 10 Hours Across ASIA on SAUDI ARABIA's FLAG CARRIER",
+      "year": 2026,
+      "published_at": "2026-07-11T07:00:06Z",
+      "channel_title": "Roam with Jerome",
+      "view_count": 1437,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q7rQPtvYFXM",
+      "title": "JETSTAR 787 Tokyo to Brisbane in Economy | Not That Bad?",
+      "year": 2026,
+      "published_at": "2026-07-11T07:00:03Z",
+      "channel_title": "Hugo Lee",
+      "view_count": 3414,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.431
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Tzp1pstBZYQ",
+      "title": "I flew the World's Best Airline in Kazakhstan (Air Astana A321neo) 🇰🇿",
+      "year": 2026,
+      "published_at": "2026-07-05T11:20:07Z",
+      "channel_title": "Rik Adrift",
+      "view_count": 109,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4xR5fmQd77E",
+      "title": "Airbus A321-200 | Condor | Rhodes (RHO) — Hamburg (HAM) | Full Flight | 4K",
+      "year": 2026,
+      "published_at": "2026-07-11T22:05:53Z",
+      "channel_title": "Jasya‘s Flights",
+      "view_count": 0,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SfLFeFq9k7E",
+      "title": "MH370: Forensic Analysis | Capt. Patrick Blelly & Jean-Luc Marchand",
+      "year": 2026,
+      "published_at": "2026-07-11T13:00:06Z",
+      "channel_title": "Sit Down With Sid Podcast",
+      "view_count": 1037,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jNIhMdm1Dk0",
+      "title": "I Flew Ethiopian Airlines Business Class... Is This The Future of Aviation? ✈️",
+      "year": 2026,
+      "published_at": "2026-07-11T17:30:23Z",
+      "channel_title": "Skybound Stories",
+      "view_count": 32,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hIq8p11uLPE",
+      "title": "아름다운 사람들 아시아나 | 홍콩→인천 A330-300 이코노미 탑승기",
+      "year": 2026,
+      "published_at": "2026-07-11T23:07:54Z",
+      "channel_title": "비행[談]  | 내 돈 내고 직접 타봤습니다.",
+      "view_count": 64,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=El2HzPNb6Q4",
+      "title": "Full Flight Experience | Why This Route Offers the Best Mountain Scenery",
+      "year": 2026,
+      "published_at": "2026-07-11T15:45:06Z",
+      "channel_title": "BoardingTimeHD",
+      "view_count": 307,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wFKz-UG8xd0",
+      "title": "China Southern Airbus A350 Longhaul Business Class Review: Guangzhou to Brisbane",
+      "year": 2026,
+      "published_at": "2026-07-12T10:00:37Z",
+      "channel_title": "doc7austin’s DreamlinerCentral",
+      "view_count": 667,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china southern",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jslTtyiqLKo",
+      "title": "The Truth About Riyadh Air’s Long Haul Economy Class",
+      "year": 2026,
+      "published_at": "2026-07-12T09:00:32Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 13465,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.318
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1YPVNFjZ6zQ",
+      "title": "Turkish Airlines Airbus A330 Economy Class Review | Vienna to Istanbul Flight TK1888",
+      "year": 2026,
+      "published_at": "2026-07-12T18:19:36Z",
+      "channel_title": "ExPro Stay",
+      "view_count": 30,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dehK6s23hq4",
+      "title": "🇲🇽 Mexico  to  Paris CDG 🇫🇷  Aeromexico Boeing 787 Dreamliner [FULL FLIGHT REPORT] Economy Class",
+      "year": 2026,
+      "published_at": "2026-07-10T13:30:16Z",
+      "channel_title": "Razgriz Flight & Spotting",
+      "view_count": 40769,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=px-eZ5Nqg-s",
+      "title": "SWISS Economy Class 23 Hours - São Paulo to Zurich to Johannesburg - Is It Worth It? Review #291",
+      "year": 2026,
+      "published_at": "2026-07-12T09:00:38Z",
+      "channel_title": "Zacc Travels",
+      "view_count": 101,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2pJ1P8GFzg8",
+      "title": "Thai Airways Economy A320-200 in 2026 - Phuket to Bangkok Review #289",
+      "year": 2026,
+      "published_at": "2026-07-06T10:42:46Z",
+      "channel_title": "Zacc Travels",
+      "view_count": 371,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rWqQe2feYPg",
+      "title": "Garuda Indonesia Business Class 2026 | Is Indonesia's National Airline Worth It?",
+      "year": 2026,
+      "published_at": "2026-07-12T06:21:56Z",
+      "channel_title": "Maddy Melbourne Wala",
+      "view_count": 49,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yAJwdjLukvI",
+      "title": "Lufthansa Allegris Business Class Review (A350-900 Chicago to Munich): Are They Finally Competitive?",
+      "year": 2026,
+      "published_at": "2026-07-14T05:00:00Z",
+      "channel_title": "Mel's Miles",
+      "view_count": 29,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.178
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y0Ine-HAdV0",
+      "title": "Heathrow Airport Plane Spotting British Airways A380 American Airlines 777",
+      "year": 2026,
+      "published_at": "2026-07-13T11:15:38Z",
+      "channel_title": "WorldAviation 4K",
+      "view_count": 260,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 10
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 6
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 9
+        },
+        {
+          "keyword": "a350",
+          "mentions": 7
+        },
+        {
+          "keyword": "a380",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "787",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Zzu92UrcXyg",
+      "title": "Singapore Airlines BUSINESS CLASS | Airbus A350 M Medium Haul | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-12T02:56:21Z",
+      "channel_title": "SkyStaySmill",
+      "view_count": 192,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pwSUHn4hQdg",
+      "title": "Is this the BEST Sri Lankan Airlines can offer? | Jakarta - Colombo A321neo Economy Class",
+      "year": 2026,
+      "published_at": "2026-07-08T13:45:15Z",
+      "channel_title": "Tristen’s Trip Reviews",
+      "view_count": 2399,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iqCRfJCCjuQ",
+      "title": "I Got Upgraded for FREE! Shanghai Airlines Business Class",
+      "year": 2026,
+      "published_at": "2026-07-11T17:27:38Z",
+      "channel_title": "mosmiles",
+      "view_count": 202,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.651
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7PkXwb5wIsY",
+      "title": "Turkish Airlines Business Class on a A350-900 | Istanbul to Bangkok",
+      "year": 2026,
+      "published_at": "2026-07-13T11:00:07Z",
+      "channel_title": "Jason Kaakoush",
+      "view_count": 65,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dyaWhw83TQg",
+      "title": "DOH-ORD ECONOMY Flight Review (Qatar Airways A350-1000)",
+      "year": 2026,
+      "published_at": "2026-07-11T07:18:37Z",
+      "channel_title": "Zach Tufenkjian",
+      "view_count": 74,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=giwyqEJkO9Y",
+      "title": "Scoot Economy Class: Flying Scoot Airlines Singapore to Kuala Lumpur",
+      "year": 2026,
+      "published_at": "2026-07-06T16:00:04Z",
+      "channel_title": "ONESkyFlyer",
+      "view_count": 8474,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yth8gcIbqqk",
+      "title": "Thai Airways A350 Economy Deep Dive - Is This Route Worth Booking?",
+      "year": 2026,
+      "published_at": "2026-07-14T08:00:26Z",
+      "channel_title": "Travel & Eat with Mike & Lil",
+      "view_count": 677,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XaiUcXcowTo",
+      "title": "Take my advice, AVOID Air China at all costs",
+      "year": 2026,
+      "published_at": "2026-07-13T15:10:16Z",
+      "channel_title": "James Warren-Oliver",
+      "view_count": 1656,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.447
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Zd5DDjmiWrs",
+      "title": "2026 Airbus A380 – The Ultimate Super Jumbo Jet Review | Luxury Interior, Performance & Features.",
+      "year": 2026,
+      "published_at": "2026-07-15T05:00:22Z",
+      "channel_title": "SmartDrive Reviews\n",
+      "view_count": 0,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 19
+        },
+        {
+          "keyword": "a380",
+          "mentions": 15
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.599
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5G096fbZcHg",
+      "title": "Flying the STRETCH Dreamliner! Singapore Airlines Boeing 787-10 • SQ422 to Mumbai",
+      "year": 2026,
+      "published_at": "2026-07-14T02:01:04Z",
+      "channel_title": "Sydney Airways",
+      "view_count": 60,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Ku-band",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IOqnsARFNMw",
+      "title": "Singapore Airlines Boeing 777-300ER Full Flight | SQ211",
+      "year": 2026,
+      "published_at": "2026-07-15T02:01:11Z",
+      "channel_title": "Sydney Airways",
+      "view_count": 11,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-13GmQvUUg0",
+      "title": "Thai Airways Royal Silk Business Class A350-900 Review Seoul - Bangkok",
+      "year": 2026,
+      "published_at": "2026-07-13T05:56:08Z",
+      "channel_title": "Traverse",
+      "view_count": 1975,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "thai airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jVzqOLb_bss",
+      "title": "【ANA13便】ANAボーイング787で羽田空港から大阪・伊丹空港へ｜搭乗レビュー",
+      "year": 2026,
+      "published_at": "2026-07-14T10:12:40Z",
+      "channel_title": "GTA5 HOTLINE",
+      "view_count": 24,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 8
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YYgq0bf2sg0",
+      "title": "AIR EUROPA renueva su ECONOMY en el ATLÁNTICO",
+      "year": 2026,
+      "published_at": "2026-07-09T20:55:06Z",
+      "channel_title": "JClassTraveller",
+      "view_count": 10088,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "delta",
+          "mentions": 2
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 8
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=W_Siuot-4WA",
+      "title": "ADVANCED AIR PILATUS PC-12 | Las Vegas - Merced | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-14T16:30:18Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 1631,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.408
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5LLH2p2_qDo",
+      "title": "The 10 BEST Airlines in Asia for 2026",
+      "year": 2026,
+      "published_at": "2026-07-15T12:15:33Z",
+      "channel_title": "Epic Voyage",
+      "view_count": 969,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bJnXM2vUdV8",
+      "title": "Flying 8 Hours in Qatar Airways Economy | Sharjah - Doha - Hanoi",
+      "year": 2026,
+      "published_at": "2026-07-08T13:45:07Z",
+      "channel_title": "Routes Aligned",
+      "view_count": 353,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pLG5h4xEyGc",
+      "title": "The Best Way to Fly to the Philippines? Qatar Airways Flight Review + Hamad Intl Airport Tour",
+      "year": 2026,
+      "published_at": "2026-07-11T00:14:12Z",
+      "channel_title": "Enero Gatdula Gaming And Vlogs",
+      "view_count": 47,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ScBoMo8Hu3I",
+      "title": "Singapore Airlines A350 Economy vs Business - Is Business Class Really Worth the Extra Cost?",
+      "year": 2026,
+      "published_at": "2026-07-10T09:00:33Z",
+      "channel_title": "Zacc Travels Again",
+      "view_count": 262,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.294
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cy2pKxuAlVw",
+      "title": "Flying From Singapore to Manila 🇸🇬✈️ | Singapore Airlines  Flight Review (Worth the Hype?)",
+      "year": 2026,
+      "published_at": "2026-07-07T03:54:50Z",
+      "channel_title": "Mommy K Figuracion",
+      "view_count": 159,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=R8xCUA_PIQk",
+      "title": "I tried FINNAIR A350 PREMIUM ECONOMY on a short flight within Europe 🇪🇺",
+      "year": 2026,
+      "published_at": "2026-07-16T04:18:38Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 662,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 4
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qEAXd-zlAhY",
+      "title": "Economy Class Review | Flying Lufthansa from Port Harcourt to Frankfurt",
+      "year": 2026,
+      "published_at": "2026-07-14T11:07:33Z",
+      "channel_title": "Kevin UK",
+      "view_count": 9,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DMPkpEEvFHM",
+      "title": "Flying Portland’s BUSIEST ROUTE! | United Airlines Portland to Denver 737-800",
+      "year": 2026,
+      "published_at": "2026-07-16T02:16:18Z",
+      "channel_title": "Legitimate Aviation",
+      "view_count": 26,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.475
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i3mp73gBQIA",
+      "title": "NEW American Airlines 787-9P Economy Class Review | London to Dallas DFW",
+      "year": 2026,
+      "published_at": "2026-07-03T18:04:08Z",
+      "channel_title": "Miles to Luxury",
+      "view_count": 428,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=maeHxfwD7bc",
+      "title": "Why Airlines are Quietly Removing Your Seatback Screens",
+      "year": 2026,
+      "published_at": "2026-07-15T17:40:22Z",
+      "channel_title": "Flytplan",
+      "view_count": 13,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "alaska airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NfPxETgw8Yk",
+      "title": "Is Jetstar Flex Plus Worth It? | Adelaide to Perth A321neo Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-11T18:32:05Z",
+      "channel_title": "Aussie Jetsetter",
+      "view_count": 1,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 7
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RRTt_IMNtSw",
+      "title": "Delta Air Lines Trip Report: LAS-LAX | Boeing 737-900ER | Comfort Plus | March 2026",
+      "year": 2026,
+      "published_at": "2026-07-08T00:00:13Z",
+      "channel_title": "Aviation with Jeff",
+      "view_count": 195,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SXZrQYiving",
+      "title": "Traveling from Sharjah to Bangkok by Air Arabia A321 || Flight Takeoff and Landing",
+      "year": 2026,
+      "published_at": "2026-07-08T08:00:35Z",
+      "channel_title": "No Limit",
+      "view_count": 316,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tmX6gAjQpPQ",
+      "title": "Phu Quoc Visa? | Vietnam Airlines A321 Business Class SGN to Phu Quoc",
+      "year": 2026,
+      "published_at": "2026-07-14T14:48:21Z",
+      "channel_title": "Rai Voyages",
+      "view_count": 43,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KugVp6amgzE",
+      "title": "TRIP REPORT: Qatar Airways Boeing 787-9 Economy Class | Doha (DOH) to Johannesburg (JNB)",
+      "year": 2026,
+      "published_at": "2026-07-16T22:04:38Z",
+      "channel_title": "MichTs1",
+      "view_count": 0,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 7
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 11
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 8
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 6
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j49tLH9hAEI",
+      "title": "Hawaii to California! American Airlines HNL to LAX Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-16T12:50:56Z",
+      "channel_title": "Daryl Pritchard Videos",
+      "view_count": 49,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eKfNbuszlAs",
+      "title": "American Airlines CRJ-900 from Daytona to CLT Flight Review!!",
+      "year": 2026,
+      "published_at": "2026-07-15T16:00:35Z",
+      "channel_title": "Winged Reviews",
+      "view_count": 9,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KcXTN95iLYs",
+      "title": "I flew across the Atlantic to a huge North African hub: my full Royal Air Maroc flight review",
+      "year": 2026,
+      "published_at": "2026-07-16T19:45:18Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 99,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.318
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x_JOsNoCWBQ",
+      "title": "My Unbiased Opinion About Philippine Airlines Business Class + Secret First Class Lounge Hack",
+      "year": 2026,
+      "published_at": "2026-07-17T01:45:20Z",
+      "channel_title": "Forgot My Passport",
+      "view_count": 83,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Tablet"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": -0.026
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sPikW6-ZdQs",
+      "title": "Traveling from Bangkok to Abu Dhabi by Etihad Boeing 787 || Flight takeoff and landing",
+      "year": 2026,
+      "published_at": "2026-07-16T07:15:10Z",
+      "channel_title": "No Limit",
+      "view_count": 77,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 9
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bm_Bp-N5nTw",
+      "title": "Southwest Airlines | Basic Cabin | Dallas Love Field (DAL) -- Boston (BOS) | 737-700",
+      "year": 2026,
+      "published_at": "2026-07-16T18:41:44Z",
+      "channel_title": "I&S TV",
+      "view_count": 20,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "southwest",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DJe5kXYCPzQ",
+      "title": "EMIRATES Brand New AIRBUS A380 (Premium Economy) | Hong Kong - Dubai | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-17T15:30:23Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 6270,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BKnEkywFfus",
+      "title": "Is This the World’s Best Business Class? Qatar Airways Qsuite Review | Doha to Manila 🇵🇭 | B777",
+      "year": 2026,
+      "published_at": "2026-07-17T10:00:15Z",
+      "channel_title": "LuxuryAvGeek",
+      "view_count": 3768,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 8
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=X5mWYLKJY5A",
+      "title": "Turkish Airlines business class at its best: A330 within Europe",
+      "year": 2026,
+      "published_at": "2026-07-17T22:00:15Z",
+      "channel_title": "Markus Travels",
+      "view_count": 40,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fcxHO4jqisI",
+      "title": "Air France A350 Premium Economy Review ✈️",
+      "year": 2026,
+      "published_at": "2026-07-17T15:00:06Z",
+      "channel_title": "BrandonJohnson10K",
+      "view_count": 59,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H3Prfb8HMoQ",
+      "title": "Is Air China Economy Actually That Bad? Long Haul - A350 Review",
+      "year": 2026,
+      "published_at": "2026-07-17T16:10:32Z",
+      "channel_title": "Wait For Me!",
+      "view_count": 10,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.542
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-ajX9erzl9w",
+      "title": "🍁 Air Canada Business/Signature Class | ICN ✈️ YVR | Boeing 787-9 Dreamliner",
+      "year": 2026,
+      "published_at": "2026-07-11T03:36:06Z",
+      "channel_title": "Anna Wang",
+      "view_count": 1319,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1OGU2WHRMVQ",
+      "title": "기대가 너무 컸나? 일본항공 B787 국내선을 처음 타봤습니다 (오사카 이타미→도쿄 하네다)",
+      "year": 2026,
+      "published_at": "2026-07-18T01:30:09Z",
+      "channel_title": "찍먹여행",
+      "view_count": 213,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "jal",
+          "mentions": 2
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Nq4uLudSHV8",
+      "title": "KLM 787 Dreamliner Business Class Review | Is It Worth It? (AMS–JFK)",
+      "year": 2026,
+      "published_at": "2026-07-15T21:29:10Z",
+      "channel_title": "Matthew Tutorials and Reviews",
+      "view_count": 53,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J3f0XYzyvok",
+      "title": "✈️ Edelweiss Air A340: Switzerland to Florida [4k]",
+      "year": 2026,
+      "published_at": "2026-07-17T10:00:30Z",
+      "channel_title": "Destinations2see",
+      "view_count": 36,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "content_count": "180+",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ll2deXEPWr4",
+      "title": "(1) Lufthansa Technik AG (Appellant) v Astronics Advanced Electronic Systems & anr (Respondents)",
+      "year": 2026,
+      "published_at": "2026-07-08T12:10:34Z",
+      "channel_title": "Royal Courts of Justice Court 67",
+      "view_count": 95,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 13
+        },
+        {
+          "keyword": "ana",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.25
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ziPuAvMwJAo",
+      "title": "The 8-hour journey from London to Delhi",
+      "year": 2026,
+      "published_at": "2026-07-18T01:00:06Z",
+      "channel_title": "Phlying Doctor",
+      "view_count": 18,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kRoM4LFU-z4",
+      "title": "Mumbai to Gdansk, Poland Flight with LUFTHANSA ✈️ Transit via Munich 🇮🇳 🇩🇪 🇵🇱",
+      "year": 2026,
+      "published_at": "2026-07-17T21:31:32Z",
+      "channel_title": "Indjan Traveler",
+      "view_count": 10,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GrtyW-6VI_E",
+      "title": "Austrian Airlines Business Class Review | Boeing 777 Vienna to Maldives | Flying Chef Onboard!",
+      "year": 2026,
+      "published_at": "2026-07-18T08:00:21Z",
+      "channel_title": "Luxury Travel Expert",
+      "view_count": 14441,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "austrian airlines",
+          "mentions": 7
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-tZoAiMfrs0",
+      "title": "Singapore Airlines A380 Economy Class Review: SQ325 Frankfurt to Singapore",
+      "year": 2026,
+      "published_at": "2026-07-10T10:48:18Z",
+      "channel_title": "Plane Chaser",
+      "view_count": 7946,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "korean air",
+          "mentions": 1
+        },
+        {
+          "keyword": "china southern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "a380",
+          "mentions": 4
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cp3QA-vvNs4",
+      "title": "3 Hours Across Asia With Cathay Pacific 🇭🇰 Boeing 777-300er Economy Review (Hong Kong to Bangkok)",
+      "year": 2026,
+      "published_at": "2026-07-19T15:55:29Z",
+      "channel_title": "Aussie Student Traveller",
+      "view_count": 44,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bowKUX-8wD8",
+      "title": "Is Air Canada Premium Economy Worth It? Full Honest Review ✈️",
+      "year": 2026,
+      "published_at": "2026-07-20T02:53:46Z",
+      "channel_title": "Zindagi Ke Gol Gappe",
+      "view_count": 3,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 6
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hlxAwJktwsg",
+      "title": "GHANA’S ACCRA INTERNATIONAL AIRPORT WELCOMES FIRST-EVER EMIRATES FLIGHT EK789 TO BOOST OPERATIONS",
+      "year": 2026,
+      "published_at": "2026-07-14T18:00:23Z",
+      "channel_title": "Md Blackboi",
+      "view_count": 745,
+      "ife_system": "Thales AVANT Up",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 35
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.66
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mn4pUZDXM14",
+      "title": "Is American Airlines Premium Economy Worth It? | Sydney to Los Angeles Review",
+      "year": 2026,
+      "published_at": "2026-07-20T19:01:15Z",
+      "channel_title": "Daryl Pritchard Videos",
+      "view_count": 44,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 7
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OXAb1ghs5R8",
+      "title": "Is Emirates A380 Business Class Worth It? | Bangkok to Hong Kong",
+      "year": 2026,
+      "published_at": "2026-07-23T18:22:41Z",
+      "channel_title": "Passport to EVERYTHING",
+      "view_count": 869,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MKHXAXaI5ck",
+      "title": "KLM Royal Dutch Airlines World Business Class | Boeing 777 Denpasar→Singapore(DPS-SIN) Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-24T11:00:26Z",
+      "channel_title": "Peggy Snowden Europe",
+      "view_count": 1964,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 18
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uS-a61rg0bo",
+      "title": "Emirates EK158 Flight Review | Stockholm to Dubai 🇸🇪🇦🇪 | Economy Class Experience",
+      "year": 2026,
+      "published_at": "2026-07-23T20:09:16Z",
+      "channel_title": "Travel Plus",
+      "view_count": 26,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=__LPO63SXDU",
+      "title": "TRIPREPORT | Emirates | Business Class | Hanoi - Dubai | Boeing 777-300ER",
+      "year": 2026,
+      "published_at": "2026-07-23T18:17:36Z",
+      "channel_title": "HvperrrTech",
+      "view_count": 26,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ImSnSF2n7BA",
+      "title": "Condor Business Class Review | We Expected Budget... We Were Shocked!",
+      "year": 2026,
+      "published_at": "2026-07-21T21:09:21Z",
+      "channel_title": "Away Again Travel with Nona & Bop",
+      "view_count": 177,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.38
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mJsBoOjj4yo",
+      "title": "Fiji Airways A330-200 TOKYO to NADI (Economy Class)",
+      "year": 2026,
+      "published_at": "2026-07-23T04:00:31Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 10512,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rWijSmHRqe8",
+      "title": "Qatar Airways Economy Actually the Best A350-900 Full Flight Report (Doha to Singapore)#QatarAirways",
+      "year": 2026,
+      "published_at": "2026-07-25T11:07:36Z",
+      "channel_title": "The Qatar Diary",
+      "view_count": 21,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GCU54d8uVyA",
+      "title": "Singapore Airlines B787 Economy Class Review: SQ713 Bangkok to Singapore",
+      "year": 2026,
+      "published_at": "2026-07-18T13:54:22Z",
+      "channel_title": "Plane Chaser",
+      "view_count": 2025,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "korean air",
+          "mentions": 1
+        },
+        {
+          "keyword": "china southern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "a321",
+          "mentions": 3
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=A7AQE6xeAMs",
+      "title": "Flight Review: Singapore Airlines | Airbus A350-900 | Economy Class | Manila to Singapore",
+      "year": 2026,
+      "published_at": "2026-07-18T08:44:09Z",
+      "channel_title": "Savi Travels ",
+      "view_count": 1631,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UKhwU_Q-FgU",
+      "title": "Cathay Pacific A350-900 | Johannesburg - Hong Kong | Trip Report",
+      "year": 2026,
+      "published_at": "2026-07-25T10:00:13Z",
+      "channel_title": "GM Aviation",
+      "view_count": 7966,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v9F_z5XbjoY",
+      "title": "Cathay Pacific｜What’s It Like Flying 15 Hours to Canada?【 國泰航空經濟艙｜香港轉機體驗｜A350-1000｜廣州－香港－多倫多 】",
+      "year": 2026,
+      "published_at": "2026-07-25T04:00:07Z",
+      "channel_title": "Flying Beck",
+      "view_count": 1691,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 9
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 8
+        },
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oWoH_so35k8",
+      "title": "Travel to Australia with Cathay Pacific Part 1--The short-haul leg with CX from Beijing to Hong Kong",
+      "year": 2026,
+      "published_at": "2026-07-18T14:00:21Z",
+      "channel_title": "Yiheng Liu (Eric) ",
+      "view_count": 6832,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BFY2XEoAnvM",
+      "title": "Cathay Pacific A350: Is This The Best Way To Hong Kong?",
+      "year": 2026,
+      "published_at": "2026-07-25T12:19:34Z",
+      "channel_title": "First Travel",
+      "view_count": 24,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WvdHUzJO-ew",
+      "title": "Cathay Pacific A330 Short Haul Economy | Great Service and Food! | Kuala Lumpur to Hong Kong",
+      "year": 2026,
+      "published_at": "2026-07-24T12:50:04Z",
+      "channel_title": "Fly_with_jo",
+      "view_count": 800,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.659
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=e-6vAuOu3Jg",
+      "title": "✈️ Is EVA Air Worth It? | My FIRST Flight to Taipei, Taiwan 🇹🇼 (Trip Report)",
+      "year": 2026,
+      "published_at": "2026-07-21T12:13:40Z",
+      "channel_title": "Corporate Boy Wanderer",
+      "view_count": 290,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GauSziM3urc",
+      "title": "Inside JAL’s Boeing 787-8 Business Class: Tokyo Narita to Ho Chi Minh City (JL759) [4K]",
+      "year": 2026,
+      "published_at": "2026-07-26T00:52:46Z",
+      "channel_title": "Arthur's Luxury Escape",
+      "view_count": 49,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "jal",
+          "mentions": 8
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5Yw8AbQvY2s",
+      "title": "Das ENDE der A340-600!",
+      "year": 2026,
+      "published_at": "2026-07-22T16:00:02Z",
+      "channel_title": "Philippe",
+      "view_count": 291,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=p0S4vh-KswE",
+      "title": "REVIEW | Turkish Airlines | Chicago (ORD) - Istanbul (IST) | Boeing 777-300ER | Economy",
+      "year": 2026,
+      "published_at": "2026-07-24T21:34:37Z",
+      "channel_title": "Global Aviation & Travel",
+      "view_count": 1966,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YNnFbdN896o",
+      "title": "My First Turkish Airlines Experience | Kuala Lumpur to Dublin 🇮🇪",
+      "year": 2026,
+      "published_at": "2026-07-20T07:00:26Z",
+      "channel_title": "Pisang Goreng Channel",
+      "view_count": 124,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aK6_zD8THoA",
+      "title": "Istanbul to Boston | Flight Review | Turkish Airlines | Airbus a350-900",
+      "year": 2026,
+      "published_at": "2026-07-19T10:53:31Z",
+      "channel_title": "Global Niko Travel",
+      "view_count": 286,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L2FgoSLTcJ8",
+      "title": "Delhi To Helsinki To Estonia - Finnair Premium Economy Review | Honest Flight & Food Review",
+      "year": 2026,
+      "published_at": "2026-07-25T07:00:23Z",
+      "channel_title": "Kushal Arora Vlogs",
+      "view_count": 631,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 5
+        },
+        {
+          "keyword": "air india",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.511
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m5fMj4eWFTk",
+      "title": "The Delta A220-100 first class experience (San Diego to Seattle)",
+      "year": 2026,
+      "published_at": "2026-07-21T15:00:10Z",
+      "channel_title": "SANspotter Bonus Footage",
+      "view_count": 1745,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a220",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6OY5qiq7ksk",
+      "title": "Delta | Boeing 737-900ER | Safety instruction video (2026)",
+      "year": 2026,
+      "published_at": "2026-07-25T09:00:36Z",
+      "channel_title": "NL Aviation",
+      "view_count": 40,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m7ivbtuc1DI",
+      "title": "EgyptAir Review 2026 ✈️ Dublin to Johannesburg via Cairo | Honest Economy Class Review",
+      "year": 2026,
+      "published_at": "2026-07-23T14:37:26Z",
+      "channel_title": "Pritchn123 ",
+      "view_count": 105,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.511
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5SbDRry_iJk",
+      "title": "TRIPREPORT: Delta Airlines | Miami (MIA) - New York (JFK) | B737-900ER | Jul 2026",
+      "year": 2026,
+      "published_at": "2026-07-22T16:00:04Z",
+      "channel_title": "Queen Ayzella",
+      "view_count": 16,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U58bqvAI9nw",
+      "title": "REVIEW | United Airlines | Chicago (ORD) - Kansas City (MCI) | Airbus A319-100 | Economy",
+      "year": 2026,
+      "published_at": "2026-07-22T22:50:10Z",
+      "channel_title": "Global Aviation & Travel",
+      "view_count": 2624,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KjOWbQ10Mew",
+      "title": "🇺🇸Newark to Madrid 🇪🇸on United’s 25 YEAR OLD 767-400 | Full Trip Report ✈️",
+      "year": 2026,
+      "published_at": "2026-07-17T23:43:16Z",
+      "channel_title": "SkyMode Aviation",
+      "view_count": 304,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zJEQGgpDQ7E",
+      "title": "メキシコ行きに乗るはずが、チェックインに間に合わず…急きょアメリカ国内線へ ユナイテッド航空 ヒューストン→ダラス",
+      "year": 2026,
+      "published_at": "2026-07-25T10:00:20Z",
+      "channel_title": "Daiki Yamamoto / 元Vリーガーの旅日記",
+      "view_count": 1615,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 3
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=npOP4785a70",
+      "title": "LATAM 787-9 Business Class Review | LAX to São Paulo",
+      "year": 2026,
+      "published_at": "2026-07-23T07:00:00Z",
+      "channel_title": "Then We Went",
+      "view_count": 172,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hp6CH9DCZV0",
+      "title": "I flew Etihad's WORST long haul aircraft. And yet...",
+      "year": 2026,
+      "published_at": "2026-07-20T18:46:53Z",
+      "channel_title": "Wingin’ It! Paul Lucas",
+      "view_count": 45700,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.703
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9TwFzXU8iy0",
+      "title": "China Airlines Business Class Full Flight Review A321 (PUS - TPE) Best Short Haul Business Class!",
+      "year": 2026,
+      "published_at": "2026-07-25T02:00:06Z",
+      "channel_title": "Dining with Derek",
+      "view_count": 101,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "korean air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.67
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pvW6ldADADg",
+      "title": "방콕 요즘 안간다더니.. 타이항공 방콕 노선 근황 A350 '근데 좀 아쉽다 너'",
+      "year": 2026,
+      "published_at": "2026-07-26T06:00:06Z",
+      "channel_title": "어디야 우실장",
+      "view_count": 15,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bceAz2htqSA",
+      "title": "ICELAND TO MUMBAI | AIR INDIA BUSINESS CLASS REVIEW",
+      "year": 2026,
+      "published_at": "2026-07-20T04:45:20Z",
+      "channel_title": "Mumbiker Nikhil",
+      "view_count": 224977,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wHafnqXKAbk",
+      "title": "Emirates Economy Class Review | Dubai to Ahmedabad 🇦🇪✈️🇮🇳 | Full Flight Experience 2026",
+      "year": 2026,
+      "published_at": "2026-07-25T08:33:07Z",
+      "channel_title": "Krunal Panchal",
+      "view_count": 20,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 19
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WATVJsdis1c",
+      "title": "Etihad Airways First Class A380 Apartment | Amazing Flight from Abu Dhabi to Tokyo",
+      "year": 2026,
+      "published_at": "2026-07-24T09:05:39Z",
+      "channel_title": "ST Travel",
+      "view_count": 57362,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.586
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QMTDGWl1B0Q",
+      "title": "Iberia's secret Premium Economy HACK (I paid just £31)",
+      "year": 2026,
+      "published_at": "2026-07-20T15:30:02Z",
+      "channel_title": "James Warren-Oliver",
+      "view_count": 1602,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ofFu1iAzcWc",
+      "title": "We Scored Malaysia Airlines' New A330neo Business Class Across Five Categories",
+      "year": 2026,
+      "published_at": "2026-07-23T14:00:10Z",
+      "channel_title": "Business Traveller",
+      "view_count": 3566,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uENeKsmKMwA",
+      "title": "Singapore Airlines Boeing 787 | Business Class Review | Bali to Singapore (SQ937) | Worth it?",
+      "year": 2026,
+      "published_at": "2026-07-24T15:33:25Z",
+      "channel_title": "ANGAD SINGH NARULA",
+      "view_count": 47,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LLcZ9f4GMPY",
+      "title": "Why AIR TANZANIA Might Surprise You 🇹🇿",
+      "year": 2026,
+      "published_at": "2026-07-23T12:30:10Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 25329,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "a220",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.273
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FPBdesceu4U",
+      "title": "Air Jamaica Chronicles with Lukkee Chong",
+      "year": 2026,
+      "published_at": "2026-07-23T01:22:16Z",
+      "channel_title": "Jamaica",
+      "view_count": 1860,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=G2GqPq3j--U",
+      "title": "TRIPREPORT | DELAYED... | Austrian | Boeing 777 | Shanghai (PVG) - Vienna (VIE) | Premium Economy",
+      "year": 2026,
+      "published_at": "2026-07-25T14:30:06Z",
+      "channel_title": "Aviation LF",
+      "view_count": 24,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "austrian airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "swiss",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Handheld remote"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nQWEw-46CLU",
+      "title": "Virgin Atlantic In All Three Classes (including all 3 Upper Class Seat Types)",
+      "year": 2026,
+      "published_at": "2026-07-12T15:00:28Z",
+      "channel_title": "Charles On Travels",
+      "view_count": 13538,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JSFKIjPKySw",
+      "title": "Trying the MOST UNIQUE Economy Product in the Sky! | Ethiopian 787-9 Stockholm to Oslo",
+      "year": 2026,
+      "published_at": "2026-07-25T14:00:14Z",
+      "channel_title": "Legitimate Aviation",
+      "view_count": 14,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uITNoDifTK0",
+      "title": "CAPE AIR CESSNA 402 | Lebanon - Boston | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-21T15:30:02Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 22791,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pspZPzVaxfM",
+      "title": "Flying 18 Hours in Singapore Airlines Premium Economy to New York | FIFA World Cup Travel Vlog",
+      "year": 2026,
+      "published_at": "2026-07-16T12:00:31Z",
+      "channel_title": "Malay Singapore Sarawak Adventures",
+      "view_count": 341,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oxpDLNgxW5w",
+      "title": "BEST or MEDIOCRE? Review Japan Airlines First Class A3350-1000 LAX-HND",
+      "year": 2026,
+      "published_at": "2026-07-26T23:00:32Z",
+      "channel_title": "allons.y",
+      "view_count": 1237,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 23
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 18
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 18
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-MVWTk4nCQQ",
+      "title": "FANTASTIC ECONOMY CLASS on Cathay Pacific’s A350-900 to Hong Kong 🇭🇰 | Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-27T03:54:29Z",
+      "channel_title": "RandomAv_s",
+      "view_count": 19,
+      "ife_system": "StudioCX",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.652
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xWoSJG6Osgk",
+      "title": "Is Air France Economy Better Than Turkish Airlines? (10 Hour Test)",
+      "year": 2026,
+      "published_at": "2026-07-26T09:00:27Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 12607,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 13
+        },
+        {
+          "keyword": "air france",
+          "mentions": 11
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aIYnmAUkTKc",
+      "title": "The Overlooked Giant: China Eastern 🇨🇳 A330 Business Class Review | Istanbul to Shanghai",
+      "year": 2026,
+      "published_at": "2026-07-26T08:45:19Z",
+      "channel_title": "AirHub",
+      "view_count": 120,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china eastern",
+          "mentions": 9
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "hainan airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": -0.026
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TQudCS_JsWo",
+      "title": "DELTA AIR LINES | Paris 🇫🇷 - Salt Lake City 🇺🇸 | Flying in ECONOMY CLASS with an Airbus A330-300",
+      "year": 2026,
+      "published_at": "2026-07-26T15:59:59Z",
+      "channel_title": "Boarding4World",
+      "view_count": 283,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hNngbMaCq1I",
+      "title": "SWISS 777-300ER Business Class from SFO to Zurich | Full Review",
+      "year": 2026,
+      "published_at": "2026-07-25T12:00:21Z",
+      "channel_title": "The Aircraft King",
+      "view_count": 1043,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QGWuAT6-Wrc",
+      "title": "Flying British Airways A350-1000 World Traveller Plus ✈️ Full Flight Review",
+      "year": 2026,
+      "published_at": "2026-07-25T11:00:16Z",
+      "channel_title": "Zuhair Farouk",
+      "view_count": 2559,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SXjaBAj7crc",
+      "title": "Flying SAS A319 from Bergen! 🇳🇴 Solid Short-Haul Flight Review SK2865 BGO - CPH Economy (Review #90)",
+      "year": 2026,
+      "published_at": "2026-07-19T08:00:26Z",
+      "channel_title": "HK Flyer Flight Reviews",
+      "view_count": 113,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.224
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=N7S5C-BRbxk",
+      "title": "United Airlines | Boeing 777-200ER | UA879 | London Heathrow to Houston (Economy Class)",
+      "year": 2026,
+      "published_at": "2026-07-21T02:56:14Z",
+      "channel_title": "Delta’s Transport Adventures",
+      "view_count": 0,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y56N0GrLy28",
+      "title": "Trip Report: Aer Lingus A330-300 DUB-ORD",
+      "year": 2026,
+      "published_at": "2026-07-21T15:17:23Z",
+      "channel_title": "Maxxyboi’s Aviation",
+      "view_count": 131,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ds5r0RDFm3U",
+      "title": "机龄16天的大韩787-10商务舱｜Air Canada Cancelled SO I Ended Up Flying Korean Air's New 787-10 Business Class",
+      "year": 2026,
+      "published_at": "2026-07-28T01:19:21Z",
+      "channel_title": "Grey Wen",
+      "view_count": 1,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 8
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 8
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.25
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ObDI1Bcevns",
+      "title": "KLM Premium Comfort Review | Amsterdam to New York (Worth the Upgrade?)",
+      "year": 2026,
+      "published_at": "2026-07-26T15:00:20Z",
+      "channel_title": "Globetrotting Graeme",
+      "view_count": 100,
+      "ife_system": "Thales AVANT",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SeG6bJBoJSY",
+      "title": "I DIDN'T EXPECT THIS... Turkish Airlines Boeing 787-9 Economy Review (Hong Kong to Istanbul) 🇭🇰 🇹🇷",
+      "year": 2026,
+      "published_at": "2026-07-28T21:03:19Z",
+      "channel_title": "Aussie Student Traveller",
+      "view_count": 16,
+      "ife_system": "Panasonic eX3",
+      "ife_system_inferred": true,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-08T05:59:44.412950"
+  "last_updated": "2026-07-29T05:59:28.084698"
 }
