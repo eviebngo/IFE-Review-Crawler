@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>RAVE Aerospace — IFE Intelligence Digest</title>
+<style>
+:root{--ink:#141519;--gray:#6b6b6b;--line:#e5e5e2;--red:#e8242a;--soft:#f7f6f3}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:var(--ink);background:#fff;line-height:1.5;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{max-width:900px;margin:0 auto;padding:40px 44px 60px}
+.rhead{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink);padding-bottom:16px;margin-bottom:8px}
+.logo .r{font-size:26px;font-weight:800;color:var(--red);letter-spacing:1px}
+.logo .a{font-size:8px;font-weight:500;letter-spacing:2px}
+.rhead .t{font-size:13px;font-weight:600}.rhead .d{font-size:11px;color:var(--gray);text-align:right}
+.print-btn{margin:14px 0 24px;padding:9px 18px;border:none;border-radius:8px;background:var(--ink);color:#fff;font-size:12px;font-weight:600;cursor:pointer;font-family:inherit}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:28px}
+.kpi{border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.kpi .v{font-size:28px;font-weight:700;letter-spacing:-.02em}
+.kpi .l{font-size:11px;color:var(--gray);margin-top:4px}
+h2{font-size:14px;font-weight:700;margin:26px 0 12px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+table{width:100%;border-collapse:collapse;font-size:12px}
+th{text-align:left;font-size:10px;text-transform:uppercase;letter-spacing:.04em;color:var(--gray);font-weight:600;padding:6px 8px;border-bottom:1px solid var(--line)}
+td{padding:7px 8px;border-bottom:1px solid var(--soft)}
+td.n,th.n{text-align:right}
+.tag{display:inline-block;font-size:10px;border:1px solid var(--line);border-radius:10px;padding:1px 7px;margin:1px 2px 1px 0;color:#333}
+.up{color:#15803d;font-weight:600}.down{color:#b91c1c;font-weight:600}
+.muted{color:var(--gray);font-size:11px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.foot{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:10px;color:var(--gray)}
+@media print{.print-btn{display:none}.page{padding:0}}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="rhead">
+    <div class="logo"><img src="/static/rave-logo.png" alt="RAVE Aerospace" style="height:44px;width:auto;display:block" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"><span style="display:none"><span class="r">RAVE</span><span class="a">AEROSPACE</span></span></div>
+    <div><div class="t">IFE Intelligence Digest</div><div class="d">Generated {{ generated }}</div></div>
+  </div>
+  <button class="print-btn" onclick="window.print()">Print / Save as PDF</button>
+
+  <div class="kpis">
+    <div class="kpi"><div class="v">{{ "{:,}".format(total) }}</div><div class="l">Reviews indexed</div></div>
+    <div class="kpi"><div class="v">{{ "{:,}".format(with_transcript) }}</div><div class="l">With transcripts</div></div>
+    <div class="kpi"><div class="v">{{ "{:,}".format(total_views) }}</div><div class="l">Total reach (views)</div></div>
+  </div>
+
+  <h2>Systems by coverage &amp; reach</h2>
+  <table>
+    <tr><th>System</th><th>Vendor</th><th class="n">Reviews</th><th class="n">Reach</th><th class="n">Avg likes</th><th>Status</th></tr>
+    {% for s in systems %}
+    <tr><td><b>{{ s.name }}</b></td><td class="muted">{{ s.vendor }}</td><td class="n">{{ s.reviews }}</td><td class="n">{{ "{:,}".format(s.views) }}</td><td class="n">{{ "{:,}".format(s.avg_likes) if s.avg_likes else "—" }}</td><td>{{ s.status }}</td></tr>
+    {% endfor %}
+  </table>
+
+  <div class="two">
+    <div>
+      <h2>What's rising{% if momentum.year %} ({{ momentum.prev }}→{{ momentum.year }}){% endif %}</h2>
+      <table>
+        <tr><th>System</th><th class="n">{{ momentum.prev }}</th><th class="n">{{ momentum.year }}</th><th class="n">Δ</th></tr>
+        {% for m in momentum.systems[:8] %}
+        <tr><td>{{ m.name }}</td><td class="n">{{ m.prev }}</td><td class="n">{{ m.cur }}</td><td class="n {{ 'up' if m.delta>=0 else 'down' }}">{{ '+' if m.delta>=0 else '' }}{{ m.delta }}</td></tr>
+        {% endfor %}
+      </table>
+    </div>
+    <div>
+      <h2>Reviews by region</h2>
+      <table>
+        <tr><th>Region</th><th class="n">Reviews</th><th class="n">Reach</th></tr>
+        {% for r in regional %}
+        <tr><td>{{ r.region }}</td><td class="n">{{ r.reviews }}</td><td class="n">{{ "{:,}".format(r.views) }}</td></tr>
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+
+  <h2>Reviewer channels by reach</h2>
+  <table>
+    <tr><th>Channel</th><th class="n">Subscribers</th><th class="n">Avg likes</th><th class="n">IFE reviews</th></tr>
+    {% for c in channels %}
+    <tr><td>{{ c.name }}</td><td class="n">{{ "{:,}".format(c.subscribers) }}</td><td class="n">{{ "~{:,}".format(c.avg_likes) if c.avg_likes else "—" }}</td><td class="n">{{ c.reviews }}</td></tr>
+    {% endfor %}
+  </table>
+
+  <div class="two">
+    <div>
+      <h2>Most-discussed features</h2>
+      <table>
+        <tr><th>Feature</th><th class="n">Mentions</th><th class="n">Reviews</th></tr>
+        {% for f in feature_mentions %}
+        <tr><td>{{ feat_label(f.key) }}</td><td class="n">{{ "{:,}".format(f.mentions) }}</td><td class="n">{{ f.reviews }}</td></tr>
+        {% endfor %}
+      </table>
+    </div>
+    <div>
+      <h2>Coverage gaps</h2>
+      {% if gaps.stale %}<p class="muted"><b>No recent reviews:</b> {% for s in gaps.stale %}{{ s.name }}{% if not loop.last %}, {% endif %}{% endfor %}</p>{% endif %}
+      <table style="margin-top:8px">
+        <tr><th>System</th><th>Missing common features</th></tr>
+        {% for g in gaps.feature_gaps %}
+        <tr><td>{{ g.system }}</td><td>{% for m in g.missing %}<span class="tag">{{ feat_label(m) }}</span>{% endfor %}</td></tr>
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+
+  <div class="foot">RAVE Aerospace IFE ReviewDB · Figures are counts, reach (view totals), and coverage from the indexed review corpus — no sentiment scoring. This is an on-demand snapshot; for scheduled email delivery, wire an SMTP job to this route.</div>
+</div>
+</body>
+</html>

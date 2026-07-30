@@ -3,3 +3,15 @@ __pycache__/
 .env
 results.json
 out.json
+
+cookies.txt
+
+# local-only tooling and scratch
+cloudflared.exe
+ngrok.zip
+ngrok.exe
+.query_offset
+ife_cache_local.json
+crawl_log.txt
+backfill_transcripts_log.txt
+backfill_transcripts_err.txt

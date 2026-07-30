@@ -36,47 +36,19 @@ def _setup_cookies(tmpdir: str) -> str | None:
         print(f"  Warning: could not decode YOUTUBE_COOKIES_B64 — {e}")
         return None
 
-IFE_KEYWORDS = [
-    "ife", "inflight entertainment", "in-flight entertainment",
-    "screen", "display", "touchscreen", "monitor",
-    "movie", "movies", "tv show", "content", "channels",
-    "wifi", "wi-fi", "internet", "bluetooth",
-    "panasonic", "thales", "safran", "rave", "emirates ice", "krisworld", "oryx",
-    "entertainment system", "seatback", "headphone", "usb", "charging",
-    "resolution", "4k", "1080p", "hd", "audio", "video on demand", "vod",
-    "seat", "cabin", "business class", "economy", "first class",
-    "entertainment", "airline", "flight",
-]
+from ife_crawler import IFECrawler, IFE_FEATURE_KEYWORDS, IFE_SYSTEM_PATTERNS
+
+# Reuse the crawler's strict IFE caption picker (drops greetings/filler, no
+# evenly-spaced padding) so Whisper captions match the rest of the app.
+_SCORE_KWS = (
+    [kw for kws in IFE_FEATURE_KEYWORDS.values() for kw in kws]
+    + [p for ps in IFE_SYSTEM_PATTERNS.values() for p in ps]
+)
 
 
-def score_seg(text):
-    t = text.lower()
-    return sum(1 for kw in IFE_KEYWORDS if kw in t)
-
-
-def segs_to_result(segs, n=5):
-    scored = sorted(enumerate(segs), key=lambda x: -score_seg(x[1]["text"]))
-    chosen = []
-    for i, seg in scored:
-        if all(abs(i - j) >= 10 for j in chosen):
-            chosen.append(i)
-        if len(chosen) >= n:
-            break
-    if len(chosen) < n:
-        step = max(1, len(segs) // n)
-        for k in range(0, len(segs), step):
-            if all(abs(k - j) >= 5 for j in chosen) and len(chosen) < n:
-                chosen.append(k)
-    chosen.sort()
-    caps = []
-    for i in chosen[:n]:
-        s = segs[i]
-        raw = int(s["start"])
-        m, sec = raw // 60, raw % 60
-        caps.append({"timestamp": f"{m}:{sec:02d}", "start_seconds": raw, "text": s["text"].strip()})
-    best_idx = scored[0][0] if scored else 0
-    excerpt = segs[best_idx]["text"].strip() if segs else ""
-    return caps, excerpt
+def segs_to_result(segs):
+    excerpt, caps, full = IFECrawler._segs_to_caps(segs, _SCORE_KWS)
+    return caps, excerpt, full
 
 
 def fetch_yt_segs(video_id, cookies_path=None):
@@ -123,7 +95,13 @@ def load_whisper_model():
         return None
 
 
-_BOT_SIGNALS = ("sign in to confirm", "not a bot", "sign in if you")
+# Broadened from a single incident — yt-dlp/YouTube phrase bot-detection and
+# rate-limiting differently depending on which wall you hit.
+_BOT_SIGNALS = (
+    "sign in to confirm", "not a bot", "sign in if you", "unusual traffic",
+    "confirm you're not a bot", "confirm that you are not a bot",
+    "429", "too many requests", "rate limit", "http error 403", "forbidden",
+)
 _SKIP_SIGNALS = ("private video", "video unavailable", "has been removed", "account has been terminated")
 
 # Return values for fetch_whisper_segs
@@ -142,15 +120,33 @@ class _SilentLogger:
     def error(self, msg): self.errors.append(msg.lower())
 
 
-def fetch_whisper_segs(model, video_id, cookies_path=None):
+def _browser_cookie_opts():
+    """Try to borrow a real logged-in YouTube session from a local browser —
+    far less likely to look like a bot than an anonymous request. Silently
+    unavailable on CI runners / machines with no matching browser profile."""
+    for browser in ("edge", "chrome", "firefox"):
+        try:
+            import yt_dlp
+            # Cheap probe: let yt-dlp's own cookie extractor try to open the
+            # profile. If it can't find/decrypt one, this raises.
+            from yt_dlp.cookies import extract_cookies_from_browser
+            extract_cookies_from_browser(browser)
+            return {"cookiesfrombrowser": (browser,)}
+        except Exception:
+            continue
+    return {}
+
+
+def fetch_whisper_segs(model, video_id, cookies_path=None, browser_cookie_opts=None):
     """Download audio with yt-dlp and transcribe with local Whisper.
-    Returns (status, segs) where status is one of the _WHISPER_* constants."""
+    Returns (status, segs, detail) where status is one of the _WHISPER_*
+    constants and detail is a short human-readable reason (for FAIL/BLOCK)."""
     if model is None:
-        return _WHISPER_FAIL, None
+        return _WHISPER_FAIL, None, "whisper model not loaded"
     try:
         import yt_dlp
     except ImportError:
-        return _WHISPER_FAIL, None
+        return _WHISPER_FAIL, None, "yt-dlp not installed"
 
     logger = _SilentLogger()
     try:
@@ -166,34 +162,42 @@ def fetch_whisper_segs(model, video_id, cookies_path=None):
             }
             if cookies_path:
                 ydl_opts["cookiefile"] = cookies_path
+            elif browser_cookie_opts:
+                ydl_opts.update(browser_cookie_opts)
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 ydl.download([url])
 
             # Check captured errors even if download didn't raise
             combined = " ".join(logger.errors)
             if any(s in combined for s in _SKIP_SIGNALS):
-                return _WHISPER_SKIP, None
+                return _WHISPER_SKIP, None, combined[:200]
             if any(s in combined for s in _BOT_SIGNALS):
-                return _WHISPER_BLOCK, None
+                return _WHISPER_BLOCK, None, combined[:200]
 
             files = os.listdir(tmpdir)
             if not files:
-                return _WHISPER_FAIL, None
+                return _WHISPER_FAIL, None, ("yt-dlp produced no file; " + combined[:150]) if combined else "yt-dlp produced no output file"
             audio_path = os.path.join(tmpdir, files[0])
+            file_size = os.path.getsize(audio_path)
             result = model.transcribe(audio_path, verbose=False)
 
         segments = result.get("segments") or []
         if not segments:
-            return _WHISPER_FAIL, None
-        return _WHISPER_OK, [{"text": seg["text"], "start": seg["start"]} for seg in segments]
+            # A suspiciously tiny download (a few KB) alongside zero speech is a
+            # much more likely sign of a blocked/placeholder stream than of a
+            # genuinely silent multi-minute review video.
+            if file_size < 30_000:
+                return _WHISPER_BLOCK, None, f"no speech detected + tiny audio file ({file_size}B) — likely blocked/placeholder stream"
+            return _WHISPER_FAIL, None, "no speech detected in audio"
+        return _WHISPER_OK, [{"text": seg["text"], "start": seg["start"]} for seg in segments], None
 
     except Exception as e:
         msg = str(e).lower()
         if any(s in msg for s in _SKIP_SIGNALS):
-            return _WHISPER_SKIP, None
+            return _WHISPER_SKIP, None, str(e)[:200]
         if any(s in msg for s in _BOT_SIGNALS):
-            return _WHISPER_BLOCK, None
-        return _WHISPER_FAIL, None
+            return _WHISPER_BLOCK, None, str(e)[:200]
+        return _WHISPER_FAIL, None, str(e)[:200]
 
 
 def main():
@@ -210,10 +214,15 @@ def main():
     # Set up cookies (bypasses IP block on GitHub Actions datacenter IPs)
     _cookie_dir = tempfile.mkdtemp()
     cookies_path = _setup_cookies(_cookie_dir)
+    browser_cookie_opts = {}
     if cookies_path:
         print("  Using YOUTUBE_COOKIES_B64 for authentication.")
     else:
-        print("  No cookies — some videos may be IP-blocked. Set YOUTUBE_COOKIES_B64 to fix.")
+        browser_cookie_opts = _browser_cookie_opts()
+        if browser_cookie_opts:
+            print(f"  Using local browser cookies ({browser_cookie_opts['cookiesfrombrowser'][0]}) for authentication.")
+        else:
+            print("  No cookies available (no YOUTUBE_COOKIES_B64, no usable local browser profile) — some videos may be IP-blocked.")
 
     whisper_model = load_whisper_model()
     yt_ok = whisper_ok = skipped = blocked = failed = 0
@@ -226,10 +235,11 @@ def main():
         # 1. YouTube transcript API
         segs = fetch_yt_segs(vid_id, cookies_path=cookies_path)
         if segs:
-            caps, excerpt = segs_to_result(segs)
+            caps, excerpt, full = segs_to_result(segs)
             r["transcript_available"] = True
             r["transcript_excerpt"] = excerpt
             r["captions"] = caps
+            r["transcript_full"] = full
             yt_ok += 1
             print(f"[{idx}/{len(targets)}] YT-OK    {vid_id}")
 
@@ -239,12 +249,15 @@ def main():
 
         else:
             # 2. Local Whisper fallback
-            status, segs = fetch_whisper_segs(whisper_model, vid_id, cookies_path=cookies_path)
+            status, segs, detail = fetch_whisper_segs(
+                whisper_model, vid_id, cookies_path=cookies_path, browser_cookie_opts=browser_cookie_opts
+            )
             if status == _WHISPER_OK:
-                caps, excerpt = segs_to_result(segs)
+                caps, excerpt, full = segs_to_result(segs)
                 r["transcript_available"] = True
                 r["transcript_excerpt"] = excerpt
                 r["captions"] = caps
+                r["transcript_full"] = full
                 r["transcript_source"] = "whisper"
                 whisper_ok += 1
                 print(f"[{idx}/{len(targets)}] WH-OK    {vid_id}  ({len(caps)} caps)")
@@ -255,10 +268,10 @@ def main():
             elif status == _WHISPER_BLOCK:
                 whisper_blocked = True
                 failed += 1
-                print(f"[{idx}/{len(targets)}] BOT-BLOCK {vid_id}  (Whisper disabled for this run)")
+                print(f"[{idx}/{len(targets)}] BOT-BLOCK {vid_id}  ({detail or 'Whisper disabled for this run'})")
             else:
                 failed += 1
-                print(f"[{idx}/{len(targets)}] FAIL     {vid_id}")
+                print(f"[{idx}/{len(targets)}] FAIL     {vid_id}  ({detail or 'unknown reason'})")
 
         if idx % 25 == 0:
             with open("ife_cache.json", "w", encoding="utf-8") as f:

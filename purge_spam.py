@@ -69,7 +69,7 @@ _IFE_CONTENT_KEYWORDS = [
     "seatback", "seat-back", "seat back screen", "entertainment screen",
     "panasonic", "thales", "safran", "rave ife", "krisworld", "oryx",
     "studiocx", "wifi", "wi-fi", "onboard wifi", "gogo", "viasat",
-    "entertainment system", "video on demand", "noise cancelling headphone",
+    "entertainment system", "video on demand"
 ]
 
 

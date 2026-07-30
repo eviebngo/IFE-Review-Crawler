@@ -48,7 +48,34 @@ class IFEDataManager:
                 return json.load(f)
         return {"reviews": [], "last_updated": None}
 
+    def _dedupe_reviews(self):
+        """Collapse duplicate-URL entries (e.g. from concurrent local + CI
+        crawls both appending the same video/article before either saves).
+        Keeps whichever duplicate has richer data — a transcript beats none,
+        more captions beats fewer."""
+        best = {}
+        for r in self.data.get("reviews", []):
+            url = r.get("url")
+            if not url:
+                continue
+            existing = best.get(url)
+            if existing is None:
+                best[url] = r
+                continue
+            r_richer = (
+                (bool(r.get("transcript_available")), len(r.get("captions", []))) >
+                (bool(existing.get("transcript_available")), len(existing.get("captions", [])))
+            )
+            if r_richer:
+                best[url] = r
+        deduped = list(best.values())
+        removed = len(self.data.get("reviews", [])) - len(deduped)
+        if removed > 0:
+            print(f"[dedupe] removed {removed} duplicate-URL review(s)")
+        self.data["reviews"] = deduped
+
     def save_cache(self):
+        self._dedupe_reviews()
         self.data["last_updated"] = datetime.now().isoformat()
         with open(self.cache_file, "w", encoding="utf-8") as f:
             json.dump(self.data, f, indent=2, ensure_ascii=False)
@@ -72,7 +99,7 @@ class IFEDataManager:
             if r.get("media_type") == "video":
                 r["source_tier"] = 2
                 # Always re-derive for videos so "YouTube" entries get corrected
-                r["source_name"] = "Official" if is_official_promo(r.get("title", "")) else "Creator"
+                r["source_name"] = "Official" if is_official_promo(r.get("title", ""), r.get("channel_title", "")) else "Creator"
             elif "source_tier" not in r or r.get("source_name") in ("General", None, "YouTube"):
                 t = compute_tier(r.get("url", ""))
                 r["source_tier"] = t
@@ -90,15 +117,14 @@ class IFEDataManager:
                 label, score = _compute_sentiment(r)
                 r["sentiment"] = label
                 r["sentiment_score"] = score
-            # Backfill inference for seeded records with no detected system
-            if not r.get("ife_system"):
-                inferred = infer_ife_system(
+            # Records with no detected system keep the airline-based inference
+            # as a *guess* only — never shown as the system tag. Uncertain
+            # systems stay untagged; manual tags come via /api/review-system.
+            if not r.get("ife_system") and "ife_system_guess" not in r:
+                r["ife_system_guess"] = infer_ife_system(
                     r.get("airlines_mentioned", []),
                     r.get("aircraft_mentioned", [])
                 )
-                if inferred:
-                    r["ife_system"] = inferred
-                    r["ife_system_inferred"] = True
 
     def crawl_and_cache(self, airline=None, aircraft=None):
         crawler = IFECrawler(verify_ssl=False)
@@ -144,6 +170,7 @@ class IFEDataManager:
             "ife_features": sorted(ife_features),
             "media_types":  sorted(media_types),
             "transcript":   sorted(transcript_options),
+            "chapters":     ["Has chapters", "IFE chapter"],
             "source_tiers": sorted(source_names),
         }
 
@@ -196,6 +223,14 @@ class IFEDataManager:
             elif "No" in want and "Yes" not in want:
                 results = [r for r in results if not r.get("transcript_available")]
 
+        if filters.get("chapters"):
+            want = set(filters["chapters"])
+            if "IFE chapter" in want:
+                results = [r for r in results
+                           if any(c.get("ife") for c in (r.get("chapters") or []))]
+            elif "Has chapters" in want:
+                results = [r for r in results if r.get("chapters")]
+
         if filters.get("source_tiers"):
             wanted = set(filters["source_tiers"])
             if wanted:
@@ -228,6 +263,8 @@ class IFEDataManager:
         ife_systems = {}
         features = {}
         media_types = {}
+        by_year = {}
+        sentiment = {"positive": 0, "neutral": 0, "negative": 0}
         with_transcript = 0
 
         for r in reviews:
@@ -241,6 +278,12 @@ class IFEDataManager:
                 features[f] = features.get(f, 0) + 1
             mt = r.get("media_type", "unknown")
             media_types[mt] = media_types.get(mt, 0) + 1
+            yr = r.get("year")
+            if yr:
+                by_year[str(yr)] = by_year.get(str(yr), 0) + 1
+            sent = r.get("sentiment", "neutral")
+            if sent in sentiment:
+                sentiment[sent] += 1
             if r.get("transcript_available"):
                 with_transcript += 1
 
@@ -252,6 +295,8 @@ class IFEDataManager:
             "ife_systems":      sorted(ife_systems.items(), key=lambda x: x[1], reverse=True),
             "ife_features":     sorted(features.items(), key=lambda x: x[1], reverse=True),
             "media_types":      media_types,
+            "by_year":          sorted(by_year.items()),
+            "sentiment":        sentiment,
         }
 
     def clear_cache(self):

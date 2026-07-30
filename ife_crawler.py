@@ -3,6 +3,7 @@ import json
 import time
 import requests
 import urllib.parse
+from pathlib import Path
 from bs4 import BeautifulSoup
 from typing import List, Dict, Optional
 
@@ -69,7 +70,11 @@ _OFFICIAL_PROMO_RE = re.compile(
     re.IGNORECASE,
 )
 
-def is_official_promo(title: str) -> bool:
+_OFFICIAL_AIRLINE_CHANNELS = {"emirates", "singapore airlines", "etihad airways", "qatar airways"}
+
+def is_official_promo(title: str, channel_title: str = "") -> bool:
+    if channel_title and channel_title.strip().lower() in _OFFICIAL_AIRLINE_CHANNELS:
+        return True
     return bool(_OFFICIAL_PROMO_RE.search(title))
 
 
@@ -109,7 +114,7 @@ IFE_TITLE_KEYWORDS = [
     "inflight entertainment", "in-flight entertainment", "in flight entertainment",
     "ife system", "ife review",
     "panasonic ex3", "panasonic ex2", "panasonic ex1", "panasonic astrova",
-    "thales avant", "thales inflyt", "safran rave", "spi rave",
+    "thales avant", "thales inflyt", "safran rave", "spi rave", "rave aerospace",
     "emirates ice", "viasat ife", "oryx one", "krisworld",
     "studiocx", "studioex", "planet ife", "collins venue",
     "seatback entertainment", "seatback screen", "seatback display",
@@ -163,7 +168,7 @@ IFE_SYSTEM_PATTERNS = {
     "Thales AVANT":        ["thales avant", "thales inflyt", "inflyt experience"],
     "Safran RAVE Ultra":   ["rave ultra", "safran rave ultra", "spi rave ultra"],
     "Safran RAVE":         ["safran rave", " rave ife", "safran passenger innovations",
-                            " spi ife", "spi inflight", "spi entertainment"],
+                            " spi ife", "spi inflight", "spi entertainment", "rave aerospace"],
     "Collins Venue":       ["collins venue", "rockwell collins venue"],
     "Viasat (streaming)":  ["viasat"],
     "Inmarsat GX":         ["inmarsat gx", "gx aviation"],
@@ -180,15 +185,49 @@ IFE_SYSTEM_PATTERNS = {
 
 # ── IFE feature detection ─────────────────────────────────────────────────────
 IFE_FEATURE_KEYWORDS = {
-    "entertainment_system": ["entertainment system", "ife", "in-flight entertainment", "seatback screen", "vod"],
+    "entertainment_system": ["entertainment system", "ife", "in-flight entertainment", "seatback screen", "vod",
+                             "video on demand"],
     "content":              ["movies", "tv shows", "tv series", "music", "games", "podcasts", "content library"],
-    "connectivity":         ["wifi", "wi-fi", "internet", "connectivity", "bluetooth", "starlink", "onair"],
-    "4k_display":           ["4k", "4k display", "4k screen", "uhd", "oled", "amoled"],
+    "connectivity":         ["wifi", "wi-fi", "internet", "connectivity", "bluetooth", "starlink", "onair",
+                             "inflight connectivity"],
+    "4k_display":           ["4k", "4k display", "4k screen", "uhd", "oled", "amoled", "4k oled", "mini-led screen"],
     "quality":              ["resolution", "display", "picture quality", "1080p", "touchscreen", "hd screen"],
     "seat":                 ["seat", "recline", "legroom", "comfort", "headrest"],
     "usb_power":            ["usb", "usb-c", "charging", "power outlet", "ac outlet"],
     "bluetooth_audio":      ["bluetooth", "wireless headphones", "airpods", "bluetooth audio"],
+    # In-IFE product features (what the system itself can do)
+    "watch_party":          ["watch party", "watch together", "group watch", "shared viewing"],
+    "seat_chat":            ["seat-to-seat chat", "seat to seat chat", "seat-to-seat messaging",
+                             "seat to seat messaging", "seat chat", "message other passengers",
+                             "chat with other passengers"],
+    "search":               ["search bar", "search function", "search feature", "search option", "search menu"],
+    "tail_camera":          ["tail camera", "tail cam", "external camera", "exterior camera", "outside camera",
+                             "nose camera", "belly camera", "downward camera", "camera view", "external view",
+                             "outside view", "cameras on the plane"],
+    "moving_map":           ["moving map", "flight map", "map view", "flight tracker", "3d map", "flight path",
+                             "flightpath", "interactive map", "flight progress"],
 }
+
+_ARTICLE_EXCERPT_KEYWORDS = {kw for kws in IFE_FEATURE_KEYWORDS.values() for kw in kws}
+_SENT_SPLIT_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z0-9"‘“])')
+
+
+def _article_excerpt(raw_text: str) -> Optional[str]:
+    """Pick the most IFE-relevant sentence from a full article body to use as
+    a display excerpt (mirrors how video transcript excerpts are chosen)."""
+    clean = re.sub(r'\s+', ' ', raw_text).strip()
+    sentences = [s.strip() for s in _SENT_SPLIT_RE.split(clean)]
+    candidates = [s for s in sentences if 40 <= len(s) <= 280]
+    if not candidates:
+        return None
+
+    best, best_score = None, -1
+    for s in candidates:
+        sl = s.lower()
+        score = sum(1 for kw in _ARTICLE_EXCERPT_KEYWORDS if kw in sl)
+        if score > best_score:
+            best, best_score = s, score
+    return best if best_score > 0 else candidates[0]
 
 
 # ── Airlines & aircraft ───────────────────────────────────────────────────────
@@ -387,6 +426,23 @@ KNOWN_IFE_CHANNELS: dict = {
     "Luxury Travel Expert":     "UCYxsXxbjJO1YYa9yQ3lKC8w",  # verified ✓
     "TPG Travels":              "UCufeRIBzaIc2MAJbbZhPJEg",  # verified ✓ (The Points Guy)
     "Flight Formula":           "UCFCtPTN9M6nmmDbllaZgGuA",  # verified ✓
+    "The Window Seat":          "UCuUfpJI98M_s-zYlLmAScdA",  # verified ✓ (API-resolved)
+    "Flights And Frustration":  "UCnEaBTNYsS7NKIm3W4Kq63A",  # verified ✓ (API-resolved)
+    "Josh Cahill":              "UCJmkopWuQxI9U0NQaOcl68Q",  # verified ✓ (API-resolved)
+    "Project Travel":           "UC5oH7KZ2b1yeXr52Q_4gPlg",  # verified ✓ (API-resolved)
+    "Ethan G":                  "UCw5zdNpiAV-o6gtu4cOnb9A",  # verified ✓ (API-resolved)
+    "Nonstop Eurotrip":         "UCBqWe9KKYUavknEaaZLk7cQ",  # verified ✓ (API-resolved)
+    "Travel Tips by Laurie":    "UCEZKpVw6ldXNVU4Ua6IFwTw",  # verified ✓ (API-resolved)
+    "Trip Reviews":             "UC4j-y5vuChsMZl4-YsbRWvw",  # verified ✓ (API-resolved)
+    "Luxury Travel Diary":      "UCyvOVVytophF3HZNFlaK1ZQ",  # verified ✓ (API-resolved)
+    "AirlineReporter":          "UCkiY21AyoawQdK6mzhidtnw",  # verified ✓ (API-resolved)
+
+    # Official airline channels — for genuine "Official" promo/showcase content,
+    # as distinct from the independent reviewer channels above.
+    "Emirates (official)":          "UCJ6jdm9qTla9Lp3Jf-TPwbg",  # verified ✓ 1.9M subs
+    "Singapore Airlines (official)":"UCIrr4E2y6Cv-2FSxk1_PBGQ",  # verified ✓ 133K subs
+    "Etihad Airways (official)":    "UCVl7yuQhcmRpv3iydZ97eUw",  # verified ✓ 349K subs
+    "Qatar Airways (official)":     "UCi8xUU_lg3zr8UcBXLdEheQ",  # verified ✓
 }
 
 
@@ -404,6 +460,7 @@ AUTO_DISCOVERY_QUERIES = [
     '"Safran RAVE Ultra" IFE review',
     '"Safran Passenger Innovations" IFE',
     '"SPI RAVE" inflight entertainment',
+    '"RAVE Aerospace" inflight entertainment',
     '"Emirates ICE" inflight entertainment',
     '"Oryx One" Qatar inflight entertainment',
     '"KrisWorld" Singapore Airlines entertainment',
@@ -459,6 +516,8 @@ YOUTUBE_QUERIES = [
     "Emirates ICE inflight entertainment review",
     "Safran RAVE Ultra inflight entertainment review",
     "SPI RAVE inflight entertainment review",
+    "RAVE Aerospace inflight entertainment review",
+    "Safran Passenger Innovations inflight entertainment review",
     "Oryx One inflight entertainment review",
     "KrisWorld inflight entertainment review",
     "StudioCX Cathay Pacific entertainment review",
@@ -489,6 +548,15 @@ YOUTUBE_QUERIES = [
     "Icelandair RAVE inflight entertainment",
     "Air India inflight entertainment review",
     "Oman Air inflight entertainment review",
+    "STARLUX Airlines inflight entertainment review",
+    "STARLUX Airlines economy class review",
+    "STARLUX Airlines business class review",
+    "China Airlines inflight entertainment review",
+    "EVA Air inflight entertainment review",
+    "Saudia inflight entertainment review",
+    "Vietnam Airlines inflight entertainment review",
+    "Hawaiian Airlines inflight entertainment review",
+    "JetBlue inflight entertainment review",
 
     # ── WiFi & Starlink ───────────────────────────────────────────────────────
     "Alaska Airlines Starlink wifi review",
@@ -499,6 +567,8 @@ YOUTUBE_QUERIES = [
     # ── Aircraft ──────────────────────────────────────────────────────────────
     "A380 inflight entertainment review",
     "A350 inflight entertainment review",
+    "A330neo inflight entertainment review",
+    "A330-900 inflight entertainment review",
     "Boeing 787 inflight entertainment review",
     "Boeing 777 inflight entertainment review",
     "A321neo inflight entertainment review",
@@ -522,11 +592,81 @@ YOUTUBE_QUERIES = [
     "아시아나항공 기내 엔터테인먼트 리뷰",
     "中华航空 机内娱乐 评测",
     "长荣航空 机内娱乐 评测",
+    "星宇航空 機上娛樂 評測",
+    "STARLUX 星宇航空 經濟艙 開箱",
     "Iberia entretenimiento a bordo reseña",
     "LATAM entretenimiento a bordo reseña",
     "TAP Air Portugal entretenimento bordo avaliação",
     "Turkish Airlines inflight entertainment inceleme",
 ]
+
+# ── Systematic discovery ──────────────────────────────────────────────────────
+# A broad airline list so coverage isn't limited to the hand-picked queries above.
+# Each airline is expanded into a few review-intent queries (below). The
+# published_after date filter keeps results recent, and the aviation-review gate
+# drops non-IFE noise, so a wide net here mostly surfaces genuine reviews.
+GLOBAL_AIRLINES = [
+    # Middle East
+    "Emirates", "Qatar Airways", "Etihad", "Saudia", "Oman Air", "Gulf Air",
+    "Kuwait Airways", "Royal Jordanian", "flydubai", "Air Arabia",
+    # Asia-Pacific
+    "Singapore Airlines", "Cathay Pacific", "ANA", "Japan Airlines", "Korean Air",
+    "Asiana Airlines", "STARLUX Airlines", "EVA Air", "China Airlines",
+    "Thai Airways", "Malaysia Airlines", "Garuda Indonesia", "Vietnam Airlines",
+    "Philippine Airlines", "Bamboo Airways", "Air India", "Vistara", "IndiGo",
+    "Cebu Pacific", "Scoot", "AirAsia", "Batik Air", "Hong Kong Airlines",
+    "China Southern", "China Eastern", "Air China", "Hainan Airlines",
+    "Juneyao Air", "Xiamen Air", "T'way Air", "Jin Air", "Zipair", "Peach Aviation",
+    # Oceania
+    "Qantas", "Air New Zealand", "Virgin Australia", "Fiji Airways",
+    # Europe
+    "Lufthansa", "British Airways", "Air France", "KLM", "Swiss", "Austrian Airlines",
+    "Turkish Airlines", "Finnair", "SAS", "Iberia", "TAP Air Portugal",
+    "Virgin Atlantic", "Aer Lingus", "ITA Airways", "Brussels Airlines",
+    "LOT Polish Airlines", "Aeroflot", "Norwegian", "Wizz Air", "Ryanair",
+    "easyJet", "Vueling", "Condor", "Discover Airlines", "Play", "Icelandair",
+    # North America
+    "Delta", "United Airlines", "American Airlines", "Alaska Airlines", "JetBlue",
+    "Hawaiian Airlines", "Southwest Airlines", "Air Canada", "WestJet", "Porter Airlines",
+    "Spirit Airlines", "Frontier Airlines", "Breeze Airways", "Aeromexico",
+    # Latin America
+    "LATAM", "Avianca", "Copa Airlines", "GOL", "Azul", "Sky Airline",
+    # Africa
+    "Ethiopian Airlines", "South African Airways", "Kenya Airways", "EgyptAir",
+    "Royal Air Maroc", "RwandAir", "Air Mauritius",
+]
+_AIRLINE_QUERY_TEMPLATES = [
+    "{a} inflight entertainment review",
+    "{a} economy class review IFE",
+    "{a} business class review screen",
+]
+# Aircraft-type queries (an IFE system usually ships per fleet type).
+_AIRCRAFT_QUERIES = [
+    "A330neo inflight entertainment review", "A330-900 inflight entertainment review",
+    "A350-1000 inflight entertainment review", "787-9 inflight entertainment review",
+    "787-10 inflight entertainment review", "777X inflight entertainment review",
+    "A220 inflight entertainment review", "737 MAX inflight entertainment review",
+    "E195-E2 inflight entertainment review",
+]
+
+
+def _build_generated_queries():
+    seen = {q.lower() for q in YOUTUBE_QUERIES}
+    out = []
+    for a in GLOBAL_AIRLINES:
+        for tpl in _AIRLINE_QUERY_TEMPLATES:
+            q = tpl.format(a=a)
+            if q.lower() not in seen:
+                seen.add(q.lower()); out.append(q)
+    for q in _AIRCRAFT_QUERIES:
+        if q.lower() not in seen:
+            seen.add(q.lower()); out.append(q)
+    return out
+
+
+# Curated queries first (highest-signal), then the broad generated net.
+_CURATED_QUERY_COUNT = len(YOUTUBE_QUERIES)
+YOUTUBE_QUERIES = YOUTUBE_QUERIES + _build_generated_queries()
 
 # Known trusted source URLs to scrape directly (Tier 1 targets)
 TRUSTED_SOURCES = [
@@ -566,6 +706,38 @@ class IFECrawler:
 
     # ── Public API ────────────────────────────────────────────────────────────
 
+    # Max search.list queries per crawl. 100 units each; ~85 leaves headroom
+    # under the 10k/day quota for channel pulls + videos.list metadata calls.
+    QUERY_BUDGET = 85
+    # Reserve at least this many slots for the rotating generated queries so the
+    # broad airline net always advances, even though curated queries take priority.
+    GENERATED_MIN = 30
+    _ROTATE_FILE = Path(__file__).parent / ".query_offset"
+
+    def _select_queries(self) -> List[str]:
+        """Run the curated queries first (highest-signal); reserve a slice of the
+        budget for a rotating window over the generated airline queries so coverage
+        cycles through every airline across crawls instead of exceeding quota."""
+        curated_all = YOUTUBE_QUERIES[:_CURATED_QUERY_COUNT]
+        generated = YOUTUBE_QUERIES[_CURATED_QUERY_COUNT:]
+        gen_slots = min(self.GENERATED_MIN, len(generated))
+        curated = curated_all[:max(0, self.QUERY_BUDGET - gen_slots)]
+        budget = max(0, self.QUERY_BUDGET - len(curated))
+        if not generated or budget <= 0:
+            return curated
+        try:
+            offset = int(self._ROTATE_FILE.read_text().strip())
+        except Exception:
+            offset = 0
+        offset %= len(generated)
+        # take a wrap-around slice of size `budget`
+        picked = [generated[(offset + i) % len(generated)] for i in range(min(budget, len(generated)))]
+        try:
+            self._ROTATE_FILE.write_text(str((offset + budget) % len(generated)))
+        except Exception:
+            pass
+        return curated + picked
+
     def auto_discover(self, existing_urls: set = None, max_results: int = 500, days_lookback: int = None) -> List[dict]:
         self.results = []
         if existing_urls:
@@ -578,10 +750,15 @@ class IFECrawler:
             published_after = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
         if self.api_key:
-            # Collect all video IDs across every query (50 results each = ~2,000 candidates)
+            # Collect all video IDs across the query set (50 results each).
+            # search.list costs 100 units/query and the daily quota is 10,000, so
+            # we cap how many queries run per crawl and ROTATE through the big
+            # generated list across successive crawls (persisted offset), so every
+            # airline gets covered over a few days instead of blowing the quota.
+            queries = self._select_queries()
             all_ids: List[str] = []
             seen_ids: set = set()
-            for query in YOUTUBE_QUERIES:
+            for query in queries:
                 ids = self._yt_search_api(query, limit=50, published_after=published_after)
                 for vid_id in ids:
                     if vid_id not in seen_ids:
@@ -591,6 +768,7 @@ class IFECrawler:
                             all_ids.append(vid_id)
 
             # Also pull recent uploads from every known IFE reviewer channel directly
+            channel_ids: set = set()
             for channel_name, channel_id in KNOWN_IFE_CHANNELS.items():
                 ids = self._yt_search_channel(channel_id, limit=50, published_after=published_after)
                 for vid_id in ids:
@@ -599,6 +777,7 @@ class IFECrawler:
                         if url not in self.visited:
                             seen_ids.add(vid_id)
                             all_ids.append(vid_id)
+                            channel_ids.add(vid_id)
 
             # Batch-fetch structured metadata (1 API unit per 50 videos)
             details = self._yt_fetch_details(all_ids)
@@ -611,7 +790,8 @@ class IFECrawler:
                     continue
                 url = f"https://www.youtube.com/watch?v={vid_id}"
                 self.visited.add(url)
-                entry = self._build_youtube_entry_from_api(vid_id, item)
+                # Trusted reviewer-channel videos bypass the strict keyword gate.
+                entry = self._build_youtube_entry_from_api(vid_id, item, trusted=(vid_id in channel_ids))
                 if entry:
                     self.results.append(entry)
         else:
@@ -787,8 +967,24 @@ class IFECrawler:
                 pass
         return details
 
-    def _build_youtube_entry_from_api(self, video_id: str, item: dict) -> Optional[dict]:
-        """Build a result entry from a YouTube Data API videos.list item."""
+    # Broader "is this a flight/cabin review" gate — applied only to videos from
+    # trusted reviewer channels, whose titles often name the airline/class rather
+    # than an explicit IFE keyword (e.g. "Emirates A380 First Class").
+    _AVIATION_REVIEW_TERMS = (
+        "business class", "first class", "economy class", "premium economy",
+        "class review", "cabin", "flight review", "trip report", "inflight",
+        "in-flight", "in flight", "onboard", "on board", "seat review", "flew",
+    )
+
+    def _is_aviation_review(self, text: str) -> bool:
+        t = text.lower()
+        if self._mentions(t, AIRLINE_KEYWORDS) or self._mentions(t, AIRCRAFT_KEYWORDS):
+            return True
+        return any(k in t for k in self._AVIATION_REVIEW_TERMS)
+
+    def _build_youtube_entry_from_api(self, video_id: str, item: dict, trusted: bool = False) -> Optional[dict]:
+        """Build a result entry from a YouTube Data API videos.list item.
+        `trusted` relaxes the keyword gate for known reviewer channels."""
         snippet = item.get("snippet", {})
         title = snippet.get("title", "").strip()
         description = snippet.get("description", "").strip()
@@ -802,7 +998,10 @@ class IFECrawler:
         # so AI drama / movie review descriptions don't slip through via "life"/"wife".
         desc_match = self._has_ife_keyword(description, skip_broad=True)
         if not title_match and not desc_match:
-            return None
+            # Trusted reviewer channels: accept genuine flight/cabin reviews even
+            # without an explicit IFE keyword — their content covers IFE.
+            if not (trusted and self._is_aviation_review(title + " " + description)):
+                return None
 
         published_at = snippet.get("publishedAt", "")
         try:
@@ -821,10 +1020,9 @@ class IFECrawler:
         airlines_m = self._mentions(search_text, AIRLINE_KEYWORDS)
         aircraft_m = self._mentions(search_text, AIRCRAFT_KEYWORDS)
         detected = self._detect_system(search_text)
-        inferred = False
-        if not detected:
-            detected = infer_ife_system(airlines_m, aircraft_m)
-            inferred = detected is not None
+        # Only tag a system when it's explicitly named in the text; an airline-
+        # based inference is just a guess and is kept separately, never displayed.
+        guess = None if detected else infer_ife_system(airlines_m, aircraft_m)
 
         stats = item.get("statistics", {})
         return {
@@ -834,8 +1032,10 @@ class IFECrawler:
             "published_at":         published_at,
             "channel_title":        snippet.get("channelTitle", ""),
             "view_count":           int(stats.get("viewCount", 0) or 0),
+            "like_count":           int(stats.get("likeCount", 0) or 0),
             "ife_system":           detected,
-            "ife_system_inferred":  inferred,
+            "ife_system_inferred":  False,
+            "ife_system_guess":     guess,
             "media_type":           "video",
             "airlines_mentioned":   airlines_m,
             "aircraft_mentioned":   aircraft_m,
@@ -844,8 +1044,9 @@ class IFECrawler:
             "transcript_available": trans_ok,
             "transcript_excerpt":   excerpt,
             "captions":             captions,
+            "transcript_full":      full_transcript,
             "source_tier":          2,
-            "source_name":          "Official" if is_official_promo(title) else "Creator",
+            "source_name":          "Official" if is_official_promo(title, snippet.get("channelTitle", "")) else "Creator",
         }
 
     def _ddg_search_youtube(self, query: str, limit: int = 5) -> List[str]:
@@ -913,6 +1114,8 @@ class IFECrawler:
                 soup.find("meta", {"property": "og:description"})
             )
             description = desc_meta["content"].strip() if desc_meta and desc_meta.get("content") else ""
+            channel_meta = soup.find("link", {"itemprop": "name"})
+            channel_title = channel_meta["content"].strip() if channel_meta and channel_meta.get("content") else ""
 
             if not self._has_ife_keyword(title) and not self._has_ife_keyword(description):
                 return None
@@ -929,17 +1132,16 @@ class IFECrawler:
             airlines_m  = self._mentions(search_text, AIRLINE_KEYWORDS)
             aircraft_m  = self._mentions(search_text, AIRCRAFT_KEYWORDS)
             detected    = self._detect_system(search_text)
-            inferred    = False
-            if not detected:
-                detected = infer_ife_system(airlines_m, aircraft_m)
-                inferred = detected is not None
+            guess       = None if detected else infer_ife_system(airlines_m, aircraft_m)
 
             return {
                 "url":                  url,
                 "title":                title[:150],
                 "year":                 year,
+                "channel_title":        channel_title,
                 "ife_system":           detected,
-                "ife_system_inferred":  inferred,
+                "ife_system_inferred":  False,
+                "ife_system_guess":     guess,
                 "media_type":           "video",
                 "airlines_mentioned":   airlines_m,
                 "aircraft_mentioned":   aircraft_m,
@@ -948,8 +1150,9 @@ class IFECrawler:
                 "transcript_available": trans_ok,
                 "transcript_excerpt":   excerpt,
                 "captions":             captions,
+                "transcript_full":      full_transcript,
                 "source_tier":          2,
-                "source_name":          "Official" if is_official_promo(title) else "Creator",
+                "source_name":          "Official" if is_official_promo(title, channel_title) else "Creator",
             }
         except Exception:
             return None
@@ -962,13 +1165,19 @@ class IFECrawler:
         if re.match(r'^[\[\(♪♫►>\s]', t) or re.match(r'^\[.*\]$', t):
             return False
         tl = t.lower()
+        # Strong IFE signals only — weak words like "flight"/"cabin"/"class" made
+        # greetings ("first flight.", "enjoy your flight.") pass as IFE captions.
         ife_ctx = [
-            "entertainment", "screen", "display", "content", "movie", "music",
-            "game", "wifi", "wi-fi", "headphone", "seat", "monitor", "channel",
-            "system", "panasonic", "thales", "rave", "safran", "streaming",
-            "touchscreen", "quality", "resolution", "4k", "inch", "bluetooth",
-            "usb", "charging", "class", "flight", "airline", "cabin", "passenger",
-            "watch", "listen", "connect", "interface", "remote", "audio", "video",
+            "entertainment", "screen", "display", "monitor", "seatback", "seat back",
+            "touchscreen", "touch screen", "4k", "oled", "amoled", "uhd", "resolution",
+            "inch", "wifi", "wi-fi", "bluetooth", "headphone", "usb", "charging port",
+            "streaming", "content library", "content", "remote control", "movies",
+            "tv show", "tv shows", "tv series", "shows", "selection of movies",
+            "ife", "panasonic", "thales", "rave", "safran", "viasat", "starlink",
+            "krisworld", "astrova", "avant", "oryx", "studiocx",
+            "video on demand", "watch party", "map view", "flight map",
+            "seat-to-seat chat", "seat-to-seat messaging", "inflight connectivity",
+            "4k oled", "mini-led screen", "mini-led",
             "divertissement", "bordunterhaltung", "écran",
             "娱乐", "エンタメ", "엔터테인먼트", "entretenimiento", "entretenimento",
         ]
@@ -986,24 +1195,22 @@ class IFECrawler:
             ).lower()
             return sum(1 for kw in score_kws if kw in chunk)
 
+        is_ok = IFECrawler._is_display_sentence
+        # Only pick IFE-scoring segments that read as an IFE sentence. Do NOT pad
+        # with evenly-spaced generic segments — fewer, relevant captions beat
+        # filler like "first flight." / "Good".
         order = sorted(range(len(segs)), key=lambda i: -seg_score(i))
         chosen_idx = []
         for i in order:
             if seg_score(i) == 0:
                 break
+            if not is_ok(segs[i]["text"].strip()):
+                continue
             if not any(abs(i - j) < 15 for j in chosen_idx):
                 chosen_idx.append(i)
             if len(chosen_idx) >= 5:
                 break
-
-        if len(chosen_idx) < 5:
-            step = max(1, len(segs) // 5)
-            for k in range(0, min(len(segs), step * 5), step):
-                if not any(abs(k - j) < 5 for j in chosen_idx) and len(chosen_idx) < 5:
-                    chosen_idx.append(k)
         chosen_idx.sort()
-
-        is_ok = IFECrawler._is_display_sentence
         excerpt_text = None
         for i in order:
             t = segs[i]["text"].strip()
@@ -1132,6 +1339,10 @@ class IFECrawler:
         try:
             resp = self.session.get(url, timeout=10, verify=self.verify_ssl)
             resp.raise_for_status()
+            # requests defaults to ISO-8859-1 when a server omits a charset header,
+            # which mangles smart quotes/em-dashes in UTF-8 pages — sniff instead.
+            if resp.encoding is None or resp.encoding.lower() == "iso-8859-1":
+                resp.encoding = resp.apparent_encoding
             soup = BeautifulSoup(resp.text, "html.parser")
 
             title = (soup.title.string or "").strip()
@@ -1144,29 +1355,28 @@ class IFECrawler:
             if not self._has_ife_keyword(title) and not self._has_ife_keyword(description):
                 return None
 
-            text       = soup.get_text(separator=" ").lower()
+            raw_text   = soup.get_text(separator=" ")
+            text       = raw_text.lower()
             year       = self._year_from_meta(soup) or self._year_from_text(text) or 2025
             airlines_m = self._mentions(text, AIRLINE_KEYWORDS)
             aircraft_m = self._mentions(text, AIRCRAFT_KEYWORDS)
             detected   = self._detect_system(text)
-            inferred   = False
-            if not detected:
-                detected = infer_ife_system(airlines_m, aircraft_m)
-                inferred = detected is not None
+            guess      = None if detected else infer_ife_system(airlines_m, aircraft_m)
 
             return {
                 "url":                  url,
                 "title":                title[:150],
                 "year":                 year,
                 "ife_system":           detected,
-                "ife_system_inferred":  inferred,
+                "ife_system_inferred":  False,
+                "ife_system_guess":     guess,
                 "media_type":           "article",
                 "airlines_mentioned":   airlines_m,
                 "aircraft_mentioned":   aircraft_m,
                 "ife_features":         self._features(text),
                 "ife_specs":            _extract_specs(text),
                 "transcript_available": False,
-                "transcript_excerpt":   None,
+                "transcript_excerpt":   _article_excerpt(raw_text),
                 "captions":             [],
                 "source_tier":          tier,
                 "source_name":        TIER_LABELS[tier],
