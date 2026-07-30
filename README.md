@@ -1,49 +1,35 @@
-# SimpleCrawler
+# ifereviewdatabase
 
-A minimal, polite Python web crawler boilerplate.
+This is my Summer 2026 IFE Review Database project! Feel free to clone this repo and make edits on your own. Happy researching!
 
-Features
-- Respects `robots.txt` when available
-- Delay between requests
-- Optional same-domain restriction
+A dashboard + crawler that collects public YouTube reviews of in-flight entertainment (IFE) systems and turns them into searchable, filterable competitive intelligence: which systems airlines run, which features reviewers talk about (4K, Bluetooth audio, moving map, tail camera, watch party…), and how coverage trends over time.
 
-Quickstart
-
-1. Create a virtualenv and install dependencies:
+## Quickstart
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+python serve.py          # dashboard on http://<your-ip>:5000 (LAN-shareable)
+# or: python app.py      # localhost only
 ```
 
-2. Run the crawler:
+Set `YOUTUBE_API_KEY` in a `.env` file to enable crawling.
 
-```bash
-python main.py https://example.com --max-pages 10 --max-depth 1 --delay 0.5 --output out.json --same-domain
-```
+## What's here
 
-Files
-- `crawler.py`: crawler implementation
-- `main.py`: simple CLI entry point
+| File | Purpose |
+|---|---|
+| `app.py` | Flask backend — API, aggregates, notes, manual tag editing |
+| `serve.py` | LAN launcher (binds 0.0.0.0, prints share links) |
+| `ife_crawler.py` | YouTube discovery crawl + airline/system/feature tagging |
+| `ife_data_manager.py` | Cache load/save, filtering, pagination |
+| `ife_cache.json` | The review database (also updated daily by CI) |
+| `templates/index.html` | The whole dashboard UI |
+| `backfill_transcripts.py` | Fetch transcripts for cached videos (captions → Whisper fallback) |
+| `gather_*.py`, `regather_captions.py`, `translate_captions.py` | Enrichment scripts (channels, chapters, comments) |
+| `.github/workflows/` | Daily cloud crawl + transcript backfill (need `YOUTUBE_API_KEY` / `YOUTUBE_COOKIES_B64` secrets) |
 
-Git hooks
+## Notes for contributors
 
-To enable an optional pre-commit hook that auto-applies allowed updates from the `updates/` folder and stages them:
-
-1. Set the repository hooks path:
-
-```bash
-git config core.hooksPath .githooks
-```
-
-2. Edit `allowed_files.json` to list the relative file paths the hook is allowed to overwrite.
-
-3. Place replacement files under the `updates/` directory with the same relative paths.
-
-4. On commit, the hook will copy files from `updates/` to the working tree and run `git add` so your commit includes them.
-
-The auto-apply logic lives in `hooks/auto_apply.py`.
-
-Notes
-- This is a starting point. Add error handling, politeness, concurrency, or persistence as needed.
+- `git pull` before pushing — CI commits a daily cache update to `main`.
+- Manual IFE-system tag edits in the UI are restricted to the machine hosting the server.
+- Only explicitly-detected IFE systems get tagged; airline-based inferences are stored as hidden guesses.
