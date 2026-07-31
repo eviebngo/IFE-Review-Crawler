@@ -2,7 +2,7 @@
 
 Everything about how this system works: what it collects, how it parses, what queries and keywords it uses, when things run, and how to pick the work back up on a fresh machine.
 
-Last updated: July 30, 2026 · Database at time of writing: **1,249 reviews** (1,225 videos, 24 articles), **622 with transcripts**, **107 explicitly matched to a named IFE system**.
+Last updated: July 31, 2026 · Database at time of writing: **1,249 reviews** (1,225 videos, 24 articles), **622 with transcripts**, **107 explicitly matched to a named IFE system**. Non-English titles, captions, and comments carry English translations (`title_en` / `text_en`).
 
 ---
 
@@ -111,7 +111,7 @@ git push    # after local crawls/edits, so the repo (and teammates) get them
 ```
 
 ### Unfinished work / next steps (as of July 30, 2026)
-1. **539 videos still need transcripts** — rerun `python backfill_transcripts.py` with `YOUTUBE_COOKIES_B64` set (YouTube bot-blocked the anonymous run). Stop the dashboard first or accept checkpoint clobber risk on concurrent manual edits.
+1. **603 videos still need transcripts** — as of July 31, YouTube fully IP-blocks anonymous transcript requests from the office machine (every attempt fails immediately). Rerun `python backfill_transcripts.py` only with `YOUTUBE_COOKIES_B64` set (base64 of a cookies.txt exported from a signed-in browser), or dispatch the `backfill_transcripts.yml` workflow on GitHub if its cookie secret is still valid. Stop the dashboard first or accept checkpoint clobber risk on concurrent manual edits.
 2. **System tags are sparse on purpose** (107 explicit of 1,249) — use the dashboard's ✎ editor to confirm systems video-by-video; manual tags are protected from automation.
 3. **Share link blocked for teammates** — machine-side firewall is verified fine; suspect VPN/subnet/AP-isolation between clients. Teammate diagnostic: `Test-NetConnection <host-ip> -Port 5000`. Long-term fix: internal VM (discussion with IT in progress).
 4. **YouTube API compliance review** — final notice July 30; respond within 7 business days with `compliance_sample_report.html` (regenerate anytime with `python generate_compliance_report.py`; kept out of git deliberately).
@@ -125,6 +125,7 @@ git push    # after local crawls/edits, so the repo (and teammates) get them
 | `clear_inferred_systems.py` | Demote airline-inferred system tags to guesses |
 | `gather_channel_stats.py` / `backfill_channels.py` | Refresh reviewer channel info |
 | `gather_chapters.py` / `gather_comments.py` | Enrich videos with chapters / public comments |
-| `regather_captions.py` / `translate_captions.py` / `merge_transcripts.py` | Caption maintenance |
+| `regather_captions.py` / `merge_transcripts.py` | Caption maintenance |
+| `translate_captions.py` | Translate non-English titles, captions, and comments to English |
 | `purge_spam.py` | Remove known-spam content (destructive — review before running) |
 | `generate_compliance_report.py` | Build the YouTube API compliance sample report |
