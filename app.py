@@ -172,7 +172,8 @@ def recent_reviews():
             if dt < cutoff:
                 continue
             rows.append({
-                "url": r.get("url"), "title": r.get("title"), "year": r.get("year"),
+                "url": r.get("url"), "title": r.get("title"),
+                "title_en": r.get("title_en"), "year": r.get("year"),
                 "published_at": pa, "channel_title": r.get("channel_title"),
                 "source_name": r.get("source_name"), "media_type": r.get("media_type"),
                 "view_count": r.get("view_count"), "like_count": r.get("like_count"),

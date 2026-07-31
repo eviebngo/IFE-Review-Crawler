@@ -86,16 +86,25 @@ def main():
     data = json.loads(CACHE.read_text(encoding="utf-8"))
     reviews = data.get("reviews", [])
 
-    # Collect every text item needing translation as a direct dict reference, so
-    # the same pass covers both captions and YouTube comments.
-    pending = []  # list of (obj_dict, text)
+    # Collect every text item needing translation as a direct dict reference,
+    # so one pass covers video titles, captions and YouTube comments.
+    # Each entry: (obj_dict, text, en_field, lang_field). Titles go FIRST so a
+    # --limit run still covers them all.
+    pending = []
+    for r in reviews:
+        t = (r.get("title") or "").strip()
+        if not r.get("title_en") and r.get("title_lang") != "en":
+            if _needs_translation(t, include_latin):
+                pending.append((r, t, "title_en", "title_lang"))
+            elif len(t) >= 3 and not _has_nonlatin(t):
+                r["title_lang"] = "en"
     for r in reviews:
         for c in (r.get("captions") or []):
             if c.get("text_en") or c.get("lang") == "en":
                 continue
             t = (c.get("text") or "").strip()
             if _needs_translation(t, include_latin):
-                pending.append((c, t))
+                pending.append((c, t, "text_en", "lang"))
             elif len(t) >= 3 and not _has_nonlatin(t):
                 c["lang"] = "en"
         for c in (r.get("yt_comments") or []):
@@ -103,13 +112,13 @@ def main():
                 continue
             t = (c.get("text") or "").strip()
             if _needs_translation(t, include_latin):
-                pending.append((c, t))
+                pending.append((c, t, "text_en", "lang"))
             elif len(t) >= 3 and not _has_nonlatin(t):
                 c["lang"] = "en"
 
     if limit:
         pending = pending[:limit]
-    print(f"Items to translate (captions + comments): {len(pending)}")
+    print(f"Items to translate (titles + captions + comments): {len(pending)}")
     if not pending:
         CACHE.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
         print("Nothing to translate.")
@@ -118,13 +127,13 @@ def main():
     translator = GoogleTranslator(source="auto", target="en")
     done = fail = 0
     langs = {}
-    for n, (obj, t) in enumerate(pending, 1):
+    for n, (obj, t, en_field, lang_field) in enumerate(pending, 1):
         try:
             en = translator.translate(t)
-            obj["lang"] = _guess_lang(t)
+            obj[lang_field] = _guess_lang(t)
             if en and en.strip().lower() != t.strip().lower():
-                obj["text_en"] = en
-                langs[obj["lang"]] = langs.get(obj["lang"], 0) + 1
+                obj[en_field] = en
+                langs[obj[lang_field]] = langs.get(obj[lang_field], 0) + 1
             done += 1
         except Exception as e:
             fail += 1
