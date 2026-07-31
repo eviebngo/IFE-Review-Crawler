@@ -139,7 +139,7 @@ def get_ife_reviews():
         data_manager.reload_from_disk()
         reviews = sorted(
             data_manager.data.get("reviews", []),
-            key=data_manager._relevance,
+            key=data_manager._published_ts,
             reverse=True
         )
         paged = data_manager.paginate(reviews, page, PER_PAGE)

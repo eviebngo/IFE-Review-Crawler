@@ -186,6 +186,19 @@ class IFEDataManager:
         score += min(len(r.get("airlines_mentioned", [])) * 0.04, 0.08)
         return round(min(score, 1.0), 3)
 
+    def _published_ts(self, r):
+        """Sort key: publish time (newest first when reversed); falls back to year."""
+        pa = r.get("published_at") or ""
+        try:
+            return datetime.fromisoformat(pa.replace("Z", "+00:00")).timestamp()
+        except ValueError:
+            # No publish date (some articles): treat as Jan 1 of its year so it
+            # sorts within the right year but below any dated item from it.
+            try:
+                return datetime(int(r.get("year")), 1, 1).timestamp()
+            except (ValueError, TypeError, OSError):
+                return 0.0
+
     def filter_reviews(self, filters):
         results = self.data.get("reviews", [])
 
@@ -236,8 +249,8 @@ class IFEDataManager:
             if wanted:
                 results = [r for r in results if r.get("source_name", "Creator") in wanted]
 
-        # Always sort by relevance descending
-        results.sort(key=self._relevance, reverse=True)
+        # Always sort newest first
+        results.sort(key=self._published_ts, reverse=True)
         return results
 
     def paginate(self, rows, page, per_page=50):

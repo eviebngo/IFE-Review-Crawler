@@ -639,18 +639,18 @@ function setTab(tab){
 /* ── Dashboard ── */
 async function renderDashboard(){
   await loadReviews(1);const agg=await loadAgg();
-  const m=(agg&&agg.metrics)||{total:S.total,with_transcript:0,new_this_month:0,mom_pct:0,has_mom:false};
   const feats=(agg&&agg.analytics&&agg.analytics.features||[]).slice(0,6);
   const chdata=await loadChannels();
-  const badge=(m.has_mom)?('<span class="badge '+(m.mom_pct>=0?'up':'down')+'">'+ic(m.mom_pct>=0?'up':'down',11)+Math.abs(m.mom_pct)+'%</span>'):'<span class="badge flat">—</span>';
+  const mts=(S.summary&&S.summary.media_types)||{};
+  const nVid=mts.video||0,nArt=mts.article||0;
 
   $('content').innerHTML=
   '<div class="cols"><div class="col-l">'+
     '<div class="frame pad">'+
       '<div class="ov-h"><span class="t">Overview</span></div>'+
       '<div class="stats">'+
-        '<div class="stat"><div class="lb"><span class="gi">'+ic('rev',22)+'</span>Reviews</div><div class="row"><span class="v">'+fmtN(m.total)+'</span><div>'+badge+'<div class="vs">'+(m.has_mom?'vs last month':'in library')+'</div></div></div></div>'+
-        '<div class="stat plain"><div class="lb"><span class="gi">'+ic('trend',22)+'</span>New Reviews</div><div class="row"><span class="v">'+fmtN(m.new_this_month)+'</span><div>'+badge+'<div class="vs">'+(m.has_mom?'vs last month':'this month')+'</div></div></div></div>'+
+        '<div class="stat" data-mt="video" style="cursor:pointer" title="Show all videos in Reviews"><div class="lb"><span class="gi">'+ic('play',22)+'</span>Videos</div><div class="row"><span class="v">'+fmtN(nVid)+'</span><div class="vs">in library · click to view</div></div></div>'+
+        '<div class="stat plain" data-mt="article" style="cursor:pointer" title="Show all articles in Reviews"><div class="lb"><span class="gi">'+ic('doc',22)+'</span>Articles</div><div class="row"><span class="v">'+fmtN(nArt)+'</span><div class="vs">in library · click to view</div></div></div>'+
       '</div>'+
       '<div class="ov-sub">Popular Youtube channels</div>'+
       '<div class="chans" id="chans"></div>'+
@@ -693,6 +693,7 @@ async function renderDashboard(){
   const maxF=Math.max(...feats.map(f=>f.reviews),1);
   feats.forEach(f=>{const d=document.createElement('button');d.className='featbar';d.title='See a breakdown of '+(FEAT_LABELS[f.key]||f.key)+' and its most popular videos';d.innerHTML='<span class="fbl">'+esc(FEAT_LABELS[f.key]||f.key)+'</span><span class="fbar"><span style="width:'+Math.max(100*f.reviews/maxF,3)+'%"></span></span><span class="fbv">'+f.reviews+'</span>';d.addEventListener('click',()=>openFeatureModal(f.key));fb.appendChild(d);});
   renderComments();
+  document.querySelectorAll('.stat[data-mt]').forEach(el=>el.addEventListener('click',()=>gotoReviews('media_types',el.dataset.mt)));
   document.querySelectorAll('[data-goto]').forEach(b=>b.addEventListener('click',()=>setTab(b.dataset.goto)));
   syncCommentsHeight();
 }
