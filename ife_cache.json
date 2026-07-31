@@ -92583,7 +92583,8 @@
       "source_tier": 2,
       "source_name": "Creator",
       "sentiment": "neutral",
-      "sentiment_score": 0.0
+      "sentiment_score": 0.0,
+      "ife_system_guess": null
     },
     {
       "url": "https://www.youtube.com/watch?v=yth8gcIbqqk",
@@ -94595,7 +94596,8 @@
       "source_tier": 2,
       "source_name": "Creator",
       "sentiment": "positive",
-      "sentiment_score": 0.224
+      "sentiment_score": 0.224,
+      "ife_system_guess": null
     },
     {
       "url": "https://www.youtube.com/watch?v=N7S5C-BRbxk",
@@ -94819,8 +94821,130 @@
       "captions": [],
       "source_tier": 2,
       "source_name": "Creator",
-      "ife_system_guess": "Panasonic eX3"
+      "ife_system_guess": "Panasonic eX3",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i4GCc59lAb0",
+      "title": "【8K】New York (JFK) to Frankfurt (FRA) on Lufthansa Airbus A340-600 [HDR]",
+      "year": 2026,
+      "published_at": "2026-07-30T18:00:03Z",
+      "channel_title": "Just Travel【8K】",
+      "view_count": 34,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eCCFFS7MmcU",
+      "title": "Qatar Airways: What’s Going On With This “World-Class” Airline?",
+      "year": 2026,
+      "published_at": "2026-07-26T12:00:05Z",
+      "channel_title": "The Plane Insider - by Travel Sing Fly",
+      "view_count": 3168,
+      "like_count": 112,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 17
+        },
+        {
+          "keyword": "level",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kE2fvHN2E6I",
+      "title": "Saudia's New Airbus A321XLR | Economy Class Review (JED–RUH)",
+      "year": 2026,
+      "published_at": "2026-07-27T19:23:05Z",
+      "channel_title": "Aviation with Abdullah",
+      "view_count": 660,
+      "like_count": 23,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-07-30T15:48:04.751518"
+  "last_updated": "2026-07-31T06:19:52.176780"
 }
