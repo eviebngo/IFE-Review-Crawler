@@ -6,7 +6,7 @@ import re
 import socket
 import threading
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from flask import Flask, render_template, request, jsonify, Response
 
@@ -151,6 +151,41 @@ def get_ife_reviews():
         })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+
+@app.route("/api/recent")
+def recent_reviews():
+    """Every review published within the last N days, newest first.
+    Slim rows (no captions/transcripts) so long windows stay light; the modal
+    fetches the full record via /api/review on click."""
+    try:
+        days = max(1, min(int(request.args.get("days", 30)), 3650))
+        data_manager.reload_from_disk()
+        cutoff = datetime.now() - timedelta(days=days)
+        rows = []
+        for r in data_manager.data.get("reviews", []):
+            pa = r.get("published_at") or ""
+            try:
+                dt = datetime.fromisoformat(pa.replace("Z", "+00:00")).replace(tzinfo=None)
+            except ValueError:
+                continue
+            if dt < cutoff:
+                continue
+            rows.append({
+                "url": r.get("url"), "title": r.get("title"), "year": r.get("year"),
+                "published_at": pa, "channel_title": r.get("channel_title"),
+                "source_name": r.get("source_name"), "media_type": r.get("media_type"),
+                "view_count": r.get("view_count"), "like_count": r.get("like_count"),
+                "ife_system": r.get("ife_system"),
+                "airlines_mentioned": (r.get("airlines_mentioned") or [])[:1],
+                "transcript_available": r.get("transcript_available"),
+                "transcript_excerpt": (r.get("transcript_excerpt") or "")[:160],
+                "chapters": [{"ife": True}] if any(c.get("ife") for c in (r.get("chapters") or [])) else [],
+            })
+        rows.sort(key=lambda x: x["published_at"], reverse=True)
+        return jsonify({"status": "success", "days": days, "total": len(rows), "rows": rows})
+    except Exception as e:
+        return jsonify({"status": "error", "error": str(e)}), 500
 
 
 @app.route("/api/review")

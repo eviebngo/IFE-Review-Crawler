@@ -155,6 +155,9 @@ svg{display:block}
 .afl-clr:hover{color:var(--red)}
 @media(max-width:640px){.rthumb{width:120px;height:68px}.rtags{max-width:40%}}
 
+/* new videos feed: show the whole timeframe, scrolling within the card */
+#recent{max-height:66vh;overflow-y:auto;overscroll-behavior:contain}
+
 /* popular features */
 .pf{padding:16px 12px 18px 16px}
 .pf .t{font-size:20px;margin-bottom:14px}
@@ -472,17 +475,11 @@ const FEAT_LABELS={entertainment_system:'IFE System',connectivity:'In-flight WiF
 const FEAT_IC={entertainment_system:'tv',connectivity:'wifi',wifi:'wifi','4k_display':'tv',bluetooth_audio:'bt',content:'play',quality:'tv',seat:'tv',usb_power:'tv',watch_party:'users',seat_chat:'chat',search:'search',tail_camera:'cam',moving_map:'globe'};
 
 let TAB='Dashboard';
-const S={reviews:[],summary:{},page:1,totalPages:1,total:0,perPage:50,agg:null,channels:null,comments:null,notes:{},filterOpts:null,filters:{},searchQ:'',channelFilter:'',channelLabel:'',recentSort:'recent',cmpA:'',cmpB:'',mRows:[],mIdx:-1};
-const SORT_OPTS=[['recent','Most recent'],['popular','Most popular'],['liked','Most liked'],['notes','Most notes']];
-function pubTs(r){if(r.published_at){const t=Date.parse(r.published_at);if(!isNaN(t))return t;}return (r.year||0)*1e10;}
-function noteCt(r){return (S.notes&&S.notes[r.url]&&S.notes[r.url].length)||0;}
-const RECENT_SORTS={
-  recent:(a,b)=>pubTs(b)-pubTs(a),
-  popular:(a,b)=>(b.view_count||0)-(a.view_count||0),
-  liked:(a,b)=>(b.like_count||0)-(a.like_count||0),
-  notes:(a,b)=>noteCt(b)-noteCt(a),
-};
-function curSortLbl(){var o=SORT_OPTS.find(function(x){return x[0]===S.recentSort;});return o?o[1]:SORT_OPTS[0][1];}
+const S={reviews:[],summary:{},page:1,totalPages:1,total:0,perPage:50,agg:null,channels:null,comments:null,notes:{},filterOpts:null,filters:{},searchQ:'',channelFilter:'',channelLabel:'',recentDays:'30',cmpA:'',cmpB:'',mRows:[],mIdx:-1};
+// Timeframes for the "New videos" feed — marketing checks in periodically and
+// wants everything published since their last visit, not a top-5.
+const TF_OPTS=[['7','Last 7 days'],['14','Last 14 days'],['30','Last 30 days'],['90','Last 3 months'],['180','Last 6 months'],['365','Last 12 months']];
+function curTfLbl(){var o=TF_OPTS.find(function(x){return x[0]===S.recentDays;});return o?o[1]:'Last 30 days';}
 const FACETS=[['airlines','Airline'],['ife_systems','System'],['ife_features','Feature'],['media_types','Type'],['years','Year'],['source_tiers','Source'],['transcript','Transcript'],['chapters','Chapters']];
 FACETS.forEach(([k])=>S.filters[k]=new Set());
 function facetLabel(k,v){return k==='ife_features'?(FEAT_LABELS[v]||v):(k==='airlines'?cap(String(v)):String(v));}
@@ -658,10 +655,13 @@ async function renderDashboard(){
       '<div class="ov-sub">Popular Youtube channels</div>'+
       '<div class="chans" id="chans"></div>'+
     '</div>'+
-    '<div class="sec-h"><div class="sortdd" id="sortDD">'+
-      '<button class="sortdd-b" id="sortBtn"><span class="lbl">'+curSortLbl()+'</span>'+ic('chevD',16)+'</button>'+
-      '<div class="sortdd-p hide" id="sortPanel">'+SORT_OPTS.map(function(o){return '<button class="sortdd-o'+(o[0]===S.recentSort?' on':'')+'" data-v="'+o[0]+'"><span>'+o[1]+'</span>'+ic('check',15)+'</button>';}).join('')+'</div>'+
-    '</div></div>'+
+    '<div class="sec-h" style="display:flex;justify-content:space-between;align-items:center;gap:12px">'+
+      '<div><span style="font-size:16px;font-weight:600">New videos</span><span class="t11" id="recentCount" style="margin-left:10px"></span></div>'+
+      '<div class="sortdd" id="tfDD">'+
+        '<button class="sortdd-b" id="tfBtn"><span class="lbl">'+curTfLbl()+'</span>'+ic('chevD',16)+'</button>'+
+        '<div class="sortdd-p hide" id="tfPanel">'+TF_OPTS.map(function(o){return '<button class="sortdd-o'+(o[0]===S.recentDays?' on':'')+'" data-v="'+o[0]+'"><span>'+o[1]+'</span>'+ic('check',15)+'</button>';}).join('')+'</div>'+
+      '</div>'+
+    '</div>'+
     '<div class="frame"><div class="rlist" id="recent"></div></div>'+
   '</div>'+
   '<div class="col-r">'+
@@ -686,7 +686,7 @@ async function renderDashboard(){
   va.addEventListener('click',()=>setTab('Statistics'));cbox.appendChild(va);
   // recent
   paintRecent();
-  wireDropdown('sortDD','sortBtn','sortPanel',v=>{S.recentSort=v;$('sortBtn').querySelector('.lbl').textContent=curSortLbl();paintRecent();});
+  wireDropdown('tfDD','tfBtn','tfPanel',v=>{S.recentDays=v;$('tfBtn').querySelector('.lbl').textContent=curTfLbl();paintRecent();});
   // features
   const fb=$('feats');
   if(!feats.length)fb.innerHTML='<div class="t11" style="padding:8px 0">No data</div>';
@@ -719,23 +719,22 @@ function wireDropdown(ddId,btnId,panelId,onSelect){
   document.addEventListener('click',close);
 }
 async function paintRecent(){
-  const box=$('recent');box.innerHTML='';
-  let rows;
-  if(S.recentSort==='notes'){
-    // Noted videos may not be in the loaded page — fetch them directly.
-    const urls=Object.keys(S.notes||{}).sort((a,b)=>S.notes[b].length-S.notes[a].length).slice(0,5);
-    rows=(await Promise.all(urls.map(async u=>{
-      let r=S.reviews.find(x=>x.url===u);
-      if(!r){try{const d=await (await fetch('/api/review?url='+encodeURIComponent(u))).json();if(d.status==='success')r=d.review;}catch{}}
-      return r;
-    }))).filter(Boolean);
-  } else {
-    rows=S.reviews.slice();
-    rows.sort(RECENT_SORTS[S.recentSort]||RECENT_SORTS.recent);
-    rows=rows.slice(0,5);
-  }
-  if(!rows.length){box.innerHTML='<div class="t11" style="padding:12px">'+(S.recentSort==='notes'?'No notes added yet.':'No reviews for this period.')+'</div>';return;}
-  rows.forEach(r=>box.appendChild(recentItem(r)));
+  const box=$('recent');box.innerHTML='<div class="state"><div class="spin"></div>Loading…</div>';
+  let d=null;
+  try{d=await (await fetch('/api/recent?days='+S.recentDays)).json();}catch{}
+  box.innerHTML='';
+  const rows=(d&&d.status==='success'&&d.rows)||[];
+  const cnt=$('recentCount');if(cnt)cnt.textContent=rows.length+' video'+(rows.length!==1?'s':'')+' · '+curTfLbl().toLowerCase();
+  if(!rows.length){box.innerHTML='<div class="t11" style="padding:12px">No new videos in this period.</div>';return;}
+  rows.forEach(r=>{r._slim=true;box.appendChild(recentItem(r));});
+  if(TAB==='Dashboard')syncCommentsHeight();
+}
+// Slim rows carry no captions — fetch the full record before opening the modal.
+async function openReviewSlim(url){
+  let r=null;
+  try{const d=await (await fetch('/api/review?url='+encodeURIComponent(url))).json();if(d.status==='success')r=d.review;}catch{}
+  if(r)openModal(0,[r]);
+  else if(url)window.open(url,'_blank','noopener');
 }
 function recentItem(r){
   const el=document.createElement('div');el.className='ritem';
@@ -755,7 +754,7 @@ function recentItem(r){
   '</div>';
   const fb=el.querySelector('.flagbtn');
   if(fb)fb.addEventListener('click',e=>{e.stopPropagation();const on=toggleFlag(r);fb.classList.toggle('on',on);});
-  el.addEventListener('click',e=>{if(e.target.closest('.flagbtn'))return;if(r.media_type!=='video'&&r.url){window.open(r.url,'_blank','noopener');return;}openModalFor(r);});
+  el.addEventListener('click',e=>{if(e.target.closest('.flagbtn'))return;if(r.media_type!=='video'&&r.url){window.open(r.url,'_blank','noopener');return;}if(r._slim){openReviewSlim(r.url);return;}openModalFor(r);});
   return el;
 }
 
