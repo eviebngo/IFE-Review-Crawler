@@ -153,12 +153,16 @@ def fetch_whisper_segs(model, video_id, cookies_path=None, browser_cookie_opts=N
         url = f"https://www.youtube.com/watch?v={video_id}"
         with tempfile.TemporaryDirectory() as tmpdir:
             ydl_opts = {
-                "format": "worstaudio/worst",
+                "format": "worstaudio/worst/bestaudio/best",
                 "outtmpl": os.path.join(tmpdir, "%(id)s.%(ext)s"),
                 "quiet": True,
                 "no_warnings": True,
                 "nocheckcertificate": True,
                 "logger": logger,
+                # YouTube hides formats from the default web client behind PO
+                # tokens ("Requested format is not available"); the tv/android
+                # clients still serve plain formats.
+                "extractor_args": {"youtube": {"player_client": ["tv", "android", "web_safari"]}},
             }
             if cookies_path:
                 ydl_opts["cookiefile"] = cookies_path
@@ -229,7 +233,15 @@ def main():
     to_remove = []   # private / unavailable video URLs
     whisper_blocked = False
 
+    # Optional wall-clock budget (minutes). CI kills jobs at 6 h and the commit
+    # step only runs after this script exits — stop early so progress is saved.
+    budget_min = float(os.environ.get("MAX_RUNTIME_MIN", 0) or 0)
+    started = time.time()
+
     for idx, r in enumerate(targets, 1):
+        if budget_min and (time.time() - started) > budget_min * 60:
+            print(f"\nTime budget of {budget_min:.0f} min reached at video {idx}/{len(targets)} — saving and exiting.")
+            break
         vid_id = r["url"].split("watch?v=")[1].split("&")[0]
 
         # 1. YouTube transcript API

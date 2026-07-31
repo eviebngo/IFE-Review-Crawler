@@ -6,6 +6,7 @@ on:
 jobs:
   backfill:
     runs-on: ubuntu-latest
+    timeout-minutes: 350
     permissions:
       contents: write
 
@@ -26,6 +27,8 @@ jobs:
       - name: Fetch missing transcripts
         env:
           WHISPER_MODEL: base
+          # exit cleanly before the job timeout so the save step still commits
+          MAX_RUNTIME_MIN: 320
           # falls back to the historically misspelled secret name (COOKES)
           YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 || secrets.YOUTUBE_COOKES_B64 }}
         run: python backfill_transcripts.py
