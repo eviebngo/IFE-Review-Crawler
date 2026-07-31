@@ -56386,48 +56386,6 @@
       "title_lang": "en"
     },
     {
-      "url": "https://www.youtube.com/watch?v=qK8tHNfcggU",
-      "title": "China Southern Airlines  Boeing 777-300 ER Economy Flight Review, SFO-WUH",
-      "year": 2026,
-      "published_at": "2026-06-28T16:00:05Z",
-      "channel_title": "SFO Aviation",
-      "view_count": 43,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "china southern",
-          "mentions": 3
-        }
-      ],
-      "aircraft_mentioned": [
-        {
-          "keyword": "777",
-          "mentions": 3
-        },
-        {
-          "keyword": "boeing",
-          "mentions": 3
-        }
-      ],
-      "ife_features": {
-        "entertainment_system": true,
-        "seat": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "yt_comments": [],
-      "ife_system_guess": "Panasonic eX3",
-      "title_lang": "en"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=diBGWd44DvM",
       "title": "KLM Boeing 777-300ER Economy Class | Singapore to Bali | Full Flight Report",
       "year": 2026,
@@ -94645,77 +94603,6 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=hwLzO7T5s5A",
-      "title": "ANA All Nippon Airways — Japan Elevated: In-Flight Entertainment",
-      "year": 2022,
-      "ife_system": "Panasonic eX3",
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "ana",
-          "mentions": 11
-        }
-      ],
-      "aircraft_mentioned": [
-        {
-          "keyword": "777",
-          "mentions": 8
-        }
-      ],
-      "ife_features": {
-        "entertainment_system": true,
-        "content": true,
-        "connectivity": true,
-        "quality": true
-      },
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "ife_specs": {},
-      "source_tier": 2,
-      "source_name": "Creator",
-      "ife_system_inferred": false,
-      "sentiment": "positive",
-      "sentiment_score": 0.421,
-      "title_lang": "en"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=6dasqD-mL14",
-      "title": "Sulit nga ba ang 3 hours na tulog? 😂 Emirates Airlines A380 Business Class Review.",
-      "year": 2026,
-      "published_at": "2026-06-24T10:30:11Z",
-      "channel_title": "Franklin de Guzman",
-      "view_count": 2,
-      "ife_system": null,
-      "ife_system_inferred": false,
-      "media_type": "video",
-      "airlines_mentioned": [
-        {
-          "keyword": "emirates",
-          "mentions": 1
-        }
-      ],
-      "aircraft_mentioned": [
-        {
-          "keyword": "a380",
-          "mentions": 1
-        }
-      ],
-      "ife_features": {
-        "content": true
-      },
-      "ife_specs": {},
-      "transcript_available": false,
-      "transcript_excerpt": null,
-      "captions": [],
-      "source_tier": 2,
-      "source_name": "Creator",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "ife_system_guess": "Emirates ICE",
       "title_lang": "en"
     },
     {
