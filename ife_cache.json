@@ -95109,7 +95109,8 @@
       "source_name": "Creator",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "ife_system_guess": null
     },
     {
       "url": "https://www.youtube.com/watch?v=yth8gcIbqqk",
@@ -97170,7 +97171,8 @@
       "source_name": "Creator",
       "sentiment": "positive",
       "sentiment_score": 0.224,
-      "title_lang": "en"
+      "title_lang": "en",
+      "ife_system_guess": null
     },
     {
       "url": "https://www.youtube.com/watch?v=N7S5C-BRbxk",
@@ -97400,7 +97402,9 @@
       "source_tier": 2,
       "source_name": "Creator",
       "ife_system_guess": "Panasonic eX3",
-      "title_lang": "en"
+      "title_lang": "en",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=i4GCc59lAb0",
@@ -97438,7 +97442,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=eCCFFS7MmcU",
@@ -97486,7 +97492,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=kE2fvHN2E6I",
@@ -97520,8 +97528,195 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9kvbAlULUOI",
+      "title": "Emirates In All Four Classes | First, Business Class, Premium Economy, Economy",
+      "year": 2026,
+      "published_at": "2026-07-26T15:00:33Z",
+      "channel_title": "Charles On Travels",
+      "view_count": 6562,
+      "like_count": 194,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 25
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 7
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=taQ-hhHzcMQ",
+      "title": "Airbus A380 Upper Deck Economy from Incheon to Los Angeles | Asiana Airlines",
+      "year": 2026,
+      "published_at": "2026-07-24T23:57:47Z",
+      "channel_title": "AviationSNA",
+      "view_count": 924,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j1T2IjvrXpE",
+      "title": "STARLUX A350-1000 Business Class Review (NRT-TPE)",
+      "year": 2026,
+      "published_at": "2026-07-31T11:00:16Z",
+      "channel_title": "Airborne",
+      "view_count": 89,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://runwaygirlnetwork.com/2026/07/azal-reveals-interior-of-new-a321neo-uses-ife-as-differentiator/",
+      "title": "AZAL reveals interior of new A321neo, uses IFE as differentiator - Runway GirlRunway Girl",
+      "year": 2026,
+      "ife_system": "Viasat (streaming)",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 7
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "air new zealand",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 16
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 14
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        },
+        {
+          "keyword": "a320",
+          "mentions": 3
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": "Image: Panasonic Avionics Universal power, fast-charging USB-C outlets, complimentary Viasat-powered inflight connectivity and wireless IFE round out the offering in business class on AZAL’s first A321neo.",
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
     }
   ],
-  "last_updated": "2026-07-30T15:48:04.751518"
+  "last_updated": "2026-08-01T06:05:05.627897"
 }
