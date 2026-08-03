@@ -230,6 +230,25 @@ def _article_excerpt(raw_text: str) -> Optional[str]:
     return best if best_score > 0 else candidates[0]
 
 
+def _article_quotes(raw_text: str, limit: int = 8):
+    """Top IFE-relevant sentences from an article body, in reading order, each
+    with the feature keywords that matched — shown in the article modal."""
+    clean = re.sub(r'\s+', ' ', raw_text).strip()
+    sentences = [s.strip() for s in _SENT_SPLIT_RE.split(clean)]
+    scored = []
+    for pos, s in enumerate(sentences):
+        if not (40 <= len(s) <= 300):
+            continue
+        sl = s.lower()
+        kws = [kw for kw in _ARTICLE_EXCERPT_KEYWORDS if kw in sl]
+        if kws:
+            scored.append((len(kws), pos, s, kws))
+    scored.sort(key=lambda x: (-x[0], x[1]))
+    top = sorted(scored[:limit], key=lambda x: x[1])
+    return [{"text": s, "kws": sorted(kws, key=len, reverse=True)[:3]}
+            for _, pos, s, kws in top]
+
+
 # ── Airlines & aircraft ───────────────────────────────────────────────────────
 AIRLINE_KEYWORDS = [
     "emirates", "qatar airways", "etihad", "lufthansa", "british airways",
@@ -1377,6 +1396,7 @@ class IFECrawler:
                 "ife_specs":            _extract_specs(text),
                 "transcript_available": False,
                 "transcript_excerpt":   _article_excerpt(raw_text),
+                "article_quotes":       _article_quotes(raw_text),
                 "captions":             [],
                 "source_tier":          tier,
                 "source_name":        TIER_LABELS[tier],

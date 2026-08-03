@@ -261,6 +261,8 @@ svg{display:block}
 .cap{display:flex;gap:10px;padding:6px;border-radius:6px;font-size:12px;line-height:1.45;color:var(--ink2)}
 .cap:hover{background:#fff;cursor:pointer}.cap .cts{font-size:11px;font-weight:600;color:var(--red);min-width:38px;flex-shrink:0}
 .cap-orig{display:block;margin-top:3px;font-size:11px;color:var(--gray);font-style:normal}.cap-orig em{font-style:normal;opacity:.7}
+.cap.aq{cursor:default}.cap.aq:hover{background:none}
+.aq-kws{display:block;margin-top:6px}
 .cap.chap{border-radius:7px}
 .cap.chap.ife{background:#fff5f4}
 .cap.chap.ife span:last-child{color:var(--red);font-weight:600}
@@ -758,7 +760,7 @@ function recentItem(r){
   '</div>';
   const fb=el.querySelector('.flagbtn');
   if(fb)fb.addEventListener('click',e=>{e.stopPropagation();const on=toggleFlag(r);fb.classList.toggle('on',on);});
-  el.addEventListener('click',e=>{if(e.target.closest('.flagbtn'))return;if(r.media_type!=='video'&&r.url){window.open(r.url,'_blank','noopener');return;}if(r._slim){openReviewSlim(r.url);return;}openModalFor(r);});
+  el.addEventListener('click',e=>{if(e.target.closest('.flagbtn'))return;if(r._slim){openReviewSlim(r.url);return;}openModalFor(r);});
   return el;
 }
 
@@ -1092,13 +1094,22 @@ function openModal(idx,rows){
     '<div class="mnotes"><div class="mn-h">Notes</div><div class="mn-list" id="mnList"></div><div class="mn-add"><input id="mnAuthor" class="mn-in" placeholder="Your name" maxlength="80"><textarea id="mnText" class="mn-ta" placeholder="Add a note for others to see…" maxlength="2000"></textarea><button class="mn-btn" id="mnAdd">Add note</button></div></div>'+
   '</div>';
   let side='<div class="mside">';
+  if(!isVid){
+    // Articles: keyword-matched strong quotes, full read in a new tab.
+    const aq=r.article_quotes||[];
+    side+='<div class="sh">Strong quotes</div>';
+    if(aq.length)side+=aq.map(q=>'<div class="cap aq"><span>“'+esc(q.text)+'”'+((q.kws&&q.kws.length)?'<span class="aq-kws">'+q.kws.map(k=>'<span class="gtag soft">'+esc(k)+'</span>').join('')+'</span>':'')+'</span></div>').join('');
+    else if(r.transcript_excerpt)side+='<div class="cap aq"><span>“'+esc(r.transcript_excerpt)+'”</span></div>';
+    else side+='<div class="t11">No IFE-relevant quotes were extracted from this article.</div>';
+    side+='<div class="t11" style="margin-top:12px">Use “Open article” for the full piece.</div>';
+  } else {
   const chaps=r.chapters||[];
   if(chaps.length){
     side+='<div class="sh">Chapters'+(chaps.some(c=>c.ife)?' <span class="ife-key">✦ IFE</span>':'')+'</div>';
     side+=chaps.map(ch=>'<div class="cap chap'+(ch.ife?' ife':'')+'" data-s="'+(ch.sec!=null?ch.sec:'')+'"><span class="cts">'+esc(ch.t||'')+'</span><span>'+(ch.ife?'✦ ':'')+esc(ch.title)+'</span></div>').join('');
-    side+='<div class="sh" style="margin-top:16px">'+(isVid?'Transcript — IFE moments':'Excerpt')+'</div>';
+    side+='<div class="sh" style="margin-top:16px">Transcript — IFE moments</div>';
   } else {
-    side+='<div class="sh">'+(isVid?'Transcript — IFE moments':'Excerpt')+'</div>';
+    side+='<div class="sh">Transcript — IFE moments</div>';
   }
   const caps=(r.captions||[]).filter(c=>isIfeCap(c.text_en||c.text));
   if(caps.length)side+=caps.map(c=>{
@@ -1109,6 +1120,7 @@ function openModal(idx,rows){
   }).join('');
   else if(r.transcript_excerpt)side+='<div style="font-size:12px;color:var(--ink2);line-height:1.6">'+esc(r.transcript_excerpt)+'</div>';
   else side+='<div class="t11">No IFE-specific moments were extracted from this transcript.</div>';
+  }
   side+='</div>';
   $('mbody').innerHTML=main+side;$('mback').classList.add('show');document.body.style.overflow='hidden';
   const mf=$('mFlag');if(mf)mf.addEventListener('click',()=>{const on=toggleFlag(r);mf.classList.toggle('on',on);mf.querySelector('span').textContent=on?'Saved':'Bookmark';refreshFlagIcons();});
