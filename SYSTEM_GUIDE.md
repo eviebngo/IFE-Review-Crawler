@@ -71,6 +71,9 @@ Counts as of July 30, 2026 (all defined in [ife_crawler.py](ife_crawler.py)):
 | Daily discovery crawl | 3:00 AM UTC daily (`daily_crawl.yml`), commits `ife_cache.json` to git | GitHub Actions (cloud) |
 | Transcript backfill workflows | manual dispatch (`backfill.yml`, `backfill_transcripts.yml`) | GitHub Actions |
 | Local background crawl | on server start, then every 24 h while `serve.py`/`app.py` runs (7-day lookback, max 500) | your machine |
+| Dashboard auto-start | Windows scheduled task "IFE ReviewDB Dashboard" launches `serve.py` (hidden) at every logon | your machine |
+| Nightly transcript grind | Windows scheduled task "IFE ReviewDB Nightly Transcripts" — 9 PM daily, 5 h Whisper window via `nightly_transcripts.cmd`, then auto-commits and pushes gains | your machine |
+| Daily chapter gather | 13:30 UTC (6:30 AM PT) daily (`daily_chapters.yml`), commits chapters to git | GitHub Actions (cloud) |
 | Manual crawl | "Crawl" button in the dashboard → `/api/ife-seed` (365-day lookback) | your machine |
 | Seed crawl | automatic on start only if the database has < 50 reviews | your machine |
 
