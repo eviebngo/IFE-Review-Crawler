@@ -51286,7 +51286,69 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.421,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "From its inception, KrisWorld has been designed to cater to diverse passenger preferences, offering a vast selection of entertainment options, including movies, TV shows, music, games, and more.",
+          "kws": [
+            "tv shows",
+            "movies",
+            "games"
+          ]
+        },
+        {
+          "text": "\"With KrisWorld, customers have access to 22 video channels, 12 audio channels, 10 popular video games, real-time news, information on popular SIA destinations and a personal in-seat telephone.",
+          "kws": [
+            "games",
+            "seat"
+          ]
+        },
+        {
+          "text": "WISEMEN is a major enhancement of KrisWorld being the first in-flight entertainment system to offer both video and audio on demand.",
+          "kws": [
+            "in-flight entertainment",
+            "entertainment system"
+          ]
+        },
+        {
+          "text": "This includes the latest Hollywood, Bollywood, and international films, TV series, live programming, and a broad selection of music genres.",
+          "kws": [
+            "tv series",
+            "music"
+          ]
+        },
+        {
+          "text": "The system now features high-definition touchscreens with intuitive user interfaces, making it easy for passengers to navigate the extensive content library.",
+          "kws": [
+            "content library",
+            "touchscreen"
+          ]
+        },
+        {
+          "text": "Passengers can stay connected during their flight with in-seat power outlets, USB ports, and Wi-Fi available on most flights.",
+          "kws": [
+            "power outlet",
+            "wi-fi",
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts By Sumit Singh Technological Innovations Inflight connectivity Singapore Airlines has been a pioneer in inflight connectivity, launching its inflight internet service in 2005 through Connexion by Boeing.",
+          "kws": [
+            "inflight connectivity",
+            "connectivity",
+            "internet"
+          ]
+        },
+        {
+          "text": "The latest Panasonic eX3 systems introduced in 2012 further improved inflight connectivity, allowing passengers to make phone calls, send text messages, and access the internet for a fee.",
+          "kws": [
+            "inflight connectivity",
+            "connectivity",
+            "internet"
+          ]
+        }
+      ]
     },
     {
       "url": "https://apex.aero/articles/giving-passengers-choice-is-key-to-sias-new-premium-economy-ife-strategy/",
@@ -51341,7 +51403,59 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.34,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "It dominates the back of the modern, feature-rich seat , giving passengers an immersive, cinematic experience.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "The hardware upgrade also includes an overhaul of the airline’s KrisWorld IFE interface, capitalizing on new touchscreen and swipe capabilities to build an intuitive menu.",
+          "kws": [
+            "touchscreen",
+            "ife"
+          ]
+        },
+        {
+          "text": "“[IFE is] specially designed and continually adapted to suit the prevailing tastes and preferences of our customers who come from all over the world,” Ionides says, adding that airline monitors consumer trends and passenger response to content to inform its product decisions.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "“Awards like the Passenger Choice Awards do affirm that we are on the right track.” – Nicholas Ionides, VP Public Affairs, Singapore Airlines “We do track viewership numbers and we use these figures to constantly adapt our in-flight entertainment to what our customers want,” Ionides adds.",
+          "kws": [
+            "in-flight entertainment"
+          ]
+        },
+        {
+          "text": "“We therefore need to ensure that besides providing entertainment value, our in-flight selection of films and movies needs to be evaluated for content such as crude or tasteless humor, excessive graphical violence and controversy relating to race, religion or politics.",
+          "kws": [
+            "movies"
+          ]
+        },
+        {
+          "text": "PREMIUM CONNECTIONS Connectivity complements the airline’s IFE product, increasing the choice of activities onboard.",
+          "kws": [
+            "connectivity",
+            "ife"
+          ]
+        },
+        {
+          "text": "“Singapore Airlines launched in-flight connectivity services in 2012 as part of a $50-million program,” Ionides says.",
+          "kws": [
+            "connectivity"
+          ]
+        },
+        {
+          "text": "On the airline’s six new 777-300ERs, connectivity is provided by Panasonic Avionics.",
+          "kws": [
+            "connectivity"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.flyertalk.com/forum/british-airways-british-airways-club/1926275-new-ife-panasonic-ex3-printerfriendly.html",
@@ -51374,7 +51488,33 @@
       "source_name": "Creator",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "I dont fly much ba nowadays so you people probably already know but finally we have a useable ife, its absolutely lightening, I was shocked.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Seats in j are still crap. stuart_f Aug 20, 2018 3:45 pm Wasn't this introduced on the 747 along with the super hi J configuration several years ago? corporate-wage-slave Aug 20, 2018 3:53 pm Yes, welcome to the world of SuperJ or \"86J\", if you prefer.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "This site is owned, operated, and maintained by MH Sub I, LLC dba Internet Brands.",
+          "kws": [
+            "internet"
+          ]
+        },
+        {
+          "text": "Copyright © 2026 MH Sub I, LLC dba Internet Brands.",
+          "kws": [
+            "internet"
+          ]
+        }
+      ]
     },
     {
       "url": "https://economyclassandbeyond.boardingarea.com/2022/04/12/finnair-selects-panasonic-avionics-for-ife-upgrade/",
@@ -51436,7 +51576,42 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Panasonic ex3 in Business Class The IFE upgrade is a part of the Nordic cabin enhancements being introduced by Finnair across its long-haul fleet.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "When installed with the Premium Economy cabin, new seatback systems will be installed.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "Premium Economy IFE featuring the Panasonic ex3 – Image Finnair/Panasonic Avionics Finnair’s 19 A350-900 aircraft, which already carry eX3, will also see their premium cabins upgraded to the latest version of the system.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "These feature HD screens at each seat, complete with capacitive touch displays and handsets, and USB and laptop charging facilities.",
+          "kws": [
+            "hd screen",
+            "charging",
+            "display"
+          ]
+        },
+        {
+          "text": "As well as providing the IFE system, Panasonic Avionics provide the in-flight connectivity system (which is offered under the Nordic Sky brand).",
+          "kws": [
+            "connectivity",
+            "ife"
+          ]
+        }
+      ]
     },
     {
       "url": "https://simpleflying.com/airline-worlds-best-ife/",
@@ -51511,7 +51686,63 @@
       "sentiment": "positive",
       "sentiment_score": 0.791,
       "ife_system_guess": "StudioCX",
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "The temptation, therefore, is to shift away from inflight entertainment (IFE) systems and expect passengers to create their own fun.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "However, some airlines are resisting this momentum to keep providing leading IFE that ensures passengers have an enjoyable inflight experience.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "The carrier has recently been recognized for its efforts with a first-place in the Skytrax award for The World's Best In-Flight Entertainment 2025.",
+          "kws": [
+            "in-flight entertainment"
+          ]
+        },
+        {
+          "text": "These accolades underscore our unwavering commitment to delivering exceptional service and enhancing the customer experience across every part of their journey.\" What IFE Does Cathay Pacific Offer?",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Newer aircraft, including the carrier's A321neo and select 777s, also have 4K HDR displays and Bluetooth audio.",
+          "kws": [
+            "bluetooth audio",
+            "bluetooth",
+            "display"
+          ]
+        },
+        {
+          "text": "One example is extensive seat controls so that passengers can easily find the most comfortable position and lighting for work, eating, using the IFE, or sleeping.",
+          "kws": [
+            "comfort",
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "In economy class, this includes the quality of meals, seat comfort, and, unsurprisingly, inflight entertainment.",
+          "kws": [
+            "comfort",
+            "seat"
+          ]
+        },
+        {
+          "text": "It gives five stars to The Wing/The Pier's washrooms and showers, choice of beverages, comfort, and access to power and WiFi.",
+          "kws": [
+            "comfort",
+            "wifi"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=s9-9q9RL0mg",
@@ -51641,7 +51872,69 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.421,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "As the airline continues to push the boundaries of what is possible for commercial aviation, its latest in-flight entertainment system has become the centerpiece of the passenger experience.",
+          "kws": [
+            "in-flight entertainment",
+            "entertainment system"
+          ]
+        },
+        {
+          "text": "In-flight entertainment has always been the psychological cornerstone of the Emirates brand, a legacy that began over 30 years ago when the carrier became the first to install personal screens in every seat.",
+          "kws": [
+            "in-flight entertainment",
+            "seat"
+          ]
+        },
+        {
+          "text": "Not Only For First Class Credit: Shutterstock When a passenger first settles into their seat on the new A350, the initial point of contact is not the upholstery or the legroom as expected, but the sheer vibrance of the digital canvas positioned directly in front of them.",
+          "kws": [
+            "legroom",
+            "seat"
+          ]
+        },
+        {
+          "text": "Emirates has moved beyond the standard liquid crystal displays of the past to embrace 4K QLED technology , a hardware choice that brings the same visual depth found in premium home cinema setups to the aircraft cabin.",
+          "kws": [
+            "display",
+            "4k"
+          ]
+        },
+        {
+          "text": "Once paired, a smartphone or tablet can act as a remote control, allowing passengers to navigate the 'ice' system, adjust volume, or even track the flight progress on a 3D moving map without interrupting the movie playing on the main 4K QLED display.",
+          "kws": [
+            "flight progress",
+            "moving map",
+            "display"
+          ]
+        },
+        {
+          "text": "Pairing Connect to the 'OnAir' Wi-Fi and enter the seat pairing code Instant transfer of your curated favorites 4.",
+          "kws": [
+            "wi-fi",
+            "onair",
+            "seat"
+          ]
+        },
+        {
+          "text": "The new Thales hardware introduces dual-Bluetooth connectivity across every cabin, allowing passengers to pair their own high-end wireless headphones to the system simultaneously.",
+          "kws": [
+            "wireless headphones",
+            "connectivity",
+            "bluetooth"
+          ]
+        },
+        {
+          "text": "To support this increased power demand, each seat is equipped with multiple charging options, including high-speed USB-C ports and universal AC outlets.",
+          "kws": [
+            "ac outlet",
+            "charging",
+            "usb-c"
+          ]
+        }
+      ]
     },
     {
       "url": "https://onemileatatime.com/guides/best-inflight-entertainment/",
@@ -51714,7 +52007,72 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.791,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "When it comes to good inflight entertainment, I’d like to think that it’s important to consider seat back and streaming entertainment, as well as inflight Wi-Fi connectivity.",
+          "kws": [
+            "connectivity",
+            "wi-fi",
+            "seat"
+          ]
+        },
+        {
+          "text": "How many movies and shows are there, how easy is the system to use, are the monitors high definition, and are there any other cool features, like bluetooth audio?",
+          "kws": [
+            "bluetooth audio",
+            "bluetooth",
+            "movies"
+          ]
+        },
+        {
+          "text": "I tend to think this is less important if you have seat back entertainment, and that it’s more important if an airline lacks that What makes for good inflight Wi-Fi?",
+          "kws": [
+            "wi-fi",
+            "seat"
+          ]
+        },
+        {
+          "text": "Emirates offers 6,500 different programs, with everything from the latest movies, to complete seasons of TV shows, to live TV, to podcasts, to a tail camera (on its A380s).",
+          "kws": [
+            "tail camera",
+            "tv shows",
+            "tail cam"
+          ]
+        },
+        {
+          "text": "Singapore Airlines has the KrisWorld entertainment system, which offers nearly 2,000 on-demand movies and TV shows, as well as live TV.",
+          "kws": [
+            "entertainment system",
+            "tv shows",
+            "movies"
+          ]
+        },
+        {
+          "text": "Heck, the airline is even retrofitting its narrow body jets with new entertainment systems that include tail cameras, which I love.",
+          "kws": [
+            "entertainment system",
+            "tail camera",
+            "tail cam"
+          ]
+        },
+        {
+          "text": "Good food, comfortable seats and if I have time, 1-2 movies.",
+          "kws": [
+            "comfort",
+            "movies",
+            "seat"
+          ]
+        },
+        {
+          "text": "Whatever Cathay Pacific has lost in its service in recent years, it more than makes up with its spectacular IFE, including the awesome tail camera .",
+          "kws": [
+            "tail camera",
+            "tail cam",
+            "ife"
+          ]
+        }
+      ]
     },
     {
       "url": "https://economyclassandbeyond.boardingarea.com/2024/02/23/air-india-selects-thales-avant-ife-system-for-its-long-haul-fleet/",
@@ -51786,7 +52144,64 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Additionally, Thales will install the AVANT Up IFE System on Air India’s 11 new Airbus and Boeing aircraft with deliveries to commence in 2025.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Thales’ AVANT Up features Optiq , 4K QLED HDR displays for high-quality outputs.",
+          "kws": [
+            "display",
+            "4k"
+          ]
+        },
+        {
+          "text": "The Optiq system features in-screen USB-A and USB-C high-speed charging ports and is the only display with two Bluetooth connections and built-in Wi-Fi.",
+          "kws": [
+            "bluetooth",
+            "charging",
+            "display"
+          ]
+        },
+        {
+          "text": "With Optiq passengers can pair their wireless headphones or other devices to the display while also charging their phones and laptops so they can arrive at their destination recharged and relaxed.",
+          "kws": [
+            "wireless headphones",
+            "charging",
+            "display"
+          ]
+        },
+        {
+          "text": "This is paired with 3D mapping and Thales’ Select User Interface.",
+          "kws": [
+            "3d map"
+          ]
+        },
+        {
+          "text": "Partnering with Thales for its top-of-the-class AVANT Up inflight entertainment systems is a step in the direction of our transformation programme.",
+          "kws": [
+            "entertainment system"
+          ]
+        },
+        {
+          "text": "On larger displays, there is some HD content – but it can be a struggle to have suppliers deliver content at the high resolutions needed to play this – as well as the storage servers on the aircraft to deliver this content.",
+          "kws": [
+            "resolution",
+            "display"
+          ]
+        },
+        {
+          "text": "It’ll be interesting to see how Air India addresses this with their suppliers to deliver HDR and 4K content to the seat – and what its requirements will be.",
+          "kws": [
+            "seat",
+            "4k"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=EpgBfohwI7M",
@@ -52001,7 +52416,73 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.791,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Courtesy of Emirates Planning your next long-haul flight can be overwhelming, especially when looking for the best seats, the most perks, inflight connectivity, and onboard entertainment.",
+          "kws": [
+            "inflight connectivity",
+            "connectivity",
+            "seat"
+          ]
+        },
+        {
+          "text": "With a plethora of entertainment options, including the latest movies, TV shows, music, and games, along with comfortable seating and exceptional customer service, Emirates truly offers an unmatched inflight experience.",
+          "kws": [
+            "tv shows",
+            "comfort",
+            "movies"
+          ]
+        },
+        {
+          "text": "3: Cathay Pacific Winner of the 2023 Skytrax World’s Best Inflight Entertainment, Cathay Pacific offers its long-haul passengers a rich array of movies, TV shows, documentaries, music, podcasts, games, and live content.",
+          "kws": [
+            "tv shows",
+            "podcasts",
+            "movies"
+          ]
+        },
+        {
+          "text": "The airline boasts that its IFE system provides 4K resolution on certain planes, and Bluetooth connectivity allows passengers to enjoy content with their high-quality headphones.",
+          "kws": [
+            "connectivity",
+            "resolution",
+            "bluetooth"
+          ]
+        },
+        {
+          "text": "5: Air Canada Air Canada has significantly improved its IFE system in recent months, adding the likes of Disney+, Apple TV+, Paramount+, and audible content to its already extensive library of movies, TV shows, and podcasts.",
+          "kws": [
+            "tv shows",
+            "podcasts",
+            "movies"
+          ]
+        },
+        {
+          "text": "Virgin Atlantic is a notable mention for its extensive entertainment options, which include a wide selection of movies, TV shows, music, and games.",
+          "kws": [
+            "tv shows",
+            "movies",
+            "games"
+          ]
+        },
+        {
+          "text": "The airline’s IFE system boasts a vast library of movies, TV shows, music, and podcasts, and passengers can also stream content directly to their devices.",
+          "kws": [
+            "tv shows",
+            "podcasts",
+            "movies"
+          ]
+        },
+        {
+          "text": "Courtesy of Delta Singapore Airlines is also worth mentioning for its excellent IFE system, which includes a vast array of entertainment options such as movies, TV shows, and games.",
+          "kws": [
+            "tv shows",
+            "movies",
+            "games"
+          ]
+        }
+      ]
     },
     {
       "url": "https://runwaygirlnetwork.com/2024/02/air-india-thales-avant-up/",
@@ -52057,7 +52538,62 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Press Release: Air India picks Thales AVANT Up IFE for 51 aircraftRunway Girl Press Release: Air India picks Thales AVANT Up IFE for 51 aircraft Runway Girl Network uses cookies.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Air India, India’s leading global airline with the largest international network in the country and the most non-stop routes connecting India with global destinations, has selected Thales’ AVANT Up inflight entertainment (IFE) solution.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Additionally, Thales will install AVANT Up IFE on Air India’s 11 new Airbus and Boeing aircraft with deliveries to commence in 2025.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "AVANT Up offers tremendous possibilities for integrating a wide range of services and applications, such as an interactive 3D map and immersive route-based programming.",
+          "kws": [
+            "3d map"
+          ]
+        },
+        {
+          "text": "Thales’ AVANT Up features Optiq, 4K QLED HDR displays designed to provide the best viewing experience in the air with unrivalled picture quality.",
+          "kws": [
+            "picture quality",
+            "display",
+            "4k"
+          ]
+        },
+        {
+          "text": "Optiq features in-screen USB-A and USB-C high speed charging ports and is the only display with two Bluetooth connections and built-in Wi-Fi.",
+          "kws": [
+            "bluetooth",
+            "charging",
+            "display"
+          ]
+        },
+        {
+          "text": "With Optiq passengers can pair their wireless headphone or other devices to the display while also charging their phones and laptops so they can arrive at their destination recharged and relaxed.",
+          "kws": [
+            "charging",
+            "display"
+          ]
+        },
+        {
+          "text": "Partnering with Thales for its top-of-the-class AVANT Up inflight entertainment systems is a step in the direction of our transformation programme.",
+          "kws": [
+            "entertainment system"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=PPSCgvFTXXI",
@@ -52326,7 +52862,30 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.935,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Emirates was one of the first airlines to introduce seat-back videos for economy-class passengers almost 30 years ago and has led the field ever since and today the system has 6,500 channels making it a clear winner for Best Inflight Entertainment.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "Passengers can also curate their own ice experience before their flight, simply by browsing and pre-selecting movies or TV shows on the Emirates app, which can then be synced to ice the moment they board, maximising the seamless travel experience.",
+          "kws": [
+            "tv shows",
+            "movies"
+          ]
+        },
+        {
+          "text": "Emirates continually updates its inflight content, adding hundreds of movies, TV shows, podcasts, and music channels each month to its extensive entertainment library.",
+          "kws": [
+            "tv shows",
+            "podcasts",
+            "movies"
+          ]
+        }
+      ]
     },
     {
       "url": "https://apex.aero/awards/best-awards/past-winners/",
@@ -52374,7 +52933,8 @@
       "sentiment": "positive",
       "sentiment_score": 0.727,
       "ife_system_guess": "Emirates ICE",
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": []
     },
     {
       "url": "https://runwaygirlnetwork.com/2025/03/new-gui-and-actual-4k-shine-in-cathays-a321neo-panasonic-ife/",
@@ -52431,7 +52991,62 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "New GUI and actual 4K shine in Cathay’s A321neo Panasonic IFE - Runway GirlRunway Girl New GUI and actual 4K shine in Cathay’s A321neo Panasonic IFE - Runway Girl Runway Girl Network uses cookies.",
+          "kws": [
+            "ife",
+            "4k"
+          ]
+        },
+        {
+          "text": "Some nine years after Panasonic Avionics first introduced 4K inflight entertainment touchscreens via the Waterfront concept at CES , the hardware and content pipeline has finally brought 4K aboard an aircraft I’ve flown.",
+          "kws": [
+            "touchscreen",
+            "4k"
+          ]
+        },
+        {
+          "text": "Your author recently experienced his first actual, real-world 4K video on board a Cathay Pacific A321neo this month, in conjunction with Cathay’s launch of 4K HDR content last month (for which, full disclosure, he was a guest of the airline), and the experience was an absolute joy.",
+          "kws": [
+            "4k"
+          ]
+        },
+        {
+          "text": "Content service provider, Anuvu, started providing 4K content to Cathay’s A321neo aircraft in 2021 .",
+          "kws": [
+            "4k"
+          ]
+        },
+        {
+          "text": "It feels like this could use a card sort exercise or some other categorisation work, perhaps separating the lighting and crew call buttons from the IFEC control and status buttons, with consistent button size.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "With an empty seat next to me, I was able to try out the Watch Together function.",
+          "kws": [
+            "watch together",
+            "seat"
+          ]
+        },
+        {
+          "text": "Image: John Walton The content library was overall wide-ranging, with 4K HDR content limited to a fairly small selection of films, most of which are classics like The Godfather , Shawshank Redemption , and The Lord of the Rings , with some praiseworthy Hong Kong classics included as well.",
+          "kws": [
+            "content library",
+            "4k"
+          ]
+        },
+        {
+          "text": "Image: John Walton Cathay executives told RGN during a follow-up interview that the blocker to more 4K content is upstream of the airline, with the content owner, content service provider and IFE system provider not yet working well enough together for a wider library of 4K content.",
+          "kws": [
+            "ife",
+            "4k"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=d3pv5KZqxyU",
@@ -52545,7 +53160,69 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.655,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "The 5 Airlines With The World’s Most Advanced In-Flight Entertainment Systems Close Close By Aaron Spray Published Mar 31, 2026, 6:01 PM EDT Aaron is an aviation enthusiast and world traveler with a deep interest in aerospace history and technology.",
+          "kws": [
+            "in-flight entertainment",
+            "entertainment system"
+          ]
+        },
+        {
+          "text": "5 Turkish Airlines Up to $25 for unlimited internet Credit: Shutterstock As with many leading in-flight entertainment systems, Turkish Airlines offers a large range of movies, series, songs, games, and stuff for kids.",
+          "kws": [
+            "in-flight entertainment",
+            "entertainment system",
+            "internet"
+          ]
+        },
+        {
+          "text": "You will enjoy your flight even more with the best entertaining movies, albums, games, and other new content!",
+          "kws": [
+            "movies",
+            "games"
+          ]
+        },
+        {
+          "text": "In today's world, in-flight WiFi can be considered part of in-flight entertainment.",
+          "kws": [
+            "in-flight entertainment",
+            "wifi"
+          ]
+        },
+        {
+          "text": "Posts 15 By Louis Hardiman 4 Singapore Airlines Up to $15.99 for unlimited internet Credit: Shutterstock Singapore Airlines is frequently ranked the best or second-best airline in the world by Skytrax, and when it comes to in-flight entertainment, it is the fourth best.",
+          "kws": [
+            "in-flight entertainment",
+            "internet"
+          ]
+        },
+        {
+          "text": "It has thousands of movies, TV shows, music albums, games, and more on demand.",
+          "kws": [
+            "tv shows",
+            "movies",
+            "games"
+          ]
+        },
+        {
+          "text": "If the aircraft doesn't have Starlink installed yet, passengers can still purchase WiFi from another internet provider.",
+          "kws": [
+            "internet",
+            "starlink",
+            "wifi"
+          ]
+        },
+        {
+          "text": "It offers around 6,500 different programs with everything from blockbuster movies to the tail camera on its Airbus A380s.",
+          "kws": [
+            "tail camera",
+            "tail cam",
+            "movies"
+          ]
+        }
+      ]
     },
     {
       "url": "https://runwaygirlnetwork.com/2025/01/how-safran-passenger-innovations-drove-weight-out-of-nextgen-ife/",
@@ -52616,7 +53293,64 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "How Safran Passenger Innovations drove weight out of nextgen IFE - Runway GirlRunway Girl How Safran Passenger Innovations drove weight out of nextgen IFE - Runway Girl Runway Girl Network uses cookies.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Safran Passenger Innovations (SPI) has enjoyed an impressive trajectory in embedded inflight entertainment and today is seen as delivering proverbial ‘Cadillac’ IFE systems to airlines around the globe.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "And a joint ideation project between SPI and Lufthansa led to the launch of new docked companion tablets that enable Allegris business class passengers to control their IFE, seat functionality, lighting and thermal environment with the device.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "But SPI is also focused on what it says is a more sustainable approach to embedded IFE.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "And so, when it set about to design its next-generation system, it didn’t just adopt new display and processor technology — 4K miniLED HDR 10+ Liquid Crystal Displays for the former and Snapdragon for the latter — it also worked to slash weight to reduce CO2 emissions.",
+          "kws": [
+            "display",
+            "4k"
+          ]
+        },
+        {
+          "text": "Also driving weight savings is a decision by SPI to tuck a lightweight DC power system into the seat leg to power its RAVE Ultra plus 13.3″ displays in economy class and provide up to 60W of USB charging per passenger.",
+          "kws": [
+            "charging",
+            "display",
+            "seat"
+          ]
+        },
+        {
+          "text": "SPI also developed a product that allows AC power in economy to be selected as an option, explaining thusly: “The solution is deployed by distributing AC power directly to AC outlets located in every seat from a small number of power distribution points located throughout the cabin.",
+          "kws": [
+            "ac outlet",
+            "seat"
+          ]
+        },
+        {
+          "text": "For example, below each 13.3″ display sits what Asmar calls “the little pill at the front” which features the USB ports and the audio socket, presently available in four combos (including USB-A and/or USB-C).",
+          "kws": [
+            "display",
+            "usb-c",
+            "usb"
+          ]
+        }
+      ]
     },
     {
       "url": "https://runwaygirlnetwork.com/2026/02/connected-seatback-at-the-fore-as-rave-aerospace-enters-new-era/",
@@ -52684,7 +53418,39 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.318,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Connected seatback at the fore as RAVE Aerospace enters new era - Runway GirlRunway Girl Connected seatback at the fore as RAVE Aerospace enters new era - Runway Girl Runway Girl Network uses cookies.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "For nearly two decades, RAVE has been known as a ‘Reliable, Affordable, and Very Easy’ embedded IFE solution.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "The firm says it is focused on delivering lightweight, energy‑efficient designs that drive “the lowest total cost of ownership,” and a broader digital platform that connects IFE, IFC, commerce, and operations.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "“We believe the challenger advantage for RAVE Aerospace is delivering the smartest, most connected seatback experience in the industry.” Deep PED-seatback cohesion will support seamless personalization, says RAVE Aerospace.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "RAVE Aerospace holds a meaningful and expanding share of the embedded IFE market.",
+          "kws": [
+            "ife"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.flyertalk.com/forum/british-airways-british-airways-club/1926275-new-ife-panasonic-ex3.html",
@@ -52729,7 +53495,21 @@
       "source_name": "Creator",
       "sentiment": "positive",
       "sentiment_score": 0.666,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "I dont fly much ba nowadays so you people probably already know but finally we have a useable ife, its absolutely lightening, I was shocked.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Copyright © 2026 MH Sub I, LLC dba Internet Brands.",
+          "kws": [
+            "internet"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=KugVp6amgzE",
@@ -57950,7 +58730,66 @@
       "sentiment": "positive",
       "sentiment_score": 0.961,
       "ife_system_guess": "Emirates ICE",
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Airlines Soar with Embedded IFE: The Key to Profit and Passenger Satisfaction - APEX > News > Thought Leadership & Brand Pictured: United Airlines’ Economy Plus seating, featuring embedded in-flight entertainment.",
+          "kws": [
+            "in-flight entertainment",
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "Photo via United Airlines In a fiercely competitive industry, airlines investing in embedded in-flight entertainment (IFE) systems dominate, capturing the lion’s share of profits and achieving top customer satisfaction and Net Promoter Scores.",
+          "kws": [
+            "in-flight entertainment",
+            "ife"
+          ]
+        },
+        {
+          "text": "Airlines like Aeromexico, Air Canada, Delta, Emirates, JetBlue, Qatar, Singapore, United, and many others prioritize passenger experience using advanced IFE systems, leading to increased revenues and customer loyalty.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "United Airlines’ shift regarding seatback IFE in the past few years exemplifies this strategy’s effectiveness.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "As United CEO Scott Kirby remarked last week , “[In 2016,] I was president of American, and we were putting seatback entertainment systems on every one of our airplanes.",
+          "kws": [
+            "entertainment system",
+            "seat"
+          ]
+        },
+        {
+          "text": "Celebrating over 30 years of IFE leadership, Emirates’ SVP Retail, IFE & Connectivity Patrick Brannelly echoed similar sentiments on the importance of IFE to passenger satisfaction: “When Emirates introduced personal screens on every seatback in 1992, it was considered a massive industry innovation.",
+          "kws": [
+            "connectivity",
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "By the end of this decade, leading low-cost carriers (LCC) and ultra-low-cost carriers (ULCC) will likely incorporate embedded IFE screens nearly as thin and light as seatback plastic.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "A shot of the screen that allows passengers to pair their personal devices with their seatback IFE screen.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        }
+      ]
     },
     {
       "url": "https://simpleflying.com/tag/ife/",
@@ -58021,7 +58860,65 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.836,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "IFE | Simple Flying Close Close IFE Follow Followed latest Airlines Are Now Selling Business Class Seats Like Smartphones: Inches & 4K Screens Replacing Soft Service business class Premium cabins now compete on hard specs like 32‑inch 4K screens, Bluetooth audio, and next‑gen IFE platforms.",
+          "kws": [
+            "bluetooth audio",
+            "bluetooth",
+            "4k screen"
+          ]
+        },
+        {
+          "text": "Posts By Antonio Di Trapani “Consistency Is Important”: American Airlines Hints At Imminent Return Of Seatback Screens American Airlines The airline could reverse its 2017 decision which was aimed at reducing aircraft weight.",
+          "kws": [
+            "seatback screen",
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts 6 By Aaron Bailey United Airlines To Complete Starlink WiFi Installations Across Entire Fleet By 2027 United Airlines About a quarter of the carrier’s daily departures already feature the fast and free internet service.",
+          "kws": [
+            "internet",
+            "starlink",
+            "wifi"
+          ]
+        },
+        {
+          "text": "Posts 1 By Aaron Bailey This Airline Has The World’s Best Inflight Entertainment In 2025 Cathay Pacific Cathay Pacific has been recognized by Skytrax for having the world's best IFE.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Posts 4 By Tom Boon Why Airlines Don’t Want To Spend On Seatback Screens Anymore Airlines plan to remove seatback screens to save installation and maintenance costs as well as passenger preference for their own personal devices.",
+          "kws": [
+            "seatback screen",
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts 9 By Patricia Green Spotify Just Signed A Major Inflight Content Deal With This US Airline United Airlines This is the first time Spotify has offered audiobooks and video podcasts onboard an airline.",
+          "kws": [
+            "podcasts"
+          ]
+        },
+        {
+          "text": "Posts 3 By Vyte Klisauskaite From IFE To Power Ports: How Much Electricity The Boeing 777-300ER Uses Inflight 777-300ER A variety of cabin systems drive power requirements onboard transport aircraft.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Hendry 1:24 Delta Air Lines Introduces Sync Seatback Across More Aircraft In 1st Phase Of Rollout Delta Air Lines Atlanta-based Delta Air Lines first unveiled its new innovative inflight entertainment (IFE) and connectivity system, Delta Sync, last year.",
+          "kws": [
+            "connectivity",
+            "seat",
+            "ife"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=oxpDLNgxW5w",
@@ -58290,7 +59187,59 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "While debuting on the A321LR (A320 family), both seating solutions have been designed for long-haul operations.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "In the back of the aircraft, the Elemento seat makes an appearance, which is designed for comfort – but also for weight.",
+          "kws": [
+            "comfort",
+            "seat"
+          ]
+        },
+        {
+          "text": "This deployment marks the First-ever integration into a seating product.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "The Comoda-Materia Pack seat is equipped with 16-inch Astrova monitors, while Elemento features 13.3-inch Astrova monitor s.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "This demonstrates the effective use of lightweight, flexible Astrova OLED screens to improve the passenger experience while meeting challenging design and certification requirements.",
+          "kws": [
+            "oled"
+          ]
+        },
+        {
+          "text": "The cooperation with Panasonic began in July 2023, and within 12 months, the seats with integrated IFE were successfully certified in a short lead time for both Comoda – Materia Pack and Elemento.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "This partnership marks a significant achievement for Geven, showcasing our commitment to innovation and passenger comfort.",
+          "kws": [
+            "comfort"
+          ]
+        },
+        {
+          "text": "But the result for the flying passenger should be a comfortable experience, along with some of the best screens in the sky.",
+          "kws": [
+            "comfort"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=UKhwU_Q-FgU",
@@ -58564,7 +59513,28 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.421,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Two EVA Air Boeing 777-300ERs at the Everett Delivery Center – Photo: Boeing Representatives from EVA Air , along with Taiwanese media, recently came to Seattle for a special double delivery of a pair of Boeing 777-300ERs .",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "They were the first ones to offer Panasonic’s new eX3 in-flight entertainment (IFE) system and Global Communication Suite (GCS).",
+          "kws": [
+            "in-flight entertainment",
+            "ife"
+          ]
+        },
+        {
+          "text": "We are going to make flying more fun and more comfortable than ever for our passengers,’ said EVA Air Chairman K.W.",
+          "kws": [
+            "comfort"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=3DXHK7tatUo",
@@ -99143,7 +100113,66 @@
       "source_name": "Press",
       "sentiment": "positive",
       "sentiment_score": 0.931,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Posts By Antonio Di Trapani Mounting Pressure: Why Seatback Screens Could Make A Comeback At American Airlines American Airlines Months after removing seatback screens from narrowbody planes, American Airlines is looking to potentially bring them back after all.",
+          "kws": [
+            "seatback screen",
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts 16 By Jasper Yu-Dawidowicz The 5 Airlines With The World’s Most Advanced In-Flight Entertainment Systems A look at why some airlines are considered to have the best in-flight entertainment and how they are rushing to roll out in-flight internet access.",
+          "kws": [
+            "in-flight entertainment",
+            "entertainment system",
+            "internet"
+          ]
+        },
+        {
+          "text": "Posts 1 By Aaron Spray United Airlines To Complete Starlink WiFi Installations Across Entire Fleet By 2027 United Airlines About a quarter of the carrier’s daily departures already feature the fast and free internet service.",
+          "kws": [
+            "internet",
+            "starlink",
+            "wifi"
+          ]
+        },
+        {
+          "text": "Posts By Channing Reid More Premium: American Airlines’ 1st Retrofitted Airbus A319 Enters Service This Weekend American Airlines While the aircraft has an expanded first class cabin, it is no longer equipped with seatback entertainment.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts 1 By Channing Reid No More Seatback Screens: American Airlines Begins Cabin Retrofit On 1st Legacy Airbus A319 American Airlines It comes as at least 40 aircraft are projected to be retired by the end of next year.",
+          "kws": [
+            "seatback screen",
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts 4 By Aaron Bailey How In-Flight Moving Maps Work flight tracking In-flight moving maps provide a real-time window into flight progress, combining navigation data with entertainment to keep travelers in the loop.",
+          "kws": [
+            "flight progress",
+            "moving map"
+          ]
+        },
+        {
+          "text": "Hendry Are Movies About Plane Crashes Allowed On Inflight Entertainment Systems?",
+          "kws": [
+            "entertainment system",
+            "movies"
+          ]
+        },
+        {
+          "text": "Posts 4 By Sruti Kafle American Airlines Plans 1st Batch Of Airbus A319 Cabin Retrofits For Spring 2025 American Airlines The aircraft will likely be stripped of their seatback screens.",
+          "kws": [
+            "seatback screen",
+            "seat"
+          ]
+        }
+      ]
     },
     {
       "url": "https://runwaygirlnetwork.com/2026/07/rave-sets-the-scene-for-deeply-immersive-inflight-experiences/",
@@ -99191,7 +100220,65 @@
       "source_name": "Press",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": [
+        {
+          "text": "Executives at seatback IFE specialist RAVE Aerospace have for many years talked to airlines about bringing more content, higher resolutions and larger screens to the aircraft cabin.",
+          "kws": [
+            "resolution",
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "The Brea, California-based firm’s portfolio certainly reflects that evolution; its 4K miniLED HDR 10+ Liquid Crystal Displays can now be sized up to 32 inches, and its latest embedded IFE systems feature massive cloud networked storage and powerful processing.",
+          "kws": [
+            "display",
+            "ife",
+            "4k"
+          ]
+        },
+        {
+          "text": "We think they can transport them someplace virtually,” Louis Poupard, RAVE’s staff product manager said at the Aircraft Interiors Expo in Hamburg, where, together with seatmaker Safran Seats, RAVE introduced the premium suite demonstrator Origin.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "Made of micro-LED bendable panels, the Immersive Display Concept from RAVE that is at the core of Origin is complemented by advanced seating technology and Euphony headset-free audio from Safran Seats.",
+          "kws": [
+            "display",
+            "seat"
+          ]
+        },
+        {
+          "text": "RAVE and Safran Seats are not alone in exploring how a deeply immersive IFE and engagement experience — as achieved with vast screen real estate and compelling content in a premium suite — can transform the passenger experience.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "Origin’s reveal comes two years after Collins Aerospace and Panasonic Avionics at AIX 2024 unveiled MAYA , their next-gen business class seat concept featuring a 45” curved ultra-wide OLED screen from Panasonic.",
+          "kws": [
+            "oled",
+            "seat"
+          ]
+        },
+        {
+          "text": "In terms of screen footprint, RAVE used the equivalent of 17.5ft in the semi-enclosed Safran Seats suite — including real estate above the passenger’s head — to transport attendees to another time or place.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "By enabling passengers to escape from reality beyond the aircraft, airlines can create “sticky, really cohesive experiences,” said the RAVE executive, confirming to RGN that the firm has “already filed a few patents” around this IFE/seat integration project.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        }
+      ]
     },
     {
       "url": "https://apex.aero/ifsa-apex-award-recipients/",
@@ -99228,7 +100315,8 @@
       "sentiment": "positive",
       "sentiment_score": 0.542,
       "ife_system_guess": "Panasonic eX3",
-      "title_lang": "en"
+      "title_lang": "en",
+      "article_quotes": []
     },
     {
       "url": "https://www.youtube.com/watch?v=iCQF8LT_31g",
@@ -105498,7 +106586,66 @@
       "source_tier": 1,
       "source_name": "Press",
       "sentiment": "positive",
-      "sentiment_score": 0.44
+      "sentiment_score": 0.44,
+      "article_quotes": [
+        {
+          "text": "AZAL reveals interior of new A321neo, uses IFE as differentiator - Runway GirlRunway Girl AZAL reveals interior of new A321neo, uses IFE as differentiator - Runway Girl Runway Girl Network uses cookies.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Based on the popular Comoda Materia Pack short-haul business class platform from Italian seatmaker Geven, the 12 recliners on AZAL’s A321neo offer generous legroom, a legrest and a cocktail table on the center console.",
+          "kws": [
+            "legroom",
+            "recline",
+            "seat"
+          ]
+        },
+        {
+          "text": "Each business class seat also features a 4K OLED HDR10+ IFE screen from Panasonic Avionics’ next-gen Astrova line.",
+          "kws": [
+            "4k oled",
+            "oled",
+            "seat"
+          ]
+        },
+        {
+          "text": "But AZAL’s business class seats on the A321neo appear to represent a new seat/IFE integration project for the two suppliers, as Comoda is traditionally offered with screen sizes of up to roughly 16″.",
+          "kws": [
+            "seat",
+            "ife"
+          ]
+        },
+        {
+          "text": "Panasonic’s cloud-based Modular Interactive tool, which enables the airline to customize the IFE experience, is also being deployed on AZAL jets.",
+          "kws": [
+            "ife"
+          ]
+        },
+        {
+          "text": "Image: Panasonic Avionics Universal power, fast-charging USB-C outlets, complimentary Viasat-powered inflight connectivity and wireless IFE round out the offering in business class on AZAL’s first A321neo.",
+          "kws": [
+            "inflight connectivity",
+            "connectivity",
+            "charging"
+          ]
+        },
+        {
+          "text": "Down back, the economy class cabin features 179 slimline seats.",
+          "kws": [
+            "seat"
+          ]
+        },
+        {
+          "text": "AZAL is not offering seatback IFE in economy, but passengers can keep their devices charged with Astronics’ EMPOWER USB outlet in the seatback, and avail of free wireless IFE or paid access to the Viasat IFC.",
+          "kws": [
+            "seat",
+            "usb",
+            "ife"
+          ]
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=5ZdvcjZTQkU",
