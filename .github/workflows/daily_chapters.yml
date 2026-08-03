@@ -1,0 +1,40 @@
+name: Daily Chapter Gather
+
+on:
+  schedule:
+    - cron: '30 13 * * *'   # 13:30 UTC = 6:30 AM Pacific, every morning
+  workflow_dispatch:         # allow manual runs from the Actions tab
+
+jobs:
+  chapters:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Gather chapters from video descriptions
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python gather_chapters.py
+
+      - name: Save updated cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add ife_cache.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: daily chapter gather"
+            git push
+          fi
