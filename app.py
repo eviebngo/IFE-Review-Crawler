@@ -183,6 +183,8 @@ def recent_reviews():
                 "transcript_available": r.get("transcript_available"),
                 "transcript_excerpt": (r.get("transcript_excerpt") or "")[:160],
                 "chapters": [{"ife": True}] if any(c.get("ife") for c in (r.get("chapters") or [])) else [],
+                "photos": (r.get("photos") or [])[:1],
+                "internal_author": r.get("internal_author"),
             })
         rows.sort(key=lambda x: x["published_at"], reverse=True)
         return jsonify({"status": "success", "days": days, "total": len(rows), "rows": rows})
@@ -1381,6 +1383,46 @@ def import_forms():
         if new:
             data_manager.save_cache()
         return jsonify({"status": "success", "added": len(new), "skipped": len(recs) - len(new), "mapping": mapping_names})
+    except Exception as e:
+        return jsonify({"status": "error", "error": str(e)}), 500
+
+
+# ── Photo attachments (saved under static/uploads, referenced on the review) ──
+
+UPLOADS_DIR = Path(__file__).parent / "static" / "uploads"
+ALLOWED_PHOTO_EXT = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
+MAX_PHOTO_BYTES = 10 * 1024 * 1024
+
+
+@app.route("/api/review-photos", methods=["POST"])
+def add_review_photos():
+    """Attach uploaded photos to a review (internal or crawled)."""
+    try:
+        import uuid
+        url = (request.form.get("url") or "").strip()
+        files = request.files.getlist("photos")
+        if not url or not files:
+            return jsonify({"status": "error", "error": "url and photos required"}), 400
+        data_manager.reload_from_disk()
+        rev = next((r for r in data_manager.data.get("reviews", []) if r.get("url") == url), None)
+        if not rev:
+            return jsonify({"status": "error", "error": "review not found"}), 404
+        UPLOADS_DIR.mkdir(parents=True, exist_ok=True)
+        saved = []
+        for f in files[:10]:
+            ext = Path(f.filename or "").suffix.lower()
+            if ext not in ALLOWED_PHOTO_EXT:
+                continue
+            blob = f.read()
+            if not blob or len(blob) > MAX_PHOTO_BYTES:
+                continue
+            name = uuid.uuid4().hex[:12] + ext
+            (UPLOADS_DIR / name).write_bytes(blob)
+            saved.append("/static/uploads/" + name)
+        if saved:
+            rev.setdefault("photos", []).extend(saved)
+            data_manager.save_cache()
+        return jsonify({"status": "success", "added": len(saved), "photos": rev.get("photos", [])})
     except Exception as e:
         return jsonify({"status": "error", "error": str(e)}), 500
 

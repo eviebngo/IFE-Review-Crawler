@@ -16,3 +16,4 @@ crawl_log.txt
 backfill_transcripts_log.txt
 backfill_transcripts_err.txt
 nightly_transcripts_log.txt
+compliance_sample_report.html

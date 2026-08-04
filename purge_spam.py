@@ -80,6 +80,19 @@ def _is_spam(title):
     return "#shorts" in tl or "#short " in tl or "| shorts" in tl
 
 
+# Hotel/resort/land-lodging content with no aviation context at all
+_HOTEL_RE = re.compile(r'\bhotels?\b|\bresorts?\b|\bairbnb\b|\bvillas?\b|\bhostels?\b', re.I)
+_AVIATION_RE = re.compile(
+    r'flight|airline|airways|air lines|business class|first class|economy|premium economy'
+    r'|boeing|airbus|\ba3\d{2}\b|\b7\d7\b|dreamliner|lounge|airport|\bife\b|inflight|in-flight',
+    re.I,
+)
+
+
+def _is_offtopic(title):
+    return bool(_HOTEL_RE.search(title)) and not _AVIATION_RE.search(title)
+
+
 def _press_has_ife_content(r):
     """Return True if press article actually covers IFE topics."""
     combined = " ".join([
@@ -98,11 +111,15 @@ kept, removed = [], []
 
 for r in data["reviews"]:
     title = r.get("title", "")
+    if r.get("media_type") == "internal":
+        kept.append(r)          # team-entered reviews are never auto-purged
+        continue
     is_press = r.get("source_tier") == 1
 
     bad = (
         _is_spam(title)
         or _JUNK_RE.search(title)
+        or _is_offtopic(title)
         or any(s.lower() in title.lower() for s in BAD_TITLE_SUBSTRINGS)
         or (is_press and not _press_has_ife_content(r))
     )

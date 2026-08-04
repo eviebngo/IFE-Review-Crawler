@@ -13,6 +13,10 @@ try:
 except ImportError:
     TRANSCRIPTS_AVAILABLE = False
 
+# Chapters are parsed from video descriptions at crawl time (same parser the
+# daily cloud sweep uses, so tagging is identical).
+from gather_chapters import parse_chapters
+
 
 # ── Source reputation tiers ───────────────────────────────────────────────────
 # Tier 1: established aviation / travel trade press
@@ -79,13 +83,24 @@ def is_official_promo(title: str, channel_title: str = "") -> bool:
 
 
 # ── IFE keyword gate ──────────────────────────────────────────────────────────
+# Hotel/resort/land-lodging titles with zero aviation context are not IFE content
+_HOTEL_TITLE_RE = re.compile(r'\bhotels?\b|\bresorts?\b|\bairbnb\b|\bvillas?\b|\bhostels?\b', re.I)
+_AVIATION_CONTEXT_RE = re.compile(
+    r'flight|airline|airways|air lines|business class|first class|economy|premium economy'
+    r'|boeing|airbus|\ba3\d{2}\b|\b7\d7\b|dreamliner|lounge|airport|\bife\b|inflight|in-flight',
+    re.I,
+)
+
+
 def _is_spam_video(title: str, duration_iso: str = "") -> bool:
-    """Return True for Shorts, viral spam, or non-IFE hashtag floods."""
+    """Return True for Shorts, viral spam, hotel/resort junk, or hashtag floods."""
     hashtags = re.findall(r'#\w+', title)
     if len(hashtags) >= 4:
         return True
     tl = title.lower()
     if "#shorts" in tl or "#short " in tl or "| shorts" in tl:
+        return True
+    if _HOTEL_TITLE_RE.search(title) and not _AVIATION_CONTEXT_RE.search(title):
         return True
     # ISO 8601 duration: PT23S = 23s, PT1M = 60s — reject under 90 seconds
     if duration_iso:
@@ -1055,6 +1070,7 @@ class IFECrawler:
             "ife_system":           detected,
             "ife_system_inferred":  False,
             "ife_system_guess":     guess,
+            "chapters":             parse_chapters(description),
             "media_type":           "video",
             "airlines_mentioned":   airlines_m,
             "aircraft_mentioned":   aircraft_m,
@@ -1138,6 +1154,8 @@ class IFECrawler:
 
             if not self._has_ife_keyword(title) and not self._has_ife_keyword(description):
                 return None
+            if _is_spam_video(title):
+                return None
 
             combined = (title + " " + description).lower()
             year = self._year_from_text(combined) or 2025
@@ -1161,6 +1179,7 @@ class IFECrawler:
                 "ife_system":           detected,
                 "ife_system_inferred":  False,
                 "ife_system_guess":     guess,
+                "chapters":             parse_chapters(description),
                 "media_type":           "video",
                 "airlines_mentioned":   airlines_m,
                 "aircraft_mentioned":   aircraft_m,
