@@ -231,7 +231,33 @@ def main():
     whisper_model = load_whisper_model()
     yt_ok = whisper_ok = skipped = blocked = failed = 0
     to_remove = []   # private / unavailable video URLs
+    processed = set()  # urls whose transcript fields we set this run
     whisper_blocked = False
+
+    def merge_save():
+        """Save by merging OUR transcript updates into the CURRENT cache file,
+        so reviews/tags added by the dashboard while we grind aren't clobbered
+        by a whole-file dump of our stale in-memory copy."""
+        try:
+            with open("ife_cache.json", encoding="utf-8") as f:
+                fresh = json.load(f)
+        except (ValueError, OSError):
+            fresh = data
+        if fresh is not data:
+            by_url = {fr.get("url"): fr for fr in fresh.get("reviews", [])}
+            for rr in data.get("reviews", []):
+                u = rr.get("url")
+                if u in processed and u in by_url:
+                    tgt = by_url[u]
+                    for k in ("transcript_available", "transcript_excerpt", "captions",
+                              "transcript_full", "transcript_source"):
+                        if k in rr:
+                            tgt[k] = rr[k]
+            if to_remove:
+                dead = set(to_remove)
+                fresh["reviews"] = [fr for fr in fresh["reviews"] if fr.get("url") not in dead]
+        with open("ife_cache.json", "w", encoding="utf-8") as f:
+            json.dump(fresh, f, indent=2, ensure_ascii=False)
 
     # Optional wall-clock budget (minutes). CI kills jobs at 6 h and the commit
     # step only runs after this script exits — stop early so progress is saved.
@@ -252,6 +278,7 @@ def main():
             r["transcript_excerpt"] = excerpt
             r["captions"] = caps
             r["transcript_full"] = full
+            processed.add(r["url"])
             yt_ok += 1
             print(f"[{idx}/{len(targets)}] YT-OK    {vid_id}")
 
@@ -271,6 +298,7 @@ def main():
                 r["captions"] = caps
                 r["transcript_full"] = full
                 r["transcript_source"] = "whisper"
+                processed.add(r["url"])
                 whisper_ok += 1
                 print(f"[{idx}/{len(targets)}] WH-OK    {vid_id}  ({len(caps)} caps)")
             elif status == _WHISPER_SKIP:
@@ -286,20 +314,14 @@ def main():
                 print(f"[{idx}/{len(targets)}] FAIL     {vid_id}  ({detail or 'unknown reason'})")
 
         if idx % 25 == 0:
-            with open("ife_cache.json", "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2, ensure_ascii=False)
+            merge_save()
             print(f"  -- checkpoint: YT={yt_ok} Whisper={whisper_ok} removed={skipped} fail={failed} --")
 
         time.sleep(0.5)
 
-    # Purge private/unavailable videos from the cache
     if to_remove:
-        before = len(data["reviews"])
-        data["reviews"] = [r for r in data["reviews"] if r.get("url") not in set(to_remove)]
-        print(f"\nPurged {before - len(data['reviews'])} private/unavailable videos.")
-
-    with open("ife_cache.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        print(f"\nPurging {len(set(to_remove))} private/unavailable videos.")
+    merge_save()
 
     print(f"\nDone.")
     print(f"  YouTube captions:  {yt_ok}")

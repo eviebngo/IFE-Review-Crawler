@@ -21,7 +21,8 @@ try:
     load_dotenv(Path(__file__).parent / ".env")
 except ImportError:
     pass
-from ife_crawler import IFECrawler, AIRLINE_IFE_LOOKUP, IFE_FEATURE_KEYWORDS
+from ife_crawler import (IFECrawler, AIRLINE_IFE_LOOKUP, IFE_FEATURE_KEYWORDS,
+                         AIRLINE_KEYWORDS, AIRCRAFT_KEYWORDS)
 from ife_data_manager import IFEDataManager
 
 app = Flask(__name__)
@@ -1173,6 +1174,215 @@ def add_note():
         notes.setdefault(url, []).append(entry)
         NOTES_FILE.write_text(json.dumps(notes, indent=2, ensure_ascii=False), encoding="utf-8")
     return jsonify({"status": "success", "notes": notes[url]})
+
+
+# ── Internal reviews: manual entry + MS Forms Excel import ─────────────────────
+
+def _parse_review_date(v):
+    """Best-effort date → (year, iso_string). Accepts datetime, ISO, US/EU forms."""
+    if isinstance(v, datetime):
+        return v.year, v.strftime("%Y-%m-%dT%H:%M:%SZ")
+    s = str(v or "").strip()
+    if not s:
+        return None, None
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%d/%m/%Y", "%m/%d/%y", "%Y/%m/%d", "%B %Y", "%b %Y", "%Y"):
+        try:
+            dt = datetime.strptime(s[:19].split("T")[0] if "T" in s else s, fmt)
+            return dt.year, dt.strftime("%Y-%m-%dT00:00:00Z")
+        except ValueError:
+            continue
+    try:
+        dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
+        return dt.year, dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+    except ValueError:
+        return None, None
+
+
+def _make_internal_review(title="", text="", airline="", aircraft="", system="",
+                          rating=None, author="", date_val=None):
+    """Build a review record from team input so it flows through the same
+    dashboard as crawled reviews. URL is a stable hash so re-imports dedupe."""
+    import hashlib
+    text = (text or "").strip()
+    author = (author or "").strip()
+    airline = (airline or "").strip()
+    aircraft = (aircraft or "").strip()
+    title = (title or "").strip() or ("Internal review — " + (airline or "IFE") + (" " + aircraft if aircraft else ""))
+    uid = hashlib.sha1((author + "|" + title + "|" + text[:100]).encode("utf-8", "ignore")).hexdigest()[:16]
+
+    low = (title + " " + text).lower()
+    feats = {f: True for f, kws in IFE_FEATURE_KEYWORDS.items() if any(kw in low for kw in kws)}
+    airlines = ([{"keyword": airline.lower(), "mentions": 1}] if airline else [])
+    for kw in AIRLINE_KEYWORDS:
+        if kw in low and all(a["keyword"] != kw for a in airlines):
+            airlines.append({"keyword": kw, "mentions": low.count(kw)})
+    aircraft_m = ([{"keyword": aircraft.lower(), "mentions": 1}] if aircraft else [])
+    for kw in AIRCRAFT_KEYWORDS:
+        if kw in low and all(a["keyword"] != kw for a in aircraft_m):
+            aircraft_m.append({"keyword": kw, "mentions": low.count(kw)})
+
+    try:
+        rating = int(rating) if rating not in (None, "") else None
+        rating = max(1, min(5, rating)) if rating else None
+    except (ValueError, TypeError):
+        rating = None
+    sentiment = "neutral"
+    if rating:
+        sentiment = "positive" if rating >= 4 else ("negative" if rating <= 2 else "neutral")
+
+    year, published = _parse_review_date(date_val)
+    if not year:
+        now = datetime.now()
+        year, published = now.year, now.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    return {
+        "url": f"internal://{uid}",
+        "title": title[:150],
+        "year": year,
+        "published_at": published,
+        "channel_title": author or "Team member",
+        "view_count": 0, "like_count": 0,
+        "ife_system": (system or "").strip() or None,
+        "ife_system_manual": bool((system or "").strip()),
+        "ife_system_inferred": False,
+        "media_type": "internal",
+        "airlines_mentioned": airlines[:5],
+        "aircraft_mentioned": aircraft_m[:5],
+        "ife_features": feats,
+        "ife_specs": {},
+        "transcript_available": False,
+        "transcript_excerpt": text[:300],
+        "internal_text": text,
+        "internal_rating": rating,
+        "internal_author": author,
+        "captions": [], "chapters": [],
+        "source_tier": 1, "source_name": "Internal",
+        "sentiment": sentiment,
+    }
+
+
+@app.route("/api/internal-review", methods=["POST"])
+def add_internal_review():
+    """Manual entry of a team member's own IFE review."""
+    try:
+        b = request.get_json() or {}
+        text = (b.get("text") or "").strip()
+        if len(text) < 10:
+            return jsonify({"status": "error", "error": "Please write at least a sentence about the IFE."}), 400
+        rec = _make_internal_review(b.get("title"), text, b.get("airline"), b.get("aircraft"),
+                                    b.get("system"), b.get("rating"), b.get("author"), b.get("date"))
+        data_manager.reload_from_disk()
+        if any(r.get("url") == rec["url"] for r in data_manager.data.get("reviews", [])):
+            return jsonify({"status": "error", "error": "This review was already added."}), 409
+        data_manager.data["reviews"].append(rec)
+        data_manager.save_cache()
+        return jsonify({"status": "success", "review": rec})
+    except Exception as e:
+        return jsonify({"status": "error", "error": str(e)}), 500
+
+
+def _map_forms_headers(headers):
+    """Heuristically map MS Forms export columns to review fields."""
+    m = {}
+    for i, h in enumerate(headers):
+        hl = str(h or "").strip().lower()
+        if not hl:
+            continue
+        def put(key):
+            m.setdefault(key, i)
+        if "airline" in hl:
+            put("airline")
+        elif "system" in hl:
+            # before the aircraft rule: "which IFE system did the aircraft have"
+            put("system")
+        elif "aircraft" in hl or "plane" in hl:
+            put("aircraft")
+        elif "rating" in hl or "rate" in hl or "score" in hl or "stars" in hl:
+            put("rating")
+        elif "email" in hl:
+            put("email")
+        elif hl == "name" or "your name" in hl:
+            put("author")
+        elif "completion time" in hl:
+            put("completion")
+        elif "date" in hl and "start" not in hl:
+            put("date")
+        elif "title" in hl:
+            put("title")
+        elif any(k in hl for k in ("review", "comment", "feedback", "experience",
+                                   "thoughts", "describe", "opinion", "notes")):
+            put("text")
+    return m
+
+
+@app.route("/api/import-forms", methods=["POST"])
+def import_forms():
+    """Import an MS Forms .xlsx export. Without commit=1 returns a mapped
+    preview; with commit=1 appends the new (deduped) reviews."""
+    try:
+        f = request.files.get("file")
+        if not f:
+            return jsonify({"status": "error", "error": "no file uploaded"}), 400
+        from openpyxl import load_workbook
+        wb = load_workbook(f, read_only=True, data_only=True)
+        ws = wb.active
+        rows = [r for r in ws.iter_rows(values_only=True)]
+        if len(rows) < 2:
+            return jsonify({"status": "error", "error": "the sheet has no data rows"}), 400
+        headers = list(rows[0])
+        m = _map_forms_headers(headers)
+        if "text" not in m:
+            # fall back to the unmapped column with the longest average text
+            used = set(m.values())
+            best, best_len = None, 0
+            for i in range(len(headers)):
+                if i in used:
+                    continue
+                vals = [str(r[i]) for r in rows[1:] if i < len(r) and r[i]]
+                avg = sum(len(v) for v in vals) / len(vals) if vals else 0
+                if avg > best_len:
+                    best, best_len = i, avg
+            if best is None or best_len < 20:
+                return jsonify({"status": "error", "error": "could not find a review-text column"}), 400
+            m["text"] = best
+
+        def cell(row, key):
+            i = m.get(key)
+            return row[i] if i is not None and i < len(row) else None
+
+        recs = []
+        for row in rows[1:]:
+            text = str(cell(row, "text") or "").strip()
+            if len(text) < 10:
+                continue
+            recs.append(_make_internal_review(
+                title=str(cell(row, "title") or ""),
+                text=text,
+                airline=str(cell(row, "airline") or ""),
+                aircraft=str(cell(row, "aircraft") or ""),
+                system=str(cell(row, "system") or ""),
+                rating=cell(row, "rating"),
+                author=str(cell(row, "author") or "").strip() or str(cell(row, "email") or "").split("@")[0],
+                date_val=cell(row, "date") or cell(row, "completion"),
+            ))
+
+        mapping_names = {k: str(headers[i]) for k, i in m.items()}
+        if request.args.get("commit") != "1":
+            prev = [{"title": r["title"], "airline": (r["airlines_mentioned"][:1] or [{}])[0].get("keyword", ""),
+                     "system": r["ife_system"] or "", "author": r["internal_author"],
+                     "year": r["year"], "rating": r["internal_rating"],
+                     "text": r["internal_text"][:120]} for r in recs[:8]]
+            return jsonify({"status": "success", "preview": prev, "total": len(recs), "mapping": mapping_names})
+
+        data_manager.reload_from_disk()
+        have = {r.get("url") for r in data_manager.data.get("reviews", [])}
+        new = [r for r in recs if r["url"] not in have]
+        data_manager.data["reviews"].extend(new)
+        if new:
+            data_manager.save_cache()
+        return jsonify({"status": "success", "added": len(new), "skipped": len(recs) - len(new), "mapping": mapping_names})
+    except Exception as e:
+        return jsonify({"status": "error", "error": str(e)}), 500
 
 
 # ── Saved videos (persisted to flags.json, keyed by review URL) ────────────────
