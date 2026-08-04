@@ -57204,43 +57204,43 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome and Boarding at Dallas-Fort Worth International (DFW)",
+          "title": "DFW Airport Boarding",
           "ife": false
         },
         {
           "t": "0:13",
           "sec": 13,
-          "title": "Boeing 737 MAX \"Oasis\" Seat Tour, Extra Legroom, and Best Seats",
+          "title": "737 MAX Oasis Seat Tour and Best Seats",
           "ife": false
         },
         {
           "t": "1:41",
           "sec": 101,
-          "title": "Takeoff for Washington Reagan National Airport (DCA)",
+          "title": "DFW Takeoff",
           "ife": false
         },
         {
           "t": "2:02",
           "sec": 122,
-          "title": "Complimentary Snack and Drink Service",
+          "title": "Snack and Drink Service",
           "ife": false
         },
         {
           "t": "2:12",
           "sec": 132,
-          "title": "Main Cabin Extra Perk: Free Alcoholic Beverages",
+          "title": "Free Drinks Perk",
           "ife": false
         },
         {
           "t": "2:21",
           "sec": 141,
-          "title": "Inflight Entertainment and Free Wi-Fi Speed Test",
+          "title": "Inflight Entertainment and Wi-Fi Test",
           "ife": true
         },
         {
           "t": "2:58",
           "sec": 178,
-          "title": "Scenic Approach into Washington D.C. & Final Upgrade Verdict",
+          "title": "Scenic DCA Approach and Final Verdict",
           "ife": false
         }
       ],
@@ -57303,61 +57303,61 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome to Washington Reagan National Airport (DCA)",
+          "title": "Washington Reagan National Airport (DCA)",
           "ife": false
         },
         {
           "t": "0:07",
           "sec": 7,
-          "title": "Perk #1: Group 5 Boarding and Overhead Bin Access",
+          "title": "Perk #1: Group 5 Boarding Access",
           "ife": false
         },
         {
           "t": "0:20",
           "sec": 20,
-          "title": "Perk #2: Prime Seating Placement in the Cabin",
+          "title": "Perk #2: Prime Cabin Location",
           "ife": false
         },
         {
           "t": "0:50",
           "sec": 50,
-          "title": "Perk #3: Extra Legroom and Pitch Comparison",
+          "title": "Perk #3: Extra Legroom and Pitch",
           "ife": false
         },
         {
           "t": "1:11",
           "sec": 71,
-          "title": "Boeing 737 MAX Seat Features and Amenities",
+          "title": "Boeing 737 MAX Seat Features",
           "ife": false
         },
         {
           "t": "2:01",
           "sec": 121,
-          "title": "Takeoff for Dallas-Fort Worth International (DFW)",
+          "title": "Takeoff from Washington DCA",
           "ife": false
         },
         {
           "t": "2:30",
           "sec": 150,
-          "title": "Perk #4: Complimentary Alcoholic Beverage Service",
+          "title": "Perk #4: Free Alcoholic Drinks",
           "ife": false
         },
         {
           "t": "2:40",
           "sec": 160,
-          "title": "Snack and Drink Service Overview",
+          "title": "Snack & Beverage Service",
           "ife": false
         },
         {
           "t": "2:54",
           "sec": 174,
-          "title": "Inflight Entertainment and Inflight Wi-Fi Speed Test",
+          "title": "Entertainment & Wi-Fi Speed Test",
           "ife": true
         },
         {
           "t": "3:44",
           "sec": 224,
-          "title": "Final Verdict: Is Main Cabin Extra Worth the Upgrade?",
+          "title": "Final Verdict: Is Upgrade Worth It?",
           "ife": false
         }
       ],
@@ -63209,49 +63209,49 @@
         {
           "t": "0:18",
           "sec": 18,
-          "title": "Seat Review and Legroom Test",
+          "title": "Seat and Legroom Test",
           "ife": false
         },
         {
-          "t": "1:30",
-          "sec": 90,
+          "t": "1:21",
+          "sec": 81,
           "title": "Takeoff for Washington Dulles",
           "ife": false
         },
         {
-          "t": "2:20",
-          "sec": 140,
-          "title": "Meal Service and Catering Review",
+          "t": "2:10",
+          "sec": 130,
+          "title": "Meal Service and Catering",
           "ife": false
         },
         {
-          "t": "3:23",
-          "sec": 203,
-          "title": "Restroom Tour and Cleanliness Check",
+          "t": "3:02",
+          "sec": 182,
+          "title": "Restroom Cleanliness Check",
           "ife": false
         },
         {
-          "t": "3:35",
-          "sec": 215,
-          "title": "Entertainment Library and Connectivity",
+          "t": "3:22",
+          "sec": 202,
+          "title": "Entertainment and Connectivity",
           "ife": true
         },
         {
-          "t": "4:10",
-          "sec": 250,
-          "title": "Afternoon Tea and Snack",
+          "t": "3:49",
+          "sec": 229,
+          "title": "Afternoon Snack",
           "ife": false
         },
         {
-          "t": "4:25",
-          "sec": 265,
-          "title": "Official Rating and Final Verdict",
+          "t": "4:03",
+          "sec": 243,
+          "title": "Rating and Final Verdict",
           "ife": false
         },
         {
           "t": "4:39",
           "sec": 279,
-          "title": "Approach and Landing at Washington Dulles",
+          "title": "Landing at Washington Dulles",
           "ife": false
         }
       ],
@@ -69980,37 +69980,37 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome to Zurich HB Station",
+          "title": "Zurich HB Station Navigation",
           "ife": false
         },
         {
           "t": "0:43",
           "sec": 43,
-          "title": "Boarding, Seat Comfort, and Class Comparison",
+          "title": "Seat Comfort and Class Comparison",
           "ife": false
         },
         {
           "t": "1:11",
           "sec": 71,
-          "title": "Train Departure for Interlaken Ost",
+          "title": "Departure from Zurich HB",
           "ife": false
         },
         {
           "t": "1:59",
           "sec": 119,
-          "title": "SBB Dining Options and Bistro Car Review",
+          "title": "SBB Bistro Car Dining Review",
           "ife": false
         },
         {
           "t": "3:08",
           "sec": 188,
-          "title": "Arriving at Bern Station",
+          "title": "Connection at Bern Station",
           "ife": false
         },
         {
           "t": "4:45",
           "sec": 285,
-          "title": "Arriving in Interlaken Ost and Final Travel Verdict",
+          "title": "Interlaken Ost Arrival and Final Verdict",
           "ife": false
         }
       ],
@@ -70063,37 +70063,37 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Arrival at EuroAirport Basel Mulhouse Freiburg (BSL)",
+          "title": "BSL Airport Arrival",
           "ife": false
         },
         {
           "t": "0:13",
           "sec": 13,
-          "title": "Boarding the Airbus A320 | Economy Cabin and Seat Review",
+          "title": "Boarding and A320 Seat Review",
           "ife": false
         },
         {
           "t": "1:05",
           "sec": 65,
-          "title": "Taxi and Takeoff from Basel",
+          "title": "Basel Takeoff",
           "ife": false
         },
         {
           "t": "1:15",
           "sec": 75,
-          "title": "Speedbird Café Buy-on-Board Snack and Drink Service",
+          "title": "Speedbird Cafe Snack Service",
           "ife": false
         },
         {
           "t": "1:42",
           "sec": 102,
-          "title": "Inflight Wi-Fi Speed and Messaging Packages",
+          "title": "Wi-Fi and Messaging Packages",
           "ife": true
         },
         {
           "t": "2:01",
           "sec": 121,
-          "title": "Final Verdict and Arrival at London Heathrow (LHR)",
+          "title": "LHR Landing and Final Verdict",
           "ife": false
         }
       ],
@@ -70146,7 +70146,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Arrival at London Heathrow Terminal 5 (LHR)",
+          "title": "London Heathrow Terminal 5 Arrival",
           "ife": false
         },
         {
@@ -70158,31 +70158,31 @@
         {
           "t": "0:32",
           "sec": 32,
-          "title": "Economy Cabin Layout and Seat Review",
+          "title": "Economy Seat and Pitch Review",
           "ife": false
         },
         {
           "t": "1:40",
           "sec": 100,
-          "title": "Taxi and Takeoff from London Heathrow (LHR)",
+          "title": "LHR Taxi and Takeoff",
           "ife": false
         },
         {
           "t": "2:21",
           "sec": 141,
-          "title": "Buy-on-Board Speedbird Café Service and Drinks",
+          "title": "Speedbird Café Buy-on-Board Service",
           "ife": false
         },
         {
           "t": "2:57",
           "sec": 177,
-          "title": "Onboard Wi-Fi and Messaging Packages Review",
+          "title": "Wi-Fi and Messaging Packages",
           "ife": true
         },
         {
           "t": "3:25",
           "sec": 205,
-          "title": "Final Verdict and Arrival at Zurich Airport (ZRH)",
+          "title": "Final Verdict and ZRH Arrival",
           "ife": false
         }
       ],
@@ -80901,31 +80901,31 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Airport Taxi and CFM56 Engine Start",
+          "title": "Engine Start and Taxi",
           "ife": false
         },
         {
           "t": "0:42",
           "sec": 42,
-          "title": "Powerful Takeoff from Dallas-Fort Worth (DFW)",
+          "title": "DFW Takeoff",
           "ife": false
         },
         {
           "t": "3:25",
           "sec": 205,
-          "title": "Relaxing Mid-Flight Cruise Audio",
+          "title": "Cruise Audio",
           "ife": false
         },
         {
           "t": "5:29",
           "sec": 329,
-          "title": "Scenic River Visual Approach and Touchdown at Washington Reagan National (DCA)",
+          "title": "DCA River Approach and Landing",
           "ife": false
         },
         {
           "t": "7:15",
           "sec": 435,
-          "title": "Final Taxi to the Terminal Gate",
+          "title": "Taxi to Gate",
           "ife": false
         }
       ],
@@ -80987,19 +80987,19 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Relaxing Mid-Flight Cruise",
+          "title": "Relaxing Mid-Cruise",
           "ife": false
         },
         {
           "t": "15:00",
           "sec": 900,
-          "title": "Scenic Hamad International Airport (DOH) Descent and Landing",
+          "title": "DOH Descent and Landing",
           "ife": false
         },
         {
           "t": "16:34",
           "sec": 994,
-          "title": "Final Taxi to the Gate",
+          "title": "Taxi to Gate",
           "ife": false
         }
       ],
@@ -87655,31 +87655,31 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "British Airways Lounge Entrance and First Impressions",
+          "title": "Lounge Entrance & First Impressions",
           "ife": false
         },
         {
           "t": "0:35",
           "sec": 35,
-          "title": "Quiet Workspace Configurations and Business Setup",
+          "title": "Quiet Workspaces & Business Setup",
           "ife": false
         },
         {
           "t": "1:15",
           "sec": 75,
-          "title": "Seating Areas and Iconic Sphere Ambient Lighting",
+          "title": "Seating Areas & Sphere Lighting",
           "ife": false
         },
         {
           "t": "2:05",
           "sec": 125,
-          "title": "Hot Buffet Selection and Self-Service Bar",
+          "title": "Hot Buffet & Self-Service Bar",
           "ife": false
         },
         {
           "t": "3:00",
           "sec": 180,
-          "title": "Final Verdict: Is the BA Lounge Worth Visiting?",
+          "title": "Final Verdict & Overall Review",
           "ife": false
         }
       ],
@@ -87876,13 +87876,13 @@
         {
           "t": "5:55",
           "sec": 355,
-          "title": "Scenic Hong Kong International Airport (HKG) Descent and Touchdown",
+          "title": "Scenic Hong Kong (HKG) Descent and Touchdown",
           "ife": false
         },
         {
           "t": "6:47",
           "sec": 407,
-          "title": "Taxiing to the Terminal Gate at HKG",
+          "title": "Taxiing to the Gate at HKG",
           "ife": false
         }
       ],
@@ -87932,55 +87932,55 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Boarding and Business Class Cabin Welcome",
+          "title": "Boarding and Cabin Welcome",
           "ife": false
         },
         {
           "t": "0:42",
           "sec": 42,
-          "title": "Reverse Herringbone Seat Features and Storage",
+          "title": "Seat Features and Storage",
           "ife": false
         },
         {
           "t": "2:33",
           "sec": 153,
-          "title": "Takeoff from Male International Airport (MLE)",
+          "title": "Takeoff from Male (MLE)",
           "ife": false
         },
         {
           "t": "2:52",
           "sec": 172,
-          "title": "Dine-on-Demand Dinner Service and Cuisine Review",
+          "title": "Dine-on-Demand Dinner Service",
           "ife": false
         },
         {
           "t": "5:18",
           "sec": 318,
-          "title": "Oryx One Inflight Entertainment System Review",
+          "title": "Inflight Entertainment System",
           "ife": true
         },
         {
           "t": "5:43",
           "sec": 343,
-          "title": "Business Class Restroom Tour",
+          "title": "Business Class Restroom",
           "ife": false
         },
         {
           "t": "5:59",
           "sec": 359,
-          "title": "Lie-Flat Bed Mode and Bedding Review",
+          "title": "Lie-Flat Bedding Review",
           "ife": false
         },
         {
           "t": "6:35",
           "sec": 395,
-          "title": "Final Verdict: How Does It Compare to Qsuite?",
+          "title": "Final Verdict vs Qsuite",
           "ife": false
         },
         {
           "t": "7:10",
           "sec": 430,
-          "title": "Approach and Landing at Doha Hamad International Airport (DOH)",
+          "title": "Approach and Landing at DOH",
           "ife": false
         }
       ],
@@ -88122,37 +88122,37 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome to Copenhagen Airport Terminal 2 (CPH)",
+          "title": "Copenhagen Terminal 2 (CPH)",
           "ife": false
         },
         {
           "t": "0:12",
           "sec": 12,
-          "title": "Eventyr Lounge Tour and Amenities",
+          "title": "Eventyr Lounge Tour",
           "ife": false
         },
         {
           "t": "0:24",
           "sec": 24,
-          "title": "Boarding the Airbus A319 and Club Europe Seat Tour",
+          "title": "Boarding and A319 Seat Tour",
           "ife": false
         },
         {
           "t": "1:40",
           "sec": 100,
-          "title": "Full English Breakfast and Club Europe Meal Review",
+          "title": "Full English Breakfast Review",
           "ife": false
         },
         {
           "t": "2:33",
           "sec": 153,
-          "title": "Descent Over London and Landing at London Heathrow (LHR)",
+          "title": "London Approach and LHR Landing",
           "ife": false
         },
         {
           "t": "3:47",
           "sec": 227,
-          "title": "My Final Verdict: Is Club Europe Worth It?",
+          "title": "Final Verdict on Club Europe",
           "ife": false
         }
       ],
@@ -88193,43 +88193,43 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Finding the Cathay Pacific Lounge in Terminal 4",
+          "title": "Finding the Lounge in T4",
           "ife": false
         },
         {
           "t": "0:28",
           "sec": 28,
-          "title": "Interior Design and Seating Area Tour",
+          "title": "Design and Seating Tour",
           "ife": false
         },
         {
           "t": "1:26",
           "sec": 86,
-          "title": "Hot Buffet and Complimentary Drink Selection",
+          "title": "Hot Buffet and Drinks",
           "ife": false
         },
         {
           "t": "2:26",
           "sec": 146,
-          "title": "Testing the Legendary Noodle Bar (Laksa & Dan Dan Noodles)",
+          "title": "Famous Noodle Bar Review",
           "ife": false
         },
         {
           "t": "3:16",
           "sec": 196,
-          "title": "Bar Snacks and Refreshments",
+          "title": "Bar Snacks and Drinks",
           "ife": false
         },
         {
           "t": "3:25",
           "sec": 205,
-          "title": "\"The Bureau\" Business Center and Productivity Amenities",
+          "title": "The Bureau Workstations",
           "ife": false
         },
         {
           "t": "3:38",
           "sec": 218,
-          "title": "Restroom Tour (No Showers Warning) & Final Verdict",
+          "title": "Restroom Tour and Final Verdict",
           "ife": false
         }
       ],
@@ -93465,31 +93465,31 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "How to Find the Lounge (LHR T3 Landside)",
+          "title": "Finding the Lounge in T3",
           "ife": false
         },
         {
           "t": "0:23",
           "sec": 23,
-          "title": "Operating Hours and Access Rules",
+          "title": "Hours and Access Rules",
           "ife": false
         },
         {
           "t": "0:30",
           "sec": 30,
-          "title": "Private Shower Suites Walkthrough and Amenities",
+          "title": "Private Shower Suite Tour",
           "ife": false
         },
         {
           "t": "1:35",
           "sec": 95,
-          "title": "Main Seating Area, Business Center, and Power Outlets",
+          "title": "Seating and Business Area",
           "ife": false
         },
         {
           "t": "2:34",
           "sec": 154,
-          "title": "Hot Breakfast Buffet and Beverage Tour",
+          "title": "Hot Breakfast Buffet Review",
           "ife": false
         }
       ],
@@ -95599,19 +95599,19 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Powerful GE90 Takeoff from Hamad International Airport (DOH)",
+          "title": "GE90 Engine Takeoff from Doha (DOH)",
           "ife": false
         },
         {
           "t": "1:54",
           "sec": 114,
-          "title": "Relaxing Mid-Flight Cabin Cruise Audio",
+          "title": "Cruise Flight Soundscape & Cabin Audio",
           "ife": false
         },
         {
           "t": "2:50",
           "sec": 170,
-          "title": "Scenic Washington Dulles (IAD) Approach, Descent, and Landing",
+          "title": "Approach, Descent & Landing at Dulles (IAD)",
           "ife": false
         }
       ],
@@ -95731,43 +95731,43 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Noovilu Seaplane Terminal Check-In and Boarding",
+          "title": "Noovilu Terminal Check-In and Boarding",
           "ife": false
         },
         {
           "t": "0:37",
           "sec": 37,
-          "title": "Water Taxi and Takeoff for the Conrad Maldives",
+          "title": "Water Takeoff for Conrad Maldives",
           "ife": false
         },
         {
           "t": "2:30",
           "sec": 150,
-          "title": "Breathtaking Aerial Views of the Maldivian Atolls",
+          "title": "Scenic Aerial Views over the Atolls",
           "ife": false
         },
         {
           "t": "3:10",
           "sec": 190,
-          "title": "Water Approach and Landing at the Conrad Maldives",
+          "title": "Water Landing at Conrad Maldives",
           "ife": false
         },
         {
           "t": "4:16",
           "sec": 256,
-          "title": "Takeoff and Return Journey to Malé",
+          "title": "Return Takeoff to Male",
           "ife": false
         },
         {
           "t": "4:54",
           "sec": 294,
-          "title": "Approach and Landing at Noovilu Seaplane Terminal",
+          "title": "Landing at Noovilu Seaplane Terminal",
           "ife": false
         },
         {
           "t": "5:35",
           "sec": 335,
-          "title": "Final Verdict: Is It Worth the Cost and How to Book?",
+          "title": "Final Verdict and Booking Tips",
           "ife": false
         }
       ],
@@ -98170,7 +98170,7 @@
         {
           "t": "1:40",
           "sec": 100,
-          "title": "Embraer 175 Jet Engine Takeoff (Window View)",
+          "title": "Embraer 175 Takeoff",
           "ife": false
         },
         {
@@ -98188,7 +98188,7 @@
         {
           "t": "11:30",
           "sec": 690,
-          "title": "Smooth Touchdown at Dallas-Fort Worth International Airport (DFW)",
+          "title": "Smooth Touchdown at Dallas-Fort Worth (DFW)",
           "ife": false
         }
       ],
@@ -98224,37 +98224,37 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Taxiing at Dallas-Fort Worth International (DFW)",
+          "title": "Taxiing at DFW",
           "ife": false
         },
         {
           "t": "1:30",
           "sec": 90,
-          "title": "Embraer 170 Engine Takeoff (Window View)",
+          "title": "E170 Engine Takeoff",
           "ife": false
         },
         {
           "t": "4:00",
           "sec": 240,
-          "title": "Cruising Altitude (Ambient Flight Soundscape)",
+          "title": "Cruising Flight Soundscape",
           "ife": false
         },
         {
           "t": "5:30",
           "sec": 330,
-          "title": "Scenic Descent Over East Texas",
+          "title": "Descent Over East Texas",
           "ife": false
         },
         {
           "t": "9:00",
           "sec": 540,
-          "title": "Final Approach into Longview (East Texas)",
+          "title": "Final Approach to Longview",
           "ife": false
         },
         {
           "t": "10:30",
           "sec": 630,
-          "title": "Touchdown and Landing at East Texas Regional (GGG)",
+          "title": "Touchdown at GGG Airport",
           "ife": false
         }
       ],
@@ -98290,7 +98290,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "The Hatton Cross Strategy (Free Tube Access to Terminals)",
+          "title": "Hatton Cross Strategy (Free Tube to Terminals)",
           "ife": false
         },
         {
@@ -98302,7 +98302,7 @@
         {
           "t": "3:07",
           "sec": 187,
-          "title": "Fitness Center: 24-Hour Gym Equipment Test",
+          "title": "24-Hour Fitness Center Tour",
           "ife": false
         },
         {
@@ -98314,7 +98314,7 @@
         {
           "t": "4:18",
           "sec": 258,
-          "title": "Breakfast Buffet Review at Jack's Restaurant",
+          "title": "Breakfast Buffet at Jack's Restaurant",
           "ife": false
         },
         {
@@ -98326,7 +98326,7 @@
         {
           "t": "5:54",
           "sec": 354,
-          "title": "The Shop: 24/7 Essentials and In-Room Amenities",
+          "title": "The Shop: 24/7 Snacks and In-Room Amenities",
           "ife": false
         },
         {
@@ -98368,43 +98368,43 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Why USM Is the World's Most Beautiful Airport",
+          "title": "World's Most Beautiful Airport (USM)",
           "ife": false
         },
         {
           "t": "0:44",
           "sec": 44,
-          "title": "The Boutique Lounge Access and Boarding Experience",
+          "title": "Free Lounge & Open-Air Boarding",
           "ife": false
         },
         {
           "t": "1:17",
           "sec": 77,
-          "title": "A319 Cabin Tour and Surprising Seat Comfort",
+          "title": "Airbus A319 Seat & Cabin Tour",
           "ife": false
         },
         {
           "t": "2:21",
           "sec": 141,
-          "title": "Takeoff and Stunning Views of the Gulf of Thailand",
+          "title": "Takeoff & Gulf of Thailand Views",
           "ife": false
         },
         {
           "t": "3:08",
           "sec": 188,
-          "title": "Full Hot Meal Service on a 50-Minute Flight",
+          "title": "Hot Meal Service (50-Min Flight)",
           "ife": false
         },
         {
           "t": "3:46",
           "sec": 226,
-          "title": "The Verdict: Why Bangkok Airways Is Worth the Premium",
+          "title": "Final Verdict: Is It Worth It?",
           "ife": false
         },
         {
           "t": "6:04",
           "sec": 364,
-          "title": "Arrival at Bangkok Suvarnabhumi (BKK) and Final Thoughts",
+          "title": "Arrival at Bangkok (BKK)",
           "ife": false
         }
       ],
@@ -99582,37 +99582,37 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Walking to DFW Terminal A DART Station",
+          "title": "Walking to DFW DART Station",
           "ife": false
         },
         {
           "t": "1:12",
           "sec": 72,
-          "title": "Purchasing a $3 DART 3-Hour Pass",
+          "title": "Buying a $3 DART 3-Hour Pass",
           "ife": false
         },
         {
           "t": "1:51",
           "sec": 111,
-          "title": "Boarding the LBJ-Bound Orange Line Train",
+          "title": "Boarding Orange Line Train",
           "ife": false
         },
         {
           "t": "2:14",
           "sec": 134,
-          "title": "Train Departure and Transit Details",
+          "title": "Train Departure and Details",
           "ife": false
         },
         {
           "t": "3:18",
           "sec": 198,
-          "title": "Arriving at Inwood-Love Field DART Station",
+          "title": "Inwood/Love Field Arrival",
           "ife": false
         },
         {
           "t": "3:33",
           "sec": 213,
-          "title": "Transferring to the Free Love Link Bus (Route 5)",
+          "title": "Transferring to Love Link Bus",
           "ife": false
         }
       ],
@@ -99646,37 +99646,37 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Arrival at CityCenterDC and Location",
+          "title": "CityCenterDC Hotel Arrival",
           "ife": false
         },
         {
           "t": "0:50",
           "sec": 50,
-          "title": "The Stunning Atrium Lobby",
+          "title": "Atrium Lobby Tour",
           "ife": false
         },
         {
           "t": "1:15",
           "sec": 75,
-          "title": "Corner Room Tour: King Bed and Design",
+          "title": "King Corner Room Tour",
           "ife": false
         },
         {
           "t": "3:23",
           "sec": 203,
-          "title": "Luxury Bathroom and Amenities",
+          "title": "Bathroom and Luxury Amenities",
           "ife": false
         },
         {
           "t": "4:05",
           "sec": 245,
-          "title": "Fitness Center and Wellness",
+          "title": "Fitness Center Walkthrough",
           "ife": false
         },
         {
           "t": "4:35",
           "sec": 275,
-          "title": "Dining and Bar Options",
+          "title": "Dining and Rooftop Bar",
           "ife": false
         }
       ],
@@ -107276,7 +107276,7 @@
         {
           "t": "0:29",
           "sec": 29,
-          "title": "Legroom and Seat Comfort at 6'4\"",
+          "title": "Legroom and Seat Comfort",
           "ife": false
         },
         {
@@ -107820,7 +107820,86 @@
       "source_name": "Creator",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "chapters": []
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "1:46",
+          "sec": 106,
+          "title": "SAS Lounge",
+          "ife": false
+        },
+        {
+          "t": "2:39",
+          "sec": 159,
+          "title": "Duty Free",
+          "ife": false
+        },
+        {
+          "t": "4:02",
+          "sec": 242,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "4:37",
+          "sec": 277,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "6:41",
+          "sec": 401,
+          "title": "Amenities",
+          "ife": false
+        },
+        {
+          "t": "8:21",
+          "sec": 501,
+          "title": "Take-Off",
+          "ife": false
+        },
+        {
+          "t": "9:41",
+          "sec": 581,
+          "title": "Food",
+          "ife": false
+        },
+        {
+          "t": "10:41",
+          "sec": 641,
+          "title": "Recline",
+          "ife": false
+        },
+        {
+          "t": "12:00",
+          "sec": 720,
+          "title": "Entertainment",
+          "ife": true
+        },
+        {
+          "t": "12:50",
+          "sec": 770,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "14:33",
+          "sec": 873,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "14:57",
+          "sec": 897,
+          "title": "Conclusion",
+          "ife": false
+        }
+      ]
     },
     {
       "url": "https://www.youtube.com/watch?v=seUAmL2G8Jc",
