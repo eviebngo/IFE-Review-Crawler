@@ -111401,8 +111401,402 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.677
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y0pEaoG1Jjc",
+      "title": "INSANE! Flying CATHAY PACIFIC $14 Economy Class with NO HOT MEALS!",
+      "year": 2026,
+      "published_at": "2026-07-29T16:00:02Z",
+      "channel_title": "RandomAv_s",
+      "view_count": 3216,
+      "like_count": 27,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Preview",
+          "ife": false
+        },
+        {
+          "t": "0:17",
+          "sec": 17,
+          "title": "Changsha Huanghua Terminal 2",
+          "ife": false
+        },
+        {
+          "t": "0:32",
+          "sec": 32,
+          "title": "Check In",
+          "ife": false
+        },
+        {
+          "t": "0:49",
+          "sec": 49,
+          "title": "Airside",
+          "ife": false
+        },
+        {
+          "t": "0:58",
+          "sec": 58,
+          "title": "Flight Information",
+          "ife": false
+        },
+        {
+          "t": "1:15",
+          "sec": 75,
+          "title": "Aircraft Information",
+          "ife": false
+        },
+        {
+          "t": "1:44",
+          "sec": 104,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "2:52",
+          "sec": 172,
+          "title": "Seat & Features",
+          "ife": false
+        },
+        {
+          "t": "4:20",
+          "sec": 260,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "5:07",
+          "sec": 307,
+          "title": "Instagram introduction",
+          "ife": false
+        },
+        {
+          "t": "5:27",
+          "sec": 327,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "6:00",
+          "sec": 360,
+          "title": "Notice",
+          "ife": false
+        },
+        {
+          "t": "6:15",
+          "sec": 375,
+          "title": "In Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "6:49",
+          "sec": 409,
+          "title": "Seat Pocket Content",
+          "ife": true
+        },
+        {
+          "t": "7:27",
+          "sec": 447,
+          "title": "Lunch",
+          "ife": false
+        },
+        {
+          "t": "8:45",
+          "sec": 525,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "9:27",
+          "sec": 567,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "10:23",
+          "sec": 623,
+          "title": "Conclusion & Verdict",
+          "ife": false
+        },
+        {
+          "t": "12:33",
+          "sec": 753,
+          "title": "Disembarkation",
+          "ife": false
+        },
+        {
+          "t": "13:08",
+          "sec": 788,
+          "title": "A330 Preview",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 5
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7RK_LgnIq4U",
+      "title": "The Long Way Home: Brisbane→Hong Kong→Beijing Part 3 | Cathay Pacific A350 Trip Report",
+      "year": 2026,
+      "published_at": "2026-08-02T15:00:06Z",
+      "channel_title": "Yiheng Liu (Eric) ",
+      "view_count": 7098,
+      "like_count": 208,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "tail_camera": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-P0A6zfh7k0",
+      "title": "Canada and Alaska adventure Part 1 - Port Macquarie - Sydney - Hong Kong  - Vancouver",
+      "year": 2026,
+      "published_at": "2026-07-24T00:45:15Z",
+      "channel_title": "J and K go Travelling",
+      "view_count": 25,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro to J and K Go Traveling & Our 10th Anniversary Trip",
+          "ife": false
+        },
+        {
+          "t": "01:31",
+          "sec": 91,
+          "title": "QantasLink Dash 8 Q400 Review (Port Macquarie to Sydney)",
+          "ife": false
+        },
+        {
+          "t": "06:00",
+          "sec": 360,
+          "title": "Airport Beers & Comparing Blue Currency Notes (HKD, AUD, CAD)",
+          "ife": false
+        },
+        {
+          "t": "07:43",
+          "sec": 463,
+          "title": "Boarding Cathay Pacific A350 & Seat Selection Tips for Couples",
+          "ife": false
+        },
+        {
+          "t": "15:17",
+          "sec": 917,
+          "title": "Spectacular Night Views Flying Over Densely Populated Hong Kong",
+          "ife": false
+        },
+        {
+          "t": "17:48",
+          "sec": 1068,
+          "title": "Navigating a 10-Hour Hong Kong Layover & Airport Express Train",
+          "ife": false
+        },
+        {
+          "t": "20:24",
+          "sec": 1224,
+          "title": "Exploring Hong Kong City, Double-Decker Trams & Strawberry Snickers",
+          "ife": false
+        },
+        {
+          "t": "21:58",
+          "sec": 1318,
+          "title": "Rushing Back to Hong Kong Airport (How Mega Huge Is It?!)",
+          "ife": false
+        },
+        {
+          "t": "25:56",
+          "sec": 1556,
+          "title": "Boarding Cathay Pacific Boeing 777 to Vancouver",
+          "ife": false
+        },
+        {
+          "t": "27:06",
+          "sec": 1626,
+          "title": "Coping with 30+ Hours No Sleep & Jet Lag Cabin Lighting",
+          "ife": false
+        },
+        {
+          "t": "28:53",
+          "sec": 1733,
+          "title": "Landing Cam View: Arriving in Vancouver, Canada!",
+          "ife": false
+        },
+        {
+          "t": "31:45",
+          "sec": 1905,
+          "title": "Catching the Vancouver SkyTrain from YVR to Waterfront Station",
+          "ife": false
+        },
+        {
+          "t": "33:57",
+          "sec": 2037,
+          "title": "First Stop in Canada: Steamworks Brewery & Poutine!#travelvlogg",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 5
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lMsQnSFPcws",
+      "title": "Cathay Pacific CX270 AMS HKG Business Class  A350-1000 V2",
+      "year": 2026,
+      "published_at": "2026-08-05T20:53:23Z",
+      "channel_title": "Kwok Tai Lam",
+      "view_count": 15,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-05T05:52:10.836747"
+  "last_updated": "2026-08-06T05:56:30.480418"
 }
