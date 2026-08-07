@@ -111577,7 +111577,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.788
     },
     {
       "url": "https://www.youtube.com/watch?v=7RK_LgnIq4U",
@@ -111614,7 +111616,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=-P0A6zfh7k0",
@@ -111751,7 +111755,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.318
     },
     {
       "url": "https://www.youtube.com/watch?v=lMsQnSFPcws",
@@ -111795,8 +111801,1953 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WEiw_3smy3I",
+      "title": "Qatar Airways Review Dublin - Doha oeing 787-9 Dreamliner",
+      "year": 2026,
+      "published_at": "2026-08-05T18:30:18Z",
+      "channel_title": "Plane Princess",
+      "view_count": 21,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=T7LAsZJU880",
+      "title": "Best Airline from New York (JFK) to Beijing PKX) ✈️ | 5 Airline Comparison on 10 Points",
+      "year": 2026,
+      "published_at": "2026-08-05T15:12:47Z",
+      "channel_title": "Fly Compare",
+      "view_count": 5,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 3
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lXmBw5sdHek",
+      "title": "Is this Singapore Airlines' BEST ECONOMY CLASS?",
+      "year": 2026,
+      "published_at": "2026-08-06T04:30:48Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 9503,
+      "like_count": 459,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:27",
+          "sec": 87,
+          "title": "Singapore Airlines SilverKris Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:50",
+          "sec": 170,
+          "title": "NordVPN",
+          "ife": false
+        },
+        {
+          "t": "04:50",
+          "sec": 290,
+          "title": "Boarding flight SQ893",
+          "ife": false
+        },
+        {
+          "t": "06:25",
+          "sec": 385,
+          "title": "Seat 46A & features",
+          "ife": false
+        },
+        {
+          "t": "08:12",
+          "sec": 492,
+          "title": "Signature hot towel service & passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "PA (delay update)",
+          "ife": false
+        },
+        {
+          "t": "12:20",
+          "sec": 740,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "14:24",
+          "sec": 864,
+          "title": "WiFi",
+          "ife": true
+        },
+        {
+          "t": "14:55",
+          "sec": 895,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "16:53",
+          "sec": 1013,
+          "title": "PA",
+          "ife": false
+        },
+        {
+          "t": "17:10",
+          "sec": 1030,
+          "title": "Conclusion & landing",
+          "ife": false
+        },
+        {
+          "t": "20:10",
+          "sec": 1210,
+          "title": "Singapore vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Wrtv7nNW2Rw",
+      "title": "Is Cathay Pacific's NEW Premium Economy Worth the Upgrade? | Sydney to Hong Kong | TRIP REPORT",
+      "year": 2026,
+      "published_at": "2026-08-01T13:00:32Z",
+      "channel_title": "Earl Jimenez",
+      "view_count": 17568,
+      "like_count": 224,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:47",
+          "sec": 47,
+          "title": "Sydney Airport / Check-in",
+          "ife": false
+        },
+        {
+          "t": "01:45",
+          "sec": 105,
+          "title": "Security",
+          "ife": false
+        },
+        {
+          "t": "02:17",
+          "sec": 137,
+          "title": "Priority Pass at Sydney Airport",
+          "ife": false
+        },
+        {
+          "t": "02:56",
+          "sec": 176,
+          "title": "Plaza Premium Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:07",
+          "sec": 247,
+          "title": "Aircraft 777-300ER: B-KPO",
+          "ife": false
+        },
+        {
+          "t": "04:50",
+          "sec": 290,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "05:30",
+          "sec": 330,
+          "title": "Premium Economy Seat 32E",
+          "ife": false
+        },
+        {
+          "t": "08:16",
+          "sec": 496,
+          "title": "Welcome Drink and Hot towel service",
+          "ife": false
+        },
+        {
+          "t": "08:39",
+          "sec": 519,
+          "title": "Passenger Announcement",
+          "ife": false
+        },
+        {
+          "t": "10:50",
+          "sec": 650,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "11:37",
+          "sec": 697,
+          "title": "Palmier, Beverage service",
+          "ife": false
+        },
+        {
+          "t": "12:27",
+          "sec": 747,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "15:13",
+          "sec": 913,
+          "title": "Lunch service",
+          "ife": false
+        },
+        {
+          "t": "16:35",
+          "sec": 995,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "17:08",
+          "sec": 1028,
+          "title": "Seat Recline Thoughts",
+          "ife": false
+        },
+        {
+          "t": "18:15",
+          "sec": 1095,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "19:06",
+          "sec": 1146,
+          "title": "Dinner service",
+          "ife": false
+        },
+        {
+          "t": "20:05",
+          "sec": 1205,
+          "title": "Passenger Announcement",
+          "ife": false
+        },
+        {
+          "t": "20:40",
+          "sec": 1240,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "22:01",
+          "sec": 1321,
+          "title": "Ticket Prices",
+          "ife": false
+        },
+        {
+          "t": "22:27",
+          "sec": 1347,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "24:50",
+          "sec": 1490,
+          "title": "Hong Kong International Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=X4ixZ_kxTZY",
+      "title": "SwissAir 111 : How a Start-up’s Deadly Design Led to its Crash",
+      "year": 2026,
+      "published_at": "2026-08-05T15:54:58Z",
+      "channel_title": "Discovery Clock",
+      "view_count": 32,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "The Flight | Le Vol",
+          "ife": false
+        },
+        {
+          "t": "03:13",
+          "sec": 193,
+          "title": "The Company | L'entreprise",
+          "ife": false
+        },
+        {
+          "t": "05:47",
+          "sec": 347,
+          "title": "The Certification | La certification",
+          "ife": false
+        },
+        {
+          "t": "10:03",
+          "sec": 603,
+          "title": "The Warnings | Les avertissements",
+          "ife": false
+        },
+        {
+          "t": "12:14",
+          "sec": 734,
+          "title": "The Investigation | L'investigation",
+          "ife": false
+        },
+        {
+          "t": "16:11",
+          "sec": 971,
+          "title": "The Aftermath | Les conséquences",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 13
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WVoAyTGZhmw",
+      "title": "Is flying JETSTAR JAPAN worth it? A320 Economy Class Review | Sapporo-Tokyo",
+      "year": 2026,
+      "published_at": "2026-08-01T12:00:20Z",
+      "channel_title": "IH Aviation and Travel",
+      "view_count": 84,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:37",
+          "sec": 37,
+          "title": "On the way to Sapporo’s New Chitose Airport",
+          "ife": false
+        },
+        {
+          "t": "00:49",
+          "sec": 49,
+          "title": "Route Map",
+          "ife": false
+        },
+        {
+          "t": "01:03",
+          "sec": 63,
+          "title": "On the way to Sapporo’s New Chitose Airport",
+          "ife": false
+        },
+        {
+          "t": "02:02",
+          "sec": 122,
+          "title": "Sapporo New Chitose Airport",
+          "ife": false
+        },
+        {
+          "t": "02:38",
+          "sec": 158,
+          "title": "History of Jetstar",
+          "ife": false
+        },
+        {
+          "t": "05:51",
+          "sec": 351,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "06:35",
+          "sec": 395,
+          "title": "Economy Class seat",
+          "ife": false
+        },
+        {
+          "t": "08:48",
+          "sec": 528,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "09:18",
+          "sec": 558,
+          "title": "Taxiing",
+          "ife": false
+        },
+        {
+          "t": "10:04",
+          "sec": 604,
+          "title": "Takeoff from Sapporo (CTS)",
+          "ife": false
+        },
+        {
+          "t": "11:44",
+          "sec": 704,
+          "title": "Snack service",
+          "ife": false
+        },
+        {
+          "t": "12:49",
+          "sec": 769,
+          "title": "Service review",
+          "ife": false
+        },
+        {
+          "t": "13:13",
+          "sec": 793,
+          "title": "Approach",
+          "ife": false
+        },
+        {
+          "t": "14:24",
+          "sec": 864,
+          "title": "Landing in Tokyo (NRT)",
+          "ife": false
+        },
+        {
+          "t": "14:58",
+          "sec": 898,
+          "title": "Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "15:31",
+          "sec": 931,
+          "title": "Disembarkation",
+          "ife": false
+        },
+        {
+          "t": "16:06",
+          "sec": 966,
+          "title": "IH Score",
+          "ife": false
+        },
+        {
+          "t": "16:19",
+          "sec": 979,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Rch19zGpBPU",
+      "title": "The 10 WORST BUSINESS Class Airlines in 2026",
+      "year": 2026,
+      "published_at": "2026-08-06T12:45:34Z",
+      "channel_title": "Epic Voyage",
+      "view_count": 4641,
+      "like_count": 36,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Why Business Class Isn't Always What You Paid For",
+          "ife": false
+        },
+        {
+          "t": "0:41",
+          "sec": 41,
+          "title": "#10 China Eastern",
+          "ife": false
+        },
+        {
+          "t": "2:06",
+          "sec": 126,
+          "title": "#9 Air India",
+          "ife": false
+        },
+        {
+          "t": "3:32",
+          "sec": 212,
+          "title": "#8 LOT Polish Airlines",
+          "ife": false
+        },
+        {
+          "t": "4:48",
+          "sec": 288,
+          "title": "#7 Turkish Airlines",
+          "ife": false
+        },
+        {
+          "t": "6:06",
+          "sec": 366,
+          "title": "#6 Lufthansa",
+          "ife": false
+        },
+        {
+          "t": "7:55",
+          "sec": 475,
+          "title": "#5 Philippine Airlines",
+          "ife": false
+        },
+        {
+          "t": "9:22",
+          "sec": 562,
+          "title": "#4 EgyptAir",
+          "ife": false
+        },
+        {
+          "t": "10:40",
+          "sec": 640,
+          "title": "#3 Ethiopian Airlines",
+          "ife": false
+        },
+        {
+          "t": "12:19",
+          "sec": 739,
+          "title": "#2 Pakistan International Airlines (PIA)",
+          "ife": false
+        },
+        {
+          "t": "13:48",
+          "sec": 828,
+          "title": "#1 Kenya Airways",
+          "ife": false
+        },
+        {
+          "t": "15:30",
+          "sec": 930,
+          "title": "Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 2
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "air india",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f9nO4Pe9d_c",
+      "title": "REVIEW: British Airways A350-1000 Economy: Barbados (BGI) - London (LHR)",
+      "year": 2026,
+      "published_at": "2026-08-03T21:00:29Z",
+      "channel_title": "Aviation Experience HQ",
+      "view_count": 130,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=74w-WTxFqlU",
+      "title": "[British Airways Club World Suite: BA31 London Heathrow to Hong Kong] Airbus A350-1000 Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-06T07:00:03Z",
+      "channel_title": "Eurasia Transport Explorer",
+      "view_count": 637,
+      "like_count": 40,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nVn7NtOVQPU",
+      "title": "Our LA to Atlanta Trip Went COMPLETELY Wrong | Delta, Turbulence, and a Nightmare Rental Car",
+      "year": 2026,
+      "published_at": "2026-08-04T19:00:14Z",
+      "channel_title": "Lost Girl in Tomorrowland",
+      "view_count": 45,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:35",
+          "sec": 35,
+          "title": "Heading through LA",
+          "ife": false
+        },
+        {
+          "t": "1:41",
+          "sec": 101,
+          "title": "Skylounge",
+          "ife": false
+        },
+        {
+          "t": "3:24",
+          "sec": 204,
+          "title": "Flight to GA",
+          "ife": false
+        },
+        {
+          "t": "14:28",
+          "sec": 868,
+          "title": "GA Airport",
+          "ife": false
+        },
+        {
+          "t": "14:44",
+          "sec": 884,
+          "title": "Car Fun",
+          "ife": false
+        },
+        {
+          "t": "23:46",
+          "sec": 1426,
+          "title": "Back to the Mountains",
+          "ife": false
+        },
+        {
+          "t": "23:56",
+          "sec": 1436,
+          "title": "LeGIT Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "25:07",
+          "sec": 1507,
+          "title": "Thank You!",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 22
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_FcSNmQokkI",
+      "title": "COMPARING ECONOMY CLASS on EVERY US Airline to Europe (Which Is The BEST?)",
+      "year": 2026,
+      "published_at": "2026-08-05T02:07:16Z",
+      "channel_title": "Better Journeys (Travel Hacks by Cecilla)",
+      "view_count": 18,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction: Which Economy product makes an 8-10 hour flight least painful?",
+          "ife": false
+        },
+        {
+          "t": "2:53",
+          "sec": 173,
+          "title": "Setting the variables: A 6'2\" traveler (Jordan) flying to London or Paris in August 2026.",
+          "ife": false
+        },
+        {
+          "t": "8:05",
+          "sec": 485,
+          "title": "Food & Dining Rhythm: Comparing meal sequences on American, Delta, Alaska, and JetBlue.",
+          "ife": false
+        },
+        {
+          "t": "15:51",
+          "sec": 951,
+          "title": "Service Consistency: Scoring crews and system reliability.",
+          "ife": true
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 7
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wieoVZFtDP0",
+      "title": "United 767-300ER Polaris Business Class Review (Zurich Airport to Newark EWR)",
+      "year": 2026,
+      "published_at": "2026-08-05T04:05:55Z",
+      "channel_title": "Aviation with Krish ",
+      "view_count": 59,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=91ZZIhTnAtw",
+      "title": "STUCK Onboard an EMBRAER for 7 HOURS! | Porter E195E2 Ottawa to Vancouver",
+      "year": 2026,
+      "published_at": "2026-08-02T05:27:08Z",
+      "channel_title": "Legitimate Aviation",
+      "view_count": 100,
+      "like_count": 9,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rJGjhmvTAjA",
+      "title": "End of an Era: Asiana 777-200 Economy Review | Transpacific Flight from Seattle to Seoul",
+      "year": 2026,
+      "published_at": "2026-08-02T17:30:06Z",
+      "channel_title": "Miles to Luxury",
+      "view_count": 205,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F3WAkZtpJ-g",
+      "title": "United Polaris Business Class Review: SFO to Taipei 🇺🇸✈️🇹🇼 #flightreview #aviation #tripreport",
+      "year": 2026,
+      "published_at": "2026-08-02T12:30:05Z",
+      "channel_title": "The Aircraft King",
+      "view_count": 1243,
+      "like_count": 19,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=M4u6Mj0OC8s",
+      "title": "TUI Dreamliner Onboard Entertainment, Is it Good or Bad?? I show you all the content from JUNE 26!",
+      "year": 2026,
+      "published_at": "2026-07-29T10:30:36Z",
+      "channel_title": "Brett's Bargain Breaks",
+      "view_count": 70,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TZRVHAUTsyY",
+      "title": "I was FORBIDDEN from filming on Royal Air Maroc! 787-8 Dreamliner and full flight review",
+      "year": 2026,
+      "published_at": "2026-08-06T15:59:49Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 184,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=peD9IWfvc34",
+      "title": "Japan Airlines Boeing 787-9 Economy Class | Delhi to Tokyo Haneda (JL30) | Full Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-06T16:30:22Z",
+      "channel_title": "Neutrino",
+      "view_count": 30,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "jal",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WtECVb80vW8",
+      "title": "Is KLM Economy Worth It? | 13-Hour Flight Review on 777-300er (PVG–AMS)",
+      "year": 2026,
+      "published_at": "2026-08-06T15:14:50Z",
+      "channel_title": "Matexz",
+      "view_count": 25,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5KG1Z_68Cqc",
+      "title": "This Saudia Business Class Feature Should Be Industry Standard | Jeddah to Singapore",
+      "year": 2026,
+      "published_at": "2026-08-05T16:00:32Z",
+      "channel_title": "Million Miles Up",
+      "view_count": 81,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:34",
+          "sec": 34,
+          "title": "Jeddah Airport & AlFursan Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:02",
+          "sec": 122,
+          "title": "First Class Lounge Preview",
+          "ife": false
+        },
+        {
+          "t": "02:55",
+          "sec": 175,
+          "title": "Boarding the 787-10",
+          "ife": false
+        },
+        {
+          "t": "03:19",
+          "sec": 199,
+          "title": "The Seat",
+          "ife": false
+        },
+        {
+          "t": "06:27",
+          "sec": 387,
+          "title": "Menu & Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "07:45",
+          "sec": 465,
+          "title": "Amenities & Sleep",
+          "ife": false
+        },
+        {
+          "t": "08:52",
+          "sec": 532,
+          "title": "Breakfast & Landing",
+          "ife": false
+        },
+        {
+          "t": "10:11",
+          "sec": 611,
+          "title": "Final Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-v-2bC_pLgg",
+      "title": "新加坡航空舊款式經濟艙 // 比起新款式更舒服❗️(香港-新加坡)",
+      "year": 2026,
+      "published_at": "2026-08-06T04:00:38Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 2841,
+      "like_count": 118,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "辦理登機手續",
+          "ife": false
+        },
+        {
+          "t": "01:22",
+          "sec": 82,
+          "title": "新加坡航空貴賓室",
+          "ife": false
+        },
+        {
+          "t": "03:33",
+          "sec": 213,
+          "title": "客機資訊 / 登機",
+          "ife": false
+        },
+        {
+          "t": "05:15",
+          "sec": 315,
+          "title": "座位介紹",
+          "ife": false
+        },
+        {
+          "t": "07:03",
+          "sec": 423,
+          "title": "廣播",
+          "ife": false
+        },
+        {
+          "t": "08:35",
+          "sec": 515,
+          "title": "娛樂系統",
+          "ife": false
+        },
+        {
+          "t": "09:18",
+          "sec": 558,
+          "title": "廣播",
+          "ife": false
+        },
+        {
+          "t": "10:46",
+          "sec": 646,
+          "title": "飛機滑行 / 起飛",
+          "ife": false
+        },
+        {
+          "t": "12:44",
+          "sec": 764,
+          "title": "WiFi / 飛機雜誌",
+          "ife": true
+        },
+        {
+          "t": "13:18",
+          "sec": 798,
+          "title": "午餐服務",
+          "ife": false
+        },
+        {
+          "t": "15:11",
+          "sec": 911,
+          "title": "廣播",
+          "ife": false
+        },
+        {
+          "t": "15:33",
+          "sec": 933,
+          "title": "總結 / 降落",
+          "ife": false
+        },
+        {
+          "t": "18:33",
+          "sec": 1113,
+          "title": "新加坡 vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MykiDEYBUKY",
+      "title": "30+ Heavy Jets on Final Approach at Heathrow (4K)",
+      "year": 2026,
+      "published_at": "2026-08-05T15:05:42Z",
+      "channel_title": "First Travel",
+      "view_count": 109,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Qatar Airways A380-800",
+          "ife": false
+        },
+        {
+          "t": "0:15",
+          "sec": 15,
+          "title": "Delta Air Lines Airbus A330-900neo",
+          "ife": false
+        },
+        {
+          "t": "0:27",
+          "sec": 27,
+          "title": "United Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "0:40",
+          "sec": 40,
+          "title": "Virgin Atlantic Airbus A350-1000 - \"Ruby Slipper\"",
+          "ife": false
+        },
+        {
+          "t": "0:54",
+          "sec": 54,
+          "title": "American Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "1:09",
+          "sec": 69,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "1:24",
+          "sec": 84,
+          "title": "Delta Air Lines Airbus A330-900neo",
+          "ife": false
+        },
+        {
+          "t": "1:39",
+          "sec": 99,
+          "title": "Air Canada Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "1:53",
+          "sec": 113,
+          "title": "United Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "2:07",
+          "sec": 127,
+          "title": "British Airways Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "2:23",
+          "sec": 143,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "2:36",
+          "sec": 156,
+          "title": "Icelandair Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "2:51",
+          "sec": 171,
+          "title": "American Airlines Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "3:05",
+          "sec": 185,
+          "title": "Virgin Atlantic Airbus A330-900neo - \"Eliza Doolittle\"",
+          "ife": false
+        },
+        {
+          "t": "3:18",
+          "sec": 198,
+          "title": "United Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "3:33",
+          "sec": 213,
+          "title": "Air Canada Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "3:49",
+          "sec": 229,
+          "title": "Virgin Atlantic Airbus A350-1000 - \"Red Velvet\"",
+          "ife": false
+        },
+        {
+          "t": "4:03",
+          "sec": 243,
+          "title": "Saudia Boeing 787-10",
+          "ife": false
+        },
+        {
+          "t": "4:16",
+          "sec": 256,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "4:32",
+          "sec": 272,
+          "title": "Air Canada Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "4:46",
+          "sec": 286,
+          "title": "British Airways Boeing 787-10",
+          "ife": false
+        },
+        {
+          "t": "5:03",
+          "sec": 303,
+          "title": "United Airlines Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "5:19",
+          "sec": 319,
+          "title": "American Airlines Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "5:35",
+          "sec": 335,
+          "title": "Virgin Atlantic Airbus A330-900neo - \"Cherry Bakewell\"",
+          "ife": false
+        },
+        {
+          "t": "5:46",
+          "sec": 346,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "6:02",
+          "sec": 362,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "6:18",
+          "sec": 378,
+          "title": "American Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "6:31",
+          "sec": 391,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "6:46",
+          "sec": 406,
+          "title": "American Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "7:03",
+          "sec": 423,
+          "title": "British Airways Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "7:17",
+          "sec": 437,
+          "title": "Virgin Atlantic Boeing 787-9 - \"Miss Moneypenny\"",
+          "ife": false
+        },
+        {
+          "t": "7:34",
+          "sec": 454,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "7:49",
+          "sec": 469,
+          "title": "United Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "8:05",
+          "sec": 485,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "8:19",
+          "sec": 499,
+          "title": "American Airlines Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "8:36",
+          "sec": 516,
+          "title": "Emirates Airbus A380-800",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 11
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 6
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 29
+        },
+        {
+          "keyword": "787",
+          "mentions": 14
+        },
+        {
+          "keyword": "777",
+          "mentions": 14
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 9
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "4k_display": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4DQwB8Gs64I",
+      "title": "Biggest UAE Flags in the Sky? | Emirates' UAE Flag Decal",
+      "year": 2026,
+      "published_at": "2026-08-04T12:27:13Z",
+      "channel_title": "Emirates",
+      "view_count": 14410,
+      "like_count": 460,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 11
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Lvsg7MeNXb4",
+      "title": "How do you move Beluga Whales across a continent?",
+      "year": 2026,
+      "published_at": "2026-08-06T06:57:23Z",
+      "channel_title": "Qatar Airways",
+      "view_count": 74676,
+      "like_count": 580,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-08-06T05:56:30.480418"
+  "last_updated": "2026-08-07T05:02:42.684771"
 }
