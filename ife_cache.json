@@ -57219,26 +57219,26 @@
           "ife": true
         },
         {
-          "t": "3:19",
-          "sec": 199,
+          "t": "2:42",
+          "sec": 162,
           "title": "Dinner Service",
           "ife": false
         },
         {
-          "t": "4:33",
-          "sec": 273,
+          "t": "4:03",
+          "sec": 243,
           "title": "Restroom Tour",
           "ife": false
         },
         {
-          "t": "4:47",
-          "sec": 287,
-          "title": "Wi-Fi Speed Test",
+          "t": "4:18",
+          "sec": 258,
+          "title": "Wi-Fi Options",
           "ife": true
         },
         {
-          "t": "5:16",
-          "sec": 316,
+          "t": "4:49",
+          "sec": 289,
           "title": "Final Value Verdict",
           "ife": false
         }
@@ -117455,8 +117455,94 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F0M6im1TuNQ",
+      "title": "TRIP REPORT | United Airlines [Economy Class] Boeing 777-222ER | Newark ✈︎ San Francisco",
+      "year": 2026,
+      "published_at": "2026-08-12T21:00:35Z",
+      "channel_title": "Phil’s Aviation",
+      "view_count": 75,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OoVBW-5pj3A",
+      "title": "GOL Airlines A330 Review: Rio de Janeiro to New York Nonstop",
+      "year": 2026,
+      "published_at": "2026-08-11T12:45:30Z",
+      "channel_title": "UpgradedPoints",
+      "view_count": 75,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-13T04:57:48.722511"
+  "last_updated": "2026-08-14T04:54:43.923404"
 }
