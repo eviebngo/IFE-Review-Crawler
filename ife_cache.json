@@ -117499,7 +117499,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=OoVBW-5pj3A",
@@ -117541,8 +117543,913 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylWe-FHv-WE",
+      "title": "GRAND FINALE: Best Airline in Europe? (Finnair vs Turkish)",
+      "year": 2026,
+      "published_at": "2026-08-10T10:00:30Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 43295,
+      "like_count": 2046,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:46",
+          "sec": 46,
+          "title": "Helsinki airport",
+          "ife": false
+        },
+        {
+          "t": "01:54",
+          "sec": 114,
+          "title": "Finnair priority check-in",
+          "ife": false
+        },
+        {
+          "t": "02:22",
+          "sec": 142,
+          "title": "Finnair business class lounge",
+          "ife": false
+        },
+        {
+          "t": "04:43",
+          "sec": 283,
+          "title": "Finnair priority boarding",
+          "ife": false
+        },
+        {
+          "t": "05:03",
+          "sec": 303,
+          "title": "Finnair AirLounge seat",
+          "ife": false
+        },
+        {
+          "t": "06:53",
+          "sec": 413,
+          "title": "Finnair service",
+          "ife": false
+        },
+        {
+          "t": "08:45",
+          "sec": 525,
+          "title": "Finnair toilets",
+          "ife": false
+        },
+        {
+          "t": "09:34",
+          "sec": 574,
+          "title": "Finnair amenities",
+          "ife": false
+        },
+        {
+          "t": "11:24",
+          "sec": 684,
+          "title": "Finnair sleeping",
+          "ife": false
+        },
+        {
+          "t": "13:19",
+          "sec": 799,
+          "title": "Finnair breakfast service",
+          "ife": false
+        },
+        {
+          "t": "13:35",
+          "sec": 815,
+          "title": "Landing at New Delhi Indira Gandhi airport",
+          "ife": false
+        },
+        {
+          "t": "13:49",
+          "sec": 829,
+          "title": "Finnair thoughts",
+          "ife": false
+        },
+        {
+          "t": "14:50",
+          "sec": 890,
+          "title": "Istanbul airport",
+          "ife": false
+        },
+        {
+          "t": "15:32",
+          "sec": 932,
+          "title": "Turkish Airlines business class check-in",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Turkish Airlines  business class lounge",
+          "ife": false
+        },
+        {
+          "t": "18:37",
+          "sec": 1117,
+          "title": "Turkish Airlines  priority boarding",
+          "ife": false
+        },
+        {
+          "t": "19:20",
+          "sec": 1160,
+          "title": "Turkish Airlines seat",
+          "ife": false
+        },
+        {
+          "t": "21:03",
+          "sec": 1263,
+          "title": "Turkish Airlines service",
+          "ife": false
+        },
+        {
+          "t": "22:42",
+          "sec": 1362,
+          "title": "Turkish Airlines toilets",
+          "ife": false
+        },
+        {
+          "t": "23:31",
+          "sec": 1411,
+          "title": "Turkish Airlines amenities",
+          "ife": false
+        },
+        {
+          "t": "24:31",
+          "sec": 1471,
+          "title": "Turkish Airlines sleeping",
+          "ife": false
+        },
+        {
+          "t": "25:54",
+          "sec": 1554,
+          "title": "Turkish Airlines breakfast service",
+          "ife": false
+        },
+        {
+          "t": "26:44",
+          "sec": 1604,
+          "title": "Landing at Hanoi Noi Bai airport",
+          "ife": false
+        },
+        {
+          "t": "27:00",
+          "sec": 1620,
+          "title": "Turkish Airlines thoughts",
+          "ife": false
+        },
+        {
+          "t": "27:27",
+          "sec": 1647,
+          "title": "Final results",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 14
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 12
+        },
+        {
+          "keyword": "air france",
+          "mentions": 1
+        },
+        {
+          "keyword": "swiss",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a330",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yNdDxoasTkw",
+      "title": "How U.S. Airlines Compare To The Worlds Best Airlines",
+      "year": 2026,
+      "published_at": "2026-08-10T19:03:28Z",
+      "channel_title": "The Next Stop",
+      "view_count": 161,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Half a million passengers a day",
+          "ife": false
+        },
+        {
+          "t": "00:44",
+          "sec": 44,
+          "title": "How American became the world's largest airline",
+          "ife": false
+        },
+        {
+          "t": "02:16",
+          "sec": 136,
+          "title": "What Skytrax actually measures",
+          "ife": false
+        },
+        {
+          "t": "03:29",
+          "sec": 209,
+          "title": "Where American's numbers stop looking impressive",
+          "ife": false
+        },
+        {
+          "t": "05:13",
+          "sec": 313,
+          "title": "What Qatar, Singapore and JAL do differently",
+          "ife": false
+        },
+        {
+          "t": "06:25",
+          "sec": 385,
+          "title": "Two airlines running completely different businesses",
+          "ife": false
+        },
+        {
+          "t": "07:17",
+          "sec": 437,
+          "title": "Why the same problems keep happening",
+          "ife": false
+        },
+        {
+          "t": "08:33",
+          "sec": 513,
+          "title": "The June 2026 meltdown",
+          "ife": false
+        },
+        {
+          "t": "09:53",
+          "sec": 593,
+          "title": "Where American genuinely wins",
+          "ife": false
+        },
+        {
+          "t": "11:13",
+          "sec": 673,
+          "title": "The centennial pivot",
+          "ife": false
+        },
+        {
+          "t": "12:45",
+          "sec": 765,
+          "title": "Biggest was never the same project as best",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=10WzaPc6XcA",
+      "title": "Condor Business Class Review: Worth It? (Flying to Europe on Points with Kids)",
+      "year": 2026,
+      "published_at": "2026-08-14T13:00:03Z",
+      "channel_title": "Points Diva",
+      "view_count": 33,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 2
+        },
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "screen_size": "24\"",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3SVcjygwIfI",
+      "title": "British Airways 777 Business Class (Club Suite) - London to Los Angeles | Full Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-13T20:41:53Z",
+      "channel_title": "Home and Away with Rob",
+      "view_count": 51,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=273QkU2wuJM",
+      "title": "AIR CHINA BOEING 777-300ER (Economy) | Paris - Beijing | Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-14T15:30:40Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 6075,
+      "like_count": 198,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JN_9L7NzmFY",
+      "title": "Saudia Airlines Boeing 777-300ER | Jeddah - Jakarta Economy Class Flight Report",
+      "year": 2026,
+      "published_at": "2026-08-15T01:30:37Z",
+      "channel_title": "Dody Febriarto",
+      "view_count": 5,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Jeddah Airport Transit",
+          "ife": false
+        },
+        {
+          "t": "02:13",
+          "sec": 133,
+          "title": "Departure Walk",
+          "ife": false
+        },
+        {
+          "t": "03:03",
+          "sec": 183,
+          "title": "Boarding Saudia Flight SV818",
+          "ife": false
+        },
+        {
+          "t": "03:23",
+          "sec": 203,
+          "title": "Cabin overview",
+          "ife": false
+        },
+        {
+          "t": "04:36",
+          "sec": 276,
+          "title": "Takeoff from Jeddah",
+          "ife": false
+        },
+        {
+          "t": "06:00",
+          "sec": 360,
+          "title": "Inflight Entertainment Review",
+          "ife": true
+        },
+        {
+          "t": "07:30",
+          "sec": 450,
+          "title": "Meal Service & Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "09:02",
+          "sec": 542,
+          "title": "Descent into Jakarta",
+          "ife": false
+        },
+        {
+          "t": "10:30",
+          "sec": 630,
+          "title": "Arrival in Jakarta (CGK)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qqukY_FFmNU",
+      "title": "How the A350 saved Malaysia Airlines | An Economy Class review",
+      "year": 2026,
+      "published_at": "2026-08-12T09:15:37Z",
+      "channel_title": "Short Transit",
+      "view_count": 7368,
+      "like_count": 147,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lw0qZu_yyiw",
+      "title": "Singapore Airlines SQ406 Singapore - Delhi | 777-300ER | Business Class | Still Worth it? Review!",
+      "year": 2026,
+      "published_at": "2026-08-10T17:00:35Z",
+      "channel_title": "ANGAD SINGH NARULA",
+      "view_count": 73,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-iIPmElTePI",
+      "title": "【2026年夏】タイ航空TG683で羽田→バンコク！B777-300ER搭乗レビュー｜機内食・座席・サービスは？",
+      "year": 2026,
+      "published_at": "2026-08-09T11:00:22Z",
+      "channel_title": "Tomo / 乗り物好きの旅行記",
+      "view_count": 1994,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=d5Tn8UmtK8o",
+      "title": "Qatar vs EVA vs Iberia vs SAS: Which Business Class is Actually Worth It?",
+      "year": 2026,
+      "published_at": "2026-08-13T16:00:04Z",
+      "channel_title": "Fall For Travel",
+      "view_count": 23,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:20",
+          "sec": 20,
+          "title": "SAS Airlines",
+          "ife": false
+        },
+        {
+          "t": "02:02",
+          "sec": 122,
+          "title": "Iberia Airlines",
+          "ife": false
+        },
+        {
+          "t": "03:12",
+          "sec": 192,
+          "title": "Iberia Airlines",
+          "ife": false
+        },
+        {
+          "t": "03:40",
+          "sec": 220,
+          "title": "EVA Airlines",
+          "ife": false
+        },
+        {
+          "t": "05:38",
+          "sec": 338,
+          "title": "Qatar Airways",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 5
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lRiBi-7yzRU",
+      "title": "Trust Me, This Is The Best Economy Seat On Etihad's A380. Abu Dhabi to London Heathrow - Flight EY61",
+      "year": 2026,
+      "published_at": "2026-08-15T00:00:10Z",
+      "channel_title": "Ryancy Flight and Travel",
+      "view_count": 3,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "01:18",
+          "sec": 78,
+          "title": "AUH Airport Terminal A",
+          "ife": false
+        },
+        {
+          "t": "02:21",
+          "sec": 141,
+          "title": "Aircraft Introduction",
+          "ife": false
+        },
+        {
+          "t": "03:09",
+          "sec": 189,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:09",
+          "sec": 249,
+          "title": "Cabin Walkthrough",
+          "ife": false
+        },
+        {
+          "t": "05:27",
+          "sec": 327,
+          "title": "The Best Seat (69D)",
+          "ife": false
+        },
+        {
+          "t": "09:19",
+          "sec": 559,
+          "title": "Lavatory Visit",
+          "ife": false
+        },
+        {
+          "t": "10:57",
+          "sec": 657,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "11:30",
+          "sec": 690,
+          "title": "Departure",
+          "ife": false
+        },
+        {
+          "t": "12:55",
+          "sec": 775,
+          "title": "In-Flight Entertainment System (IFE)",
+          "ife": true
+        },
+        {
+          "t": "15:33",
+          "sec": 933,
+          "title": "Mid-night Snack",
+          "ife": false
+        },
+        {
+          "t": "16:05",
+          "sec": 965,
+          "title": "Rest Time",
+          "ife": false
+        },
+        {
+          "t": "18:47",
+          "sec": 1127,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "21:42",
+          "sec": 1302,
+          "title": "Descent and Landing",
+          "ife": false
+        },
+        {
+          "t": "23:31",
+          "sec": 1411,
+          "title": "My Review",
+          "ife": false
+        },
+        {
+          "t": "25:17",
+          "sec": 1517,
+          "title": "Bonus Clip",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-14T04:54:43.923404"
+  "last_updated": "2026-08-15T03:46:49.925599"
 }
