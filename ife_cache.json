@@ -57308,7 +57308,7 @@
         {
           "t": "0:13",
           "sec": 13,
-          "title": "737 MAX Oasis Seat Tour and Best Seats",
+          "title": "Seat Tour and Best Seats",
           "ife": false
         },
         {
@@ -115295,20 +115295,14 @@
           "ife": false
         },
         {
-          "t": "7:02",
-          "sec": 422,
-          "title": "Amenity Kit and Giveaway",
-          "ife": false
-        },
-        {
-          "t": "7:31",
-          "sec": 451,
+          "t": "6:53",
+          "sec": 413,
           "title": "Pre-Arrival Meal",
           "ife": false
         },
         {
-          "t": "7:54",
-          "sec": 474,
+          "t": "7:19",
+          "sec": 439,
           "title": "My 5-Star Rating and Landing",
           "ife": false
         }
@@ -118509,7 +118503,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0mnWvguUKrQ",
@@ -118646,7 +118642,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=mgq5Y9vhVVE",
@@ -118766,7 +118764,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=XVBfjyXTCC0",
@@ -118804,7 +118804,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=XWbdUYrYQNk",
@@ -118972,7 +118974,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.718
     },
     {
       "url": "https://www.youtube.com/watch?v=ZgRIrNQClTs",
@@ -119077,7 +119081,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.511
     },
     {
       "url": "https://www.youtube.com/watch?v=tA4XJ9fNDAk",
@@ -119158,7 +119164,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=AQZJ59un7Nw",
@@ -119280,7 +119288,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=h4epBzDAx5Q",
@@ -119400,7 +119410,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UQYAp2ecQ8s",
@@ -119441,7 +119453,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=inxDK_W-pjI",
@@ -119481,7 +119495,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=iAoUl9FvL1Y",
@@ -119528,7 +119544,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=oR65llDOU4o",
@@ -119557,7 +119575,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=B-SiUtm_-WQ",
@@ -119774,7 +119794,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=wDgKo3IL1rk",
@@ -119948,7 +119970,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=WHUVbjPztkw",
@@ -119994,7 +120018,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=l1DXivXiWvg",
@@ -120117,7 +120143,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ZF-tyNV5GiE",
@@ -120253,7 +120281,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=AKgwmNfYQys",
@@ -120279,7 +120309,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=TYaYlt9IvXA",
@@ -120323,7 +120355,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=vzM09lLzWIY",
@@ -120371,7 +120405,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=m1lbYqH4Onk",
@@ -120409,7 +120445,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=-uCw9tmq2X8",
@@ -120565,7 +120603,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=SntFecOQpHo",
@@ -120628,7 +120668,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.296
     },
     {
       "url": "https://www.youtube.com/watch?v=NIG_4ceT9MM",
@@ -120659,7 +120701,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ZLFvExEe8JQ",
@@ -120688,7 +120732,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.89
     },
     {
       "url": "https://www.youtube.com/watch?v=4GaEVK43I6M",
@@ -120790,7 +120836,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.447
     },
     {
       "url": "https://www.youtube.com/watch?v=hrYKV3OTkN4",
@@ -120819,7 +120867,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5aTkOEK0cKk",
@@ -120848,7 +120898,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://apex.aero/tag/thales-avant/",
@@ -120896,7 +120948,9 @@
       "article_quotes": [],
       "captions": [],
       "source_tier": 1,
-      "source_name": "Press"
+      "source_name": "Press",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://runwaygirlnetwork.com/2025/10/united-delta-seatback-ife-pac/",
@@ -121029,7 +121083,9 @@
       ],
       "captions": [],
       "source_tier": 1,
-      "source_name": "Press"
+      "source_name": "Press",
+      "sentiment": "positive",
+      "sentiment_score": 0.772
     },
     {
       "url": "https://runwaygirlnetwork.com/2026/08/how-anuvu-is-using-ai-to-make-the-worlds-content-fly/",
@@ -121143,8 +121199,837 @@
       ],
       "captions": [],
       "source_tier": 1,
-      "source_name": "Press"
+      "source_name": "Press",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cGdb5UGD7t8",
+      "title": "Long Haul on Qatar Airways! | Dallas - Doha | A350-1000 | Trip Report",
+      "year": 2026,
+      "published_at": "2026-08-16T23:59:20Z",
+      "channel_title": "Blaglag",
+      "view_count": 18,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro & Airport",
+          "ife": false
+        },
+        {
+          "t": "0:32",
+          "sec": 32,
+          "title": "Plane Spotting",
+          "ife": false
+        },
+        {
+          "t": "1:23",
+          "sec": 83,
+          "title": "Arrival of the A350",
+          "ife": false
+        },
+        {
+          "t": "2:01",
+          "sec": 121,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "2:20",
+          "sec": 140,
+          "title": "Seat 28K",
+          "ife": false
+        },
+        {
+          "t": "3:30",
+          "sec": 210,
+          "title": "Pushback, Engine Start, Taxi",
+          "ife": false
+        },
+        {
+          "t": "5:48",
+          "sec": 348,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "9:39",
+          "sec": 579,
+          "title": "Dinner",
+          "ife": false
+        },
+        {
+          "t": "10:23",
+          "sec": 623,
+          "title": "Washroom",
+          "ife": false
+        },
+        {
+          "t": "11:01",
+          "sec": 661,
+          "title": "Cabin and Vibe",
+          "ife": false
+        },
+        {
+          "t": "12:30",
+          "sec": 750,
+          "title": "Entertainment System",
+          "ife": true
+        },
+        {
+          "t": "16:18",
+          "sec": 978,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Sunset",
+          "ife": false
+        },
+        {
+          "t": "17:27",
+          "sec": 1047,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "18:01",
+          "sec": 1081,
+          "title": "Cabin and Exterior Views",
+          "ife": false
+        },
+        {
+          "t": "19:09",
+          "sec": 1149,
+          "title": "Approach into Doha",
+          "ife": false
+        },
+        {
+          "t": "19:55",
+          "sec": 1195,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "26:42",
+          "sec": 1602,
+          "title": "De-boarding and thank you for watching!",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jDmuOWkGwUg",
+      "title": "Cathay Pacific Economy is full of surprises! (TPE to HKG Review)",
+      "year": 2026,
+      "published_at": "2026-08-16T13:41:53Z",
+      "channel_title": "First Travel",
+      "view_count": 30,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Boarding at Taipei (TPE)",
+          "ife": false
+        },
+        {
+          "t": "0:33",
+          "sec": 33,
+          "title": "Legroom and Seat Comfort",
+          "ife": false
+        },
+        {
+          "t": "1:42",
+          "sec": 102,
+          "title": "Taxi and Takeoff from Taipei",
+          "ife": false
+        },
+        {
+          "t": "2:13",
+          "sec": 133,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "2:34",
+          "sec": 154,
+          "title": "Wi-Fi Options",
+          "ife": true
+        },
+        {
+          "t": "2:49",
+          "sec": 169,
+          "title": "Hot Meal and Beverage Service",
+          "ife": false
+        },
+        {
+          "t": "3:06",
+          "sec": 186,
+          "title": "Restroom Tour",
+          "ife": false
+        },
+        {
+          "t": "3:13",
+          "sec": 193,
+          "title": "Final Rating and Verdict",
+          "ife": false
+        },
+        {
+          "t": "3:54",
+          "sec": 234,
+          "title": "Landing at Hong Kong (HKG)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rSeGCFX9kCo",
+      "title": "CX600 Phnom Penh(KTI) to Hong Kong(HKG) in ECONOMY | Cathay Pacific’ Airbus A330-300",
+      "year": 2026,
+      "published_at": "2026-08-16T08:21:27Z",
+      "channel_title": "Just Flying ",
+      "view_count": 54,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a330",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gOAGdVh1OPI",
+      "title": "6 HOURS in THAI AIR ASIA X | XJ600 Bangkok DMK to Tokyo Narita Full Flight Experience | A330-300",
+      "year": 2026,
+      "published_at": "2026-08-14T11:30:09Z",
+      "channel_title": "Traveller TP",
+      "view_count": 78,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:22",
+          "sec": 22,
+          "title": "Check In",
+          "ife": false
+        },
+        {
+          "t": "01:22",
+          "sec": 82,
+          "title": "Inside the terminal",
+          "ife": false
+        },
+        {
+          "t": "02:26",
+          "sec": 146,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:50",
+          "sec": 290,
+          "title": "Boarding complete",
+          "ife": false
+        },
+        {
+          "t": "05:14",
+          "sec": 314,
+          "title": "Seat review",
+          "ife": false
+        },
+        {
+          "t": "08:45",
+          "sec": 525,
+          "title": "Saftey video",
+          "ife": false
+        },
+        {
+          "t": "10:17",
+          "sec": 617,
+          "title": "Delay announcement",
+          "ife": false
+        },
+        {
+          "t": "10:44",
+          "sec": 644,
+          "title": "Push back",
+          "ife": false
+        },
+        {
+          "t": "12:32",
+          "sec": 752,
+          "title": "Engine startup",
+          "ife": false
+        },
+        {
+          "t": "14:48",
+          "sec": 888,
+          "title": "Taxi to runway",
+          "ife": false
+        },
+        {
+          "t": "17:52",
+          "sec": 1072,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "19:31",
+          "sec": 1171,
+          "title": "Landmarks of Bangkok",
+          "ife": false
+        },
+        {
+          "t": "22:24",
+          "sec": 1344,
+          "title": "Seatbelt off",
+          "ife": false
+        },
+        {
+          "t": "23:18",
+          "sec": 1398,
+          "title": "Turbulence",
+          "ife": false
+        },
+        {
+          "t": "24:33",
+          "sec": 1473,
+          "title": "Toilet review",
+          "ife": false
+        },
+        {
+          "t": "26:27",
+          "sec": 1587,
+          "title": "View of Da Nang, Vietnam",
+          "ife": false
+        },
+        {
+          "t": "26:45",
+          "sec": 1605,
+          "title": "View of Taichung, Taiwan",
+          "ife": false
+        },
+        {
+          "t": "26:56",
+          "sec": 1616,
+          "title": "View of Yilan, Taiwan",
+          "ife": false
+        },
+        {
+          "t": "27:06",
+          "sec": 1626,
+          "title": "Sunrise",
+          "ife": false
+        },
+        {
+          "t": "27:42",
+          "sec": 1662,
+          "title": "Crew serving breakfast",
+          "ife": false
+        },
+        {
+          "t": "30:27",
+          "sec": 1827,
+          "title": "View of Yakushima National Park",
+          "ife": false
+        },
+        {
+          "t": "32:13",
+          "sec": 1933,
+          "title": "Captain's announcement",
+          "ife": false
+        },
+        {
+          "t": "34:02",
+          "sec": 2042,
+          "title": "Descend",
+          "ife": false
+        },
+        {
+          "t": "34:23",
+          "sec": 2063,
+          "title": "View of Miyake Island",
+          "ife": false
+        },
+        {
+          "t": "34:30",
+          "sec": 2070,
+          "title": "Thank you from AirAsia",
+          "ife": false
+        },
+        {
+          "t": "35:15",
+          "sec": 2115,
+          "title": "Seatbelt signs turned on",
+          "ife": false
+        },
+        {
+          "t": "36:29",
+          "sec": 2189,
+          "title": "Hold before final approach",
+          "ife": false
+        },
+        {
+          "t": "36:59",
+          "sec": 2219,
+          "title": "Final approach",
+          "ife": false
+        },
+        {
+          "t": "39:19",
+          "sec": 2359,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "47:46",
+          "sec": 2866,
+          "title": "Final thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wKhIqooOW0A",
+      "title": "India to Maldives Flight Journey: Is Sri Lankan Airlines Worth It? | Reel Life Holidays",
+      "year": 2026,
+      "published_at": "2026-08-16T13:30:10Z",
+      "channel_title": "Reel Life Holidays",
+      "view_count": 2,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "a320",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lCa5XY9VVRY",
+      "title": "Air India 787-8 Flight Review: New Delhi Indira Gandhi Airport To Tel Aviv Ben Gurion Airport",
+      "year": 2026,
+      "published_at": "2026-08-16T04:54:10Z",
+      "channel_title": "RBSpotter",
+      "view_count": 874,
+      "like_count": 15,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6b1eX5toY8Q",
+      "title": "Suprisingly Good?! | NEW iniBuilds/Local Legends Boeing 707 for MSFS 2024 | Real? Boeing Pilot...",
+      "year": 2026,
+      "published_at": "2026-08-12T18:19:57Z",
+      "channel_title": "V1-Simulations",
+      "view_count": 11269,
+      "like_count": 418,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "a320",
+          "mentions": 2
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZbxopyMaXq0",
+      "title": "Flydubai's New Service: Belgrade to Dubai Trip Report | Economy Class",
+      "year": 2026,
+      "published_at": "2026-08-12T00:40:35Z",
+      "channel_title": "Timothy Rogers",
+      "view_count": 2,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GafTxtAe83k",
+      "title": "I Took Spain's MOST SCENIC Railway Journey 🚅 🇪🇸",
+      "year": 2026,
+      "published_at": "2026-08-07T11:00:38Z",
+      "channel_title": "Nonstop Eurotrip",
+      "view_count": 26888,
+      "like_count": 1087,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "01:14",
+          "sec": 74,
+          "title": "Arrival at Madrid Chamartín & Tour",
+          "ife": false
+        },
+        {
+          "t": "02:58",
+          "sec": 178,
+          "title": "Route & Train Info",
+          "ife": false
+        },
+        {
+          "t": "04:45",
+          "sec": 285,
+          "title": "MantaSleep: Amazing Sleep Masks!",
+          "ife": false
+        },
+        {
+          "t": "05:42",
+          "sec": 342,
+          "title": "Departure & Pricing",
+          "ife": false
+        },
+        {
+          "t": "07:50",
+          "sec": 470,
+          "title": "Breakfast Time!",
+          "ife": false
+        },
+        {
+          "t": "08:12",
+          "sec": 492,
+          "title": "Talgo Problems...",
+          "ife": false
+        },
+        {
+          "t": "08:45",
+          "sec": 525,
+          "title": "First Class Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "10:08",
+          "sec": 608,
+          "title": "Toilet Check!",
+          "ife": false
+        },
+        {
+          "t": "10:52",
+          "sec": 652,
+          "title": "Amazing #TrainWindowViews",
+          "ife": false
+        },
+        {
+          "t": "11:52",
+          "sec": 712,
+          "title": "The Future of the Line?",
+          "ife": false
+        },
+        {
+          "t": "12:34",
+          "sec": 754,
+          "title": "Second Class Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "13:02",
+          "sec": 782,
+          "title": "Catering Options",
+          "ife": false
+        },
+        {
+          "t": "14:00",
+          "sec": 840,
+          "title": "Tabernas Desert",
+          "ife": false
+        },
+        {
+          "t": "14:55",
+          "sec": 895,
+          "title": "Trip Summary",
+          "ife": false
+        },
+        {
+          "t": "15:30",
+          "sec": 930,
+          "title": "Arrival in Almería & Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-16T03:56:36.018072"
+  "last_updated": "2026-08-17T03:57:29.850438"
 }
