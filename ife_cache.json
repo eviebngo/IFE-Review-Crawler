@@ -121361,7 +121361,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=jDmuOWkGwUg",
@@ -121467,7 +121469,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.294
     },
     {
       "url": "https://www.youtube.com/watch?v=rSeGCFX9kCo",
@@ -121508,7 +121512,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=gOAGdVh1OPI",
@@ -121732,7 +121738,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=wKhIqooOW0A",
@@ -121777,7 +121785,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.542
     },
     {
       "url": "https://www.youtube.com/watch?v=lCa5XY9VVRY",
@@ -121826,7 +121836,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=6b1eX5toY8Q",
@@ -121874,7 +121886,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ZbxopyMaXq0",
@@ -121900,7 +121914,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=GafTxtAe83k",
@@ -122028,8 +122044,316 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DLHVknlogS8",
+      "title": "CX600 Phnom Penh(KTI) to Hong Kong(HKG) in ECONOMY | Cathay Pacific Airbus A330-300",
+      "year": 2026,
+      "published_at": "2026-08-17T22:01:25Z",
+      "channel_title": "Just Flying ",
+      "view_count": 11,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a330",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lldwewquyqI",
+      "title": "British Airways 777-300ER World Traveller | Heathrow to JFK Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-17T16:00:39Z",
+      "channel_title": "Katie's and Ryan's Adventures",
+      "view_count": 35,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mq-mLvsqgC4",
+      "title": "🇲🇾 Kuala Lumpur - Bangkok 🇹🇭 | Thai Airways Boeing 787-9 Economy Class | Full Flight Report",
+      "year": 2026,
+      "published_at": "2026-08-17T15:30:25Z",
+      "channel_title": "The SkyDeck Reports",
+      "view_count": 70,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction / Traveling to KLIA via KLIA Ekspres",
+          "ife": false
+        },
+        {
+          "t": "02:20",
+          "sec": 140,
+          "title": "KLIA Terminal 1",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "Train to Gates C",
+          "ife": false
+        },
+        {
+          "t": "07:25",
+          "sec": 445,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "09:00",
+          "sec": 540,
+          "title": "Thai Airways Safety Video",
+          "ife": false
+        },
+        {
+          "t": "09:50",
+          "sec": 590,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "10:35",
+          "sec": 635,
+          "title": "Taxi",
+          "ife": false
+        },
+        {
+          "t": "15:00",
+          "sec": 900,
+          "title": "Take of from Kuala Lumpur International Airport",
+          "ife": false
+        },
+        {
+          "t": "19:00",
+          "sec": 1140,
+          "title": "Earphones Economy Class",
+          "ife": false
+        },
+        {
+          "t": "19:20",
+          "sec": 1160,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "20:15",
+          "sec": 1215,
+          "title": "Lunch",
+          "ife": false
+        },
+        {
+          "t": "21:45",
+          "sec": 1305,
+          "title": "In Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "25:35",
+          "sec": 1535,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "25:55",
+          "sec": 1555,
+          "title": "Landing at Suvarnabhumi International Airport",
+          "ife": false
+        },
+        {
+          "t": "27:50",
+          "sec": 1670,
+          "title": "Taxi to Gate",
+          "ife": false
+        },
+        {
+          "t": "30:50",
+          "sec": 1850,
+          "title": "Deplane",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H4YtygsS3Dw",
+      "title": "Tao Lin, Jordan Castro & Victoria Trumbull: What Is It Like to Be Alive? | ZOË 2026",
+      "year": 2026,
+      "published_at": "2026-08-17T19:30:28Z",
+      "channel_title": "Cluny Institute",
+      "view_count": 104,
+      "like_count": 9,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-p8HidIa9ww",
+      "title": "[TRIP REPORT] Air Canada Boeing 787-9 (BUSINESS CLASS) Vancouver (YVR) - Hong Kong (HKG)",
+      "year": 2026,
+      "published_at": "2026-08-17T16:00:35Z",
+      "channel_title": "theplanesguy",
+      "view_count": 333,
+      "like_count": 22,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-17T03:57:29.850438"
+  "last_updated": "2026-08-18T03:52:21.008186"
 }
