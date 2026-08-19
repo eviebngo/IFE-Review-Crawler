@@ -86617,51 +86617,51 @@
           "ife": false
         },
         {
-          "t": "0:42",
-          "sec": 42,
+          "t": "0:17",
+          "sec": 17,
           "title": "Seat Features and Storage",
           "ife": false
         },
         {
-          "t": "2:33",
-          "sec": 153,
+          "t": "1:56",
+          "sec": 116,
           "title": "Takeoff from Male (MLE)",
           "ife": false
         },
         {
-          "t": "2:52",
-          "sec": 172,
+          "t": "2:14",
+          "sec": 134,
           "title": "Dine-on-Demand Dinner Service",
           "ife": false
         },
         {
-          "t": "5:18",
-          "sec": 318,
+          "t": "4:41",
+          "sec": 281,
           "title": "Inflight Entertainment System",
           "ife": true
         },
         {
-          "t": "5:43",
-          "sec": 343,
+          "t": "5:04",
+          "sec": 304,
           "title": "Business Class Restroom",
           "ife": false
         },
         {
-          "t": "5:59",
-          "sec": 359,
+          "t": "5:21",
+          "sec": 321,
           "title": "Lie-Flat Bedding Review",
           "ife": false
         },
         {
-          "t": "6:35",
-          "sec": 395,
+          "t": "5:58",
+          "sec": 358,
           "title": "Final Verdict vs Qsuite",
           "ife": false
         },
         {
-          "t": "7:10",
-          "sec": 430,
-          "title": "Approach and Landing at DOH",
+          "t": "6:32",
+          "sec": 392,
+          "title": "Approach and Landing (DOH)",
           "ife": false
         }
       ],
@@ -122087,7 +122087,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=lldwewquyqI",
@@ -122133,7 +122135,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=mq-mLvsqgC4",
@@ -122274,7 +122278,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=H4YtygsS3Dw",
@@ -122300,7 +122306,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.625
     },
     {
       "url": "https://www.youtube.com/watch?v=-p8HidIa9ww",
@@ -122352,8 +122360,321 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cAAemA-FwDY",
+      "title": "I Was Served McDonald’s! Philippine Airlines A321-200 Manila to Singapore full flight review",
+      "year": 2026,
+      "published_at": "2026-08-13T19:00:25Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 9438,
+      "like_count": 148,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iqq_oGgKOU4",
+      "title": "TRIP REPORT I Dublin to Doha Hamad I Qatar Airways Boeing 787-8 Dreamliner",
+      "year": 2026,
+      "published_at": "2026-08-14T18:25:09Z",
+      "channel_title": "theaviationguy9",
+      "view_count": 272,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Arrival at Dublin",
+          "ife": false
+        },
+        {
+          "t": "02:40",
+          "sec": 160,
+          "title": "Post Check-In and Security",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "Planespotting",
+          "ife": false
+        },
+        {
+          "t": "07:40",
+          "sec": 460,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "20:05",
+          "sec": 1205,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "25:00",
+          "sec": 1500,
+          "title": "Seat and IFE",
+          "ife": true
+        },
+        {
+          "t": "33:40",
+          "sec": 2020,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "33:52",
+          "sec": 2032,
+          "title": "More flying",
+          "ife": false
+        },
+        {
+          "t": "34:46",
+          "sec": 2086,
+          "title": "Sunset",
+          "ife": false
+        },
+        {
+          "t": "37:28",
+          "sec": 2248,
+          "title": "Snack",
+          "ife": false
+        },
+        {
+          "t": "37:41",
+          "sec": 2261,
+          "title": "Descent into Doha Hamad",
+          "ife": false
+        },
+        {
+          "t": "42:38",
+          "sec": 2558,
+          "title": "Final Approach",
+          "ife": false
+        },
+        {
+          "t": "43:15",
+          "sec": 2595,
+          "title": "Landing at Doha Hamad",
+          "ife": false
+        },
+        {
+          "t": "44:00",
+          "sec": 2640,
+          "title": "Taxi to Gate",
+          "ife": false
+        },
+        {
+          "t": "51:21",
+          "sec": 3081,
+          "title": "Deboarding",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0LShAMFLhq4",
+      "title": "WORLD'S LONGEST - Singapore Airlines Business Class - Singapore to New York JFK - SQ24",
+      "year": 2026,
+      "published_at": "2026-08-19T03:22:46Z",
+      "channel_title": "windowseatguy",
+      "view_count": 4,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zf0ZLLBChq0",
+      "title": "SANSA AIRLINES CESSNA 208B Grand Caravan | San Jose - Puerto Jimenez | Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-18T15:30:21Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 3406,
+      "like_count": 172,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MuWvkcUvQzE",
+      "title": "We Built the Arsenal Crest From Retired Aircraft Parts | Emirates",
+      "year": 2026,
+      "published_at": "2026-08-18T12:01:27Z",
+      "channel_title": "Emirates",
+      "view_count": 33861,
+      "like_count": 1392,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-08-18T03:52:21.008186"
+  "last_updated": "2026-08-19T03:53:01.053428"
 }
