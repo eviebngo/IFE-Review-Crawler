@@ -122397,7 +122397,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=iqq_oGgKOU4",
@@ -122558,7 +122560,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0LShAMFLhq4",
@@ -122603,7 +122607,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=zf0ZLLBChq0",
@@ -122627,7 +122633,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.459
     },
     {
       "url": "https://www.youtube.com/watch?v=MuWvkcUvQzE",
@@ -122673,8 +122681,515 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-PWGSCsrbiw",
+      "title": "Reason why Emirates is better than Qatar Airways | Economy Class Face-off",
+      "year": 2026,
+      "published_at": "2026-08-14T16:16:32Z",
+      "channel_title": "Rizwan MH Osman",
+      "view_count": 186,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f0tfhnjeOT8",
+      "title": "Cathay Pacific's Economy Class Review: Hong Kong to Taipei (HKG-TPE) | A330-300",
+      "year": 2026,
+      "published_at": "2026-08-19T22:00:34Z",
+      "channel_title": "Your Pal Hachi",
+      "view_count": 11,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:11",
+          "sec": 11,
+          "title": "Cabin Layout",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "01:23",
+          "sec": 83,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "01:39",
+          "sec": 99,
+          "title": "In-flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "02:13",
+          "sec": 133,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "02:26",
+          "sec": 146,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "02:50",
+          "sec": 170,
+          "title": "Points Sweet Spot Tip (Qatar Airways Avios!)",
+          "ife": false
+        },
+        {
+          "t": "03:33",
+          "sec": 213,
+          "title": "Final Thoughts & Conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 5
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jIfS3a_uCEE",
+      "title": "REVIEW | All Nippon Airways | Tokyo (NRT) - Chicago (ORD) | Boeing 777-300ER | Business Class",
+      "year": 2026,
+      "published_at": "2026-08-19T20:15:02Z",
+      "channel_title": "Global Aviation & Travel",
+      "view_count": 537,
+      "like_count": 41,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gzObnW1WVhI",
+      "title": "LATAM Airlines  LATAM +  Seat Review |  From Lima 🇵🇪 to LAX by LATAM Boeing 767-300 Premium Economy",
+      "year": 2026,
+      "published_at": "2026-08-14T23:00:23Z",
+      "channel_title": "Journeys in Style ",
+      "view_count": 91,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tM65du2sENw",
+      "title": "15 Hours to Australia! 🇦🇺 American Airlines LAX to Sydney Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-19T15:16:30Z",
+      "channel_title": "Daryl Pritchard Videos",
+      "view_count": 35,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Tluw5AZY1Sw",
+      "title": "USA Lost The Air War To Iran (And What It Means)",
+      "year": 2026,
+      "published_at": "2026-08-19T15:09:31Z",
+      "channel_title": "WayOfService",
+      "view_count": 53,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "We Lost the Air Campaign",
+          "ife": false
+        },
+        {
+          "t": "4:04",
+          "sec": 244,
+          "title": "The SPR Countdown to January",
+          "ife": false
+        },
+        {
+          "t": "9:02",
+          "sec": 542,
+          "title": "13 Bases, 42 Aircraft, 153 Countries",
+          "ife": false
+        },
+        {
+          "t": "17:37",
+          "sec": 1057,
+          "title": "Moral Bankruptcy: Why the US Lost",
+          "ife": false
+        },
+        {
+          "t": "23:52",
+          "sec": 1432,
+          "title": "Suez 1956: How the Last Empire Fell",
+          "ife": false
+        },
+        {
+          "t": "31:44",
+          "sec": 1904,
+          "title": "Chat & Comments: Who Called It First",
+          "ife": false
+        },
+        {
+          "t": "40:00",
+          "sec": 2400,
+          "title": "God's Wrath Reframed + Prep to Give",
+          "ife": false
+        },
+        {
+          "t": "45:41",
+          "sec": 2741,
+          "title": "Matthew 6 Live: Do Not Worry",
+          "ife": false
+        },
+        {
+          "t": "53:45",
+          "sec": 3225,
+          "title": "Chat: Can Atheists Follow the Way?",
+          "ife": false
+        },
+        {
+          "t": "57:24",
+          "sec": 3444,
+          "title": "Comment Battle: Asymmetric Warfare",
+          "ife": false
+        },
+        {
+          "t": "1:06:00",
+          "sec": 3960,
+          "title": "Armageddon, Mistranslations, and AI",
+          "ife": false
+        },
+        {
+          "t": "1:14:55",
+          "sec": 4495,
+          "title": "January Prediction + Joint Chiefs Confirm",
+          "ife": false
+        },
+        {
+          "t": "1:30:12",
+          "sec": 5412,
+          "title": "Fact-Check Me + Hyperinflation Math",
+          "ife": false
+        },
+        {
+          "t": "1:35:33",
+          "sec": 5733,
+          "title": "Final Warning: Comment Battle Ends",
+          "ife": false
+        },
+        {
+          "t": "1:48:06",
+          "sec": 6486,
+          "title": "Asking Claude Live: Thesis Comparison",
+          "ife": false
+        },
+        {
+          "t": "1:54:57",
+          "sec": 6897,
+          "title": "The Professor Who Predicted the War",
+          "ife": false
+        },
+        {
+          "t": "2:06:49",
+          "sec": 7609,
+          "title": "Chat: Life Review, IANDS, AI Futures",
+          "ife": true
+        },
+        {
+          "t": "2:15:12",
+          "sec": 8112,
+          "title": "What the 3.5% Did Last Time",
+          "ife": false
+        },
+        {
+          "t": "2:21:40",
+          "sec": 8500,
+          "title": "Chat: Does Evil Serve God's Design?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=01emxvS7J0I",
+      "title": "TRIPREPORT #39 | SQ 423 | MUMBAI — SINGAPORE | BOEING 777-300ER | 9V-SNB | 09/08/2026",
+      "year": 2026,
+      "published_at": "2026-08-11T14:30:00Z",
+      "channel_title": "Car_Fan_101",
+      "view_count": 154,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HOoS_BPF_sU",
+      "title": "British Airways Boeing 777-300ER Flight Sound | London Heathrow to Washington Dulles",
+      "year": 2026,
+      "published_at": "2026-08-19T15:00:07Z",
+      "channel_title": "First Travel",
+      "view_count": 56,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Taxiing at London Heathrow",
+          "ife": false
+        },
+        {
+          "t": "1:53",
+          "sec": 113,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "2:42",
+          "sec": 162,
+          "title": "Cruise Audio",
+          "ife": false
+        },
+        {
+          "t": "3:42",
+          "sec": 222,
+          "title": "Approach - Landing at Washington Dulles",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-19T03:53:01.053428"
+  "last_updated": "2026-08-20T03:55:42.871233"
 }
