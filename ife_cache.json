@@ -122719,7 +122719,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=f0tfhnjeOT8",
@@ -122823,7 +122825,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=jIfS3a_uCEE",
@@ -122863,7 +122867,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=gzObnW1WVhI",
@@ -122896,7 +122902,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=tM65du2sENw",
@@ -122931,7 +122939,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Tluw5AZY1Sw",
@@ -123072,7 +123082,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.735
     },
     {
       "url": "https://www.youtube.com/watch?v=01emxvS7J0I",
@@ -123125,7 +123137,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=HOoS_BPF_sU",
@@ -123188,8 +123202,776 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y5b3K6NkcEA",
+      "title": "I Flew EMIRATES' A380 on a Rare 5th Freedom Flight! 🇹🇭 ✈️ 🇭🇰 BANGKOK to HONG KONG Review",
+      "year": 2026,
+      "published_at": "2026-08-15T07:00:39Z",
+      "channel_title": "Roam with Jerome",
+      "view_count": 1694,
+      "like_count": 32,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:10",
+          "sec": 10,
+          "title": "Arrival at Bangkok Airport!",
+          "ife": false
+        },
+        {
+          "t": "00:22",
+          "sec": 22,
+          "title": "Check-in",
+          "ife": false
+        },
+        {
+          "t": "01:01",
+          "sec": 61,
+          "title": "Air Side",
+          "ife": false
+        },
+        {
+          "t": "02:54",
+          "sec": 174,
+          "title": "Miracle Business Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:18",
+          "sec": 198,
+          "title": "Boarding Gate",
+          "ife": false
+        },
+        {
+          "t": "03:45",
+          "sec": 225,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "05:03",
+          "sec": 303,
+          "title": "Main Deck",
+          "ife": false
+        },
+        {
+          "t": "06:06",
+          "sec": 366,
+          "title": "Seats",
+          "ife": false
+        },
+        {
+          "t": "10:17",
+          "sec": 617,
+          "title": "In Flight Entertainment / ICE",
+          "ife": true
+        },
+        {
+          "t": "12:38",
+          "sec": 758,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "13:04",
+          "sec": 784,
+          "title": "Cabin",
+          "ife": false
+        },
+        {
+          "t": "13:33",
+          "sec": 813,
+          "title": "Camera",
+          "ife": false
+        },
+        {
+          "t": "13:50",
+          "sec": 830,
+          "title": "Safety Demonstrations",
+          "ife": false
+        },
+        {
+          "t": "14:20",
+          "sec": 860,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "14:58",
+          "sec": 898,
+          "title": "Taxiing",
+          "ife": false
+        },
+        {
+          "t": "15:12",
+          "sec": 912,
+          "title": "Music / 3D Map",
+          "ife": false
+        },
+        {
+          "t": "15:47",
+          "sec": 947,
+          "title": "Take-Off",
+          "ife": false
+        },
+        {
+          "t": "16:15",
+          "sec": 975,
+          "title": "Plane Details",
+          "ife": false
+        },
+        {
+          "t": "16:33",
+          "sec": 993,
+          "title": "Take-Off",
+          "ife": false
+        },
+        {
+          "t": "17:37",
+          "sec": 1057,
+          "title": "Cabin",
+          "ife": false
+        },
+        {
+          "t": "19:28",
+          "sec": 1168,
+          "title": "Meal",
+          "ife": false
+        },
+        {
+          "t": "20:44",
+          "sec": 1244,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "22:13",
+          "sec": 1333,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "24:58",
+          "sec": 1498,
+          "title": "Main Deck",
+          "ife": false
+        },
+        {
+          "t": "26:10",
+          "sec": 1570,
+          "title": "Updated from the cockpit",
+          "ife": false
+        },
+        {
+          "t": "26:32",
+          "sec": 1592,
+          "title": "Preparing for Landing",
+          "ife": false
+        },
+        {
+          "t": "26:56",
+          "sec": 1616,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "29:00",
+          "sec": 1740,
+          "title": "Taxiing",
+          "ife": false
+        },
+        {
+          "t": "30:22",
+          "sec": 1822,
+          "title": "Disembarkation",
+          "ife": false
+        },
+        {
+          "t": "31:05",
+          "sec": 1865,
+          "title": "Flight Review",
+          "ife": false
+        },
+        {
+          "t": "32:05",
+          "sec": 1925,
+          "title": "Welcome to Hong Kong!",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=31Z0fe3qfcA",
+      "title": "Oman Air 787-9 ECONOMY CLASS - How does it compare with Emirates/Etihad/Qatar?",
+      "year": 2026,
+      "published_at": "2026-08-20T04:00:37Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 6371,
+      "like_count": 354,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:32",
+          "sec": 92,
+          "title": "Montale Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:52",
+          "sec": 172,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "Seat 20A & features",
+          "ife": false
+        },
+        {
+          "t": "05:17",
+          "sec": 317,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "05:49",
+          "sec": 349,
+          "title": "Taxi & takeoff",
+          "ife": false
+        },
+        {
+          "t": "07:46",
+          "sec": 466,
+          "title": "Dinner service",
+          "ife": false
+        },
+        {
+          "t": "09:25",
+          "sec": 565,
+          "title": "Refreshment",
+          "ife": false
+        },
+        {
+          "t": "10:47",
+          "sec": 647,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "12:53",
+          "sec": 773,
+          "title": "Saily eSIM",
+          "ife": false
+        },
+        {
+          "t": "14:12",
+          "sec": 852,
+          "title": "Muscat vlog",
+          "ife": false
+        },
+        {
+          "t": "22:29",
+          "sec": 1349,
+          "title": "check-in",
+          "ife": false
+        },
+        {
+          "t": "23:13",
+          "sec": 1393,
+          "title": "Oman Air Business Lounge",
+          "ife": false
+        },
+        {
+          "t": "25:33",
+          "sec": 1533,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "26:39",
+          "sec": 1599,
+          "title": "Seat 33A & features",
+          "ife": false
+        },
+        {
+          "t": "28:46",
+          "sec": 1726,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "30:22",
+          "sec": 1822,
+          "title": "Dinner service",
+          "ife": false
+        },
+        {
+          "t": "32:43",
+          "sec": 1963,
+          "title": "Conclusion & landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UYfdsROn0Gk",
+      "title": "The World's Shortest Route on B787-10?! | Vietnam Airlines | Danang - Hanoi | 4K Trip Report",
+      "year": 2026,
+      "published_at": "2026-08-20T04:30:00Z",
+      "channel_title": "Real Tran",
+      "view_count": 1138,
+      "like_count": 14,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro + flight path",
+          "ife": false
+        },
+        {
+          "t": "00:53",
+          "sec": 53,
+          "title": "Domestic Terminal, Danang International Airport (DAD)",
+          "ife": false
+        },
+        {
+          "t": "04:45",
+          "sec": 285,
+          "title": "Self-Check-in at Vietnam Airlines’s Kiosks",
+          "ife": false
+        },
+        {
+          "t": "07:00",
+          "sec": 420,
+          "title": "Baggage Drop-off",
+          "ife": false
+        },
+        {
+          "t": "08:14",
+          "sec": 494,
+          "title": "Security check",
+          "ife": false
+        },
+        {
+          "t": "08:43",
+          "sec": 523,
+          "title": "Departure Hall",
+          "ife": false
+        },
+        {
+          "t": "10:15",
+          "sec": 615,
+          "title": "Plane Spotting",
+          "ife": false
+        },
+        {
+          "t": "12:00",
+          "sec": 720,
+          "title": "Boarding begins at Gate 3",
+          "ife": false
+        },
+        {
+          "t": "14:18",
+          "sec": 858,
+          "title": "Shuttle bus",
+          "ife": false
+        },
+        {
+          "t": "15:48",
+          "sec": 948,
+          "title": "Reach the Boeing 787-10",
+          "ife": false
+        },
+        {
+          "t": "18:46",
+          "sec": 1126,
+          "title": "Window Seat 36K",
+          "ife": false
+        },
+        {
+          "t": "19:25",
+          "sec": 1165,
+          "title": "Seat amenities",
+          "ife": false
+        },
+        {
+          "t": "20:30",
+          "sec": 1230,
+          "title": "IFE Entertainment System",
+          "ife": true
+        },
+        {
+          "t": "23:30",
+          "sec": 1410,
+          "title": "In-Flight Safety Instruction Movie",
+          "ife": false
+        },
+        {
+          "t": "26:43",
+          "sec": 1603,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "28:21",
+          "sec": 1701,
+          "title": "Heading to the runway",
+          "ife": false
+        },
+        {
+          "t": "30:17",
+          "sec": 1817,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "42:02",
+          "sec": 2522,
+          "title": "Red River Delta",
+          "ife": false
+        },
+        {
+          "t": "43:23",
+          "sec": 2603,
+          "title": "Descending",
+          "ife": false
+        },
+        {
+          "t": "46:51",
+          "sec": 2811,
+          "title": "Final Approaching",
+          "ife": false
+        },
+        {
+          "t": "47:48",
+          "sec": 2868,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "49:45",
+          "sec": 2985,
+          "title": "Taxiing to the terminal",
+          "ife": false
+        },
+        {
+          "t": "52:36",
+          "sec": 3156,
+          "title": "Disembarking",
+          "ife": false
+        },
+        {
+          "t": "53:50",
+          "sec": 3230,
+          "title": "Last look at B787-10",
+          "ife": false
+        },
+        {
+          "t": "54:33",
+          "sec": 3273,
+          "title": "Arrival Hall / Terminal 1",
+          "ife": false
+        },
+        {
+          "t": "56:08",
+          "sec": 3368,
+          "title": "Baggage Claim Area + Airport Exit",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cIa2pn2y_ok",
+      "title": "China Airlines Flight Review: Is it better than EVA Air?",
+      "year": 2026,
+      "published_at": "2026-08-20T04:00:12Z",
+      "channel_title": "Food and Travel",
+      "view_count": 9,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:41",
+          "sec": 41,
+          "title": "Air-side",
+          "ife": false
+        },
+        {
+          "t": "01:37",
+          "sec": 97,
+          "title": "Our Aircraft Today",
+          "ife": false
+        },
+        {
+          "t": "1:55",
+          "sec": 115,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "2:04",
+          "sec": 124,
+          "title": "Seat 54 A and it's contents",
+          "ife": true
+        },
+        {
+          "t": "2:41",
+          "sec": 161,
+          "title": "Push-back",
+          "ife": false
+        },
+        {
+          "t": "3:55",
+          "sec": 235,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "04:14",
+          "sec": 254,
+          "title": "Taxi",
+          "ife": false
+        },
+        {
+          "t": "04:39",
+          "sec": 279,
+          "title": "Take-off",
+          "ife": false
+        },
+        {
+          "t": "06:04",
+          "sec": 364,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "06:29",
+          "sec": 389,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "06:40",
+          "sec": 400,
+          "title": "Meal",
+          "ife": false
+        },
+        {
+          "t": "06:50",
+          "sec": 410,
+          "title": "Main Meal",
+          "ife": false
+        },
+        {
+          "t": "07:35",
+          "sec": 455,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "08:20",
+          "sec": 500,
+          "title": "Landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-20T03:55:42.871233"
+  "last_updated": "2026-08-21T03:56:55.458361"
 }
