@@ -123442,7 +123442,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.67
     },
     {
       "url": "https://www.youtube.com/watch?v=31Z0fe3qfcA",
@@ -123622,7 +123624,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UYfdsROn0Gk",
@@ -123834,7 +123838,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=cIa2pn2y_ok",
@@ -123970,8 +123976,681 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-tXAU3jOYdE",
+      "title": "13 Hours in Singapore Airlines A380 Economy (Is It Overrated?)",
+      "year": 2026,
+      "published_at": "2026-08-21T16:30:39Z",
+      "channel_title": "Travels by Dreamer",
+      "view_count": 766,
+      "like_count": 46,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Is Singapore Airlines worth the premium?",
+          "ife": false
+        },
+        {
+          "t": "00:28",
+          "sec": 28,
+          "title": "T2 arrival & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:18",
+          "sec": 78,
+          "title": "Boarding & cabin tour",
+          "ife": false
+        },
+        {
+          "t": "03:29",
+          "sec": 209,
+          "title": "Dinner Service: Is the food actually high-end?",
+          "ife": false
+        },
+        {
+          "t": "05:04",
+          "sec": 304,
+          "title": "Inflight Entertainment (KrisWorld)",
+          "ife": true
+        },
+        {
+          "t": "05:38",
+          "sec": 338,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "06:10",
+          "sec": 370,
+          "title": "Final thoughts: Are Singapore Airlines Worth it?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tjdYY0YDC6A",
+      "title": "Emirates Economy Class | A380 AND 777 | Flying for 13 hours | Ali Usmani & Iftikhar Iffi",
+      "year": 2026,
+      "published_at": "2026-08-13T10:43:59Z",
+      "channel_title": "Ali Usmani & Iftikhar Iffi ",
+      "view_count": 2658,
+      "like_count": 127,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "a380",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RKAhUbai07c",
+      "title": "Flying Scoot Plus from Melbourne to Singapore – Business Class on a Budget?",
+      "year": 2026,
+      "published_at": "2026-08-21T10:30:16Z",
+      "channel_title": "Our Travel SA",
+      "view_count": 838,
+      "like_count": 17,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "$650 for business class?",
+          "ife": false
+        },
+        {
+          "t": "00:28",
+          "sec": 28,
+          "title": "A quick detour to T4",
+          "ife": false
+        },
+        {
+          "t": "01:04",
+          "sec": 64,
+          "title": "Scoot Check-in & baggage",
+          "ife": false
+        },
+        {
+          "t": "01:52",
+          "sec": 112,
+          "title": "Scoot Plus lounge?",
+          "ife": false
+        },
+        {
+          "t": "02:15",
+          "sec": 135,
+          "title": "Boarding & the seat map",
+          "ife": false
+        },
+        {
+          "t": "03:01",
+          "sec": 181,
+          "title": "The Scoot Plus seat: legroom, recline, power",
+          "ife": false
+        },
+        {
+          "t": "04:24",
+          "sec": 264,
+          "title": "Pushback & takeoff",
+          "ife": false
+        },
+        {
+          "t": "05:33",
+          "sec": 333,
+          "title": "Scoot Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "06:00",
+          "sec": 360,
+          "title": "The Scoot Plus meal",
+          "ife": false
+        },
+        {
+          "t": "07:35",
+          "sec": 455,
+          "title": "Is Scoot Plus worth it?",
+          "ife": false
+        },
+        {
+          "t": "08:40",
+          "sec": 520,
+          "title": "Arriving at 4am",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nU_t6997c_A",
+      "title": "NEW Cathay Pacific Premium Economy Review | Hong Kong to Tokyo (777-300ER)",
+      "year": 2026,
+      "published_at": "2026-08-21T11:00:35Z",
+      "channel_title": "LiftOffandTravel",
+      "view_count": 1661,
+      "like_count": 72,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lf_Fgi1YPKQ",
+      "title": "Turkish Airlines Boeing 737-800 Economy Class Review | Luxembourg to Istanbul (LUX–IST)",
+      "year": 2026,
+      "published_at": "2026-08-21T11:00:20Z",
+      "channel_title": "Wingsight Aviation",
+      "view_count": 18,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ocryVfxAwJU",
+      "title": "Flying Emirates with Family! Lahore to Glasgow via Dubai ✈️",
+      "year": 2026,
+      "published_at": "2026-08-20T14:00:12Z",
+      "channel_title": "kosarthebrave",
+      "view_count": 28,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Preview",
+          "ife": false
+        },
+        {
+          "t": "00:22",
+          "sec": 22,
+          "title": "Leaving Family & drive to the airport",
+          "ife": false
+        },
+        {
+          "t": "00:45",
+          "sec": 45,
+          "title": "At Lahore Airport",
+          "ife": false
+        },
+        {
+          "t": "01:03",
+          "sec": 63,
+          "title": "At the upper food court at Lahore Airport",
+          "ife": false
+        },
+        {
+          "t": "02:39",
+          "sec": 159,
+          "title": "Coffee Planet 10/10",
+          "ife": false
+        },
+        {
+          "t": "03:19",
+          "sec": 199,
+          "title": "Gate",
+          "ife": false
+        },
+        {
+          "t": "03:27",
+          "sec": 207,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "On the Lahore to Dubai Flight",
+          "ife": false
+        },
+        {
+          "t": "04:56",
+          "sec": 296,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "05:03",
+          "sec": 303,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "05:23",
+          "sec": 323,
+          "title": "IFE reset",
+          "ife": true
+        },
+        {
+          "t": "05:35",
+          "sec": 335,
+          "title": "Breakfast was served - Child meals first",
+          "ife": false
+        },
+        {
+          "t": "06:46",
+          "sec": 406,
+          "title": "Emirates Polaroid Pic",
+          "ife": false
+        },
+        {
+          "t": "06:51",
+          "sec": 411,
+          "title": "Food was served to",
+          "ife": false
+        },
+        {
+          "t": "07:30",
+          "sec": 450,
+          "title": "Dubai Airport",
+          "ife": false
+        },
+        {
+          "t": "08:07",
+          "sec": 487,
+          "title": "B24 - Gate - Dubai to Glasgow",
+          "ife": false
+        },
+        {
+          "t": "11:32",
+          "sec": 692,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "12:03",
+          "sec": 723,
+          "title": "Boarded",
+          "ife": false
+        },
+        {
+          "t": "12:38",
+          "sec": 758,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "12:43",
+          "sec": 763,
+          "title": "Food was served",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=do70IzM_7Rk",
+      "title": "#066 Cathay Pacific A330 Regional Economy: Slow but Steady Recovery?",
+      "year": 2026,
+      "published_at": "2026-08-21T13:00:25Z",
+      "channel_title": "sfbatraveler",
+      "view_count": 229,
+      "like_count": 10,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction & Transit",
+          "ife": false
+        },
+        {
+          "t": "01:42",
+          "sec": 102,
+          "title": "About HKG & Plan 2030",
+          "ife": false
+        },
+        {
+          "t": "03:17",
+          "sec": 197,
+          "title": "Aircraft & Boarding Gate",
+          "ife": false
+        },
+        {
+          "t": "04:42",
+          "sec": 282,
+          "title": "Seat Tour & Pushback",
+          "ife": false
+        },
+        {
+          "t": "07:25",
+          "sec": 445,
+          "title": "Takeoff Roll",
+          "ife": false
+        },
+        {
+          "t": "09:24",
+          "sec": 564,
+          "title": "Onboard Amenities & IFE",
+          "ife": true
+        },
+        {
+          "t": "10:37",
+          "sec": 637,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "12:32",
+          "sec": 752,
+          "title": "Approach & Landing",
+          "ife": false
+        },
+        {
+          "t": "13:23",
+          "sec": 803,
+          "title": "Verdict & Scores",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YK7gMacQwNk",
+      "title": "SAUDIA AIRBUS A330-300 (BUSINESS CLASS) | Tunis - Jeddah | Flight Review",
+      "year": 2026,
+      "published_at": "2026-08-21T15:30:16Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 3259,
+      "like_count": 107,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mLRmduCSzkY",
+      "title": "[TRIP REPORT] Air Niugini Boeing 767-300ER (ECONOMY) Hong Kong (HKG) - Port Moresby (POM)",
+      "year": 2026,
+      "published_at": "2026-08-21T16:00:31Z",
+      "channel_title": "theplanesguy",
+      "view_count": 148,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XnE26ONAM8w",
+      "title": "New season, same loyalty✨",
+      "year": 2026,
+      "published_at": "2026-08-21T17:46:41Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 600,
+      "like_count": 43,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-08-21T03:56:55.458361"
+  "last_updated": "2026-08-22T03:49:17.217387"
 }
