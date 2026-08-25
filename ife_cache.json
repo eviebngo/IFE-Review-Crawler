@@ -115261,49 +115261,49 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Suite Tour and Wear",
+          "title": "Club Suite Tour and Seat Wear",
           "ife": false
         },
         {
           "t": "2:13",
           "sec": 133,
-          "title": "LHR Taxi and Takeoff",
+          "title": "LHR Departure and Takeoff",
           "ife": false
         },
         {
           "t": "3:18",
           "sec": 198,
-          "title": "Entertainment and Wi-Fi",
+          "title": "Inflight Entertainment and Wi-Fi",
           "ife": true
         },
         {
           "t": "3:56",
           "sec": 236,
-          "title": "Three-Hour Meal Service",
+          "title": "Three Hour Meal Service Review",
           "ife": false
         },
         {
           "t": "6:20",
           "sec": 380,
-          "title": "Restroom Tour",
+          "title": "Restroom Walkthrough",
           "ife": false
         },
         {
           "t": "6:31",
           "sec": 391,
-          "title": "Bed Comfort and Legroom",
+          "title": "Bed Comfort and Legroom Test",
           "ife": false
         },
         {
           "t": "6:53",
           "sec": 413,
-          "title": "Pre-Arrival Meal",
+          "title": "Pre-Arrival Meal Service",
           "ife": false
         },
         {
           "t": "7:19",
           "sec": 439,
-          "title": "Rating and IAD Landing",
+          "title": "Final Score and IAD Landing",
           "ife": false
         }
       ],
@@ -126920,7 +126920,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.791
     },
     {
       "url": "https://www.youtube.com/watch?v=DGydK8B_e2Y",
@@ -126964,7 +126966,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=jIgRcEw2-IU",
@@ -126995,7 +126999,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qvhxVzhTpmo",
@@ -127128,7 +127134,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=55HBNMUfp3c",
@@ -127180,7 +127188,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0BDji5vi73Q",
@@ -127222,7 +127232,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ipBpGqdiGQc",
@@ -127254,7 +127266,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=1JOBgX9DF0A",
@@ -127500,7 +127514,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=oAFA3geRFYs",
@@ -127544,8 +127560,569 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1uAt-cB-G6M",
+      "title": "The cheapest upgrade of my life | Finnair A350 Business Class | 11 hours of no recline!",
+      "year": 2026,
+      "published_at": "2026-08-21T12:00:39Z",
+      "channel_title": "Fly_with_jo",
+      "view_count": 6037,
+      "like_count": 108,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Impressions of Hong Kong",
+          "ife": false
+        },
+        {
+          "t": "0:34",
+          "sec": 34,
+          "title": "Helsinki Airport",
+          "ife": false
+        },
+        {
+          "t": "1:10",
+          "sec": 70,
+          "title": "Finnair Business Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "4:48",
+          "sec": 288,
+          "title": "Boarding & Airplane",
+          "ife": false
+        },
+        {
+          "t": "5:28",
+          "sec": 328,
+          "title": "The Seat Map",
+          "ife": false
+        },
+        {
+          "t": "6:00",
+          "sec": 360,
+          "title": "welcome to seat 9L",
+          "ife": false
+        },
+        {
+          "t": "8:52",
+          "sec": 532,
+          "title": "Pushback & takeoff",
+          "ife": false
+        },
+        {
+          "t": "12:10",
+          "sec": 730,
+          "title": "Loo review",
+          "ife": false
+        },
+        {
+          "t": "12:52",
+          "sec": 772,
+          "title": "First meal service (lunch)",
+          "ife": false
+        },
+        {
+          "t": "16:15",
+          "sec": 975,
+          "title": "Seat controls & flat bed mode",
+          "ife": false
+        },
+        {
+          "t": "17:45",
+          "sec": 1065,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "19:04",
+          "sec": 1144,
+          "title": "IFE & Internet",
+          "ife": true
+        },
+        {
+          "t": "24:10",
+          "sec": 1450,
+          "title": "Second Meal Service (breakfast)",
+          "ife": false
+        },
+        {
+          "t": "25:08",
+          "sec": 1508,
+          "title": "Landing & verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=W0Z73sFS79k",
+      "title": "Air India Airbus A350 | Mumbai - New Delhi | Air India Premium Economy Class | Trip Report",
+      "year": 2026,
+      "published_at": "2026-08-22T13:15:14Z",
+      "channel_title": "AeroWings Aviation ",
+      "view_count": 997,
+      "like_count": 23,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Rn73Lm3p61c",
+      "title": "Air India's CHEAPEST (£51 UPGRADE!) to Premium Economy. A321-NEO Delhi to Bali.",
+      "year": 2026,
+      "published_at": "2026-08-23T10:14:36Z",
+      "channel_title": "Reseller Chris",
+      "view_count": 33,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 7
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5EeVpuyH5ww",
+      "title": "PREMIUM ECONOMY Air India Airbus A350-900 | 🇮🇳 Delhi - Mumbai 🇮🇳 | Full Flight Report",
+      "year": 2026,
+      "published_at": "2026-08-24T15:30:24Z",
+      "channel_title": "The SkyDeck Reports",
+      "view_count": 312,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction / IGI Terminal 3 Departures",
+          "ife": false
+        },
+        {
+          "t": "01:40",
+          "sec": 100,
+          "title": "Air India Premium Economy Checkin / Security",
+          "ife": false
+        },
+        {
+          "t": "03:05",
+          "sec": 185,
+          "title": "IGI Airport Terminal 3 Airside Tour",
+          "ife": false
+        },
+        {
+          "t": "06:30",
+          "sec": 390,
+          "title": "Walking towards Gate 37",
+          "ife": false
+        },
+        {
+          "t": "08:00",
+          "sec": 480,
+          "title": "Plane Spotting",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "15:45",
+          "sec": 945,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "16:50",
+          "sec": 1010,
+          "title": "Air India Safety Video",
+          "ife": false
+        },
+        {
+          "t": "20:50",
+          "sec": 1250,
+          "title": "Taxi",
+          "ife": false
+        },
+        {
+          "t": "25:05",
+          "sec": 1505,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "31:25",
+          "sec": 1885,
+          "title": "Economy Class Tour / Seat Features",
+          "ife": false
+        },
+        {
+          "t": "33:40",
+          "sec": 2020,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "35:55",
+          "sec": 2155,
+          "title": "Air India Premium Economy Lunch Menu",
+          "ife": false
+        },
+        {
+          "t": "36:20",
+          "sec": 2180,
+          "title": "Lunch",
+          "ife": false
+        },
+        {
+          "t": "37:05",
+          "sec": 2225,
+          "title": "IFE Maps",
+          "ife": true
+        },
+        {
+          "t": "38:25",
+          "sec": 2305,
+          "title": "Air India In-flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "41:20",
+          "sec": 2480,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "42:20",
+          "sec": 2540,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "45:45",
+          "sec": 2745,
+          "title": "Landing at Mumbai",
+          "ife": false
+        },
+        {
+          "t": "50:10",
+          "sec": 3010,
+          "title": "Taxi to Gate",
+          "ife": false
+        },
+        {
+          "t": "52:40",
+          "sec": 3160,
+          "title": "Disembark",
+          "ife": false
+        },
+        {
+          "t": "54:25",
+          "sec": 3265,
+          "title": "Baggage Claim / Exit",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 11
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xdLhZVPIORs",
+      "title": "ടാറ്റ വാങ്ങി എയര്‍ ഇന്ത്യയെ നന്നാക്കിയോ? | സമഗ്ര അവലോകനം | Did Tata Actually Fix Air India?",
+      "year": 2026,
+      "published_at": "2026-08-24T13:58:02Z",
+      "channel_title": "Bineesh Aravindhan",
+      "view_count": 841,
+      "like_count": 26,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZqSZCZLwUWo",
+      "title": "Air New Zealand Premium Economy Review ✈️ From Singapore to New Zealand + SATS Lounge",
+      "year": 2026,
+      "published_at": "2026-08-24T11:30:02Z",
+      "channel_title": "Jennifer Cindorella",
+      "view_count": 51,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air new zealand",
+          "mentions": 17
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eK-w0IzVN6g",
+      "title": "Novak Djokovic on Hydration, Wellness & Travel",
+      "year": 2026,
+      "published_at": "2026-08-24T15:30:19Z",
+      "channel_title": "Qatar Airways",
+      "view_count": 2208,
+      "like_count": 101,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:18",
+          "sec": 18,
+          "title": "What's the first thing you do after a match?",
+          "ife": false
+        },
+        {
+          "t": "00:45",
+          "sec": 45,
+          "title": "What's one habit that keeps you grounded?",
+          "ife": false
+        },
+        {
+          "t": "01:18",
+          "sec": 78,
+          "title": "What are your best travel tips?",
+          "ife": false
+        },
+        {
+          "t": "01:54",
+          "sec": 114,
+          "title": "How do you deal with jetlag?",
+          "ife": false
+        },
+        {
+          "t": "02:20",
+          "sec": 140,
+          "title": "What does flying do to our body?",
+          "ife": false
+        },
+        {
+          "t": "03:05",
+          "sec": 185,
+          "title": "How does staying hydrated actually help?",
+          "ife": false
+        },
+        {
+          "t": "03:46",
+          "sec": 226,
+          "title": "How would you describe the concept of wellness?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-08-24T04:01:29.648976"
+  "last_updated": "2026-08-25T03:55:20.253336"
 }
