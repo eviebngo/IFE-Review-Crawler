@@ -69633,7 +69633,7 @@
         {
           "t": "0:43",
           "sec": 43,
-          "title": "SBB Train Seat Comfort and First versus Second Class Comparison",
+          "title": "SBB Second Class Seat Comfort",
           "ife": false
         },
         {
@@ -69645,19 +69645,19 @@
         {
           "t": "1:59",
           "sec": 119,
-          "title": "SBB Bistro Car Dining Review and Menu",
+          "title": "SBB Bistro Car Amenities",
           "ife": false
         },
         {
           "t": "3:08",
           "sec": 188,
-          "title": "Train Connection at Bern Station",
+          "title": "Bern Station",
           "ife": false
         },
         {
           "t": "4:45",
           "sec": 285,
-          "title": "Interlaken Ost Arrival and Final Scenic Route Verdict",
+          "title": "Interlaken Ost Arrival and Final Verdict",
           "ife": false
         }
       ],
@@ -127685,7 +127685,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.359
     },
     {
       "url": "https://www.youtube.com/watch?v=W0Z73sFS79k",
@@ -127731,7 +127733,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Rn73Lm3p61c",
@@ -127779,7 +127783,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5EeVpuyH5ww",
@@ -127960,7 +127966,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=xdLhZVPIORs",
@@ -128005,7 +128013,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ZqSZCZLwUWo",
@@ -128043,7 +128053,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=eK-w0IzVN6g",
@@ -128121,8 +128133,94 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WpumCwsHQGg",
+      "title": "All about EMIRATES A380 | World's LARGEST Passenger Aircraft | Al Ain to Dubai | Dubai to Mumbai",
+      "year": 2026,
+      "published_at": "2026-08-25T09:54:13Z",
+      "channel_title": "The BhuMuli Official",
+      "view_count": 27,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Journey Starts: Al Ain to Dubai Metro Station",
+          "ife": false
+        },
+        {
+          "t": "01:15",
+          "sec": 75,
+          "title": "Dubai Airport Terminal 3 & Emirates Lounge Food Review 🍱",
+          "ife": false
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "First Look: Boarding the Massive Emirates A380 ✈️",
+          "ife": false
+        },
+        {
+          "t": "05:15",
+          "sec": 315,
+          "title": "In-Flight Entertainment (ICE System & Cameras) 🎬",
+          "ife": true
+        },
+        {
+          "t": "07:45",
+          "sec": 465,
+          "title": "Takeoff & Cabin Experience ✨",
+          "ife": false
+        },
+        {
+          "t": "08:25",
+          "sec": 505,
+          "title": "In-flight Meals & Vegetarian Food Review 🍛",
+          "ife": false
+        },
+        {
+          "t": "09:30",
+          "sec": 570,
+          "title": "Smooth Landing in Mumbai 🇮🇳",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 20
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 14
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "tail_camera": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-25T03:55:20.253336"
+  "last_updated": "2026-08-26T03:59:03.443359"
 }
