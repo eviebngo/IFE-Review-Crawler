@@ -57302,31 +57302,31 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Dallas Fort Worth DFW Airport Boarding",
+          "title": "Boarding at Dallas Fort Worth DFW Airport",
           "ife": false
         },
         {
           "t": "0:13",
           "sec": 13,
-          "title": "Main Cabin Extra Seat Tour and Best Seats",
+          "title": "Main Cabin Extra Seat Tour and Best Seats Selection",
           "ife": false
         },
         {
           "t": "1:41",
           "sec": 101,
-          "title": "Takeoff from Dallas Fort Worth DFW",
+          "title": "DFW Departure and Takeoff",
           "ife": false
         },
         {
           "t": "2:02",
           "sec": 122,
-          "title": "Snack and Beverage Service",
+          "title": "Snack and Beverage Service Overview",
           "ife": false
         },
         {
           "t": "2:12",
           "sec": 132,
-          "title": "Complimentary Alcoholic Drinks Perk",
+          "title": "Complimentary Alcoholic Drinks Perk Test",
           "ife": false
         },
         {
@@ -57338,7 +57338,7 @@
         {
           "t": "2:58",
           "sec": 178,
-          "title": "Scenic Washington Reagan DCA Approach and Final Verdict",
+          "title": "Scenic Approach, Landing at DCA, and Final Verdict",
           "ife": false
         }
       ],
@@ -57608,13 +57608,13 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "New York JFK Boarding and Main Cabin Extra Seat Tour",
+          "title": "Boarding AA 777-300ER at New York JFK and MCE Seat Setup",
           "ife": false
         },
         {
           "t": "1:19",
           "sec": 79,
-          "title": "Takeoff from New York JFK Night Flight",
+          "title": "JFK Night Departure and Takeoff",
           "ife": false
         },
         {
@@ -57626,13 +57626,13 @@
         {
           "t": "2:29",
           "sec": 149,
-          "title": "Inflight Entertainment System Review",
+          "title": "Inflight Entertainment System Tour",
           "ife": true
         },
         {
           "t": "2:54",
           "sec": 174,
-          "title": "Aircraft Restroom Check",
+          "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
@@ -57644,13 +57644,13 @@
         {
           "t": "4:22",
           "sec": 262,
-          "title": "Landing at London Heathrow LHR and Final Verdict",
+          "title": "Landing at LHR and Final Verdict",
           "ife": false
         },
         {
           "t": "4:55",
           "sec": 295,
-          "title": "American Airlines Arrivals Lounge at London Heathrow LHR",
+          "title": "American Airlines Arrivals Lounge at London Heathrow",
           "ife": false
         }
       ],
@@ -57862,7 +57862,7 @@
         {
           "t": "0:43",
           "sec": 43,
-          "title": "Seat Tour",
+          "title": "Airbus A350-1000 Economy Seat Tour",
           "ife": false
         },
         {
@@ -57874,25 +57874,25 @@
         {
           "t": "4:07",
           "sec": 247,
-          "title": "Dinner Service",
+          "title": "Multi-Course Dinner Service",
           "ife": false
         },
         {
           "t": "5:50",
           "sec": 350,
-          "title": "Restroom Check",
+          "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
           "t": "6:31",
           "sec": 391,
-          "title": "Wi-Fi Costs",
+          "title": "Inflight Wi-Fi Speeds and Costs",
           "ife": true
         },
         {
           "t": "6:50",
           "sec": 410,
-          "title": "Mid-Flight Snacks",
+          "title": "Mid-Flight Snack Options",
           "ife": false
         },
         {
@@ -57904,13 +57904,13 @@
         {
           "t": "8:22",
           "sec": 502,
-          "title": "Final Verdict",
+          "title": "Final Verdict and Value",
           "ife": false
         },
         {
           "t": "9:40",
           "sec": 580,
-          "title": "Tokyo Landing",
+          "title": "Tokyo Haneda Landing",
           "ife": false
         }
       ],
@@ -63233,7 +63233,7 @@
         {
           "t": "1:21",
           "sec": 81,
-          "title": "Takeoff for Washington Dulles IAD",
+          "title": "LHR Departure and Takeoff",
           "ife": false
         },
         {
@@ -63263,7 +63263,7 @@
         {
           "t": "4:03",
           "sec": 243,
-          "title": "Rating and Final Value Verdict",
+          "title": "Final Verdict and Value Rating",
           "ife": false
         },
         {
@@ -69722,7 +69722,7 @@
         {
           "t": "1:05",
           "sec": 65,
-          "title": "Takeoff from Basel BSL",
+          "title": "BSL Departure and Takeoff",
           "ife": false
         },
         {
@@ -69734,13 +69734,13 @@
         {
           "t": "1:42",
           "sec": 102,
-          "title": "Inflight Wi-Fi and Messaging Packages",
+          "title": "Inflight Wi-Fi and Messaging Packages Overview",
           "ife": true
         },
         {
           "t": "2:01",
           "sec": 121,
-          "title": "Landing at London Heathrow LHR and Final Verdict",
+          "title": "Final Verdict and Landing at London Heathrow LHR",
           "ife": false
         }
       ],
@@ -69811,7 +69811,7 @@
         {
           "t": "1:40",
           "sec": 100,
-          "title": "LHR Taxi and Takeoff",
+          "title": "LHR Departure and Takeoff",
           "ife": false
         },
         {
@@ -69829,7 +69829,7 @@
         {
           "t": "3:25",
           "sec": 205,
-          "title": "Final Verdict and Zurich ZRH Arrival",
+          "title": "Final Verdict, Value Rating, and Zurich ZRH Arrival",
           "ife": false
         }
       ],
@@ -69897,31 +69897,31 @@
         {
           "t": "0:19",
           "sec": 19,
-          "title": "Boarding and Cabin Tour",
+          "title": "Boarding and Qsuite Cabin Tour",
           "ife": false
         },
         {
           "t": "2:50",
           "sec": 170,
-          "title": "Takeoff from Dulles",
+          "title": "IAD Departure and Takeoff",
           "ife": false
         },
         {
           "t": "2:59",
           "sec": 179,
-          "title": "Starlink Wi-Fi Test",
+          "title": "Starlink Wi-Fi Speed Test",
           "ife": true
         },
         {
           "t": "4:13",
           "sec": 253,
-          "title": "Oryx One Entertainment",
+          "title": "Oryx One Entertainment Options",
           "ife": true
         },
         {
           "t": "4:22",
           "sec": 262,
-          "title": "Dine-on-Demand Menu",
+          "title": "Dine-on-Demand Menu Overview",
           "ife": false
         },
         {
@@ -69933,61 +69933,61 @@
         {
           "t": "5:45",
           "sec": 345,
-          "title": "Mocktail and Warm Nuts",
+          "title": "Mocktail and Warm Nuts Service",
           "ife": false
         },
         {
           "t": "6:07",
           "sec": 367,
-          "title": "Gourmet Dinner Service",
+          "title": "Gourmet Dinner Service Review",
           "ife": false
         },
         {
           "t": "7:57",
           "sec": 477,
-          "title": "Restroom Review",
+          "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
           "t": "8:22",
           "sec": 502,
-          "title": "Turndown Service and Bed Review",
+          "title": "Turndown Service and Bed Test",
           "ife": false
         },
         {
           "t": "9:27",
           "sec": 567,
-          "title": "Breakfast Over the Arabian Gulf",
+          "title": "Pre-Arrival Breakfast Service",
           "ife": false
         },
         {
           "t": "10:13",
           "sec": 613,
-          "title": "Second Restroom Review",
+          "title": "Lavatory Inspection",
           "ife": false
         },
         {
           "t": "10:28",
           "sec": 628,
-          "title": "Artisan Cheese Board",
+          "title": "Artisan Cheese Board Service",
           "ife": false
         },
         {
           "t": "10:47",
           "sec": 647,
-          "title": "Amenity Kit Unboxing",
+          "title": "Qsuite Amenity Kit Unboxing",
           "ife": false
         },
         {
           "t": "11:06",
           "sec": 666,
-          "title": "Final Verdict",
+          "title": "Final Verdict and Score",
           "ife": false
         },
         {
           "t": "11:49",
           "sec": 709,
-          "title": "Landing at Doha",
+          "title": "DOH Landing and Arrival",
           "ife": false
         }
       ],
@@ -70170,25 +70170,25 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Singapore Changi SIN Boarding and Regional Seat Tour",
+          "title": "SIN Boarding at Singapore Changi Airport",
           "ife": false
         },
         {
           "t": "0:16",
           "sec": 16,
-          "title": "Seat Review and Legroom Comfort",
+          "title": "Cathay Pacific A330 Economy Seat Tour and Legroom",
           "ife": false
         },
         {
           "t": "2:43",
           "sec": 163,
-          "title": "Takeoff from Singapore Changi SIN",
+          "title": "SIN Departure and Takeoff",
           "ife": false
         },
         {
           "t": "3:12",
           "sec": 192,
-          "title": "Signature Meal and Beverage Service",
+          "title": "Signature Meal and Beverage Service Review",
           "ife": false
         },
         {
@@ -70200,7 +70200,7 @@
         {
           "t": "4:34",
           "sec": 274,
-          "title": "Cathay Pacific Regional Economy Final Value Verdict",
+          "title": "Final Verdict and Value Rating",
           "ife": false
         }
       ],
@@ -71707,19 +71707,19 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome to Dallas-Fort Worth International Airport DFW",
+          "title": "Arrival at Dallas Fort Worth DFW",
           "ife": false
         },
         {
           "t": "0:15",
           "sec": 15,
-          "title": "Cathay Pacific A350 Economy Seat Tour, Legroom, and Design",
+          "title": "Cathay Pacific A350 Economy Seat Tour and Legroom",
           "ife": false
         },
         {
           "t": "1:28",
           "sec": 88,
-          "title": "Takeoff from Dallas-Fort Worth DFW",
+          "title": "DFW Departure and Takeoff",
           "ife": false
         },
         {
@@ -71731,13 +71731,13 @@
         {
           "t": "4:02",
           "sec": 242,
-          "title": "Inflight Entertainment System and Wi-Fi Review",
+          "title": "Inflight Entertainment System and Wi-Fi Test",
           "ife": true
         },
         {
           "t": "4:56",
           "sec": 296,
-          "title": "Economy Class Restroom Tour",
+          "title": "Economy Class Lavatory Walkthrough",
           "ife": false
         },
         {
@@ -71755,7 +71755,7 @@
         {
           "t": "6:02",
           "sec": 362,
-          "title": "Final 5-Star Rating and Landing at Hong Kong International Airport HKG",
+          "title": "Final Rating and Landing at Hong Kong HKG",
           "ife": false
         }
       ]
@@ -86412,13 +86412,13 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Doha Hamad International Airport DOH Boarding and Cabin Tour",
+          "title": "Boarding Qatar 777-300ER at Doha DOH and Cabin Tour",
           "ife": false
         },
         {
           "t": "3:33",
           "sec": 213,
-          "title": "Takeoff from Doha DOH",
+          "title": "DOH Departure and Takeoff",
           "ife": false
         },
         {
@@ -86430,7 +86430,7 @@
         {
           "t": "4:24",
           "sec": 264,
-          "title": "Oryx One Entertainment System Review",
+          "title": "Oryx One Entertainment System Overview",
           "ife": true
         },
         {
@@ -86454,7 +86454,7 @@
         {
           "t": "7:38",
           "sec": 458,
-          "title": "Aircraft Restroom Tour",
+          "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
@@ -86478,7 +86478,7 @@
         {
           "t": "9:38",
           "sec": 578,
-          "title": "Full Bed Turndown Service",
+          "title": "Full Bed Turndown Service and Sleep Test",
           "ife": false
         },
         {
@@ -86496,7 +86496,7 @@
         {
           "t": "11:13",
           "sec": 673,
-          "title": "Qatar Airways Qsuite Final Value Verdict",
+          "title": "Final Verdict and Value Rating",
           "ife": false
         },
         {
@@ -86655,13 +86655,13 @@
         {
           "t": "5:58",
           "sec": 358,
-          "title": "Final Verdict",
+          "title": "Final Verdict and Value Rating",
           "ife": false
         },
         {
           "t": "6:32",
           "sec": 392,
-          "title": "Approach and Landing DOH",
+          "title": "Approach and Landing at DOH",
           "ife": false
         }
       ],
@@ -86722,7 +86722,7 @@
         {
           "t": "2:13",
           "sec": 133,
-          "title": "Oryx One Inflight Entertainment System",
+          "title": "Oryx One Inflight Entertainment System Overview",
           "ife": true
         },
         {
@@ -86734,13 +86734,13 @@
         {
           "t": "5:50",
           "sec": 350,
-          "title": "Aircraft Restroom Tour",
+          "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
           "t": "6:01",
           "sec": 361,
-          "title": "Lie-Flat Bed Comfort Test",
+          "title": "Lie-Flat Bed Comfort Test and Sleep Review",
           "ife": false
         },
         {
@@ -86752,7 +86752,7 @@
         {
           "t": "7:03",
           "sec": 423,
-          "title": "Qatar Airways 777 Business Class Final Value Verdict",
+          "title": "Final Verdict and Value Rating",
           "ife": false
         },
         {
@@ -86833,7 +86833,7 @@
         {
           "t": "3:47",
           "sec": 227,
-          "title": "Final Verdict on Club Europe",
+          "title": "Final Verdict on Club Europe and Value Rating",
           "ife": false
         }
       ],
@@ -86910,7 +86910,7 @@
         {
           "t": "3:38",
           "sec": 218,
-          "title": "Restroom Tour and Final Lounge Verdict",
+          "title": "Restroom Tour, Final Verdict, and Value Rating",
           "ife": false
         }
       ],
@@ -91753,7 +91753,7 @@
         {
           "t": "2:34",
           "sec": 154,
-          "title": "Hot Breakfast Buffet Review and Final Verdict",
+          "title": "Hot Breakfast Buffet Review, Final Verdict, and Value Rating",
           "ife": false
         }
       ],
@@ -93914,7 +93914,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Noovilu Seaplane Terminal and Boarding Experience",
+          "title": "Noovilu Seaplane Terminal and Check-In Experience",
           "ife": false
         },
         {
@@ -96360,7 +96360,7 @@
         {
           "t": "2:21",
           "sec": 141,
-          "title": "Takeoff and Gulf of Thailand Views",
+          "title": "USM Departure and Takeoff",
           "ife": false
         },
         {
@@ -96372,13 +96372,13 @@
         {
           "t": "3:46",
           "sec": 226,
-          "title": "Final Verdict: Is It Worth It?",
+          "title": "Final Verdict and Value Rating",
           "ife": false
         },
         {
           "t": "6:04",
           "sec": 364,
-          "title": "Arrival at Bangkok BKK Airport",
+          "title": "Landing and Arrival at Bangkok BKK Airport",
           "ife": false
         }
       ],
@@ -97573,6 +97573,12 @@
           "t": "4:35",
           "sec": 275,
           "title": "Onsite Dining and Summit Rooftop Bar Overview",
+          "ife": false
+        },
+        {
+          "t": "5:10",
+          "sec": 310,
+          "title": "Final Verdict and Value Rating",
           "ife": false
         }
       ],
