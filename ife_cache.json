@@ -14006,7 +14006,62 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "like_count": 26,
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "London Heathrow",
+          "ife": false
+        },
+        {
+          "t": "01:05",
+          "sec": 65,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:20",
+          "sec": 140,
+          "title": "Departure from London",
+          "ife": false
+        },
+        {
+          "t": "04:23",
+          "sec": 263,
+          "title": "Economy Class",
+          "ife": false
+        },
+        {
+          "t": "05:45",
+          "sec": 345,
+          "title": "Lunch Service",
+          "ife": false
+        },
+        {
+          "t": "06:40",
+          "sec": 400,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "07:01",
+          "sec": 421,
+          "title": "Pre Landing Snack",
+          "ife": false
+        },
+        {
+          "t": "07:27",
+          "sec": 447,
+          "title": "Final thoughts",
+          "ife": false
+        },
+        {
+          "t": "07:50",
+          "sec": 470,
+          "title": "Approach into Bengaluru",
+          "ife": false
+        }
+      ],
       "yt_comments": [],
       "transcript_full": "Okay, next to the TV monitor. Thank you. Okay, >> [clears throat] >> next to the TV monitor. Thank you. >> I'm on board with Virgin Atlantic. Very simply said the three motto The looks of the flight >> Awesome, man. >> That's about 20 minutes Let's push back next to the start. Okay, thanks. chances to all we have today As the instructions told me one density first officers document is not given on and charge the captain 1/3 manager of the block and colleagues say wonderful team captain crew and I know they'll do all we can and they'll also be safe Please listen to the instructions And once you're on the way and pull straight to the flight and we'll taxi you out to one of the eastern runways here. And today is a nice flight. And we'll be getting getting airborne checking rhymes as far as the southern boundary is about over Europe. >> [crying] >> Oh my god. >> I will re-manage the service and upper class cabin today and Abby is your cabin service supervisor. >> In your cabin seat pocket, you'll find the allergy cabin menu. That is the sign of safety and sanitation Please make use of the overhead lockers and under the seat in front. You'll now be served a hot lunch followed by tea and coffee. >> We're at 96 miles to run. We're on schedule. It's 10:00 a.m. time. We're still to be at 12:15 at 12:15 local I hope you enjoyed your flight this day. and a lot of more leg room than you fancy, as we are pleased to have you on this flight this evening. As you can see Gentlemen, I bid you good evening to you all. Welcome to Bangalore. Please keep your seatbelt fastened until the captain has turned off the fasten seatbelt signs. As the cabin crew, we keep the exits and aisles clear. We will be passing",
       "ife_system_guess": "Thales AVANT",
@@ -129830,7 +129885,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.541
     },
     {
       "url": "https://www.youtube.com/watch?v=eu8t7xpxcIU",
@@ -129878,7 +129935,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=t6AYEjSrCVk",
@@ -129970,7 +130029,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FfiOImi2vvk",
@@ -129983,7 +130044,74 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Mumbai Airport",
+          "ife": false
+        },
+        {
+          "t": "00:48",
+          "sec": 48,
+          "title": "VT-ANT (787-8)",
+          "ife": false
+        },
+        {
+          "t": "01:02",
+          "sec": 62,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:10",
+          "sec": 130,
+          "title": "Departure from Mumbai",
+          "ife": false
+        },
+        {
+          "t": "04:15",
+          "sec": 255,
+          "title": "Economy Class",
+          "ife": false
+        },
+        {
+          "t": "05:20",
+          "sec": 320,
+          "title": "Lunch Service",
+          "ife": false
+        },
+        {
+          "t": "05:40",
+          "sec": 340,
+          "title": "Mid Air Views",
+          "ife": false
+        },
+        {
+          "t": "06:20",
+          "sec": 380,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "06:50",
+          "sec": 410,
+          "title": "Pre Landing Meal",
+          "ife": false
+        },
+        {
+          "t": "07:20",
+          "sec": 440,
+          "title": "Final thoughts",
+          "ife": false
+        },
+        {
+          "t": "07:50",
+          "sec": 470,
+          "title": "Approach into Frankfurt",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
@@ -130004,7 +130132,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=GIFH88oKiOY",
@@ -130017,7 +130147,50 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Hong Kong",
+          "ife": false
+        },
+        {
+          "t": "01:42",
+          "sec": 102,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:20",
+          "sec": 140,
+          "title": "Departure from Hong Kong",
+          "ife": false
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "Economy Class",
+          "ife": false
+        },
+        {
+          "t": "04:37",
+          "sec": 277,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "05:00",
+          "sec": 300,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "06:20",
+          "sec": 380,
+          "title": "Approach into Delhi",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
@@ -130042,7 +130215,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Qx9kGzRXNOE",
@@ -130129,7 +130304,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.202
     },
     {
       "url": "https://www.youtube.com/watch?v=HkEhuMcU61A",
@@ -130178,7 +130355,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Heskv4cknaQ",
@@ -130378,7 +130557,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=895sI81HYjg",
@@ -130577,7 +130758,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=MICFZqGXH84",
@@ -130709,7 +130892,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
     },
     {
       "url": "https://www.youtube.com/watch?v=gCEnzWI3ViA",
@@ -130881,7 +131066,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=93jTnwKxbiA",
@@ -130910,8 +131097,129 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mfmJ-UY5vto",
+      "title": "The Screen that Ruined American",
+      "year": 2026,
+      "published_at": "2026-08-28T21:00:04Z",
+      "channel_title": "The Avid Aviator",
+      "view_count": 7988,
+      "like_count": 146,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 6
+        },
+        {
+          "keyword": "level",
+          "mentions": 6
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cKrJi6uaQu8",
+      "title": "[TRIP REPORT] Alliance Fokker 100 (for Virgin Aus.) (ECONOMY) Brisbane (BNE) - Rockhampton (ROK)",
+      "year": 2026,
+      "published_at": "2026-08-28T16:00:34Z",
+      "channel_title": "theplanesguy",
+      "view_count": 253,
+      "like_count": 9,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aX6GGXSXlG8",
+      "title": "This SEAT is CHANGING Aviation FOREVER!",
+      "year": 2026,
+      "published_at": "2026-08-29T08:00:26Z",
+      "channel_title": "Josh Cahill",
+      "view_count": 5530,
+      "like_count": 620,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-28T15:14:05.707004"
+  "last_updated": "2026-08-29T09:55:25.877178"
 }
