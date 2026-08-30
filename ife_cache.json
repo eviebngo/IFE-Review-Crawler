@@ -131157,7 +131157,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.477
     },
     {
       "url": "https://www.youtube.com/watch?v=cKrJi6uaQu8",
@@ -131183,7 +131185,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=aX6GGXSXlG8",
@@ -131218,8 +131222,1336 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=34706LQP4fk",
+      "title": "My FIRST Business Class Flight Experience | FLYDUBAI Business Class | What to Expect?! 😆✈️",
+      "year": 2026,
+      "published_at": "2026-08-29T14:57:17Z",
+      "channel_title": "The Peppy Persona",
+      "view_count": 160,
+      "like_count": 17,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=e3TYhYO8SgY",
+      "title": "Thai Airways Business Class Airbus A330-300 | Tokyo to Bangkok (Flight Review)",
+      "year": 2026,
+      "published_at": "2026-08-29T10:33:25Z",
+      "channel_title": "Luxury Travel Club",
+      "view_count": 22899,
+      "like_count": 212,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:30",
+          "sec": 30,
+          "title": "Check-in at Narita Airport",
+          "ife": false
+        },
+        {
+          "t": "01:40",
+          "sec": 100,
+          "title": "ANA Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:58",
+          "sec": 238,
+          "title": "Turkish Airlines Lounge",
+          "ife": false
+        },
+        {
+          "t": "05:38",
+          "sec": 338,
+          "title": "Boarding the Airbus A330-300 (33R)",
+          "ife": false
+        },
+        {
+          "t": "07:35",
+          "sec": 455,
+          "title": "Business Class Seats",
+          "ife": false
+        },
+        {
+          "t": "13:02",
+          "sec": 782,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "14:38",
+          "sec": 878,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "15:58",
+          "sec": 958,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "16:47",
+          "sec": 1007,
+          "title": "Wine List",
+          "ife": false
+        },
+        {
+          "t": "18:35",
+          "sec": 1115,
+          "title": "Meal",
+          "ife": false
+        },
+        {
+          "t": "24:08",
+          "sec": 1448,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "25:10",
+          "sec": 1510,
+          "title": "Lavatoies",
+          "ife": false
+        },
+        {
+          "t": "25:50",
+          "sec": 1550,
+          "title": "Full-flat Bed",
+          "ife": false
+        },
+        {
+          "t": "26:43",
+          "sec": 1603,
+          "title": "Light Meal",
+          "ife": false
+        },
+        {
+          "t": "27:34",
+          "sec": 1654,
+          "title": "In-flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "29:30",
+          "sec": 1770,
+          "title": "In-flight Magazine",
+          "ife": false
+        },
+        {
+          "t": "31:16",
+          "sec": 1876,
+          "title": "Before Landing",
+          "ife": false
+        },
+        {
+          "t": "32:50",
+          "sec": 1970,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "34:38",
+          "sec": 2078,
+          "title": "​​Entering Thailand and Crowd Conditions",
+          "ife": false
+        },
+        {
+          "t": "36:22",
+          "sec": 2182,
+          "title": "Thanks for watching",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EJ57UknSk74",
+      "title": "Singapore Airlines Boeing 787 | Singapore to Bangkok | Trip Report",
+      "year": 2026,
+      "published_at": "2026-08-29T10:00:03Z",
+      "channel_title": "Flying Asia",
+      "view_count": 1090,
+      "like_count": 13,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NMPA98FPceg",
+      "title": "I Flew Air China's OLDEST A330 in Economy Class | Tokyo Haneda to Beijing Capital",
+      "year": 2026,
+      "published_at": "2026-08-29T12:00:04Z",
+      "channel_title": "Callum Elsdon",
+      "view_count": 187,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:24",
+          "sec": 24,
+          "title": "Getting to Haneda & check-in",
+          "ife": false
+        },
+        {
+          "t": "1:25",
+          "sec": 85,
+          "title": "Bus gate & apron views",
+          "ife": false
+        },
+        {
+          "t": "2:11",
+          "sec": 131,
+          "title": "Aircraft intro (A330-200, CA184)",
+          "ife": false
+        },
+        {
+          "t": "2:38",
+          "sec": 158,
+          "title": "Boarding & cabin walkthrough",
+          "ife": false
+        },
+        {
+          "t": "3:33",
+          "sec": 213,
+          "title": "Safety video",
+          "ife": false
+        },
+        {
+          "t": "4:56",
+          "sec": 296,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "7:44",
+          "sec": 464,
+          "title": "Climb / cruise",
+          "ife": false
+        },
+        {
+          "t": "8:46",
+          "sec": 526,
+          "title": "In-flight entertainment",
+          "ife": true
+        },
+        {
+          "t": "9:29",
+          "sec": 569,
+          "title": "Pillow & legroom",
+          "ife": false
+        },
+        {
+          "t": "9:45",
+          "sec": 585,
+          "title": "Food & bathroom",
+          "ife": false
+        },
+        {
+          "t": "10:33",
+          "sec": 633,
+          "title": "Bellroy ad break",
+          "ife": false
+        },
+        {
+          "t": "11:35",
+          "sec": 695,
+          "title": "Arrival into Beijing Capital",
+          "ife": false
+        },
+        {
+          "t": "12:13",
+          "sec": 733,
+          "title": "Overall verdict on the flight",
+          "ife": false
+        },
+        {
+          "t": "13:30",
+          "sec": 810,
+          "title": "Value for money",
+          "ife": false
+        },
+        {
+          "t": "13:40",
+          "sec": 820,
+          "title": "Next video & sign-off",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1IrBY1WDO1U",
+      "title": "Air Canada Airbus A330 Business Class | Montreal To Vancouver",
+      "year": 2026,
+      "published_at": "2026-08-21T19:00:30Z",
+      "channel_title": "Not Your Average Travel",
+      "view_count": 2740,
+      "like_count": 48,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Airport & Check-In",
+          "ife": false
+        },
+        {
+          "t": "02:07",
+          "sec": 127,
+          "title": "Business Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:15",
+          "sec": 255,
+          "title": "Boarding & Pushback",
+          "ife": false
+        },
+        {
+          "t": "06:41",
+          "sec": 401,
+          "title": "De-Ice",
+          "ife": false
+        },
+        {
+          "t": "07:51",
+          "sec": 471,
+          "title": "Take-Off",
+          "ife": false
+        },
+        {
+          "t": "09:52",
+          "sec": 592,
+          "title": "IFE Review",
+          "ife": true
+        },
+        {
+          "t": "11:20",
+          "sec": 680,
+          "title": "Cabin Review",
+          "ife": false
+        },
+        {
+          "t": "11:31",
+          "sec": 691,
+          "title": "Toilet Fans Club Time I",
+          "ife": false
+        },
+        {
+          "t": "12:00",
+          "sec": 720,
+          "title": "Cabin Review",
+          "ife": false
+        },
+        {
+          "t": "12:25",
+          "sec": 745,
+          "title": "Toilet Fans Club Time II",
+          "ife": false
+        },
+        {
+          "t": "12:59",
+          "sec": 779,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "13:42",
+          "sec": 822,
+          "title": "Pacific Coast Ranges",
+          "ife": false
+        },
+        {
+          "t": "14:16",
+          "sec": 856,
+          "title": "Snacks",
+          "ife": false
+        },
+        {
+          "t": "14:41",
+          "sec": 881,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "17:26",
+          "sec": 1046,
+          "title": "Vancouver Skyview",
+          "ife": false
+        },
+        {
+          "t": "17:48",
+          "sec": 1068,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "20:22",
+          "sec": 1222,
+          "title": "Deplane",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 6
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FxU9MqIxQws",
+      "title": "Turkish Airlines A321 Business Class | Geneva–Istanbul (The BEST European Business Class!) SUBTITLES",
+      "year": 2026,
+      "published_at": "2026-08-29T10:00:22Z",
+      "channel_title": "Travel Expertos",
+      "view_count": 34,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "2:18 Intro",
+          "ife": false
+        },
+        {
+          "t": "2:18",
+          "sec": 138,
+          "title": "2:34 Arrival to Geneva Airport",
+          "ife": false
+        },
+        {
+          "t": "2:34",
+          "sec": 154,
+          "title": "3:05 Check in",
+          "ife": false
+        },
+        {
+          "t": "3:05",
+          "sec": 185,
+          "title": "3:31 Security Control",
+          "ife": false
+        },
+        {
+          "t": "3:31",
+          "sec": 211,
+          "title": "3:57 Transfer to non-schengen gates",
+          "ife": false
+        },
+        {
+          "t": "3:57",
+          "sec": 237,
+          "title": "4:57 C gates Terminal",
+          "ife": false
+        },
+        {
+          "t": "4:57",
+          "sec": 297,
+          "title": "7:20 Business Class lounge",
+          "ife": false
+        },
+        {
+          "t": "7:20",
+          "sec": 440,
+          "title": "8:47 Plane-spotting from the lounge",
+          "ife": false
+        },
+        {
+          "t": "8:47",
+          "sec": 527,
+          "title": "11:31 Arrival of our Turkish A321Neo",
+          "ife": false
+        },
+        {
+          "t": "11:31",
+          "sec": 691,
+          "title": "12:00 Leaving the lounge and heading to gate C51",
+          "ife": false
+        },
+        {
+          "t": "12:00",
+          "sec": 720,
+          "title": "12:29 Turkish Airlines A321Neo TC-LTL",
+          "ife": false
+        },
+        {
+          "t": "12:29",
+          "sec": 749,
+          "title": "13:53 Boarding Turkish Airlines A321 Business Class",
+          "ife": false
+        },
+        {
+          "t": "13:53",
+          "sec": 833,
+          "title": "14:23 Seat 5A",
+          "ife": false
+        },
+        {
+          "t": "14:23",
+          "sec": 863,
+          "title": "14:53 Welcome drink",
+          "ife": false
+        },
+        {
+          "t": "14:53",
+          "sec": 893,
+          "title": "18:25 Safety Video",
+          "ife": false
+        },
+        {
+          "t": "18:25",
+          "sec": 1105,
+          "title": "19:25 Pushback",
+          "ife": false
+        },
+        {
+          "t": "19:25",
+          "sec": 1165,
+          "title": "21:47 Taxi to runway 04",
+          "ife": false
+        },
+        {
+          "t": "21:47",
+          "sec": 1307,
+          "title": "28:37 Take Off",
+          "ife": false
+        },
+        {
+          "t": "28:37",
+          "sec": 1717,
+          "title": "29:21 Business Class",
+          "ife": false
+        },
+        {
+          "t": "29:21",
+          "sec": 1761,
+          "title": "29:54 Onboard Menu",
+          "ife": false
+        },
+        {
+          "t": "29:54",
+          "sec": 1794,
+          "title": "32:00 Business Class seat Tour",
+          "ife": false
+        },
+        {
+          "t": "32:00",
+          "sec": 1920,
+          "title": "34:51 IFE Entertainment",
+          "ife": true
+        },
+        {
+          "t": "34:51",
+          "sec": 2091,
+          "title": "36:16 Business Class Dinner",
+          "ife": false
+        },
+        {
+          "t": "36:16",
+          "sec": 2176,
+          "title": "37:00 Business Class Lavatory",
+          "ife": false
+        },
+        {
+          "t": "37:00",
+          "sec": 2220,
+          "title": "37:54 Seat recline position + Blanket and relax",
+          "ife": false
+        },
+        {
+          "t": "37:54",
+          "sec": 2274,
+          "title": "38:26 Pre Arrival Service",
+          "ife": false
+        },
+        {
+          "t": "38:26",
+          "sec": 2306,
+          "title": "39:33 Cabin and preparation for arrival",
+          "ife": false
+        },
+        {
+          "t": "39:33",
+          "sec": 2373,
+          "title": "41:50 Descent to Istanbul and conclusion",
+          "ife": false
+        },
+        {
+          "t": "41:50",
+          "sec": 2510,
+          "title": "56:55 Landing in Istanbul",
+          "ife": false
+        },
+        {
+          "t": "56:55",
+          "sec": 3415,
+          "title": "57:40 Debarking the plane",
+          "ife": false
+        },
+        {
+          "t": "57:40",
+          "sec": 3460,
+          "title": "58:24 Transfer at Istanbul Airport + Security Check",
+          "ife": false
+        },
+        {
+          "t": "58:24",
+          "sec": 3504,
+          "title": "59:03 Istanbul Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 9
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 10
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 8
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bmV2hJFoFOk",
+      "title": "Is American Airlines First Class Better Than Delta & United? (Flight Review)",
+      "year": 2026,
+      "published_at": "2026-08-29T13:00:33Z",
+      "channel_title": "Travel At Random",
+      "view_count": 1577,
+      "like_count": 31,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction & American Airlines 737-800",
+          "ife": false
+        },
+        {
+          "t": "0:39",
+          "sec": 39,
+          "title": "Charlotte Douglas Overview",
+          "ife": false
+        },
+        {
+          "t": "2:05",
+          "sec": 125,
+          "title": "Charlotte Lounge Options & AMEX Centurion Review",
+          "ife": false
+        },
+        {
+          "t": "4:00",
+          "sec": 240,
+          "title": "Route Overview: CLT to Washington DCA & Boarding",
+          "ife": false
+        },
+        {
+          "t": "4:45",
+          "sec": 285,
+          "title": "Boeing 737 First Class Seat Tour & Features",
+          "ife": false
+        },
+        {
+          "t": "6:07",
+          "sec": 367,
+          "title": "Pre-Departure Drinks & Takeoff",
+          "ife": false
+        },
+        {
+          "t": "7:18",
+          "sec": 438,
+          "title": "Wi-Fi, BYOD Streaming & In-Flight Service",
+          "ife": true
+        },
+        {
+          "t": "8:40",
+          "sec": 520,
+          "title": "Is AA First Class Worth It? (vs Delta & United)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "delta",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TpG0HRlyAvE",
+      "title": "The TRUTH About America's CHEAPEST Airlines",
+      "year": 2026,
+      "published_at": "2026-08-29T15:00:09Z",
+      "channel_title": "Jeb Brooks",
+      "view_count": 207174,
+      "like_count": 5356,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:33",
+          "sec": 33,
+          "title": "Frontier Airlines",
+          "ife": false
+        },
+        {
+          "t": "5:07",
+          "sec": 307,
+          "title": "Incogni",
+          "ife": false
+        },
+        {
+          "t": "6:11",
+          "sec": 371,
+          "title": "Breeze Airways",
+          "ife": false
+        },
+        {
+          "t": "11:14",
+          "sec": 674,
+          "title": "Allegiant Air",
+          "ife": false
+        },
+        {
+          "t": "15:26",
+          "sec": 926,
+          "title": "Final Thoughts and Ranking",
+          "ife": false
+        },
+        {
+          "t": "16:25",
+          "sec": 985,
+          "title": "Bloopers",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AeyxZbOT_JI",
+      "title": "4K China Airlines A321neo Takeoff & Climb | Taipei TPE",
+      "year": 2026,
+      "published_at": "2026-08-30T08:00:11Z",
+      "channel_title": "Aviation1337",
+      "view_count": 8,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 4
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V3NI9xplr8Y",
+      "title": "I Flew Riyadh Air’s Secret FIRST CLASS (Business Elite)",
+      "year": 2026,
+      "published_at": "2026-08-23T09:00:11Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 20446,
+      "like_count": 449,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:43",
+          "sec": 43,
+          "title": "Chauffeur problem",
+          "ife": false
+        },
+        {
+          "t": "01:55",
+          "sec": 115,
+          "title": "King Khalid International Airport",
+          "ife": false
+        },
+        {
+          "t": "02:35",
+          "sec": 155,
+          "title": "Hafawa Lounge",
+          "ife": false
+        },
+        {
+          "t": "07:51",
+          "sec": 471,
+          "title": "Nomad eSIM",
+          "ife": false
+        },
+        {
+          "t": "09:06",
+          "sec": 546,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "09:51",
+          "sec": 591,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "11:12",
+          "sec": 672,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "11:28",
+          "sec": 688,
+          "title": "Seat features",
+          "ife": false
+        },
+        {
+          "t": "12:41",
+          "sec": 761,
+          "title": "Evening snack",
+          "ife": false
+        },
+        {
+          "t": "13:25",
+          "sec": 805,
+          "title": "No alcohol discussion",
+          "ife": false
+        },
+        {
+          "t": "14:45",
+          "sec": 885,
+          "title": "Kayanee amenity kit",
+          "ife": false
+        },
+        {
+          "t": "15:15",
+          "sec": 915,
+          "title": "Toilets",
+          "ife": false
+        },
+        {
+          "t": "16:07",
+          "sec": 967,
+          "title": "Bed and sleeping",
+          "ife": false
+        },
+        {
+          "t": "17:30",
+          "sec": 1050,
+          "title": "Breakfast service",
+          "ife": false
+        },
+        {
+          "t": "18:33",
+          "sec": 1113,
+          "title": "Landing at London Heathrow",
+          "ife": false
+        },
+        {
+          "t": "19:04",
+          "sec": 1144,
+          "title": "Final thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Uh-A9W5EIVY",
+      "title": "MY MISTAKE! I FORGOT TO FILM KOREAN AIR ECONOMY CLASS",
+      "year": 2026,
+      "published_at": "2026-08-29T16:00:39Z",
+      "channel_title": "RandomAv_s",
+      "view_count": 75,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Preview",
+          "ife": false
+        },
+        {
+          "t": "0:16",
+          "sec": 16,
+          "title": "Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "0:29",
+          "sec": 29,
+          "title": "Airside",
+          "ife": false
+        },
+        {
+          "t": "0:40",
+          "sec": 40,
+          "title": "Flight Information",
+          "ife": false
+        },
+        {
+          "t": "0:50",
+          "sec": 50,
+          "title": "Aircraft Information",
+          "ife": false
+        },
+        {
+          "t": "1:05",
+          "sec": 65,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "1:20",
+          "sec": 80,
+          "title": "Seat & Features",
+          "ife": false
+        },
+        {
+          "t": "2:00",
+          "sec": 120,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "2:40",
+          "sec": 160,
+          "title": "IFE content",
+          "ife": true
+        },
+        {
+          "t": "3:10",
+          "sec": 190,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "3:50",
+          "sec": 230,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "4:10",
+          "sec": 250,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "4:40",
+          "sec": 280,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "5:00",
+          "sec": 300,
+          "title": "Conclusion & Verdict",
+          "ife": false
+        },
+        {
+          "t": "6:45",
+          "sec": 405,
+          "title": "Outro & Thanks",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-08-29T09:55:25.877178"
+  "last_updated": "2026-08-30T09:07:06.975941"
 }
