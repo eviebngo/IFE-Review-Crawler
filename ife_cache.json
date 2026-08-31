@@ -96385,7 +96385,7 @@
         {
           "t": "0:44",
           "sec": 44,
-          "title": "Free Lounge Access and Boarding",
+          "title": "Boarding",
           "ife": false
         },
         {
@@ -96403,13 +96403,13 @@
         {
           "t": "3:08",
           "sec": 188,
-          "title": "Hot Meal Service (50-Min Flight)",
+          "title": "Hot Meal Service",
           "ife": false
         },
         {
           "t": "3:46",
           "sec": 226,
-          "title": "Final Verdict and Value Rating",
+          "title": "Final Verdict",
           "ife": false
         },
         {
@@ -115346,7 +115346,7 @@
         {
           "t": "7:19",
           "sec": 439,
-          "title": "Final Score and IAD Landing",
+          "title": "Final Verdict and Value Rating",
           "ife": false
         }
       ],
