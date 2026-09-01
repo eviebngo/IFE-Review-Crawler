@@ -132776,7 +132776,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=H7jUFVBpQe0",
@@ -132820,7 +132822,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=iFEIXtAB3vQ",
@@ -132851,7 +132855,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=_S1QXk0uMTY",
@@ -132943,7 +132949,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=dkCuL81GljQ",
@@ -133186,7 +133194,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=-zcstctBdJo",
@@ -133234,7 +133244,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=_Np4Qbc2xkE",
@@ -133274,7 +133286,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.511
     },
     {
       "url": "https://www.youtube.com/watch?v=HZ3LBzp1H4Y",
@@ -133311,7 +133325,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=sfCXP32VOZQ",
@@ -133340,7 +133356,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=WO_llOJF3Ss",
@@ -133454,7 +133472,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=rL1QCLC-KK4",
@@ -133494,7 +133514,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Dn57222Xqfg",
@@ -133535,7 +133557,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=WV3_qACitMU",
@@ -133669,8 +133693,516 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZcU9Kxm_VA8",
+      "title": "Emirates Boeing 777 Flight Review: Dubai (DXB) to Dhaka (DAC) | EK586",
+      "year": 2026,
+      "published_at": "2026-08-31T19:18:00Z",
+      "channel_title": "ItzFantasticPlays",
+      "view_count": 31,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gvb63-7M1R0",
+      "title": "Is this the BEST British Airways plane for Economy?",
+      "year": 2026,
+      "published_at": "2026-08-31T11:23:32Z",
+      "channel_title": "James Warren-Oliver",
+      "view_count": 3185,
+      "like_count": 58,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "1:02",
+          "sec": 62,
+          "title": "Check-in and bag drop",
+          "ife": false
+        },
+        {
+          "t": "1:33",
+          "sec": 93,
+          "title": "Lounges",
+          "ife": false
+        },
+        {
+          "t": "2:15",
+          "sec": 135,
+          "title": "Plaza Premium Lounge Terminal 5",
+          "ife": false
+        },
+        {
+          "t": "3:43",
+          "sec": 223,
+          "title": "Heading to gate",
+          "ife": false
+        },
+        {
+          "t": "4:08",
+          "sec": 248,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "4:44",
+          "sec": 284,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "6:22",
+          "sec": 382,
+          "title": "Points lesson",
+          "ife": false
+        },
+        {
+          "t": "6:33",
+          "sec": 393,
+          "title": "Pushback and taxi",
+          "ife": false
+        },
+        {
+          "t": "7:08",
+          "sec": 428,
+          "title": "Take-off",
+          "ife": false
+        },
+        {
+          "t": "8:21",
+          "sec": 501,
+          "title": "Climb",
+          "ife": false
+        },
+        {
+          "t": "9:03",
+          "sec": 543,
+          "title": "Drinks service",
+          "ife": false
+        },
+        {
+          "t": "9:32",
+          "sec": 572,
+          "title": "Cost of flight",
+          "ife": false
+        },
+        {
+          "t": "10:02",
+          "sec": 602,
+          "title": "Bond, James Bond",
+          "ife": false
+        },
+        {
+          "t": "11:36",
+          "sec": 696,
+          "title": "Lunch service",
+          "ife": false
+        },
+        {
+          "t": "14:00",
+          "sec": 840,
+          "title": "In-flight entertainment",
+          "ife": true
+        },
+        {
+          "t": "14:36",
+          "sec": 876,
+          "title": "Toilet review",
+          "ife": false
+        },
+        {
+          "t": "14:53",
+          "sec": 893,
+          "title": "Sleep",
+          "ife": false
+        },
+        {
+          "t": "16:33",
+          "sec": 993,
+          "title": "Snack service",
+          "ife": false
+        },
+        {
+          "t": "17:48",
+          "sec": 1068,
+          "title": "Turbulence and more sleep",
+          "ife": false
+        },
+        {
+          "t": "19:04",
+          "sec": 1144,
+          "title": "Dinner service",
+          "ife": false
+        },
+        {
+          "t": "22:12",
+          "sec": 1332,
+          "title": "Start of descent",
+          "ife": false
+        },
+        {
+          "t": "23:17",
+          "sec": 1397,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "23:43",
+          "sec": 1423,
+          "title": "Final thoughts",
+          "ife": false
+        },
+        {
+          "t": "24:40",
+          "sec": 1480,
+          "title": "Credits and with thanks",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2mtYm_PAOn0",
+      "title": "What BA's Economy Cabin is Really Like in 2026 - London to Atlanta",
+      "year": 2026,
+      "published_at": "2026-08-31T17:45:27Z",
+      "channel_title": "Lee’s Travels",
+      "view_count": 41,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TL3mNbe_plE",
+      "title": "American's New Business Class isn't Bad. Except...",
+      "year": 2026,
+      "published_at": "2026-08-31T19:30:18Z",
+      "channel_title": "Nonstop Dan",
+      "view_count": 85929,
+      "like_count": 1783,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "American Airlines' Premium Strategy",
+          "ife": false
+        },
+        {
+          "t": "01:10",
+          "sec": 70,
+          "title": "JFK Airport & Greenwich Lounge",
+          "ife": false
+        },
+        {
+          "t": "01:50",
+          "sec": 110,
+          "title": "Boarding the Brand-New 787-9 Dreamliner",
+          "ife": false
+        },
+        {
+          "t": "03:35",
+          "sec": 215,
+          "title": "Seat 9A Tour & Broken Window Drama",
+          "ife": false
+        },
+        {
+          "t": "06:40",
+          "sec": 400,
+          "title": "Upgrading to Row 1 Flagship Suite Preferred",
+          "ife": false
+        },
+        {
+          "t": "07:10",
+          "sec": 430,
+          "title": "Takeoff & Maximizer Travel Philosophy",
+          "ife": false
+        },
+        {
+          "t": "10:30",
+          "sec": 630,
+          "title": "Flagship Suite vs Standard Business Class",
+          "ife": false
+        },
+        {
+          "t": "13:00",
+          "sec": 780,
+          "title": "Menu, Amenity Kit & Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "14:30",
+          "sec": 870,
+          "title": "Dinner Service & In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "17:35",
+          "sec": 1055,
+          "title": "Snack Bar & Bedding Amenities",
+          "ife": false
+        },
+        {
+          "t": "18:30",
+          "sec": 1110,
+          "title": "Surprising Wake-Up & Flight Sleep Quality",
+          "ife": false
+        },
+        {
+          "t": "19:55",
+          "sec": 1195,
+          "title": "US Airline Epiphany: AA vs United vs Delta",
+          "ife": false
+        },
+        {
+          "t": "20:45",
+          "sec": 1245,
+          "title": "Customer Service & Compensation Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "delta",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BcvklLH95Tk",
+      "title": "H10 Las Palmeras Tenerife is PARADISE!",
+      "year": 2026,
+      "published_at": "2026-08-31T13:55:26Z",
+      "channel_title": "Theme Parks And Attractions",
+      "view_count": 265,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Uo7YefP46kY",
+      "title": "[TRIP REPORT] Alliance Fokker 70 (for Virgin Aus.) (ECONOMY) Rockhampton (ROK) - Brisbane (BNE)",
+      "year": 2026,
+      "published_at": "2026-08-31T16:00:19Z",
+      "channel_title": "theplanesguy",
+      "view_count": 415,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1kk2Yp_q6k4",
+      "title": "Beyond Borders | Etihad",
+      "year": 2026,
+      "published_at": "2026-08-31T07:05:37Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 2263,
+      "like_count": 50,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-08-31T09:34:36.411418"
+  "last_updated": "2026-09-01T08:31:13.415127"
 }
