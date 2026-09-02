@@ -63258,7 +63258,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome to London Heathrow LHR",
+          "title": "Welcome to London Heathrow (LHR)",
           "ife": false
         },
         {
@@ -63270,25 +63270,25 @@
         {
           "t": "1:21",
           "sec": 81,
-          "title": "LHR Departure and Takeoff",
+          "title": "Departure and Takeoff",
           "ife": false
         },
         {
           "t": "2:10",
           "sec": 130,
-          "title": "Meal Service and Inflight Catering",
+          "title": "Meal Service",
           "ife": false
         },
         {
           "t": "3:02",
           "sec": 182,
-          "title": "Restroom Cleanliness Check",
+          "title": "Restroom Check",
           "ife": false
         },
         {
           "t": "3:22",
           "sec": 202,
-          "title": "Entertainment and Connectivity",
+          "title": "Entertainment and Wi-Fi options",
           "ife": true
         },
         {
@@ -63304,9 +63304,9 @@
           "ife": false
         },
         {
-          "t": "4:39",
-          "sec": 279,
-          "title": "Landing at Washington Dulles IAD",
+          "t": "4:49",
+          "sec": 289,
+          "title": "Landing at Washington Dulles (IAD)",
           "ife": false
         }
       ],
