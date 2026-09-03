@@ -132070,13 +132070,13 @@
         {
           "t": "0:39",
           "sec": 39,
-          "title": "Charlotte Douglas Overview",
+          "title": "Charlotte Douglas International Airport (CLT) Overview",
           "ife": false
         },
         {
           "t": "2:05",
           "sec": 125,
-          "title": "Charlotte Lounge Options & AMEX Centurion Review",
+          "title": "CLT Lounge Options & AMEX Centurion Review",
           "ife": false
         },
         {
@@ -133739,7 +133739,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=gvb63-7M1R0",
@@ -133931,7 +133933,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
     },
     {
       "url": "https://www.youtube.com/watch?v=2mtYm_PAOn0",
@@ -133973,7 +133977,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.42
     },
     {
       "url": "https://www.youtube.com/watch?v=TL3mNbe_plE",
@@ -134115,7 +134121,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.431
     },
     {
       "url": "https://www.youtube.com/watch?v=BcvklLH95Tk",
@@ -134146,7 +134154,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.737
     },
     {
       "url": "https://www.youtube.com/watch?v=Uo7YefP46kY",
@@ -134172,7 +134182,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=1kk2Yp_q6k4",
@@ -134201,8 +134213,1336 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rCCWk_usYyA",
+      "title": "🇶🇦 Qatar Airways OLD 777 Business Class  | Still Worth It in 2026? DOH–HKG🇭🇰",
+      "year": 2026,
+      "published_at": "2026-09-02T20:38:14Z",
+      "channel_title": "AltitudeLux",
+      "view_count": 36,
+      "like_count": 2,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 6
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pNQgFMELPes",
+      "title": "Fiji Airways STARVED their passengers to Adelaide",
+      "year": 2026,
+      "published_at": "2026-09-03T04:00:08Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 1575,
+      "like_count": 134,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "00:47",
+          "sec": 47,
+          "title": "Fiji Airways Premier Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:40",
+          "sec": 160,
+          "title": "Boarding flight FJ961",
+          "ife": false
+        },
+        {
+          "t": "04:17",
+          "sec": 257,
+          "title": "Seat 18F & features",
+          "ife": false
+        },
+        {
+          "t": "05:19",
+          "sec": 319,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "06:12",
+          "sec": 372,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "08:02",
+          "sec": 482,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:08",
+          "sec": 608,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "12:11",
+          "sec": 731,
+          "title": "Lavatory tour / seat recline / WiFi",
+          "ife": true
+        },
+        {
+          "t": "14:06",
+          "sec": 846,
+          "title": "PA",
+          "ife": false
+        },
+        {
+          "t": "14:47",
+          "sec": 887,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "16:43",
+          "sec": 1003,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "19:36",
+          "sec": 1176,
+          "title": "Adelaide vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZI8zxkrUGkc",
+      "title": "Flying Cathay Pacific’s Regional 777-300 Economy at Night! | TPE - HKG Flight Review",
+      "year": 2026,
+      "published_at": "2026-09-02T13:30:11Z",
+      "channel_title": "PotgeadAviation",
+      "view_count": 87,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Start",
+          "ife": false
+        },
+        {
+          "t": "0:47",
+          "sec": 47,
+          "title": "Our Gate",
+          "ife": false
+        },
+        {
+          "t": "1:12",
+          "sec": 72,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "1:28",
+          "sec": 88,
+          "title": "Seat 49K and Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "2:29",
+          "sec": 149,
+          "title": "Captain PA Announcement",
+          "ife": false
+        },
+        {
+          "t": "3:30",
+          "sec": 210,
+          "title": "Pushback and Engine Start",
+          "ife": false
+        },
+        {
+          "t": "4:56",
+          "sec": 296,
+          "title": "Outbound Taxi",
+          "ife": false
+        },
+        {
+          "t": "5:53",
+          "sec": 353,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "7:14",
+          "sec": 434,
+          "title": "Climb",
+          "ife": false
+        },
+        {
+          "t": "7:48",
+          "sec": 468,
+          "title": "Inflight Entertainment System Overview",
+          "ife": true
+        },
+        {
+          "t": "9:04",
+          "sec": 544,
+          "title": "Seat Pocket Contents",
+          "ife": true
+        },
+        {
+          "t": "10:12",
+          "sec": 612,
+          "title": "Inflight Service (Dinner)",
+          "ife": false
+        },
+        {
+          "t": "11:04",
+          "sec": 664,
+          "title": "Lavatory Review",
+          "ife": false
+        },
+        {
+          "t": "11:34",
+          "sec": 694,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "11:50",
+          "sec": 710,
+          "title": "Captain PA Announcement",
+          "ife": false
+        },
+        {
+          "t": "12:33",
+          "sec": 753,
+          "title": "Inflight Survey",
+          "ife": false
+        },
+        {
+          "t": "12:55",
+          "sec": 775,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "14:29",
+          "sec": 869,
+          "title": "Approach",
+          "ife": false
+        },
+        {
+          "t": "14:52",
+          "sec": 892,
+          "title": "Landing on Runway 07L",
+          "ife": false
+        },
+        {
+          "t": "15:51",
+          "sec": 951,
+          "title": "Conclusion and Thoughts",
+          "ife": false
+        },
+        {
+          "t": "16:53",
+          "sec": 1013,
+          "title": "Parking at the Gate",
+          "ife": false
+        },
+        {
+          "t": "17:15",
+          "sec": 1035,
+          "title": "Deboarding + Cockpit visit (visit not recorded)",
+          "ife": false
+        },
+        {
+          "t": "17:25",
+          "sec": 1045,
+          "title": "Hong Kong Int'l Airport",
+          "ife": false
+        },
+        {
+          "t": "17:38",
+          "sec": 1058,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=c7xRx5zzCmk",
+      "title": "✈️ All Nippon Airways (ANA) A380 First Class Experience | Honolulu to Tokyo Narita",
+      "year": 2026,
+      "published_at": "2026-09-02T01:37:03Z",
+      "channel_title": "Onigiri Travels",
+      "view_count": 77,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Quick Preview",
+          "ife": false
+        },
+        {
+          "t": "00:58",
+          "sec": 58,
+          "title": "Short Intro",
+          "ife": false
+        },
+        {
+          "t": "01:33",
+          "sec": 93,
+          "title": "Short Vacation + Bonus Content of Polynesian Dance Performance",
+          "ife": true
+        },
+        {
+          "t": "03:25",
+          "sec": 205,
+          "title": "Heading to Honolulu International Airport & Check in",
+          "ife": false
+        },
+        {
+          "t": "04:22",
+          "sec": 262,
+          "title": "ANA Suite Lounge Food Presentation",
+          "ife": false
+        },
+        {
+          "t": "05:19",
+          "sec": 319,
+          "title": "ANA Business Class Lounge Food Presentation",
+          "ife": false
+        },
+        {
+          "t": "06:02",
+          "sec": 362,
+          "title": "General Boarding",
+          "ife": false
+        },
+        {
+          "t": "07:02",
+          "sec": 422,
+          "title": "ANA A380 Aircraft Layout & Quick Seat Preview",
+          "ife": false
+        },
+        {
+          "t": "07:40",
+          "sec": 460,
+          "title": "Seat Tour and Amenities Kit Discussion",
+          "ife": false
+        },
+        {
+          "t": "09:46",
+          "sec": 586,
+          "title": "Short Taxi and Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:59",
+          "sec": 659,
+          "title": "Entertainment Preview and Seat Features",
+          "ife": true
+        },
+        {
+          "t": "11:44",
+          "sec": 704,
+          "title": "Food and Beverage Menu",
+          "ife": false
+        },
+        {
+          "t": "13:34",
+          "sec": 814,
+          "title": "Amuse & Appetizer (Sakizuke and Zensai Morsels)",
+          "ife": false
+        },
+        {
+          "t": "17:26",
+          "sec": 1046,
+          "title": "Main Course",
+          "ife": false
+        },
+        {
+          "t": "19:16",
+          "sec": 1156,
+          "title": "First Class Restroom",
+          "ife": false
+        },
+        {
+          "t": "19:32",
+          "sec": 1172,
+          "title": "Preparing Flatbed seat",
+          "ife": false
+        },
+        {
+          "t": "20:30",
+          "sec": 1230,
+          "title": "Enjoying Dessert with my mother!",
+          "ife": false
+        },
+        {
+          "t": "20:53",
+          "sec": 1253,
+          "title": "Prelanding meal",
+          "ife": false
+        },
+        {
+          "t": "21:10",
+          "sec": 1270,
+          "title": "Prelanding Discussion of Experience",
+          "ife": false
+        },
+        {
+          "t": "21:45",
+          "sec": 1305,
+          "title": "Did I pay in Cash or Points?",
+          "ife": false
+        },
+        {
+          "t": "22:08",
+          "sec": 1328,
+          "title": "Overall Experience Feedback & Landing in Tokyo Narita",
+          "ife": false
+        },
+        {
+          "t": "25:04",
+          "sec": 1504,
+          "title": "Headed to Tokyo",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 26
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 11
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TnmG-ZyBUn4",
+      "title": "All Nippon Airways Tokyo - Jakarta | Boeing 787 Economy Class Flight Report",
+      "year": 2026,
+      "published_at": "2026-09-01T12:00:06Z",
+      "channel_title": "Dody Febriarto",
+      "view_count": 212,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:47",
+          "sec": 47,
+          "title": "Tokyo Haneda Airport Terminal 2",
+          "ife": false
+        },
+        {
+          "t": "2:16",
+          "sec": 136,
+          "title": "Departure walk",
+          "ife": false
+        },
+        {
+          "t": "2:56",
+          "sec": 176,
+          "title": "Moslem Prayer Room",
+          "ife": false
+        },
+        {
+          "t": "3:45",
+          "sec": 225,
+          "title": "ANA Boeing 787 Dreamliner",
+          "ife": false
+        },
+        {
+          "t": "5:48",
+          "sec": 348,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "7:11",
+          "sec": 431,
+          "title": "Halal Breakfast",
+          "ife": false
+        },
+        {
+          "t": "7:48",
+          "sec": 468,
+          "title": "Landing in Jakarta",
+          "ife": false
+        },
+        {
+          "t": "8:21",
+          "sec": 501,
+          "title": "Arrival Walk",
+          "ife": false
+        },
+        {
+          "t": "8:52",
+          "sec": 532,
+          "title": "Soekarno Hatta Airport Terminal 3",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 19
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 11
+        },
+        {
+          "keyword": "787",
+          "mentions": 9
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bRSVCFeXqMw",
+      "title": "REVIEW ALL NIPPON AIRWAYS FLIGHT BEST INFLIGHT MEALS",
+      "year": 2026,
+      "published_at": "2026-09-02T02:45:26Z",
+      "channel_title": "piareyrey ur food buddy",
+      "view_count": 3,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ab3lnhSeY3w",
+      "title": "Flying Lufthansa's Boeing 747-8 in Economy I Frankfurt to Newark (EWR) I Trip Report",
+      "year": 2026,
+      "published_at": "2026-08-31T23:04:44Z",
+      "channel_title": "BoardingTimeHD",
+      "view_count": 1,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "02:16",
+          "sec": 136,
+          "title": "Departures Hall",
+          "ife": false
+        },
+        {
+          "t": "05:17",
+          "sec": 317,
+          "title": "Lufthansa Business Lounge",
+          "ife": false
+        },
+        {
+          "t": "07:56",
+          "sec": 476,
+          "title": "Our Queen from the apron",
+          "ife": false
+        },
+        {
+          "t": "08:35",
+          "sec": 515,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "12:06",
+          "sec": 726,
+          "title": "Take off from Frankfurt Airport (FRA)",
+          "ife": false
+        },
+        {
+          "t": "14:43",
+          "sec": 883,
+          "title": "Catering service: Lunch",
+          "ife": false
+        },
+        {
+          "t": "17:13",
+          "sec": 1033,
+          "title": "IFE system",
+          "ife": true
+        },
+        {
+          "t": "20:08",
+          "sec": 1208,
+          "title": "My final thoughts of this experience",
+          "ife": false
+        },
+        {
+          "t": "22:11",
+          "sec": 1331,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "23:48",
+          "sec": 1428,
+          "title": "Ticket's cost",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8DsLWejXkRQ",
+      "title": "✈ TRIPREPORT | KLM | Airbus A330-300 | Amsterdam - Aruba | Economy Class",
+      "year": 2026,
+      "published_at": "2026-08-29T09:00:08Z",
+      "channel_title": "NL Aviation",
+      "view_count": 10826,
+      "like_count": 73,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QD_LpvBsb9k",
+      "title": "40 HOURS OF CHAOS: The Worst Travel Home Day from Singapore",
+      "year": 2026,
+      "published_at": "2026-08-28T17:00:03Z",
+      "channel_title": "The Hackett Family",
+      "view_count": 18898,
+      "like_count": 301,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L-6WeXrX8Es",
+      "title": "Is Delta's OLDEST Business Class Still Worthwhile?: DELTA ONE Boeing 767-300ER (ATL to LAX)",
+      "year": 2026,
+      "published_at": "2026-09-01T13:00:30Z",
+      "channel_title": "The Itinerary - Travel & Culture Channel",
+      "view_count": 42,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:20",
+          "sec": 20,
+          "title": "Seat 5A and Cabin Overview (Boeing 767-300ER)",
+          "ife": false
+        },
+        {
+          "t": "01:57",
+          "sec": 117,
+          "title": "Boarding Drink and Pre-Meal Service",
+          "ife": false
+        },
+        {
+          "t": "02:17",
+          "sec": 137,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "02:46",
+          "sec": 166,
+          "title": "Older vs. Newer Delta One Suites",
+          "ife": false
+        },
+        {
+          "t": "03:51",
+          "sec": 231,
+          "title": "Seat Configuration",
+          "ife": false
+        },
+        {
+          "t": "04:12",
+          "sec": 252,
+          "title": "Lie-Flat Seat Comfort and Recline",
+          "ife": false
+        },
+        {
+          "t": "04:34",
+          "sec": 274,
+          "title": "Main Meal Service",
+          "ife": false
+        },
+        {
+          "t": "05:28",
+          "sec": 328,
+          "title": "Pre-Landing Views and Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "06:27",
+          "sec": 387,
+          "title": "Conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fpseZmf9kbM",
+      "title": "Air Canada Premium Economy review: Frankfurt to Toronto on Airbus A330-300 (the food SURPRISED me!)",
+      "year": 2026,
+      "published_at": "2026-08-20T19:00:02Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 12129,
+      "like_count": 149,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 5
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fHDDSaMtC9s",
+      "title": "@qatarairways A350-900 Economy Class Review | Doha (DOH) to Brussels (BRU) | QR193",
+      "year": 2026,
+      "published_at": "2026-08-30T16:00:06Z",
+      "channel_title": "Everything Flight",
+      "view_count": 173,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:20",
+          "sec": 20,
+          "title": "DOH Terminal Concourses",
+          "ife": false
+        },
+        {
+          "t": "02:10",
+          "sec": 130,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:52",
+          "sec": 172,
+          "title": "Cabin Experience 1/2",
+          "ife": false
+        },
+        {
+          "t": "04:22",
+          "sec": 262,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "05:18",
+          "sec": 318,
+          "title": "Cabin Experience 2/2",
+          "ife": false
+        },
+        {
+          "t": "06:33",
+          "sec": 393,
+          "title": "BRU Approach and Landing",
+          "ife": false
+        },
+        {
+          "t": "07:10",
+          "sec": 430,
+          "title": "Disembarking",
+          "ife": false
+        },
+        {
+          "t": "07:34",
+          "sec": 454,
+          "title": "Final Comments",
+          "ife": false
+        },
+        {
+          "t": "07:56",
+          "sec": 476,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "tail_camera": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ntyDuCNWR1o",
+      "title": "GARUDA INDONESIA Newer A330-300 Economy Class | The Best Way To Bali?",
+      "year": 2026,
+      "published_at": "2026-08-30T07:00:03Z",
+      "channel_title": "Hugo Lee",
+      "view_count": 38958,
+      "like_count": 369,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro & Check-in",
+          "ife": false
+        },
+        {
+          "t": "1:02",
+          "sec": 62,
+          "title": "Aircraft & Garuda A330 fleet info",
+          "ife": false
+        },
+        {
+          "t": "2:23",
+          "sec": 143,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "4:23",
+          "sec": 263,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "5:28",
+          "sec": 328,
+          "title": "PA & Safety Video",
+          "ife": false
+        },
+        {
+          "t": "6:40",
+          "sec": 400,
+          "title": "Pushback & Engine start",
+          "ife": false
+        },
+        {
+          "t": "7:09",
+          "sec": 429,
+          "title": "Taxi & Takeoff",
+          "ife": false
+        },
+        {
+          "t": "9:15",
+          "sec": 555,
+          "title": "Climb",
+          "ife": false
+        },
+        {
+          "t": "10:24",
+          "sec": 624,
+          "title": "In-flight Entertainment Screen",
+          "ife": true
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "12:21",
+          "sec": 741,
+          "title": "Lavatory review & Inflight",
+          "ife": false
+        },
+        {
+          "t": "12:48",
+          "sec": 768,
+          "title": "Snack service",
+          "ife": false
+        },
+        {
+          "t": "13:12",
+          "sec": 792,
+          "title": "PA",
+          "ife": false
+        },
+        {
+          "t": "14:10",
+          "sec": 850,
+          "title": "Descent, Conclusion & Approach",
+          "ife": false
+        },
+        {
+          "t": "16:57",
+          "sec": 1017,
+          "title": "Landing & Taxi to the gate",
+          "ife": false
+        },
+        {
+          "t": "19:28",
+          "sec": 1168,
+          "title": "Disembarking & Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4QW5ZQomfKs",
+      "title": "SANSA AIRLINES CESSNA 208B Grand Caravan | Puerto Jimenez - San Jose | Flight Review",
+      "year": 2026,
+      "published_at": "2026-09-01T15:00:36Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 24656,
+      "like_count": 266,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SDspisR0Dio",
+      "title": "Exploring Seoul | Etihad",
+      "year": 2026,
+      "published_at": "2026-09-01T11:22:49Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 4675,
+      "like_count": 41,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Official"
     }
   ],
-  "last_updated": "2026-09-01T08:31:13.415127"
+  "last_updated": "2026-09-03T07:58:26.593789"
 }
