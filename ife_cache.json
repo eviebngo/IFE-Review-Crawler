@@ -63258,13 +63258,13 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome to London Heathrow (LHR)",
+          "title": "Welcome to London Heathrow",
           "ife": false
         },
         {
           "t": "0:18",
           "sec": 18,
-          "title": "Boeing 777 Seat and Legroom Test",
+          "title": "Economy Seat and Legroom Test",
           "ife": false
         },
         {
@@ -63288,13 +63288,13 @@
         {
           "t": "3:22",
           "sec": 202,
-          "title": "Entertainment and Wi-Fi options",
+          "title": "Entertainment and Wi-Fi Options",
           "ife": true
         },
         {
           "t": "3:49",
           "sec": 229,
-          "title": "Afternoon Snack Service",
+          "title": "Snack Service",
           "ife": false
         },
         {
@@ -63306,7 +63306,7 @@
         {
           "t": "4:49",
           "sec": 289,
-          "title": "Landing at Washington Dulles (IAD)",
+          "title": "Landing at Washington Dulles",
           "ife": false
         }
       ],
@@ -105103,7 +105103,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Boarding at Hong Kong HKG",
+          "title": "Boarding at Hong Kong (HKG)",
           "ife": false
         },
         {
@@ -105151,7 +105151,7 @@
         {
           "t": "4:18",
           "sec": 258,
-          "title": "Landing at Taipei TPE",
+          "title": "Landing at Taipei (TPE)",
           "ife": false
         }
       ]
