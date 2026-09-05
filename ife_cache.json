@@ -52845,19 +52845,19 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "New York JFK Boarding Process",
+          "title": "Boarding at New York JFK",
           "ife": false
         },
         {
           "t": "0:17",
           "sec": 17,
-          "title": "American Airlines Boeing 777-300ER Row 20 Bulkhead Seat Tour",
+          "title": "Row 20 Bulkhead Seat Tour",
           "ife": false
         },
         {
           "t": "2:35",
           "sec": 155,
-          "title": "Takeoff from New York JFK Night Flight",
+          "title": "Takeoff from New York",
           "ife": false
         },
         {
@@ -52869,19 +52869,19 @@
         {
           "t": "3:39",
           "sec": 219,
-          "title": "Aircraft Restroom Tour",
+          "title": "Economu Restroom Tour",
           "ife": false
         },
         {
           "t": "4:11",
           "sec": 251,
-          "title": "Transatlantic Breakfast Service",
+          "title": "Breakfast Service",
           "ife": false
         },
         {
           "t": "4:32",
           "sec": 272,
-          "title": "Main Cabin Extra Versus Premium Economy Verdict",
+          "title": "Row 20 Bulkhead Seat Verdict",
           "ife": false
         },
         {
@@ -70090,7 +70090,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Hong Kong International Airport HKG",
+          "title": "Boarding at Hong Kong International Airport (HKG)",
           "ife": false
         },
         {
@@ -70102,7 +70102,7 @@
         {
           "t": "1:57",
           "sec": 117,
-          "title": "Takeoff from Hong Kong HKG",
+          "title": "Takeoff from Hong Kong",
           "ife": false
         },
         {
@@ -70120,7 +70120,7 @@
         {
           "t": "4:34",
           "sec": 274,
-          "title": "Aircraft Restroom Tour",
+          "title": "Economy Restroom Tour",
           "ife": false
         },
         {
@@ -70138,7 +70138,7 @@
         {
           "t": "6:20",
           "sec": 380,
-          "title": "Landing at Chicago O'Hare ORD",
+          "title": "Landing at Chicago O'Hare (ORD)",
           "ife": false
         }
       ],
@@ -70290,7 +70290,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Welcome to LHR T5",
+          "title": "Welcome to London Heathrow T5 (LHR)",
           "ife": false
         },
         {
@@ -70314,13 +70314,13 @@
         {
           "t": "5:33",
           "sec": 333,
-          "title": "Entertainment and Wifi",
+          "title": "Entertainment and Wi-Fi",
           "ife": true
         },
         {
           "t": "5:48",
           "sec": 348,
-          "title": "Restroom",
+          "title": "Restroom Tour",
           "ife": false
         },
         {
@@ -70332,7 +70332,7 @@
         {
           "t": "6:32",
           "sec": 392,
-          "title": "Final Verdict",
+          "title": "Final Verdict - Landing at Washingto Dulles (IAD)",
           "ife": false
         }
       ],
@@ -71744,7 +71744,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Arrival at Dallas Fort Worth DFW",
+          "title": "Boarding at Dallas Fort Worth (DFW)",
           "ife": false
         },
         {
@@ -71756,7 +71756,7 @@
         {
           "t": "1:28",
           "sec": 88,
-          "title": "DFW Departure and Takeoff",
+          "title": "Departure and Takeoff",
           "ife": false
         },
         {
@@ -71768,13 +71768,13 @@
         {
           "t": "4:02",
           "sec": 242,
-          "title": "Inflight Entertainment System and Wi-Fi Test",
+          "title": "Inflight Entertainment System and Wi-Fi",
           "ife": true
         },
         {
           "t": "4:56",
           "sec": 296,
-          "title": "Economy Class Lavatory Walkthrough",
+          "title": "Economy Class Lavatory Tour",
           "ife": false
         },
         {
@@ -71792,7 +71792,7 @@
         {
           "t": "6:02",
           "sec": 362,
-          "title": "Final Rating and Landing at Hong Kong HKG",
+          "title": "Final Rating - Landing at Hong Kong (HKG)",
           "ife": false
         }
       ]
@@ -121423,7 +121423,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Boarding at Taipei TPE",
+          "title": "Boarding at Taipei (TPE)",
           "ife": false
         },
         {
@@ -121471,7 +121471,7 @@
         {
           "t": "3:54",
           "sec": 234,
-          "title": "Landing at Hong Kong HKG",
+          "title": "Landing at Hong Kong (HKG)",
           "ife": false
         }
       ],
