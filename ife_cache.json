@@ -1822,152 +1822,7 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "like_count": 87,
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "1:36",
-          "sec": 96,
-          "title": "Santiago",
-          "ife": false
-        },
-        {
-          "t": "2:14",
-          "sec": 134,
-          "title": "Check-in, bag drop and security",
-          "ife": false
-        },
-        {
-          "t": "3:32",
-          "sec": 212,
-          "title": "SkyTeam Lounge",
-          "ife": false
-        },
-        {
-          "t": "6:40",
-          "sec": 400,
-          "title": "Gate and aircraft",
-          "ife": false
-        },
-        {
-          "t": "7:46",
-          "sec": 466,
-          "title": "Boarding",
-          "ife": false
-        },
-        {
-          "t": "8:49",
-          "sec": 529,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "10:02",
-          "sec": 602,
-          "title": "Welcome drink",
-          "ife": false
-        },
-        {
-          "t": "10:36",
-          "sec": 636,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "11:10",
-          "sec": 670,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "12:46",
-          "sec": 766,
-          "title": "Climb and expected turbulence",
-          "ife": false
-        },
-        {
-          "t": "13:36",
-          "sec": 816,
-          "title": "Andes Mountains",
-          "ife": false
-        },
-        {
-          "t": "14:35",
-          "sec": 875,
-          "title": "Start of service",
-          "ife": false
-        },
-        {
-          "t": "15:54",
-          "sec": 954,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "16:11",
-          "sec": 971,
-          "title": "Meal service",
-          "ife": false
-        },
-        {
-          "t": "18:46",
-          "sec": 1126,
-          "title": "Holland Herald",
-          "ife": false
-        },
-        {
-          "t": "19:07",
-          "sec": 1147,
-          "title": "Fully lie-flat bed",
-          "ife": false
-        },
-        {
-          "t": "20:07",
-          "sec": 1207,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "20:41",
-          "sec": 1241,
-          "title": "Delft Houses",
-          "ife": false
-        },
-        {
-          "t": "21:17",
-          "sec": 1277,
-          "title": "Husband's review!",
-          "ife": false
-        },
-        {
-          "t": "21:33",
-          "sec": 1293,
-          "title": "Start of descent",
-          "ife": false
-        },
-        {
-          "t": "23:18",
-          "sec": 1398,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "24:37",
-          "sec": 1477,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "25:47",
-          "sec": 1547,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "yt_comments": [
         {
           "author": "@truebrit3578",
@@ -14901,146 +14756,7 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "like_count": 88,
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "1:04",
-          "sec": 64,
-          "title": "Estadio Monumental",
-          "ife": false
-        },
-        {
-          "t": "1:37",
-          "sec": 97,
-          "title": "Heading to the airport",
-          "ife": false
-        },
-        {
-          "t": "2:27",
-          "sec": 147,
-          "title": "Check-in, bag drop and security",
-          "ife": false
-        },
-        {
-          "t": "4:00",
-          "sec": 240,
-          "title": "Star Alliance Lounge",
-          "ife": false
-        },
-        {
-          "t": "7:04",
-          "sec": 424,
-          "title": "Heading to the gate",
-          "ife": false
-        },
-        {
-          "t": "8:24",
-          "sec": 504,
-          "title": "Boarding",
-          "ife": false
-        },
-        {
-          "t": "9:07",
-          "sec": 547,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "10:31",
-          "sec": 631,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "11:19",
-          "sec": 679,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "13:04",
-          "sec": 784,
-          "title": "Climb",
-          "ife": false
-        },
-        {
-          "t": "14:27",
-          "sec": 867,
-          "title": "Turbulence",
-          "ife": false
-        },
-        {
-          "t": "15:30",
-          "sec": 930,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "15:52",
-          "sec": 952,
-          "title": "Dinner service",
-          "ife": false
-        },
-        {
-          "t": "19:03",
-          "sec": 1143,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "19:29",
-          "sec": 1169,
-          "title": "Lie-flat bed and sleep",
-          "ife": false
-        },
-        {
-          "t": "22:32",
-          "sec": 1352,
-          "title": "An interview with Helen",
-          "ife": false
-        },
-        {
-          "t": "24:38",
-          "sec": 1478,
-          "title": "Goodies from the crew",
-          "ife": false
-        },
-        {
-          "t": "27:07",
-          "sec": 1627,
-          "title": "Why travel?",
-          "ife": false
-        },
-        {
-          "t": "29:18",
-          "sec": 1758,
-          "title": "Descent and thunderstorms",
-          "ife": false
-        },
-        {
-          "t": "30:36",
-          "sec": 1836,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "31:20",
-          "sec": 1880,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "32:37",
-          "sec": 1957,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "yt_comments": [],
       "transcript_full": "This week we're flying Air Canada's business class on one of South America's most fascinating fifth freedom routes from Buenosirez to Sao Paulo. Expect plenty of beer, a few glasses of champagne, a full test of Air Canada's fully lilap bed, and a chance encounter with Helen, one of the warmest and friendliest people we've ever met on our travels. Adoniseres Argentina and welcome to this week's video. Now we're on another route this week. We're going back up to Sa Paulo in Brazil. Not quite ready to leave South America just yet. And we could be flying Gaul. We could be flying Eerlinas Argentinas. Any other ideas of possible airlines operating on this route? Well, there's a big big teaser behind me and that's because we're flying on the fifth breeden route operated by Air Canada. And that flight then continues on to Toronto in Canada. So join us this week for what promises to be a very interesting and unique fifth freedom flight here from Argentina to Sa Paulo, Brazil. And for our last night in Buenosirez, we hit the Estadio Monumental for the Riverplate versus Belgrano game. And what an experience. A big tick off our list for the pair of visiting here. And the atmosphere was nothing short of electric. Plenty of goals and a 3-0 win for River Plate meant the British boys had bought the Argentinians some luck. Oh, and being so close to George Newbury airport means even this stadium and football segment keeps you lovely agit lot hooked too. The next morning it was time to leave and it was very very rainy in Buenosirez. So we jumped in the Uber and took the short 30-minute ride across to Asa International Airport, the largest of the Argentinian airports. Well, welcome inside to Buenosarees International Airport. We are glad to get out of this rain. I think we've bought some British bad luck over to Argentina when it comes to the weather today certainly, but um just trying to find the check desk for Air Canada for the second fifth freedom route on the channel. It's um it's becoming a fifth freedom channel at the moment. We've been doing quite a lot. If you didn't see the other one, it was KLM's business class from Santiago, Chile over to Bonoseras. And we're now going Air Canada business class from Bonosirez up back to Sa Paulo in Brazil. So, we're just going to find the Air Canada check-in desks in the terminal, and I'll catch up with you soon. Air Canada have their check-in desks located in zone E here at Aesa International Airport. And there's a number of self-service kiosks available, too. Everything worked perfectly. We tagged our bags ourselves and then joined the priority lane to drop off our cases. I also managed to snag seat 1A today. It's the small winds. Next, it was time for us to head upstairs and locate priority security, which is called Fast Pass. Your business class ticket entitles you to use the expedited channel, and it was really, really good. So that's us through security and have exited the country through border control. We use the Fastpass scheme which is included with an Air Canada business class ticket and I must admit it's one of the best I've ever experienced. We were under a minute to go through security and through border control. The longest sort of activity of the moment there was me having to put my uh thumb on the fingerprint reader. Absolutely top-notch stuff. So definitely worth doing fast pass at Bonosera's International Airport. We're now through. Husband's looking at the gate. Wherever he is. There he is. And uh we're off to the Star Alliance Lounge. So I'll catch up with you shortly. So, hello from the confines of the Star Alliance Lounge here opposite gate number nine. And um yeah, really impressed. Beautiful little lounge. Um, certainly could give some of the lounges back home a run for its money. I'll take you on a full tour. But from what I've seen, the food and drinks options look pretty decent. And there's lots of Argentinian, lots of local cultural offerings as well, which I absolutely love. If you're going to open a lounge, regardless of what alliance it is or airline, at least stay true to your roots or the destination that you're in. So, I'll take you on a full tour. As always, that's coming up next. There's lots of comfortable seating options available in the lounge, and they all come with integrated plug sockets, and super fast Wi-Fi is available throughout. There was a variety of local and international beers available alongside red, white, and rosé wines. There was also a selection of free pore spirits, including local Boske gin. The husband had a vodka and Fanta orange, whilst I tried the Argentinian artisal gin with tonic water and a helping of habiscus and pink pepper. It was great. If alcohol isn't your thing, there's grapefruit infused water with rosemary, a Coca-Cola drinks machine, and also this multifruit juice, too. Not to mention a selection of bottled sodas as well. There's also filtered water on tap, an automated coffee machine, and teas from Heredia. On the food front, there was bread for toasting alongside preserves like local duchi delay spread. There was also two types of cereal, a selection of biscuits, and also a variety of muffins, too. There were three types of alcohols on this impressive display stand alongside a selection of fresh fruit and this range of bar snacks as well. There was also fresh sliced fruit alongside meats, cheeses, and olives. And there was also this help yourself salad counter. On the hot food front, there was pilaf rice alongside steak and creamed corn empanadas and a chicken curry as well. All in all, a reasonable spread. If you're also flying Luansa or Swiss First Class, you'll enjoy this dedicated space in the lounge that's permanently reserved for such guests. We then enjoyed a few drinks together, not to mention a selection of local food offerings before heading out to locate our gate. So, just left the lovely Star Alliance Lounge here at Boniseras, and Frank and I have made a new friend. Uh like literally of all the years I've been traveling, you know, we get to we're very very fortunate to meet some amazing people. Our contact list is as long as our arm and we try and keep in touch with as many of you guys on our travels. But we have just met the most amazing person. We've just met Helen from Canada who's flying all the way back to Toronto on this. So going through Sa Paulo. Obviously we're getting off in Brazil. Helen carrying on up to Toronto. Um and she's been on a HX cruise her expedition cruise around Antarctica. absolutely incredible stories. Um we'll try and catch up with Helen on the plane in a bit. She is absolutely hands down the loveliest person I've ever met. And um yeah, I lost my grandma um about 18 months ago. So uh yeah, it it's like talking to my grandma again. So yeah, that's nice. So anyway, before I start crying, uh let's get to gate 14 and uh gather on up to Toronto in business class. And we have promised Helen a glass of champagne on board. And I think we've earned it. Catch you soon. And flying is up there this evening is this Boeing 787-9 Dreamliner Air, which was delivered to Air Canada in April of 2019. Boarding is done at the gate in zones, and we're in zone one today, even though they merge zone one and two together. Don't get me started, because that doesn't seem logical. As we've boarded, though, I got a great shot of my window, and I think we all have to agree, the seat looks pretty good. Well, welcome aboard this 787-9, this Air Canada Dreamliner. And my initial impressions are pretty good. There's so much space. I'm in the best seat in the house, admittedly. I'm in 1A and the husband to the right of me here in 1D. We're going to get settled into business class. We're going to show you everything that we get on this little short fifth freedom hop up to Sa Paulo. And I'll take you on a seat tour next of this 1A business class seat aboard Air Canada's Dreamliner. All business class seats have a maple leaf branded leather headrest. And on my seat waiting for me was a rather plush square pillow. There was plenty of bedding too, a complimentary bottle of still water and a pair of earphones with the noiseancelling headphones being reserved for long haul routings. Leg room is very, very good. So good, in fact, I only just reached the end. Above me is a personal reading light and also overhead air vent. And to the left of me is this storage compartment comprising of an IF remote, headphone, and USBA ports alongside an AC charging socket, too. This then closes to create quite a lot of space and a comfortable place to rest your arm. The if weighs in at an impressive 18 in in full HD, and to the right of the seat is an adjustable lever armrest, which when raised creates further storage space underneath. To the left of the seat is the standard literature storage pocket. And there's also a personal reading light over your shoulder. The seat is fully motorized and adjustable using this touchcreen. And the drop- down tray table is mammoth in size. Each suite gets two and a bit windows. And these are the signature Dreamliner dimmable ones. Now 1A is near to the galley, but I must admit the crew were incredibly respectful of this. And I didn't hear a peep of noise all throughout the flight. Tell me. Heat. Heat. Heat. Heat. push to see both sides. Federal regulations will open this. So all of in the climb now. Um husband is already you know kicking back and relaxing whilst I have to get on with some work and review this flight for you guys. So, this is the first time for me uh of ever flying uh Canada. I've come very close to Air Canada in the past, but never flown them. So, it's nice to finally join them aboard a wide body in their business class suite in 1A. Um as you can see, we're being rocked about a little bit. Um lots of cloud on the climb out today and um not much visibility at all. Um just literally breaking the clouds now. We've been climbing for about 10 minutes. though that should tell you all you need to know about the state of the weather that we're leaving behind in Argentina. So, I can hear the crew midd around in the galley. The curtains just being closed in business class, which should indicate the start of some form of service. So, let's see what comes next. I'm really looking forward to this, though. I've wanted to fly Air Canada a long, long time. And the fact that this was last minute, we managed to grab business class and we've got a pretty decent seat. I'd call that the trio of business class wins. So, uh, About 10 more minutes after I last spoke to you. We are still trying to get up to cruising altitude. Um we have battled quite a bit of turbulence. So the carry crew now in their seats and uh we've still got the seat belt sign on. Um obviously complete safety first above service. Um but it's certainly been a wild ride out of Boris. But um yeah, so far we've had a hot towel service which was really nice. Um managed to sort of enjoy that and then these bumps really came out of nowhere. And as much as I thought they were bad climbing up, we've just had some really, really quite severe turbulence. So, we are strapped in tight, got this trusty seat belt on with the airbag to the left of me and still crossing through quite a lot of clouds. So, it's um just one of those things, I'm afraid. Sometimes these things happen. So, the delay of the service has been delayed cuz the crew are also in their seats, rightly so. Um let's see what happens. Hopefully, lady look and the weather is on our side. Whilst waiting, I tried out the if using the remote and it was very easy to control with crystalclear graphics and lots of films and TV programs available on demand. There was also a music section and of course the infamous moving map which you can port across and watch on the remote. I do like this feature. Then the lovely service director Ramy approached and laid my table ready for dinner. Despite the seat belt sign still being illuminated, the crew took it upon themselves to start some form of service. So, here we go. Neil service has just finished. No jokes. We're still strapped in, still got the seat belt on. Um, the crew are doing their very best to run a safe yet efficient service cuz this turbulence has just bowled us over. It's been non-stop since we've been on the climb and in the cruise. It's just come for us on this flight. Um, but the crew have done a really good job of serving the food. Um, everything came on the plate with the exception of the main course and then that was served almost silver service style. The dish placed on your train. I quite like that. I like that old school kind of service element. Um, so there was a choice of breads, white bread roll or a quasant served with president butter. I went for the quasant. Obviously quasant quite butter rich. So I whacked that butter onto my mane. And that leads us quite nicely onto what the main was. Now the if stated there was some kind of smoked pastery cheese dish. Um, but we were served a chicken pot pie. Now it was really tasty, really moist, really flavorful. slightly, possibly ever so slightly overseas, but it was great nonetheless. Um, one of the small bits of criticism I have with it is it is so big. Now, I can't complain the other way when things are small, but it was really big. And Air Canada, you have defeated me. Um, you're probably the first airline to do so in the history of flying, but you've defeated me on this occasion. But it was lovely nonetheless. It could have just done with a bit of a zu or a sauce or a gravy, but it was really tasty nonetheless. There was then a fruit plate. Fruit served perfectly at temperature. Little chilled but not icy and you know with any bite. And there was melon, mango, and fresh kiwi. All beautiful uh fruit. Really nice and sweet. And then not tucked into these yet so I can't comment on them, but I'm going to have these shortly. Uh a pack of chocolate cookies. Uh favl uh chocolate milk chocolate cookies. A two pack served as well. Choice of drink from the bar. Um didn't know what to go for. So, I went for this Molson Canadian Laga, which is really tasty. It's um very malty um as a beer, and that's served in a lovely Air Canada glass with a Maple Leaf logo on the side. So, as me service has gone on a two and a half hour flight. Absolutely fantastic. And props to the crew as well for trying to serve the meal in such turbulence. It's not an easy task. And of course, you have to remember that their safety as well. So, they've done their very best to get everybody served. Everyone's tucking in. I am now finished. I've got these cookies to try. I'll tell you how they are. But yeah, for a fifth freedom, 2 and 1/2 hour flight up to S Paulo. Pretty impressive there, Canada. Despite the turbulence, I managed to sneak in a quick toilet check and they were very well looked after. There was amenities from Addition Voyage, including this very nice luxury hand cream. It really did smell great. The toilets all follow the signature Maple Leaf branding that Air Canada is famous for. I liked this lone red maple leaf. And there was also this vanity mirror, too. All in all, a really good experience, minus these pesky bumps. It was then time for me to turn my seat into a fully li flat bed. The things I have to do. So, excuse me. I'm just going to uh tuck myself up into this Air Canada bed. It's a bit frivolous, really, isn't it? Trying to take a small map on a flight of this length. But, uh, got to test it out for you guys. And, uh, considering this turbulence is absolutely showing no signs of stopping, it makes total sense to at least give the bed a try. So, it's in fully li flat bed mode at the moment and there is just so much space. My legs can wiggle around non-stop, which is great. So, um yeah, if I sort of push myself all the way down and get super comfortable, I'm still kind of not touching the end of the bed, which is really nice. Yeah, I'm a big fan. Now, I'm not too sure if 1A has more space. Looking around, it looks like it does with it being the bulkhead row. But I think you'd be super comfortable on a long haul flight in this kind of seat. I'm a big big fan. And this pillow as well is uh super comfortable. It's actually on the more firmer side than most pillows, but um yeah, I'm a big fan. So, in the spirit of the channel, I feel it's only fair to try and get at least 20 minutes sleep. Let's give it a whirl. Now, as I settle in for a quick snooze, I can confirm the seat passes the husband test. At 6'3, he had plenty of space. And on the sleep front, I got a solid 25minute power nap. I really can't complain at the levels of comfort in this bed. To me, it's a standout product. Winner. absolute winner. This is a beautiful bed. This mattress topper here, this kind of one underneath and this duvet um are just really really soft and more of a kind of um kind of when you starch bed sheets, you get that kind of crispy feel. Um almost cotton in essence. Not too sure if they are cotton, but they are super super comfortable. Husband's still drinking. He's enjoying the bar. Um, but I managed to get a 10 or 15 minutes sleep and that was beautiful. Nice little trial, little NASA nap. Um, if you don't know what the NASA nap is, Google it. Um, little NASA nap and um, ready to uh, see if we can go and say a quick hello to our favorite friend Helen. Now, not too sure if we can. The seat belt sign's still on, but I'll do my very best to pop over and say a quick hello. I did promise her a glass of champagne, and I like to be a man that keeps his promise. I'm going to tell everybody. >> We'll get you the card. As a man of promise, I have the champagne. Let's go and see if uh it's my it's my newest subscriber. Here is the lovely Helen. >> Hello. >> How are you, my lovely? >> I'm much better off for having met you. >> I bought you some champagne. >> Well, thank you very much. >> Cuz I promised you and no one no one will be able to hear you. So, you've been on a cruise around Antarctica. >> I have. It was fabulous. Ajax, it was just worth it. >> We are the most jealous people ever. Frank and I have wanted to go to Antarctic for so long. >> You will. It's absolutely fabulous. And you have to do it. I just I could we don't have more than two seconds to tell you that this is something everyone should do. It's it it just will expand you all over the place. >> And Helen has not been paid to say that honestly. But one of the things I will say, I've been traveling for now probably 14 years, >> and you are the loveliest person I've ever met. >> Oh, I do. You don't get around a lot, do you? >> No, I do. I'd get around too much. And you have taught me so much about travel today. I thought I was well traveled, but you are probably the most welltraveled person I've ever met. >> Well, you're the most welltraveled person I've met with. I don't know how you can keep your your time zones. Where are you now? >> I don't know. >> We don't know. We're drinking champagne, so nobody knows. And nobody cares. >> Nobody cares. Well, Helen, thank you so much. It's been lovely to meet you. >> You have a fabulous site. It keeps us all on our toes and it's very exciting to follow you to see what you're doing and where you're going. I live in Toronto and I'm a I'm a dedicated viewer. I love to know what you two are up to. It's fabulous. >> This will not be the last time Helen and I stay in touch. >> I hope we run into each other going to Koala Lumpur. We will. >> I'm sure we will. >> Promise me more champagne, darling. Helen is a lady with impeccable taste. >> Thank you. There these They are wonderful. You know what you're talking about. That's what's so >> We try. >> Yes. You succeed, darling. Thank you. >> So, just came back to my seat to a bag of goodies from the crew. Um, I've got to hand it to Air Canada. The welcome and just the service on this flight has been second to none. Um, Ramy and Mitz. um who is a fellow Brit, lived in Canada for a while. Um she's just absolutely hilarious and two of the nicest crew members I think I've ever met on my travels. There is the affforementioned Ramy. Wonderful cabin service director, top of his game, just knows how to run the cabin, run the business class section, and just look after people. And the same for Mits. They've been absolutely awesome. And we've encountered a couple of other crew as well, and they've all been just super friendly. So, you know what, Air Canada, it's a big tick from us. Thank you so much for looking after us on this leg. We didn't know what we'd get. We didn't really know what the experience would be like. Finally, the seat belt sign has been off for the past 30 minutes. We've been able to actually move around the cabin and stretch our legs a bit and go and see the wonderful Helen. This flight's been a bit of a magical one. Wonderful crew. Despite the start, the bumpy start. There you go. The affforementioned it. Um, just fabulous team on board Canada's flight today up to S Paulo. The team now overlay here in South Paulo for the night and they take the next leg tomorrow. It's been like a relay race. They take the next leg up to Toronto tomorrow. So yeah, it's been wonderful. The crew have really looked after us and um it's one of those flights again that you you feel it here. Um not always do you feel it there, but on this one this particular flight, we've had a blast. So the sun is well and truly setting now as we fly into S Paulo. I best get ready to show you what's in this bag of goodies and then get settled in for the sunset arrival into Sa Paulo. A big thanks for watching and I'll see you next week. So, totally unprompted, here was our Air Canada bag of goodies featuring the Twigs Craft Pretzel Sticks in buttermilk garlic flavor. These were actually insanely tasty for pretzels. There was also these rice crackers and nuts mix branded in the Air Canada Maple Leaf. These Miss Vickiy's original recipe salted crisps, very similar to kettle chips, handcooked in nature and really quite tasty. And on the sweet front, there were these llur celebration all butter cookies coated in milk chocolate. And of course, a couple of humble Kit Kats. Never say no to a Kit Kat. What a lovely and thoughtful gesture. Little me's just been sitting here being a bit philosophical, which is quite rare for me because I'm not the sort of philosophical person. But um I think travel is um not only does it broaden the mind and is one of the best ways I think to immerse yourself in different cultures and become a more um well-rounded and better person. I think I think travel makes you a better person. Um, when you meet people on these travels, be it cabin crew, be it fellow passengers like Helen, like Ramy, like Mits today, they almost sort of broaden your own horizon. They impart some of their bits of wisdom and some of their tips and some of their knowledge onto you, which you then go and try and, you know, share that knowledge with other people as well. And that's the beauty. That's the real beauty of travel. That's why I love doing what I do. That's why I every single day I wake up in the morning, I'm unbelievably grateful to be able to do this now um as a job and um it is really heartwarming when you meet just awesome people. Like I said to you earlier and at the risk of trying not to get a bit upset, I lost my grandmother um she passed away um in quite quick circumstances which was really difficult. um she was my biggest um supporter and I haven't started the YouTube at that at that point. Um and I know she'd absolutely love watching these kind of videos now and be super proud. And um a little bit of Helen today has made me feel like, you know, my grandma is still here and um because she loved travel and just loves seeing new places and absolutely instilled in me the reason as to why I love travel and why I love flying so much. Um, so yeah, that today is the single reason why I love travel. And it proves to you that the best way to become a better person and the best way to learn is to immerse yourself in different cultures, travel the world, say yes to things you wouldn't normally say yes to, and spark conversations with people you wouldn't normally talk to. And that is the best way of living life to the full. I love it. Well, it doesn't rain, but it metaphorically pours aboard this AC91 flight to Sa Paulo. We're currently circling due to really quite heavy thunderstorms in the area and I've seen quite a lot of lightning, both sheet lightning and also fork lightning. So, uh, lots of stuff going off. In fact, this is probably going to be uh the, uh, seat belt sign coming on. Well, maybe not. Um, no real bumps now. We've got over those, but um, lots of lightning nonetheless. So, as we taxi to our gate in Sa Paulo, I think it's fair to say Air Canada absolutely delivered on AC91 today from start to finish. This felt like an all-star performance from the cabin crew. The service director, Ramy, alongside Mits and the rest of the team was simply superb throughout the entire flight. Warm, professional, attentive, and genuinely engaging. The kind of service that leaves a lasting impression long after the aircraft door opens. And that's even more impressive considering this was a relatively short hop by long haul standards and made even shorter by that pesky turbulence. One of the unexpected highlights today was also meeting Helen and then getting the chance to continue chatting on board. Hearing stories from her past and her own travels, journeys which in many ways have helped inspire and shape some of our future plans was genuinely special. Hopefully, we managed to leave her with a few tips of our own as well and not just a reduced champagne supply on board. But more than anything, this was one of those flights that you don't just review analytically, you actually feel it in your heart. The warmth, the atmosphere, the hospitality, it all came together to create something genuinely memorable. Air Canada, we came for business class and business class we got. Liking, sharing, and subscribing helps me more than you'll ever truly realize. So, thank you so much to those who've done it. And if you haven't subscribed, click the little icon and join me on a journey each week somewhere around the world.",
       "ife_system_guess": "Panasonic eX3",
@@ -17926,158 +17642,7 @@
       "sentiment": "negative",
       "sentiment_score": -0.447,
       "like_count": 101,
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "1:26",
-          "sec": 86,
-          "title": "Heading to the airport",
-          "ife": false
-        },
-        {
-          "t": "2:23",
-          "sec": 143,
-          "title": "Check-in, bag drop and security",
-          "ife": false
-        },
-        {
-          "t": "3:35",
-          "sec": 215,
-          "title": "Summing up South America",
-          "ife": false
-        },
-        {
-          "t": "5:06",
-          "sec": 306,
-          "title": "Espaço Banco Safra / W Premium Lounge 5th Avenue",
-          "ife": false
-        },
-        {
-          "t": "7:22",
-          "sec": 442,
-          "title": "Heading to the gate",
-          "ife": false
-        },
-        {
-          "t": "8:48",
-          "sec": 528,
-          "title": "Boarding",
-          "ife": false
-        },
-        {
-          "t": "10:12",
-          "sec": 612,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "11:46",
-          "sec": 706,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "13:04",
-          "sec": 784,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "14:38",
-          "sec": 878,
-          "title": "Climb",
-          "ife": false
-        },
-        {
-          "t": "15:48",
-          "sec": 948,
-          "title": "Turbulence and seatbelt signs",
-          "ife": false
-        },
-        {
-          "t": "17:16",
-          "sec": 1036,
-          "title": "Drinks and defects",
-          "ife": false
-        },
-        {
-          "t": "21:50",
-          "sec": 1310,
-          "title": "First meal service",
-          "ife": false
-        },
-        {
-          "t": "26:23",
-          "sec": 1583,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "26:51",
-          "sec": 1611,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "27:01",
-          "sec": 1621,
-          "title": "Sleep",
-          "ife": false
-        },
-        {
-          "t": "28:19",
-          "sec": 1699,
-          "title": "Window blinds and minibar",
-          "ife": false
-        },
-        {
-          "t": "30:47",
-          "sec": 1847,
-          "title": "Passing the time and awarding medals",
-          "ife": false
-        },
-        {
-          "t": "33:32",
-          "sec": 2012,
-          "title": "Second meal service",
-          "ife": false
-        },
-        {
-          "t": "36:30",
-          "sec": 2190,
-          "title": "Reflection",
-          "ife": false
-        },
-        {
-          "t": "38:25",
-          "sec": 2305,
-          "title": "Descent",
-          "ife": false
-        },
-        {
-          "t": "38:48",
-          "sec": 2328,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "39:45",
-          "sec": 2385,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "40:34",
-          "sec": 2434,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "yt_comments": [],
       "transcript_full": "This week I get the chance to fly Air China on an unusual routing from Sa Paulo across to Madrid. Part of its 17 12,000 km mammoth fifth freedom journey linking China to Brazil. There's culinary, how should I say it, surprises, wonky tray tables, saucy overhead lighting, and headphones from the mid90s. Let's just say you'll want to stick around for this one. You won't be, or maybe you will be disappointed. Well, hola and a very good morning from Sa Paulo International Airport. And it is a very good morning indeed. It's approaching 4:00 a.m. This is the very reason Frank and I had absolutely no sleep last night. I do love planes, but yeah, it really was a loud one. We had this every 90 seconds throughout the night. I mean, I do love a plane as most as the next guy, but yeah, I do want a bit of sleep as well. But never mind. Hopefully, we can get some sleep on today's very long flight back to Madrid Barahas. Today, we're flying Air China. We've never had the chance to go to China or fly on Air China. So, this funky fifth freedom route popped up. We decided to give it a whirl. So, come with us as we fly back to Madrid Barahas aboard Air China's Dreamliner in economy. We started our journey in an Uber across to Sa Paulo's International Airport, which took around 15 minutes, even in the early morning traffic. Definitely leave yourself enough time if ever you're departing from GRU. Well, good morning from S Paulo's International Airport. And here we are. Our epic South American journey is coming to an end. Pretty much to an end anyway with this very long journey back to Madrid today with Air China. Really looking forward to getting on board. We're headed to the check-in desks now because we couldn't check in using the app. And as much as my sort of Spanish and Portuguese has been roping on this trip, my Mandarin is non-existent and it's completely in Mandarin. We tried online on the edge on China website. There was a little bit of an English section on there, got so far with the check-in process and then it crashed and told us that our documents and passports couldn't be accepted. So, we're headed to zone G where the Air China desks are to get checked in for our flight back to Madrid. So, no trouble at all. All checked in. Had the lovely Gustavo today. And uh lots of languages in play here with Air China's staff on their outstanding, Portuguese, Spanish, English. Really impressive. Um and lovely, lovely staff as well. So, all checked in. Really efficient. Bags dropped off. Got our paper boarding pass. There's no digital boarding pass for the Apple Wallet today. Uh, China is still operating on paper. Um, and yeah, we just headed to security now. I do believe we've got a priority pass lounge as always here at S Paulo. So, we'll try and cover that. I think it might be the same one uh as we covered in the where did we go? I think it might have been the video over with Latam, the Latan Exclusivo. And if you haven't seen that, I'll pop a link up top. That was a really nice trip on the 787. and the 787 appearing again today with Air China. So, let us get through security and I'll catch up with you soon. So, all through security and bit of a blast this morning again under 5 minutes. So, pretty impressive for Sa Paulo. We've not really had any issues with this airport at all. And as I said at the start of the video, our South American trip now coming to an end. If you've only just caught up on this video, plenty of content for you to see. It's been a crazy journey. We went Heathro to Helsinki, Helsinki to New York's JFK, uh New York's LaGuardia, over to Dallas Fort Worth. Bit of Madonna in the background for us there. Uh Dallas Fort Worth down to S Paulo, S. Paulo across to Santiago in Chile. Santiago and Chile across to Buenosere. Buenos are to Monte Vido in Uruguay and backed to the same place. and then Buenoserez to Sa Paulo. And now we're doing Sa Paulo back to Madrid. And that is it. That's our round the world, almost round the world. It's in length certainly, but not necessarily in circumference trip around South America. And it has been a blast. We've absolutely loved it. We've loved Uruguay. We've loved Santiago and Chile. We've loved it here back in Brazil. And we absolutely loved Argentina. And it's just been fab. And everywhere else has been great, too. It really has been a real blast. So, we're going to go and uh get into the Espaso Banko Saffra Lounge, get a bit of downtime, maybe have an hour here before we board that flight, but slightly early today cuz of the check-in issues. Um, we're going to have a couple of drinks and just kick back and relax. So, um, yeah, really looking forward to starting this journey there. China. Wanted to fly them for a long time. So, can't wait to get on board. And we thought we were all set, but when we arrived at the Espaso Banko Saffra Lounge, they refused as entry because they're only allowing people in 2 hours before our departure. And because we came here really early to get the check-in sorted, we're way ahead of that time. But he has told us with the American Express Platinum, can't get my words out this morning, um there is a W Premium Lounge, W Premium Lounge, Fifth Avenue, um which is available to us. So, we're going to go and try and check that one out. Well, all in the W Premium Lounge, Fifth Avenue. Um, and as much as I got not semi excited, but you know, my ears pricricked up when I realized this was an AX lounge, there was no need for that. And it's not great to be honest with you. If anything, the um, Franco Saffron Lounge upstairs is better on the basis of its size and offering. Um, the food is still, you know, basic but nice. Um, but there's a lot more of it and there's a lot more space. This is a really really sort of crowded um, tight lounge, hence on these high chairs at the moment. and it's it's quite small. Um, but we're not complaining. We've at least got somewhere to have a drink. This is dubbed as orange juice. It reminds me of Capri Sun. If you remember those little drinks, tastes exactly like it. So, we're going to kick back and try our best to relax here, have a few drinks, stay hydrated, and then we'll board that long flight across to Madrid with Air China. In the lounge, there were refrigerated cans of sodas and mixers, some grape and orange juices, a bar with everything locked behind like we were naughty school children, some sparkling white and rosé wines, and an illy coffee machine. On the food front, there were breads for toasting, pana shakalars, very anemic looking quissants, Brazilian cheese breads, and crockettas, both cheese and corn varieties. Oh, and some strange looking kiches, too. There was also fresh fruit, two types of cheeses, mystery sandwiches. We never got to the bottom of the mystery. Some bunt cake, strawberry cream pots, and these fruit salad bowls. That was it. So, that's us out of the Fifth Avenue W Premium Lounge. thingy, whatever it was. Um, yeah, not great, but you know, we managed to get a bit of work done and have a couple of drinks. To the left of me, as you can see, Bank of Sappa, that's the one upstairs. If you haven't seen that, that appears in the Latam Plus Exclusivo review that we did from uh where were we going from? Sa Paulo to Santiago and Chile. So, we're going down to gate 304 now to board our flight over to Madrid on Air China's 787 Dreamliner. We were just looking at it really about the routing cuz the flight comes from Beijing to Madrid, drops off, has a crew change and then continues on here to Sao Paulo and um there's a lot of people actually traveling all the way through to Beijing which is crazy when you think about the length of the flight. So it really is a long slog. So, as much as we've been saying, you know, we've got a long flight ahead of us today and it's a day flight, which makes it slightly better, our thoughts are with those who are continuing on to Beijing this evening or the early hours when we land into Madrid at around4 to 1 in the morning. So, I'll show you the aircraft and then we'll get on board this Air China Dreamliner. And flying us back to Madrid today is this Boeing 787-9 Dreamliner, ironically with the registration B7877, which was delivered to Air China back in May of 2016. Boarding is done by seat and not group number, which seemed to give at least the appearance of a bit more organization. The husband did his usual snack run just in case, and then we were down the airbridge, ready to board our flight. The seating is in a 333 configuration. And here are our seats 45 A and B. So, welcome aboard this Air China Boeing 787-9 Dreamliner. We are all strapped in and ready to go. Really efficient boarding process by Air China. They board business class first and then economy by rows starting at the rear of the aircraft and then gently working towards the front. So essentially there isn't much queuing upon boarding unless you're not in the right line. So pretty efficient really when you think about it. Group numbers are great sometimes, but they don't really work and cause quite a lot of kind of congestion in the aisle. So maybe air China's boarding style is the way to go forward, but pretty impressed with it. So we're in 45 AMB. It's pretty much the second to last row in the forward economy cabin on this 787-9. And then there's another set of about 20 rows behind us in the rear economy cabin. So, I'm going to get settled in as always and I'm about to take you on a full seat tour of this economy cabin aboard this Air China Boeing 787-9. The seats have an AirChina branded headrest. There was also a pillow and a blanket waiting for us on our seats. The if is 11 in in size and reasonable quality. There's also a USBA charging port on the bottom of the screen and underseat AC power, too. The leg room did feel a little on the cramp side, especially for the husband. And the headphones certainly felt like something out of the 1990s. What a throwback. There's overhead reading lights, but no personal air vents. There was also a drop- down tray table, but as you can see, it was heavily stained from the previous flight. There was lots of literature available and two safety cards with some rather interesting drawings. The windows of the large Dreamliner dimmable style, and the seats also recline, too. There's a footrest underneath the seat, the husband using it to pedal his way back to Madrid. It has to be said the general area wasn't really that clean at all with scratches, dents, and even what looked like food particles on the overhead reading lights. I'm not too sure how that got there. So, it seems to be a small either technical problem or just delay uh on push back. We should be in the air as we speak. It's 9:30 now and that was the departure time. Um yeah, not too sure what's going on. There's been kind of no announcements or coms from anybody, but we're just kind of sitting here. But, um all the crew seem happy and spritly and smiling. So, we obviously don't think it's anything too serious, but I think there's probably just a small push back delay or something like that. So, let's see what happens. After push back, we got a great look at this Boeing 747 belonging to Lufanza. And then it was time for us to watch the rather bizarre Air China safety video. It starts off with this flying Fang Huang. Apologies for the pronunciation. A golden phoenix before passing over to a Chinese presenter with its panda sidekick. Anyhow, I'll leave you with that one. It's time for us to get in the air. Heat. Heat. N. Let me It's a moist field. Oh my god. Philippines. So, all up in the climb now and uh compared to the arrival on that Air Canada business class trip report we did the other day, which was incredibly bumpy and lots of gray skies and thunderstorms, we have at least found some nice bright blue sky and sun, which is lovely. So, um really nice departure out of Sa Paulo. The delay was down to congestion. We were, I think, number six, uh in line for departure. We had to push back our slot slightly. Um, and there was lots of G and Latam aircraft in front of us just queuing and lots behind us queuing as well. So just a little bit congested today at S Paulo International Airport, but we are well on our way over to Madrid now. Flight time today of 9 hours 22 minutes and we've left with about a 20minut delay. So nothing too bad at all. So the seat bar sign is still on at the moment as we're climbing up to our cruising altitude. But once we get up there, I'll show you what service, if any, starts to appear. Well, still in our seats and our seat belts fastened. There is still a little bit of turbulence. Maybe I spoke too soon. I mean, outside it is gloriously sunny and blue skies and not too much cloud, but we seem to be encountering a couple of bumps nonetheless. So, uh, all still strapped in on this flight. and they're just in a PA to say that because of that little bit of turbulence, they're going to keep us in our seats a little longer. Interestingly, as well, the crew have dimmed all the Dreamliner windows. As much as I love the Dreamliner, I think this is starting to become a little bit of a pete now on on these kind of flights. This is a day flight, so it's flying back to Madrid. We departed at 9:30 a.m. Albeit of us are slightly late and they're due to land into Madrid tonight. Well, tomorrow morning, very early hours tomorrow morning at quart to 1. Um, so they don't see any reasons why these windows should be dimmed yet. Um, but the beauty of their China, at least for now, is they've given you the choice. So, we've opted to keep ours open as have quite a few other passengers as well. Um, it's just I think it's nice to have the option at least to have the window and the light if you need it. Um, so yeah, I'm just sitting back. I'm assuming some sort of service will start soon. In fact, that announcement is on the way. So, it might be coming sooner than we think. >> So, the crew have just come around with the first service and that was a drink service and there was a offering of Coke cola, Coke Zero, Sprite, uh, orange juice, apple juice or jasmine tea. Um, so I went for orange juice as did the husband. Um, no alcoholic beverages on offer um at this moment in time. I don't know if they'll give you an alcoholic drink with your meal or if there's just no alcohol at all on this flight. Not particularly bothered to be fair. Um, it's a day flight. It's still, you know, 10:00 in the morning. So, um, don't necessarily need to be drowning one's body in a can of beer. But just an interesting note to think about if you are considering uh China and you do like a little sipple after departure. Um you may be stuck with Coke or Sprite or juice. But the orange juice was okay. It's a little sweet but um it was nice. One of the things I have noticed about talking about the seat and the service um the seat is actually quite comfortable. It is a little bit stiff but that's kind of a positive. It's got really good lower back support, really nice comfortable headrest that sort of goes up and down. You can also bring it in at the sides as well if you want to. So ultimately, I do feel quite supported in the chair. One of the things I don't particularly like and can never see any kind of rationale behind is the footrest in economy. I appreciate in premium or maybe even in business it has its place, but in economy space is already tied and the footrest kind of grinds away at your shins when you're in the seat. So, it's not best placed or even needed in my opinion. Also, one of the things to mention is the state of the aircraft. This is a 787-9 Dreamliner. Um, on board the the actual seat and everything is is okay. Um, I've got a little issue with my left armrest that's very very wonky and feels like it could fall off at any moment. Um, and also as well the uh cleanliness of the aircraft as well. So, the tray table was really quite dirty. Um the tray table itself was very very wobbly um and kind of felt like that could come apart. So I'm precariously popping it up and down whenever needed. Um and also as well there's just been a kind of um a few cleaning spots missed. There's some strange sauce on the lights above us which I believe is from a previous meal service on a previous flight. There's also some stains to the left of the if and on the walls. Um you know not great and not a great first impression when you you know you board the aircraft. So, I don't know if that's the cleaning teams that have missed it down route in Brazil or if this is just kind of standard for Air China. Having never flown Air China before, let me know in the comments below if you've happened to fly them in the past few months or the past year and what your experiences on the cleanliness front have been. And as much as the crew um don't necessarily speak English fluently, um there's enough to get by and they're very friendly and smiley and happy. So, again, that's always nice. We don't have miserable cabin crew on this flight. Um they're certainly doing their best to make everybody comfortable albeit with um you know minimal uh English and minimal sort of language. Um which must be difficult for them as it is difficult for us. So I know a tiny bit of Mandarin nihow being my limit but sometimes even that gets you a smile. So we'll keep up with that. And I think the meal service is on its way next. Oh and just a quick one. It's also worth mentioning that the seat belt sign is still on. You probably can't see it from there actually. Um they're all still on and have been since we uh pushed back to take off. I believe it's probably more of a um service flow control rather than a safety issue. We've not really got any bumps at all. Now we are completely in the climb and be the crew, sorry, and it's it's fine. So I think it's probably more of a tact a service tact to keep them in their seats while the crew do their meal service which you know everybody's chos anyway cuz people need a toilet etc. So I always think that's a little bit of a you know a dodgy one really. Obviously seat belt signs are there to be obeyed if we believe there's turbulence and you know I'd never be one to say don't listen to it but I think this is probably more of a of a part of air China's service tact to keep passengers in their seat whilst the crew do their drinks and meal service. So just an interesting one to note. Okay, so the meal service has just concluded and it could not conclude quick enough um because it is one of the worst meal services in economy I think I've ever experienced. And I will go as far as to say it was worse than the American Airlines one we had on the uh Dallas to S. Paulo leg and it was worse than the Qatar one we had from Bangkok to Dopar. This really is a poor show from Air China. Um so the two options were pasta or omelette. And being the self-sacrificing YouTuber that I am, I always give the husband the first choice regardless of what cabin we're flying in because I am, you know, well, >> and what a choice, pastor. That was so overdone with some sort of gone off gravy on top. Thank you. >> My very great pleasure. Don't worry, it doesn't get any better for me. The husband did go for the pasta dish and I thought it would be something like, you know, normally it's a tomato pasta, isn't it, with mozzarella or or some kind of cheese on top. Um, at a very bare basic level, it's a tomato and herb pasta. And this was a kind of mushy py noodle with, as the husband said, a gone off gravy. It really does have that kind of um aged taste and not in a good way. I >> I think it's supposed to be chicken in there, but it's kind of like a plastic child's toy. >> Not a good review. Um and look, we're not precious at all. We we have had one of Frank's uh friends has recently flown Air China and gave us a heads up on the possible uh catering debacle we may face. So, thanks to that tip, we became um kind of quite aware that this may happen and came prepared with some snacks, which we'll show you later. Um the omelette was mine, served with that well-known accompaniment to all omelettes, mashed potato um with with I'm making myself laugh here. Um with two slices of spam ham underneath, which >> were not spam nor ham. um more >> yeah sort of hand surprise. Um and then a sauce that looked like a kind of sweet and sour sauce or a tomato sauce, but it was actually a flavorless sauce. I don't know how anyone can make a sauce that has no flavor, but it absolutely doesn't have any flavor at all. It's just sort of gloopy water with a bit of food coloring in. Air China also the first airline ever to um destroy the quasant. It was hideous. It was almost like I don't really know how you can sort of Well, the husband didn't touch his, but I've sort of expecting it to squeak if I bark and bite into it. >> I mean, I I did try mine. There we go. Um, and it was Yeah, it was bad. There was some President Butter, which is a nice touch cuz, you know, President is a my favorite butter, as you very well know. However, there's no real point serving President butter when that's the only, you know, saving part of the dish. I don't want to sit here and just eat a package of butter. There was also a strawberry jam pack. Um, but you know, I think it's just too far gone. The quasant is unsavable. It's DOA. There was also a side of fruit salad that was completely frozen and just completely not brought up to temperature. It's It's actually inedible. It's like fruit ice. Um, has the texture of ice cubes. And then there was a yogurt. Of course, airlines battle sometimes to find a new and interesting yogurt. Some people going with raspberry. Some people going with strawberry. Some airlines even sometimes going a bit exotic with a mango yogurt. Air China, the first airlines to ever serve me a yogurt that uh is a prune yogurt. Interesting choice. Again, not to my taste, but at least we'll be regular in Madrid. So, that's it really for Air China. It's been a zero out of 10. It's not been a great meal service. Fortunately, we were kind of very well prepared because we thought that this might happen considering our friend's recent experience. Um, so yeah, that tip proved to be the best tip we've had in a long time of travel. Um, so we'll show you the snacks we bought later on. They're going to save the day. They're nothing glamorous, but at least we, you know, be able to have something. Um, and let's just say I'm not, nor the husband, the only passengers that are leaving the meal. There is a lot of food going back. So, it is what it is. We're not precious at all. Don't think we're precious. We have actually found this, if anything, to be semihumorous. It's um it's made me laugh and it's certainly made the husband laugh. >> Do with a good giggle sometimes. As the meals were cleared away, I thought now was a good a time as ever to dive into Air China's if the screen operates with a small amount of lag, but then sometimes catches up and overcompensates. There's lots of films and TV shows available, but not much of a western catalog. And there's also the traditional 3D moving map, too. I then thought it would be a good chance to try the '90s style headphones, and yes, they were just as bad as I remember them. You could hardly hear a thing. I checked out the toilets, and they were pretty clean and well stocked. Air China hand lotion was available, and things were smelling fresh thanks to this Panda air freshener. So, that is the meal service done. The crew have just come through and done a duty-free service, which is really rare. They just walked through with a brochure and kind of wafted it. Don't think anybody bought anything and um it's all in Mandarin anyway, so I wouldn't know what I was buying. Um so going to kick back and relax. The husband's fast asleep. I've moved into the middle seat and um if anything, I'm probably going to follow suit and try and get a bit of sleep now. Not because I want to, but at least it's one way to pass the time. Um the entertainment's okay, but the headphones just are awful. They don't work at all. Um, I mean like the smallest faintest amount of sound coming out of them, but that's it. So, yeah, might get a little bit of sleep and then when I wake up, I'll tell you all about the comfort of the seat and whether it's one you can sleep in. Personally, on a plus point for Air China, the seat is comfortable to sit in, then it's got a lot of sort of back support and neck support. So, I'm hoping it might be one where you can get an hour or so sleep. So, I'll catch you with you soon. So, I had a little nap for about an hour and uh we've got about um 6 hours of the flight to go now. Um, one of the most frustrating things, like I said earlier, was I did think the crew had given everyone the choice regarding their uh blinds, and they sort of have. It's sort of still, um, you know, semi- dim, but they've now dimmed the entire cabin, and everyone, as you can see around us, is sort of stood up and not wanting to go to sleep because it's currently 1:00 p.m. in Brazil. So, obviously, everyone's circadian rhythm is on Brazil time, and for us, this is afternoon. So, bit of a strange choice. Crew have all disappeared now. Can't see any crew at all, so I'm assuming they've all gone to crew rest or something. And the cabin is just plunged into darkness for ease. Bit of a strange one. Meanwhile, in other news, can I get you anything from the bar, sir? Welcome to our little mini bar in the sky. Um, thanks to Frank's friend for the heads up on the meal service. I don't know if I can, it's probably best if you tell the story really. What What sort of happened with your friend's Air China flight? My friend's friend used a very strange word, I think, called vegan or vegetarian. Um, that didn't really get across. So, they were provided with half a dozen plain cobbs. Cobs being bread rolls or wherever you are in the country, we call them cobs in Nottingham, but yes, bread rolls. It's a good vegetarian dish. Yeah. So, no vegetarian dish was loaded and they ended up with what, four or five bread rolls and some butter. I think that was all, wasn't it? >> There might have been a cracker. >> There may have been a cracker. We'll try and find some photo evidence for you and if I get it, I'll pop it in right now as we speak. But for us Oh, >> so no, the crew in darkness have at least left the seat belt sign on the whole time to >> the seat belt sign has been on for the whole flight, which is which is quite strange. Um, again, >> not sure what that's all about. In the galley, there was a small help yourself drink station set up, but no further snacking at all. Make sure, like us, that you pack the goodies. Oh, and according to the oven loadings, Air China seemed to think that the omelette would have been the more popular choice over the pasta. What's your thoughts? What would you have chosen? As there was only so much standing in the galley area that Frank and I could do, we decided to pass the time with a bit of blackjack. I also tried to learn how to play mjong, and it didn't end well. Thank goodness I wasn't betting with our own money. So, we've got about 3 hours, just under 3 hours now to go before we touch down in Madrid. And yeah, I think not only myself, the husband, the gentleman next to my husband, just about everybody in our vicinity is uh certainly ready to get off this plane. Um, and thoughts and prayers with those continuing on to Beijing because as much as I've done some crazy long flights in my time and some good connections, that is a serious feat of endurance, especially if the food is the same on that next leg, and I highly suspect it will be. So, thoughts and prayers to those continuing on to Beijing. Um the sun is just about to leave us. It's just dipping as we speak. So obviously be landing into Madrid in the dark. Um currently due to land still 20 minutes earlier than planned. Uh due in at 0025 uh and scheduled arrival was 0045 course to 1. So we're ahead of schedule at the moment. Let's just hope Madrid Marhouse doesn't throw a spanner in the works. My most favorite European airport. Um and see what happens with that. Um, we can hear and smell some form of cookery going on in the galley. Um, and it smells like garlic. So, you know, maybe we might get a Chinese inspired dish after all, which would be quite nice. And I was just saying this to my husband, I'd much rather China provide something that's, you know, completely local and may challenge some western pallets because that's more interesting. You know, it's more interesting. It's close to your roots. It's more of a talking point than trying to do western dishes to please people, but doing them so bad that they don't eat them. You may as well go for something that's really local and really original and traditional. And if it doesn't land, it doesn't land. But what they tried to serve today didn't land. So, they're no worse off. So, yeah, it's um it's been an interesting one. Um I think all the flights over the last 3 weeks are catching up with me. That doesn't necessarily ever um mean that my opinions are somewhat swayed by tiredness or jet lag. I'm always truthful than always honest and battle through for you guys. But um this has been a particularly disappointing one for sure. Um and I have to award Air China the worst economy meal I've ever eaten. And that trumps Qatar. It trumps American Airlines. So sorry to award that medal to you, Air China, but uh yeah, it's not been a good one. So, uh, we have just finished our dinner. That was the last meal service on board Air China's flight back to Madrid. and we'll be on the ground in just under 2 hours now. The light uh has completely gone. We're in the dark now. So, um we'll see what we can get on the approach to Madrid. Hopefully, China dim their lights for landing. That'd be very helpful for the old YouTube. But, um what was on offer then? So, the starter was a chickpea and potato salad. Just if I ever see another chickpea, I I I will think I'll have a mental breakdown. I know you guys uh who watch regularly are fully on board with uh the chickpea and cuscus gate um analogy that I use. Um it should be banned. It's not tasty. No one likes it. It's absolutely awful. And this was no exception. It really was bland. Um it was still semifrozen in the middle. Um and just rubbish filler really. I'd rather not have a starter genuinely. Give me another bread roll. And speaking of bread rolls, there was a warmed white bread roll, a flowered bread roll with President unsalted butter, and that went down like a treat. I do love President butter, as you know. The two main courses were fish fries or chicken rice. I went for the chicken rice. Frank went for the fish fries because they've run out of the chicken, so he had no choice. Um, and the fish that he had was very similar to a Thai style curry. Um, basmati rice, uh, some corettes. I said it was actually pretty decent to be fair. you know, he said he doesn't give it 10 out of 10, but it was it was okay, you know, and he managed to finish it, which is good considering the breakfast debacle we encountered this morning. The chicken rice, not so good, unfortunately. Um, I let Frank try a bit as well, just to get his verdict. We both agreed. Um, very, very sweet and salty sauce, too salty for my liking. There was some cashew nuts in there, which I picked out, which were really tasty. Um, the winner though, where China does come to the four, is the dessert. It was a dorsy de leche style mousse. Um, it was really good. Looking at it, it doesn't look very appetizing, I know. And, um, the chocolate sprinkles if anything remind me of school dinners, but it was really, really tasty. Suck a punch of sweet um, but in a nice way. Buttery caramel, chocolate taste, um, and chocolate sprinkles on top. It was, it was really nice. Um, so yeah, thumbs up for Air China on that. At least they managed to get something right on my plate, which was a bread roll and a dorsy delay mousse. But um yeah, not a great dinner service. More negatives than positives, but slightly better than that breakfast service we had this morning. So that's pretty much it for this uh China flight. We're just currently flying over Farro in Portugal. Got about 45 minutes left of the flight. And um it's been um it's been quite disappointing. Um you know, I can't lie when I say that. However, just reflecting on the last 3 weeks of travel, it's been a real blast. We've had a great time, haven't we? We've had a mega time. Um we've met some of the most amazing people, some of the loveliest crews, but most of all, our new adopted grandmother, Helen. And if you haven't seen the clip, uh, the little interview with Helen, it's in last week's video. Um, and what a blast we had meeting her. And, um, she'll now be safely back in Toronto, probably planning her next escapade. That puts us two boys who we thought travel quite a lot to shame because Helen has been absolutely everywhere and has got a wonderful story or two to tell from each of the places she's been. But, um, on the Air China experience, it has been disappointing. It's not necessarily what we expected. Um, but you know, we've gone from A to B safely in relative comfort, but um, everything else has been a bit of a letown on this flight. So, from me to you, it's time for us to say goodbye. I'm going to jump off this plane in Madrid when it's on the ground, of course, and an airbridge is attached. Head to the airport hotel, and we're going to get some much needed rest. Frank's off tomorrow to Porto to go and watch Nottingham Forest in the European Cup and I'm back to London on a different flight. So, see if you can guess who I'm flying with. Like I said earlier, drop those comments below. Let me know. And also let me know your experiences on Air China. But for Frank, sadly, it's Ryionaire. He's very happy about that. Got to slum it sometimes. Can't have business class every week. Thanks ever so much for watching and as always, I will see you same time, same place next week. Keep safe. Heat. Heat. And So, after nearly 10 hours on board Air China's Baying 787 Dreamliner from Sa Paulo to Madrid, I can't help but come away feeling extremely disappointed. This was an airline I'd genuinely been looking forward to trying. On paper, the Dreamliner should offer a modern, comfortable longhaul experience, but the reality felt quite different. At times, Air China feels like an airline desperately trying to catch up with the global competition, and at others, it almost feels like they simply don't care. That's not to say the flight was entirely awful. We arrived safely, alive. The crew seemed to work hard, and there were moments of genuine warmth throughout the journey. But overall, this just wasn't an experience that left me wanting more. Sadly, Air China hasn't won me over this time, and I don't think I'd be in any rush to fly with them again. Now feels like the perfect moment to ask if you're enjoying the adventure so far. Hit subscribe, turn on notifications, and come along for the ride with a growing community of fellow travelers.",
       "ife_system_guess": "Panasonic eX3",
@@ -21489,134 +21054,7 @@
       ],
       "source_tier": 2,
       "source_name": "Creator",
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "2:31",
-          "sec": 151,
-          "title": "Terminal 4S and check-in",
-          "ife": false
-        },
-        {
-          "t": "5:08",
-          "sec": 308,
-          "title": "Shuttle and history with Iberia",
-          "ife": false
-        },
-        {
-          "t": "8:03",
-          "sec": 483,
-          "title": "VIP Neptuno Lounge",
-          "ife": false
-        },
-        {
-          "t": "12:00",
-          "sec": 720,
-          "title": "Gate and delays",
-          "ife": false
-        },
-        {
-          "t": "15:51",
-          "sec": 951,
-          "title": "Boarding",
-          "ife": false
-        },
-        {
-          "t": "16:32",
-          "sec": 992,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "18:00",
-          "sec": 1080,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "19:25",
-          "sec": 1165,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "21:00",
-          "sec": 1260,
-          "title": "Climb and gifts",
-          "ife": false
-        },
-        {
-          "t": "22:43",
-          "sec": 1363,
-          "title": "Amenity kit unboxing",
-          "ife": false
-        },
-        {
-          "t": "25:30",
-          "sec": 1530,
-          "title": "Gastrobar service",
-          "ife": false
-        },
-        {
-          "t": "30:11",
-          "sec": 1811,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "30:31",
-          "sec": 1831,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "31:16",
-          "sec": 1876,
-          "title": "Sleep and comfort",
-          "ife": false
-        },
-        {
-          "t": "32:45",
-          "sec": 1965,
-          "title": "Top of descent",
-          "ife": false
-        },
-        {
-          "t": "35:10",
-          "sec": 2110,
-          "title": "Further gifts",
-          "ife": false
-        },
-        {
-          "t": "36:20",
-          "sec": 2180,
-          "title": "Descent",
-          "ife": false
-        },
-        {
-          "t": "37:12",
-          "sec": 2232,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "38:10",
-          "sec": 2290,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "39:38",
-          "sec": 2378,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "yt_comments": [],
       "sentiment": "neutral",
       "sentiment_score": 0.0,
@@ -31044,122 +30482,7 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "like_count": 48,
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "1:35",
-          "sec": 95,
-          "title": "Airport, check-in and bag drop",
-          "ife": false
-        },
-        {
-          "t": "2:17",
-          "sec": 137,
-          "title": "Numerous departure times!",
-          "ife": false
-        },
-        {
-          "t": "4:15",
-          "sec": 255,
-          "title": "Espaco Banco Safra Lounge",
-          "ife": false
-        },
-        {
-          "t": "7:00",
-          "sec": 420,
-          "title": "Gate and aircraft type",
-          "ife": false
-        },
-        {
-          "t": "8:20",
-          "sec": 500,
-          "title": "Boarding",
-          "ife": false
-        },
-        {
-          "t": "8:39",
-          "sec": 519,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "10:14",
-          "sec": 614,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "10:45",
-          "sec": 645,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "12:27",
-          "sec": 747,
-          "title": "Climb",
-          "ife": false
-        },
-        {
-          "t": "14:21",
-          "sec": 861,
-          "title": "Meal service",
-          "ife": false
-        },
-        {
-          "t": "16:38",
-          "sec": 998,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "16:53",
-          "sec": 1013,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "17:27",
-          "sec": 1047,
-          "title": "Dimmed lights and sleep",
-          "ife": false
-        },
-        {
-          "t": "17:52",
-          "sec": 1072,
-          "title": "Thoughts on the experience",
-          "ife": false
-        },
-        {
-          "t": "19:44",
-          "sec": 1184,
-          "title": "Andes Mountains",
-          "ife": false
-        },
-        {
-          "t": "21:53",
-          "sec": 1313,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "22:52",
-          "sec": 1372,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "23:44",
-          "sec": 1424,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "yt_comments": [],
       "transcript_full": "This week we're back in Brazil and flying LATAM, a brand new airline on the channel as we fly over to Santiago in Chile. We snag a 787 Dreamliner for this 4-hour journey, taking the incredible views as we fly over the Andes. Oh, and battle with three different departure times. Don't worry, we got there in the end though. Bom dia. Look at that for a native. Welcome to this week's video. We're currently in Ibirapuera Park in central Sao Paulo, and as much as my husband did Spanish at school, I certainly can't speak any Portuguese and he's still a little bit ropey but far better than I am. But if I've got that pronunciation wrong, do feel free to get at me in the comments and roast me because my Portuguese is nearly non-existent. But where we flying to this week? Well, we're off to Santiago in Chile with LATAM Airlines aboard their Boeing 787-9 morning departure. And it was quite an early departure. We were set to fly at around 7:00 a.m. but as we landed into Sao Paulo yesterday, we got a little text on WhatsApp and an email, so you can't knock their communication, to tell us that we'd be going nearly 2 hours late. And for once, we're actually quite happy for a delay because it means the husband and I get a bit of a lie-in in the morning. So, we've got the rest of today exploring Sao Paulo. We're going to go for a nice little steak dinner, of course. We're going to eat well, drink well, and enjoy the evening. And then tomorrow you'll be joining us on LATAM Airlines 787-9 across to Santiago in Chile. Today our journey starts with an Uber across to Sao Paulo's International Airport and LATAM's long-haul departures tend to leave from Terminal 3. Their checking area is located in zone F and it's all self-service. You tag your bags yourself and then have the gloriously fun task of scanning and checking them in. It was fairly straightforward, to be honest with you, and actually quite fun. Let's just hope they make it there. So, we are all in Sao Paulo's International Airport, GRU as it's more commonly called, GRU. And uh if you are getting here in the morning for a morning flight, just make sure you leave yourself a little bit of extra time cuz the roads are really congested, certainly today anyway, around the airport. So, that seems to be quite a common occurrence. So, it's not delayed in any way though because LATAM have given us a whole range of different times. Originally, we were due to depart at 7:15. I'm now going to bring the husband in because he knows these times are far better than I do. Normally, I'm very good at this kind of thing, but he's got an intrinsic memory and it seems to have record recounted all the different times we've been given. And there's a lot. >> Yeah, according to the original one, the boarding closed at 6:45. We've also had options on the digital boarding pass for boarding at 10:10 and 11:15 with departure times of 9:15, 9:30, and 9:45 all popping up at various points. We're going with the bag tag scanner thing, which said to get to gate 323 by 8:35, and that'll be when it's boarding. But then we've gone and seen the sign, the big digital all the list of flight sign, which said it's boarding at 9:05 now. So, at some point this morning, we're going to Santiago. >> Nobody knows when or how, but um yeah, we are going We're certainly going. We just don't know. And we don't know if this is going to turn into one of those kind of trips where it just gets more and more delayed. Now, the flight comes in from Madrid, and it landed here at 5:05 this morning on time. So, we can't really work out why there's a delay. I don't know if it's something technical or cargo related or if they've got a little bit of maintenance to do or if they're swapping the aircraft out. I really don't know. But all we know is we're in, we're checked in, and we're good to go. So, let's see what happens on this journey across to Santiago, Chile. Nobody can knock LATAM's communication, just the fact that they've got a whole host and range of different times, which can get a little bit confusing. But, like my husband said, we're going to go for the one that's on the printed bag tag receipt. Um and just go for that. Get there a little bit earlier and see what happens. Come along for the ride. We hope. For us, it was then time to head through to departures and find the nominated Priority Pass Lounge, which today is the Espaço Banco Safra Lounge, located just upstairs after security. It's quite a large open-plan space, so there was no issue in finding a seat. Well, here we are in the Lounge Banco Safra inside São Paulo's Terminal 3. And um yeah, it's absolutely huge and quite a nice lounge to have, plenty of space, certainly not overcrowded. Um it's just a shame we don't have too long in here. We've got about 10 minutes because we were going to get down to the gate, like my husband said, for that time that was printed on the checked bag ticket. We've got in here and the boards now all say go to gate. So, we're literally having a small bite to eat, um very, very quickly, quick refreshing drink of some grape juice, and then we're going to run down to the gate and get on board this flight. Now, we do think it's probably a ploy to get you there earlier, but we don't want to take the risk today. So, we're going to head down to the gate in about 5 minutes and I'll see you then. If there's a TV on in Brazil, you can bet your bottom dollar it'll be showing some form of football. I do love the passion they have for the game here. Inside the lounge, there's an open bar, along with white and rosé wines on ice, and a selection of red wines, too. There was fresh grape and orange juice available as well, alongside a selection of Chá Lau teas, an espresso machine, and a Nescafé coffee machine, offering all the usual options, including Nescau, hot chocolate. The lounge offers complimentary newspapers and magazines, not to mention a wide variety of seating areas and even a spa if you fancy a quick massage during your time here. There's also toilets and showers if you need to freshen up, a departure board, and this help-yourself acai bowl freezer where you can put together your own little breakfast pot. A nice touch. On to the hot food and this included a selection of different hot items, including firstly a shredded meat in sauce, beef, and actually despite how it looked, it was quite tasty. There were also scrambled eggs and I think these might win the award for the most overcooked scrambled eggs I've ever seen. And finally, there was a bowl of buttery mashed cassava. Interesting to say the least. There was a cheese platter and a selection of meats accompanied by a range of small sandwiches, coconut honeymoon cakes, and raspberry panna cottas. There was also chocolate cookies, tapioca and passion fruit cakes, and finally, traditional brigadeiro bites, too. There was also a selection of grab-and-go items ranging from chicken croquetas to traditional Brazilian cheese breads. Finally, there were yogurts, yogurt drinks, and smoothies available, as well. We then headed to the gate with the hope that the departure screen in the lounge was correct and that the flight wasn't further delayed or, worse still, had already departed without us. Fortunately, upon arrival at gate 323, we weren't disappointed. Boarding was to commence shortly and flying us over to Santiago today was this Boeing 787-9 Dreamliner, which was delivered to LATAM in May of 2016, making it over 10 years old. So, we are now at the gate 323 to over to Santiago and um yeah, nobody speaks English here, so we're now, you know, getting the translator app out and trying to work out when we board. So, we got here down for that time, which was 8:35, which was the one printed on the bag tags and showed on the screen. Then it said go to gate, so we came down here from the Banco Safra Lounge. Um we got here and it says 9:45 Santiago on the screen um with a 9:05 boarding time. So, I've just asked them when we're boarding and they've said in 15 minutes time, which puts us at about 8:45 or 8:50. Another new time. So, the only thing we know is we're still in the right place. We can see the plane and the nice staff here. So, I suppose all of those things add up to a positive experience, but I've never had a flight where I've had nine or 10 different times of boarding gates and it's been an interesting one for sure. But, we made it. Also, we thought just a little bit more boarding not boarding to endure and then suddenly the heavens opened. So much so in fact that water was leaking into the air bridge. I've never seen this before. So, all of our water in seat 12 land this 787-9 LATAM Dreamliner over to Santiago. Um turns out none of those times are correct and we waited another 25 minutes to board, but who cares? We're now away. It's certainly been a hectic one. But, yeah. Um communication great from LATAM to let us know about this delay. Communication of the delay and the times really quite poor, but um let's get settled into LATAM Plus's Exclusivo seat on row 12, which is a very forward row of economy on this Dreamliner. I'll get settled in and take on a full seat tour as always. And boy, we were off to a good start. The seat is very padded and extremely comfortable and seemed to feel quite premium. On our seat waiting for us were a rather flimsy pillow, but this was contrasted with a very good quality LATAM branded economy blanket. There were 90's style PC headphones. This was a throwback. Overhead bins exclusively for the use of us and adjustable headrest, which again was very comfortable. An IFE screen located in the armrest of the seat with a separate remote to the side. There was also in-seat AC power as well as USB charging facilities, a literature storage pocket, and those signature 787 Dreamliner dimmable windows. All in all, a positive start. I then nipped to the back of the aircraft, which was nearly completely empty, but at least it gives you an idea of the exit rows down there, too. >> So we're up in the climb now out of Sao Paulo Guarulhos International Airport. My Portuguese coming into play there. Not. So yeah, we eventually departed around 10:05. So yeah, we we got there eventually but certainly not one of the times that was listed on the screen. So but it is what it is. We're in the air now looking forward to kicking back. I must say that initial impressions of LATAM seat are pretty decent to be fair. This LATAM Plus Exclusivo seat is really comfortable, really padded, very supportive. Um the seatbelt signs have just gone off so I'll let you know what if anything comes next. So I must have dozed off. The seat is extremely comfortable. Um it is really quite a nice seat, very, very padded and soft. That kind of mid soft material that really just feels quite nice. Some seats, you know, all those airlines that go for leather seats, although they have their place in the industry, mainly in premium cabins, I think when you've got a longish flight, um, because you've got to remember these Dreamliners are used on LATAM's very long haul, um, destinations as well, you want something that's padded, that's comfortable, with a seat pan that articulates, so it gives you that more kind of, um, lumbar support to the back. Um, it's a good seat. It's a really good seat. It's really comfortable. Um, so yeah, really enjoying my time aboard LATAM, but did not account on getting a cheeky 40 winks. So, with that, the meal service is concluded, and you know what, LATAM have really really blown me away. It was outstanding. Um, you know, I didn't really expect much, to be honest with you, but um, the crew came through, um, speaking English, Portuguese and Spanish, so super helpful for us because, um, we didn't know if our, uh, rusty Spanish, or even rustier Portuguese would be put to the test, which might basically be non-existent, to be fair, but the husband does speak a little, uh, modicum of Spanish, which is, you know, helpful, but um, I'm certainly more of the German, Dutch ilk when it comes to languages, but um, really, really nice crew, really friendly, um, and there was two options of hot meals on board today's flight, and they were very similar to sort of the second meal service you'd get on a long haul international flight, that kind of snack service, but it was done really, really well. So, there was a meat option and a vegetarian option. Obviously went for one of each to show you both. So, the husband went for the meat option, that was a ham and cheese panini, um, really, really nice, crispy bread, piping hot, and lots of melty cheese. He said it was really, really tasty. Then I went for the vegetarian option, which was tomato and cheese with courgette inside or pickle and and it was really, really tasty as well. It really was a fantastic panini, a great sandwich full of flavor. Both sandwiches came with two desserts. One to the left of the container that the panini was heated in was a warm orange and vanilla style cake and again, really nice moist cake. You know, impressive really. And there was also a kind of sort of elongated fruit salad carton / box, which was full of fruit. There was grapes, watermelon and honeydew melon as well and it was all brought up to temperature. It was still chilled as a fruit salad, but not frozen like you get on some airlines. So, you know what? Props to LATAM here because it was a really, really good service. Now, there was no alcoholic drinks being served today. It was just soft drinks, tea, coffee, juices and water. Um, so we went for a peach juice each, which was delicious. In fact, that's probably gone down as my new favorite juice. It really was tasty. Might have slightly overtaken that Finnair blueberry juice and the husband also got a still water as well. So, you know what LATAM? For a flight of this length, 3 hours 15 minutes, I'll take my hat off to you cuz it was really, really outstanding. It was then time to check the toilets, which came with a slight defect and that was that the lid just wouldn't stay upright, no matter what you did. They were, however, very tidy with this lemon verbena foaming hand soap. The smelled great and a good level of cleanliness overall. The LATAM IFE was available from gate to gate for all of the seats and for us on the exit rows and the bulkheads, this was available after the seatbelt sign was de-illuminated. There were a variety of films available on demand and the screen responded pretty well with minimal lag. There were also a variety of TV shows, a selection of music, some reading materials and of Of the traditional moving map. The cabin crew then rather oddly decided to dim the cabin lights on a day flight. It was only mid-morning and this really threw us off. But nevertheless, I grabbed that super comfortable blanket and snagged another cheeky nap. This really is a hard life. So, that's pretty much it for this LATAM flight. We've got about 45 minutes to go before we touch down into Santiago, Chile. I'm really looking forward to visiting Chile. It's been pretty much the top of my uh to go to list for some time now. So, I'm really glad to be ticking it off. But um LATAM have been really exceptionally good. And you've got to remember that these routes between São Paulo and Santiago operated on a variety of narrow and wide-body aircrafts. But my advice to you is if you can get yourself on one that's on the 787 or the 777, definitely do so. Um just that little bit more space, that little bit more comfort, and room to move around. This flight is probably about 30% full. So, there's been plenty of, you know, availability to walk around. People have gone to whole rows in economy and lay their head down. The only strange thing, and it's not necessarily a negative, it's just something that I necessarily wouldn't do if I was in charge of the cabin, is the fact that these um windows have been stuck on 50% dim for the past hour. Talk about knocking your circadian rhythm out. But um you know, it is what it is. I think a lot of people on this flight have wanted to get a bit of sleep. So, that that's fair. Um but yeah, LATAM have really, really impressed me. Great food, really, really warm, hospitable service. Um I'd like to say on time, but sadly not on this occasion. Um and the only thing that, you know, could have been better is as good as the communication was about the delay, um, it was the six, seven, eight, nine, 10 different times that we had and nobody kind of seemed to be able to tie that down to one particular time. So, it was a little confusing, but we got there in the end. So, from about 35,000 ft before we start our descent into Chile, a big thanks for watching and I'll see you next week. Well, it turns out that wasn't the end of this video this week. So, uh, we're about to cross the Andes in about six to seven minutes. Um, and as a precaution the seat belt signs have gone on and the crew is taking it quite seriously making sure that people are strapped in. So, I'm assuming it might get a little turbulent, but we can see lots of lovely mountains on the way and I must admit the view is pretty spectacular. So, enjoy it, soak it up, take it in. I'll do my very best to cover what happens next, but yeah, the views are pretty spectacular for sure. >> It's funny how a journey can feel quite messy on the ground and completely different in the air. Because once I snapped on board LATAM, everything just settled. The service felt natural, that it didn't feel forced. The food was genuinely enjoyable. The entertainment did its job. But more than anything, it was the space. A wide-body 787-9 on a flight of this length really does make the difference. And it's a difference you notice straight away. And in these exclusive O plus seats with the extra legroom and the way they're positioned, it felt considered. Like this is exactly how short-haul flying should be done. Getting there though, that's where things unraveled just a little bit. Delays happen, that's part of travel. But the constant changes and lack of clear communication made it harder than it needed to be. LATAM might not get everything right on the ground, but up here where it counts, they really do deliver. Now feels like the perfect moment to ask if you're enjoying the adventure so far. Hit subscribe, turn on notifications, and come along for the ride with a growing community of fellow travelers.",
       "ife_system_guess": "Panasonic eX3",
@@ -57639,13 +56962,13 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Boarding AA 777-300ER at New York JFK and MCE Seat Setup",
+          "title": "Boarding at New York JFK and MCE Seat Setup",
           "ife": false
         },
         {
           "t": "1:19",
           "sec": 79,
-          "title": "JFK Night Departure and Takeoff",
+          "title": "Takeoff for London",
           "ife": false
         },
         {
@@ -57657,31 +56980,31 @@
         {
           "t": "2:29",
           "sec": 149,
-          "title": "Inflight Entertainment System Tour",
+          "title": "Inflight Entertainment",
           "ife": true
         },
         {
           "t": "2:54",
           "sec": 174,
-          "title": "Lavatory Walkthrough",
+          "title": "Restroom Tour",
           "ife": false
         },
         {
           "t": "3:49",
           "sec": 229,
-          "title": "Transatlantic Breakfast Service",
+          "title": "Breakfast Service",
           "ife": false
         },
         {
           "t": "4:22",
           "sec": 262,
-          "title": "Landing at LHR and Final Verdict",
+          "title": "Landing at LHR - Final Verdict",
           "ife": false
         },
         {
           "t": "4:55",
           "sec": 295,
-          "title": "American Airlines Arrivals Lounge at London Heathrow",
+          "title": "LHR American Airlines Arrivals Lounge",
           "ife": false
         }
       ],
@@ -93945,13 +93268,13 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Noovilu Seaplane Terminal and Check-In Experience",
+          "title": "Welcome to Noovilu Seaplane Terminal",
           "ife": false
         },
         {
           "t": "0:37",
           "sec": 37,
-          "title": "Trans Maldivian Airways Water Takeoff for Conrad Maldives",
+          "title": "Trans Maldivian Airways Water Takeoff",
           "ife": false
         },
         {
@@ -93963,13 +93286,13 @@
         {
           "t": "3:10",
           "sec": 190,
-          "title": "Water Landing at Conrad Maldives Rangali Island",
+          "title": "Water Landing",
           "ife": false
         },
         {
           "t": "4:16",
           "sec": 256,
-          "title": "Return Seaplane Takeoff to Male",
+          "title": "Return Takeoff to Male",
           "ife": false
         },
         {
@@ -93981,7 +93304,7 @@
         {
           "t": "5:35",
           "sec": 335,
-          "title": "Transfer Cost Verdict and Booking Tips",
+          "title": "Final Thoughts",
           "ife": false
         }
       ],
@@ -105773,152 +105096,7 @@
       "source_name": "Creator",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "1:15",
-          "sec": 75,
-          "title": "Getting to Terminal 5",
-          "ife": false
-        },
-        {
-          "t": "1:35",
-          "sec": 95,
-          "title": "Check-in and bag drop",
-          "ife": false
-        },
-        {
-          "t": "2:04",
-          "sec": 124,
-          "title": "Finding a lounge",
-          "ife": false
-        },
-        {
-          "t": "2:46",
-          "sec": 166,
-          "title": "South Lounges",
-          "ife": false
-        },
-        {
-          "t": "5:15",
-          "sec": 315,
-          "title": "B Gates Lounge",
-          "ife": false
-        },
-        {
-          "t": "9:49",
-          "sec": 589,
-          "title": "Heading to gate",
-          "ife": false
-        },
-        {
-          "t": "10:40",
-          "sec": 640,
-          "title": "Delay and aircraft swap",
-          "ife": false
-        },
-        {
-          "t": "12:25",
-          "sec": 745,
-          "title": "New aircraft and boarding",
-          "ife": false
-        },
-        {
-          "t": "12:52",
-          "sec": 772,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "15:05",
-          "sec": 905,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "15:42",
-          "sec": 942,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "17:01",
-          "sec": 1021,
-          "title": "Climb",
-          "ife": false
-        },
-        {
-          "t": "20:00",
-          "sec": 1200,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "20:49",
-          "sec": 1249,
-          "title": "Sponsored segment: Fitnexa SomniPods 3",
-          "ife": false
-        },
-        {
-          "t": "24:27",
-          "sec": 1467,
-          "title": "Relaxation",
-          "ife": false
-        },
-        {
-          "t": "25:13",
-          "sec": 1513,
-          "title": "Drinks service",
-          "ife": false
-        },
-        {
-          "t": "25:55",
-          "sec": 1555,
-          "title": "Lunch service",
-          "ife": false
-        },
-        {
-          "t": "28:19",
-          "sec": 1699,
-          "title": "Lie-flat bed",
-          "ife": false
-        },
-        {
-          "t": "29:24",
-          "sec": 1764,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "29:40",
-          "sec": 1780,
-          "title": "Top of descent",
-          "ife": false
-        },
-        {
-          "t": "31:35",
-          "sec": 1895,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "32:41",
-          "sec": 1961,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "33:43",
-          "sec": 2023,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ]
+      "chapters": []
     },
     {
       "url": "https://www.youtube.com/watch?v=gz1g1ACGres",
@@ -117118,110 +116296,7 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "1:31",
-          "sec": 91,
-          "title": "Oslo Airport",
-          "ife": false
-        },
-        {
-          "t": "3:24",
-          "sec": 204,
-          "title": "Post security",
-          "ife": false
-        },
-        {
-          "t": "4:47",
-          "sec": 287,
-          "title": "Heading to gate",
-          "ife": false
-        },
-        {
-          "t": "5:10",
-          "sec": 310,
-          "title": "Ethiopian's fifth-freedom operation",
-          "ife": false
-        },
-        {
-          "t": "7:40",
-          "sec": 460,
-          "title": "Boarding",
-          "ife": false
-        },
-        {
-          "t": "9:21",
-          "sec": 561,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "10:35",
-          "sec": 635,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "11:05",
-          "sec": 665,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "12:23",
-          "sec": 743,
-          "title": "Climb",
-          "ife": false
-        },
-        {
-          "t": "14:04",
-          "sec": 844,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "14:15",
-          "sec": 855,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "14:49",
-          "sec": 889,
-          "title": "On-board service",
-          "ife": false
-        },
-        {
-          "t": "16:00",
-          "sec": 960,
-          "title": "Top of descent",
-          "ife": false
-        },
-        {
-          "t": "17:40",
-          "sec": 1060,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "18:32",
-          "sec": 1112,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "19:26",
-          "sec": 1166,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "media_type": "video",
       "airlines_mentioned": [],
       "aircraft_mentioned": [
@@ -133748,158 +132823,7 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "1:02",
-          "sec": 62,
-          "title": "Check-in and bag drop",
-          "ife": false
-        },
-        {
-          "t": "1:33",
-          "sec": 93,
-          "title": "Lounges",
-          "ife": false
-        },
-        {
-          "t": "2:15",
-          "sec": 135,
-          "title": "Plaza Premium Lounge Terminal 5",
-          "ife": false
-        },
-        {
-          "t": "3:43",
-          "sec": 223,
-          "title": "Heading to gate",
-          "ife": false
-        },
-        {
-          "t": "4:08",
-          "sec": 248,
-          "title": "Boarding",
-          "ife": false
-        },
-        {
-          "t": "4:44",
-          "sec": 284,
-          "title": "Seat tour",
-          "ife": false
-        },
-        {
-          "t": "6:22",
-          "sec": 382,
-          "title": "Points lesson",
-          "ife": false
-        },
-        {
-          "t": "6:33",
-          "sec": 393,
-          "title": "Pushback and taxi",
-          "ife": false
-        },
-        {
-          "t": "7:08",
-          "sec": 428,
-          "title": "Take-off",
-          "ife": false
-        },
-        {
-          "t": "8:21",
-          "sec": 501,
-          "title": "Climb",
-          "ife": false
-        },
-        {
-          "t": "9:03",
-          "sec": 543,
-          "title": "Drinks service",
-          "ife": false
-        },
-        {
-          "t": "9:32",
-          "sec": 572,
-          "title": "Cost of flight",
-          "ife": false
-        },
-        {
-          "t": "10:02",
-          "sec": 602,
-          "title": "Bond, James Bond",
-          "ife": false
-        },
-        {
-          "t": "11:36",
-          "sec": 696,
-          "title": "Lunch service",
-          "ife": false
-        },
-        {
-          "t": "14:00",
-          "sec": 840,
-          "title": "In-flight entertainment",
-          "ife": true
-        },
-        {
-          "t": "14:36",
-          "sec": 876,
-          "title": "Toilet review",
-          "ife": false
-        },
-        {
-          "t": "14:53",
-          "sec": 893,
-          "title": "Sleep",
-          "ife": false
-        },
-        {
-          "t": "16:33",
-          "sec": 993,
-          "title": "Snack service",
-          "ife": false
-        },
-        {
-          "t": "17:48",
-          "sec": 1068,
-          "title": "Turbulence and more sleep",
-          "ife": false
-        },
-        {
-          "t": "19:04",
-          "sec": 1144,
-          "title": "Dinner service",
-          "ife": false
-        },
-        {
-          "t": "22:12",
-          "sec": 1332,
-          "title": "Start of descent",
-          "ife": false
-        },
-        {
-          "t": "23:17",
-          "sec": 1397,
-          "title": "Landing",
-          "ife": false
-        },
-        {
-          "t": "23:43",
-          "sec": 1423,
-          "title": "Final thoughts",
-          "ife": false
-        },
-        {
-          "t": "24:40",
-          "sec": 1480,
-          "title": "Credits and with thanks",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "media_type": "video",
       "airlines_mentioned": [
         {
