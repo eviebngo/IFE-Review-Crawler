@@ -57339,13 +57339,13 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Boarding at Dallas Fort Worth DFW Airport",
+          "title": "Boarding at Dallas Fort Worth DFW",
           "ife": false
         },
         {
           "t": "0:13",
           "sec": 13,
-          "title": "Main Cabin Extra Seat Tour and Best Seats Selection",
+          "title": "Main Cabin Extra Seat Tour",
           "ife": false
         },
         {
@@ -57361,21 +57361,15 @@
           "ife": false
         },
         {
-          "t": "2:12",
-          "sec": 132,
-          "title": "Complimentary Alcoholic Drinks Perk Test",
-          "ife": false
-        },
-        {
           "t": "2:21",
           "sec": 141,
-          "title": "Inflight Entertainment and Wi-Fi Speed Test",
+          "title": "Inflight Entertainment and Wi-Fi",
           "ife": true
         },
         {
           "t": "2:58",
           "sec": 178,
-          "title": "Scenic Approach, Landing at DCA, and Final Verdict",
+          "title": "Approach, Landing at DCA - Final Verdict",
           "ife": false
         }
       ],
@@ -57559,7 +57553,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Boarding and Seat Tour",
+          "title": "London Heathrow LHR Boarding - Seat Tour",
           "ife": false
         },
         {
@@ -57589,7 +57583,7 @@
         {
           "t": "3:44",
           "sec": 224,
-          "title": "JFK Landing and Verdict",
+          "title": "New York JFK Landing - Trip Verdict",
           "ife": false
         }
       ],
@@ -69830,7 +69824,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "London Heathrow Terminal 5 Arrival",
+          "title": "London Heathrow Terminal 5 Boarding",
           "ife": false
         },
         {
@@ -69848,7 +69842,7 @@
         {
           "t": "1:40",
           "sec": 100,
-          "title": "LHR Departure and Takeoff",
+          "title": "Departure for Zurich",
           "ife": false
         },
         {
@@ -86650,7 +86644,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Boarding and Cabin Welcome",
+          "title": "Boarding at Male MLE",
           "ife": false
         },
         {
@@ -86662,7 +86656,7 @@
         {
           "t": "1:56",
           "sec": 116,
-          "title": "Takeoff from Male MLE",
+          "title": "Takeoff for Doha",
           "ife": false
         },
         {
@@ -86692,7 +86686,7 @@
         {
           "t": "5:58",
           "sec": 358,
-          "title": "Final Verdict and Value Rating",
+          "title": "Final Verdict",
           "ife": false
         },
         {
@@ -135967,7 +135961,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=D2urkSxAL4g",
@@ -136321,7 +136317,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=CQA_0Yh0SxE",
@@ -136483,7 +136481,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.681
     },
     {
       "url": "https://www.youtube.com/watch?v=DTDGHl-_1jM",
@@ -136682,7 +136682,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FqasOUu0_qE",
@@ -136800,7 +136802,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=PMP5Nl2hi5I",
@@ -136900,7 +136904,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=N3b5DBs8wuw",
@@ -136944,7 +136950,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=G6F2LOTp0Ho",
@@ -136993,7 +137001,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=CsLzXcCqUPE",
@@ -137029,7 +137039,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=U0dViEMXxMw",
@@ -137078,7 +137090,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=YNDu71hA8ys",
@@ -137276,7 +137290,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.652
     },
     {
       "url": "https://www.youtube.com/watch?v=pAQLMkbaiAo",
@@ -137405,7 +137421,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=bykr4Wc-D-c",
@@ -137442,7 +137460,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=2EgPC-PM90E",
@@ -137556,7 +137576,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=zVQ6P-Nqf_o",
@@ -137697,7 +137719,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.459
     },
     {
       "url": "https://www.youtube.com/watch?v=9o7mNp-HV_E",
@@ -137728,7 +137752,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.691
     },
     {
       "url": "https://www.youtube.com/watch?v=iPzSiW6GzHE",
@@ -137763,7 +137789,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=lgIHE6wPFdM",
@@ -137873,8 +137901,1045 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.345
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ngB281qV93U",
+      "title": "Qantas A321XLR Economy Plus | Flight Review",
+      "year": 2026,
+      "published_at": "2026-09-03T06:00:14Z",
+      "channel_title": "Airside Travel",
+      "view_count": 258,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 4
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bb_uQKalok4",
+      "title": "ETHIOPIAN AIRLINES: The King of African Aviation? 🇪🇹",
+      "year": 2026,
+      "published_at": "2026-09-03T12:30:35Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 57696,
+      "like_count": 1308,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction to Ethiopian Airlines and Africa Network",
+          "ife": false
+        },
+        {
+          "t": "00:19",
+          "sec": 19,
+          "title": "Zanzibar Airport Transit and Mario Kart Driving",
+          "ife": false
+        },
+        {
+          "t": "01:00",
+          "sec": 60,
+          "title": "Aeroplan Ticketing and Itinerary Overview",
+          "ife": false
+        },
+        {
+          "t": "01:50",
+          "sec": 110,
+          "title": "Aircraft Arrival and Fleet Strategy",
+          "ife": false
+        },
+        {
+          "t": "02:31",
+          "sec": 151,
+          "title": "A350 Business Class Cabin (Cloud9) and Seat Review",
+          "ife": false
+        },
+        {
+          "t": "04:48",
+          "sec": 288,
+          "title": "Pre-Departure Service and Cabin Atmosphere",
+          "ife": false
+        },
+        {
+          "t": "05:31",
+          "sec": 331,
+          "title": "Takeoff and Flight Highlights",
+          "ife": false
+        },
+        {
+          "t": "07:48",
+          "sec": 468,
+          "title": "Comforts, Bedding, and Wine Selection",
+          "ife": false
+        },
+        {
+          "t": "08:06",
+          "sec": 486,
+          "title": "Dining Service: Starter, Chicken Kofte Main, and Dessert",
+          "ife": false
+        },
+        {
+          "t": "09:21",
+          "sec": 561,
+          "title": "In-Flight Entertainment and Landing in Addis Ababa",
+          "ife": true
+        },
+        {
+          "t": "12:46",
+          "sec": 766,
+          "title": "Addis Ababa Bole Airport Hub Dynamics and Elevation Challenges",
+          "ife": false
+        },
+        {
+          "t": "14:02",
+          "sec": 842,
+          "title": "History, Strategy, and Dominance of Ethiopian Airlines",
+          "ife": false
+        },
+        {
+          "t": "15:09",
+          "sec": 909,
+          "title": "Addis Ababa Airport Lounge Experience",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Bus Gate Transit and Boarding the 737 Max",
+          "ife": false
+        },
+        {
+          "t": "17:46",
+          "sec": 1066,
+          "title": "737 Max Business Class Cabin and Seat Review",
+          "ife": false
+        },
+        {
+          "t": "19:53",
+          "sec": 1193,
+          "title": "Amenities, Tray Table Flaw, and Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "22:01",
+          "sec": 1321,
+          "title": "Final Brand Ranking and Conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "china airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 7
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 7
+        },
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FtGheoscsAg",
+      "title": "I Flew Saudia Business Class Twice — It Felt Like Two Different Airlines",
+      "year": 2026,
+      "published_at": "2026-09-05T11:00:12Z",
+      "channel_title": "Wanderlust Reports",
+      "view_count": 280,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro – €617 Business Class to Bangkok",
+          "ife": false
+        },
+        {
+          "t": "00:23",
+          "sec": 23,
+          "title": "Taxi to Tunis Airport",
+          "ife": false
+        },
+        {
+          "t": "01:44",
+          "sec": 104,
+          "title": "Check-in at Tunis–Carthage Airport",
+          "ife": false
+        },
+        {
+          "t": "03:10",
+          "sec": 190,
+          "title": "Tunisair Espace Privilège Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:40",
+          "sec": 280,
+          "title": "Boarding the Saudia A330",
+          "ife": false
+        },
+        {
+          "t": "05:09",
+          "sec": 309,
+          "title": "Business Class seat tour",
+          "ife": false
+        },
+        {
+          "t": "07:48",
+          "sec": 468,
+          "title": "Welcome drink and service",
+          "ife": false
+        },
+        {
+          "t": "10:13",
+          "sec": 613,
+          "title": "Take-off",
+          "ife": false
+        },
+        {
+          "t": "12:40",
+          "sec": 760,
+          "title": "An obsolete IFE",
+          "ife": true
+        },
+        {
+          "t": "13:42",
+          "sec": 822,
+          "title": "Wi-Fi on board",
+          "ife": true
+        },
+        {
+          "t": "14:23",
+          "sec": 863,
+          "title": "Lunch service",
+          "ife": false
+        },
+        {
+          "t": "15:54",
+          "sec": 954,
+          "title": "Flying over Egypt",
+          "ife": false
+        },
+        {
+          "t": "16:46",
+          "sec": 1006,
+          "title": "Descent into Jeddah",
+          "ife": false
+        },
+        {
+          "t": "17:09",
+          "sec": 1029,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "17:47",
+          "sec": 1067,
+          "title": "First flight review",
+          "ife": false
+        },
+        {
+          "t": "18:35",
+          "sec": 1115,
+          "title": "Transit in Jeddah",
+          "ife": false
+        },
+        {
+          "t": "19:58",
+          "sec": 1198,
+          "title": "Saudia Business Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "23:39",
+          "sec": 1419,
+          "title": "Boarding the Boeing 787 Dreamliner",
+          "ife": false
+        },
+        {
+          "t": "23:55",
+          "sec": 1435,
+          "title": "B787 Business Class lie-flat seat tour",
+          "ife": false
+        },
+        {
+          "t": "30:09",
+          "sec": 1809,
+          "title": "Take-off from Jeddah",
+          "ife": false
+        },
+        {
+          "t": "31:42",
+          "sec": 1902,
+          "title": "IFE review",
+          "ife": true
+        },
+        {
+          "t": "34:20",
+          "sec": 2060,
+          "title": "Breakfast service",
+          "ife": false
+        },
+        {
+          "t": "36:24",
+          "sec": 2184,
+          "title": "Amenity kit discovery",
+          "ife": false
+        },
+        {
+          "t": "38:27",
+          "sec": 2307,
+          "title": "Arrival in Bangkok",
+          "ife": false
+        },
+        {
+          "t": "41:27",
+          "sec": 2487,
+          "title": "Price and Final verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L3UdVZNj2Vo",
+      "title": "I Flew Philippine Airlines’ A350 Business Class for Only $140!",
+      "year": 2026,
+      "published_at": "2026-09-06T07:30:34Z",
+      "channel_title": "OwenTravels",
+      "view_count": 8,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "PAL A350 Business Class for $140",
+          "ife": false
+        },
+        {
+          "t": "00:10",
+          "sec": 10,
+          "title": "Business Class check-in",
+          "ife": false
+        },
+        {
+          "t": "00:48",
+          "sec": 48,
+          "title": "Exploring NAIA Terminal 2",
+          "ife": false
+        },
+        {
+          "t": "01:19",
+          "sec": 79,
+          "title": "Philippine Airlines Mabuhay Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:30",
+          "sec": 150,
+          "title": "Boarding the Airbus A350",
+          "ife": false
+        },
+        {
+          "t": "03:48",
+          "sec": 228,
+          "title": "Business Class seat tour",
+          "ife": false
+        },
+        {
+          "t": "05:12",
+          "sec": 312,
+          "title": "Welcome drink and hot towel",
+          "ife": false
+        },
+        {
+          "t": "06:00",
+          "sec": 360,
+          "title": "Aircraft doors closed",
+          "ife": false
+        },
+        {
+          "t": "06:33",
+          "sec": 393,
+          "title": "Philippine Airlines’ international network",
+          "ife": false
+        },
+        {
+          "t": "07:03",
+          "sec": 423,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "07:42",
+          "sec": 462,
+          "title": "PAL’s telenovela safety video",
+          "ife": false
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "Rainy departure from Manila",
+          "ife": false
+        },
+        {
+          "t": "12:42",
+          "sec": 762,
+          "title": "Fully flat seat controls",
+          "ife": false
+        },
+        {
+          "t": "14:42",
+          "sec": 882,
+          "title": "Complimentary inflight Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "16:30",
+          "sec": 990,
+          "title": "Business Class breakfast",
+          "ife": false
+        },
+        {
+          "t": "18:18",
+          "sec": 1098,
+          "title": "Philippine Airlines’ A350 fleet",
+          "ife": false
+        },
+        {
+          "t": "20:00",
+          "sec": 1200,
+          "title": "Landing in General Santos",
+          "ife": false
+        },
+        {
+          "t": "22:45",
+          "sec": 1365,
+          "title": "Ramp walk and final verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 11
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 7
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qz61ca_kkYA",
+      "title": "🇦🇪 Abu Dhabi (AUH) - London Heathrow (LHR) 🇬🇧 Etihad Airways Boeing 787-9 [FULL FLIGHT REPORT]",
+      "year": 2026,
+      "published_at": "2026-09-04T07:30:06Z",
+      "channel_title": "Melbourne Aviation ",
+      "view_count": 639,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2YEydTlqKig",
+      "title": "Philippine Airlines A330-300 | Manila - Singapore | Trip Report",
+      "year": 2026,
+      "published_at": "2026-09-05T10:00:28Z",
+      "channel_title": "GM Aviation",
+      "view_count": 11153,
+      "like_count": 151,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:33",
+          "sec": 33,
+          "title": "Ride to airport",
+          "ife": false
+        },
+        {
+          "t": "1:04",
+          "sec": 64,
+          "title": "Manila NAIA Airport",
+          "ife": false
+        },
+        {
+          "t": "3:18",
+          "sec": 198,
+          "title": "Planespotting",
+          "ife": false
+        },
+        {
+          "t": "4:25",
+          "sec": 265,
+          "title": "Manila NAIA Airport",
+          "ife": false
+        },
+        {
+          "t": "5:00",
+          "sec": 300,
+          "title": "Gate area",
+          "ife": false
+        },
+        {
+          "t": "5:29",
+          "sec": 329,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "6:17",
+          "sec": 377,
+          "title": "Cabin",
+          "ife": false
+        },
+        {
+          "t": "6:53",
+          "sec": 413,
+          "title": "Seattour",
+          "ife": false
+        },
+        {
+          "t": "7:43",
+          "sec": 463,
+          "title": "Pre pushback",
+          "ife": false
+        },
+        {
+          "t": "8:58",
+          "sec": 538,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "10:52",
+          "sec": 652,
+          "title": "Taxi to runway",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "13:27",
+          "sec": 807,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "15:26",
+          "sec": 926,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "16:34",
+          "sec": 994,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "17:33",
+          "sec": 1053,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "19:22",
+          "sec": 1162,
+          "title": "Descent to Singapore",
+          "ife": false
+        },
+        {
+          "t": "21:52",
+          "sec": 1312,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "23:36",
+          "sec": 1416,
+          "title": "Taxi to the gate",
+          "ife": false
+        },
+        {
+          "t": "24:49",
+          "sec": 1489,
+          "title": "Disembark",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UZd1NM5R9Qs",
+      "title": "THIS plane is the lifeline of the North! | Flying aboad the Boeing 737-400 Combi of Canadian North!",
+      "year": 2026,
+      "published_at": "2026-09-05T10:30:02Z",
+      "channel_title": "Simply Aviation",
+      "view_count": 45123,
+      "like_count": 1194,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "01:39",
+          "sec": 99,
+          "title": "Canadian North Route Network",
+          "ife": false
+        },
+        {
+          "t": "03:14",
+          "sec": 194,
+          "title": "The Boeing 737-400 Combi",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "Yellowknife Airport",
+          "ife": true
+        },
+        {
+          "t": "05:21",
+          "sec": 321,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "07:08",
+          "sec": 428,
+          "title": "Cabin and Seat",
+          "ife": false
+        },
+        {
+          "t": "08:14",
+          "sec": 494,
+          "title": "Taxi and Take Off",
+          "ife": false
+        },
+        {
+          "t": "10:28",
+          "sec": 628,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "11:33",
+          "sec": 693,
+          "title": "Retro Lavatory",
+          "ife": false
+        },
+        {
+          "t": "12:11",
+          "sec": 731,
+          "title": "Approach and Landing",
+          "ife": false
+        },
+        {
+          "t": "13:51",
+          "sec": 831,
+          "title": "Edmonton Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 7
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=thqlj1gMCy8",
+      "title": "I Tested The Most Controversial Business Class",
+      "year": 2026,
+      "published_at": "2026-09-05T12:56:37Z",
+      "channel_title": "Eric Struk",
+      "view_count": 19539,
+      "like_count": 461,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bVa_iR3pH2o",
+      "title": "Viva A321neo Trip Report",
+      "year": 2026,
+      "published_at": "2026-09-05T15:20:13Z",
+      "channel_title": "iTripReport",
+      "view_count": 3338,
+      "like_count": 99,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 3
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HQ6RfD7hlqg",
+      "title": "NAUGHTY! Air Asia's Lounge Scam exposed!",
+      "year": 2026,
+      "published_at": "2026-09-05T10:00:39Z",
+      "channel_title": "Josh Cahill",
+      "view_count": 251256,
+      "like_count": 5210,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JqK_58A4qcg",
+      "title": "Brace yourself for action-packed thrillers and captivating new releases this September on KrisWorld",
+      "year": 2026,
+      "published_at": "2026-09-04T08:00:14Z",
+      "channel_title": "Singapore Airlines",
+      "view_count": 839,
+      "like_count": 33,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-09-05T07:35:53.007047"
+  "last_updated": "2026-09-06T07:49:08.615776"
 }
