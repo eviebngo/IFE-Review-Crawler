@@ -69064,19 +69064,19 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "EuroAirport Basel Mulhouse Freiburg BSL Arrival",
+          "title": "Welcome to EuroAirport Basel Mulhouse Freiburg BSL",
           "ife": false
         },
         {
           "t": "0:13",
           "sec": 13,
-          "title": "Boarding and British Airways Airbus A320 Economy Seat Review",
+          "title": "Boarding and Economy Seat Review",
           "ife": false
         },
         {
           "t": "1:05",
           "sec": 65,
-          "title": "BSL Departure and Takeoff",
+          "title": "Depature for London Heathrow",
           "ife": false
         },
         {
@@ -69088,13 +69088,13 @@
         {
           "t": "1:42",
           "sec": 102,
-          "title": "Inflight Wi-Fi and Messaging Packages Overview",
+          "title": "Inflight Wi-Fi and Messaging Packages",
           "ife": true
         },
         {
           "t": "2:01",
           "sec": 121,
-          "title": "Final Verdict and Landing at London Heathrow LHR",
+          "title": "Final Verdict - Landing at London Heathrow LHR",
           "ife": false
         }
       ],
@@ -136880,7 +136880,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=bb_uQKalok4",
@@ -137040,7 +137042,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FtGheoscsAg",
@@ -137242,7 +137246,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
     },
     {
       "url": "https://www.youtube.com/watch?v=L3UdVZNj2Vo",
@@ -137398,7 +137404,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qz61ca_kkYA",
@@ -137452,7 +137460,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=2YEydTlqKig",
@@ -137613,7 +137623,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UZd1NM5R9Qs",
@@ -137725,7 +137737,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=thqlj1gMCy8",
@@ -137758,7 +137772,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.272
     },
     {
       "url": "https://www.youtube.com/watch?v=bVa_iR3pH2o",
@@ -137803,7 +137819,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=HQ6RfD7hlqg",
@@ -137836,7 +137854,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.679
     },
     {
       "url": "https://www.youtube.com/watch?v=JqK_58A4qcg",
@@ -137862,8 +137882,839 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.026
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7Yr12J4MoFw",
+      "title": "The Complete Emirates A380 First Class Review ✈️ Dubai to Shanghai",
+      "year": 2026,
+      "published_at": "2026-09-06T12:30:20Z",
+      "channel_title": "TravelwithMohitG",
+      "view_count": 2498,
+      "like_count": 55,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Emirates A380 First Class: What You Get",
+          "ife": false
+        },
+        {
+          "t": "00:30",
+          "sec": 30,
+          "title": "A380 First Class Suite – First Look",
+          "ife": false
+        },
+        {
+          "t": "02:30",
+          "sec": 150,
+          "title": "Emirates First Class Pyjamas and Amenity Bag",
+          "ife": false
+        },
+        {
+          "t": "03:20",
+          "sec": 200,
+          "title": "Emirati Coffee in First Class",
+          "ife": false
+        },
+        {
+          "t": "04:50",
+          "sec": 290,
+          "title": "Take-Off From Dubai",
+          "ife": false
+        },
+        {
+          "t": "05:50",
+          "sec": 350,
+          "title": "A380 First Class Suite Tour, Screens and Controls",
+          "ife": true
+        },
+        {
+          "t": "07:50",
+          "sec": 470,
+          "title": "Breakfast in First Class",
+          "ife": false
+        },
+        {
+          "t": "08:30",
+          "sec": 510,
+          "title": "The Bed at 40,000 Feet",
+          "ife": false
+        },
+        {
+          "t": "09:10",
+          "sec": 550,
+          "title": "Why Emirates Still Flies the A380",
+          "ife": false
+        },
+        {
+          "t": "10:30",
+          "sec": 630,
+          "title": "Unboxing the Bulgari Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "11:50",
+          "sec": 710,
+          "title": "The Emirates A380 First Class Shower",
+          "ife": false
+        },
+        {
+          "t": "14:20",
+          "sec": 860,
+          "title": "The Onboard Lounge and Bar",
+          "ife": false
+        },
+        {
+          "t": "15:30",
+          "sec": 930,
+          "title": "Lunch in First Class",
+          "ife": false
+        },
+        {
+          "t": "16:20",
+          "sec": 980,
+          "title": "Chocolate Fondant and Tesseron Lot 29",
+          "ife": false
+        },
+        {
+          "t": "17:30",
+          "sec": 1050,
+          "title": "What This Journey Cost",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 24
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 19
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JH379vPfXEI",
+      "title": "Turbulence but Nice Views! | Vietnam Airlines A321 | Danang - Ho Chi Minh City | 4K Trip Report",
+      "year": 2026,
+      "published_at": "2026-09-05T04:32:57Z",
+      "channel_title": "Real Tran",
+      "view_count": 2440,
+      "like_count": 18,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro + flight path",
+          "ife": false
+        },
+        {
+          "t": "01:03",
+          "sec": 63,
+          "title": "Danang International Airport (DAD)",
+          "ife": false
+        },
+        {
+          "t": "02:17",
+          "sec": 137,
+          "title": "Check-in/Baggage drop-off",
+          "ife": false
+        },
+        {
+          "t": "02:45",
+          "sec": 165,
+          "title": "Security check",
+          "ife": false
+        },
+        {
+          "t": "03:34",
+          "sec": 214,
+          "title": "Plane spotting",
+          "ife": false
+        },
+        {
+          "t": "04:03",
+          "sec": 243,
+          "title": "Departure Hall / Terminal 1",
+          "ife": false
+        },
+        {
+          "t": "07:26",
+          "sec": 446,
+          "title": "Boarding begins",
+          "ife": false
+        },
+        {
+          "t": "08:52",
+          "sec": 532,
+          "title": "In-flight",
+          "ife": false
+        },
+        {
+          "t": "10:12",
+          "sec": 612,
+          "title": "My Window Seat 29A",
+          "ife": false
+        },
+        {
+          "t": "11:22",
+          "sec": 682,
+          "title": "Seat amenities",
+          "ife": false
+        },
+        {
+          "t": "14:10",
+          "sec": 850,
+          "title": "In-flight safety instructions movie",
+          "ife": false
+        },
+        {
+          "t": "14:46",
+          "sec": 886,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "18:01",
+          "sec": 1081,
+          "title": "Heading to the runway",
+          "ife": false
+        },
+        {
+          "t": "20:49",
+          "sec": 1249,
+          "title": "Turning on the runway",
+          "ife": false
+        },
+        {
+          "t": "21:19",
+          "sec": 1279,
+          "title": "Clear for takeoff",
+          "ife": false
+        },
+        {
+          "t": "22:55",
+          "sec": 1375,
+          "title": "Turbulence",
+          "ife": false
+        },
+        {
+          "t": "24:55",
+          "sec": 1495,
+          "title": "Window views",
+          "ife": false
+        },
+        {
+          "t": "25:24",
+          "sec": 1524,
+          "title": "In-flight Heritage Magazine",
+          "ife": false
+        },
+        {
+          "t": "26:54",
+          "sec": 1614,
+          "title": "Flight attendants serving food, drinks",
+          "ife": false
+        },
+        {
+          "t": "28:00",
+          "sec": 1680,
+          "title": "Check in-flight IFE system",
+          "ife": true
+        },
+        {
+          "t": "29:34",
+          "sec": 1774,
+          "title": "Window views",
+          "ife": false
+        },
+        {
+          "t": "32:25",
+          "sec": 1945,
+          "title": "Descending",
+          "ife": false
+        },
+        {
+          "t": "34:48",
+          "sec": 2088,
+          "title": "Turbulence",
+          "ife": false
+        },
+        {
+          "t": "35:33",
+          "sec": 2133,
+          "title": "Turbulence",
+          "ife": false
+        },
+        {
+          "t": "35:58",
+          "sec": 2158,
+          "title": "Turbulence",
+          "ife": false
+        },
+        {
+          "t": "36:58",
+          "sec": 2218,
+          "title": "Window views",
+          "ife": false
+        },
+        {
+          "t": "38:05",
+          "sec": 2285,
+          "title": "Turbulence",
+          "ife": false
+        },
+        {
+          "t": "39:04",
+          "sec": 2344,
+          "title": "Mekong delta",
+          "ife": false
+        },
+        {
+          "t": "40:59",
+          "sec": 2459,
+          "title": "Saigon comes into view",
+          "ife": false
+        },
+        {
+          "t": "42:05",
+          "sec": 2525,
+          "title": "Final Approaching",
+          "ife": false
+        },
+        {
+          "t": "43:08",
+          "sec": 2588,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "46:56",
+          "sec": 2816,
+          "title": "Tan Son That international airport (SGN)",
+          "ife": false
+        },
+        {
+          "t": "49:09",
+          "sec": 2949,
+          "title": "Disembarking",
+          "ife": false
+        },
+        {
+          "t": "50:10",
+          "sec": 3010,
+          "title": "Last lookback our plane",
+          "ife": false
+        },
+        {
+          "t": "53:37",
+          "sec": 3217,
+          "title": "Baggage Claim area + airport exit",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IHMCKIpehNA",
+      "title": "Starlux Business Class Went Above And Beyond",
+      "year": 2026,
+      "published_at": "2026-09-06T15:00:01Z",
+      "channel_title": "Charles On Travels",
+      "view_count": 3306,
+      "like_count": 143,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Starlux Business Class Check In",
+          "ife": false
+        },
+        {
+          "t": "01:46",
+          "sec": 106,
+          "title": "Starlux Fixed My Massive Mistake",
+          "ife": false
+        },
+        {
+          "t": "05:42",
+          "sec": 342,
+          "title": "Second Flight Attempt",
+          "ife": false
+        },
+        {
+          "t": "06:24",
+          "sec": 384,
+          "title": "Starlux Galactic Lounge Taipei",
+          "ife": false
+        },
+        {
+          "t": "09:04",
+          "sec": 544,
+          "title": "Boarding and Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "10:18",
+          "sec": 618,
+          "title": "Pre-Departure Service",
+          "ife": false
+        },
+        {
+          "t": "11:05",
+          "sec": 665,
+          "title": "Take Off",
+          "ife": false
+        },
+        {
+          "t": "11:35",
+          "sec": 695,
+          "title": "Starlux IFE and Loo Review",
+          "ife": true
+        },
+        {
+          "t": "12:58",
+          "sec": 778,
+          "title": "Starlux Business Class Dining and Drinks",
+          "ife": false
+        },
+        {
+          "t": "14:58",
+          "sec": 898,
+          "title": "Bed Mode",
+          "ife": false
+        },
+        {
+          "t": "15:49",
+          "sec": 949,
+          "title": "Overall Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fA43VIviqW0",
+      "title": "Singapore Airlines 777-300ER Business Class: New York JFK to Frankfurt (Bulkhead & Flagship Lounge)",
+      "year": 2026,
+      "published_at": "2026-09-06T12:00:31Z",
+      "channel_title": "windowseatguy",
+      "view_count": 217,
+      "like_count": 15,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & JFK Terminal 4",
+          "ife": false
+        },
+        {
+          "t": "01:10",
+          "sec": 70,
+          "title": "Capital One Lounge (JFK T4)",
+          "ife": false
+        },
+        {
+          "t": "04:25",
+          "sec": 265,
+          "title": "Cheese Tasting Experience",
+          "ife": false
+        },
+        {
+          "t": "06:30",
+          "sec": 390,
+          "title": "Boarding Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "07:10",
+          "sec": 430,
+          "title": "Bulkhead Seat Tour & Legroom (Seat 15A)",
+          "ife": false
+        },
+        {
+          "t": "08:10",
+          "sec": 490,
+          "title": "Dinner and Drink Menu",
+          "ife": false
+        },
+        {
+          "t": "10:53",
+          "sec": 653,
+          "title": "GE90 Engine Start & Pushback",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "Takeoff from New York JFK",
+          "ife": false
+        },
+        {
+          "t": "12:52",
+          "sec": 772,
+          "title": "KrisWorld IFE System & Cabin Ambience",
+          "ife": true
+        },
+        {
+          "t": "13:44",
+          "sec": 824,
+          "title": "Transatlantic Inflight Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "14:27",
+          "sec": 867,
+          "title": "Lavatory visit",
+          "ife": false
+        },
+        {
+          "t": "14:44",
+          "sec": 884,
+          "title": "Dimmed Cabin Ambience & Bed Turn-Down",
+          "ife": false
+        },
+        {
+          "t": "15:38",
+          "sec": 938,
+          "title": "Sunrise Descent over Europe",
+          "ife": false
+        },
+        {
+          "t": "16:18",
+          "sec": 978,
+          "title": "Approach & Landing at Frankfurt Airport (FRA)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=p5YJjNEMH9M",
+      "title": "Cathay Pacific Business Class on 777-300ER: How Does It Compare to the Aria Suite? | HKG - SFO",
+      "year": 2026,
+      "published_at": "2026-09-07T04:10:51Z",
+      "channel_title": "Upgraded Travels",
+      "view_count": 19,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "1:14",
+          "sec": 74,
+          "title": "The Bridge Business Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "1:54",
+          "sec": 114,
+          "title": "A380-800 Plane Spotting",
+          "ife": false
+        },
+        {
+          "t": "2:47",
+          "sec": 167,
+          "title": "Extra Security Check",
+          "ife": false
+        },
+        {
+          "t": "3:27",
+          "sec": 207,
+          "title": "About Our Plane",
+          "ife": false
+        },
+        {
+          "t": "3:56",
+          "sec": 236,
+          "title": "Redemption Situation",
+          "ife": false
+        },
+        {
+          "t": "5:10",
+          "sec": 310,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "6:35",
+          "sec": 395,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "11:55",
+          "sec": 715,
+          "title": "Take Off",
+          "ife": false
+        },
+        {
+          "t": "12:32",
+          "sec": 752,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "14:57",
+          "sec": 897,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "15:48",
+          "sec": 948,
+          "title": "IFE Not Working",
+          "ife": true
+        },
+        {
+          "t": "16:39",
+          "sec": 999,
+          "title": "Bed Mode",
+          "ife": false
+        },
+        {
+          "t": "17:50",
+          "sec": 1070,
+          "title": "Second Meal",
+          "ife": false
+        },
+        {
+          "t": "19:33",
+          "sec": 1173,
+          "title": "My Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HRZgYvjEwD0",
+      "title": "Qantas Business Lounge Singapore Changi Airport Terminal 1 Tour",
+      "year": 2026,
+      "published_at": "2026-09-06T13:00:14Z",
+      "channel_title": "First Travel",
+      "view_count": 19,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Lounge Location in Terminal 1",
+          "ife": false
+        },
+        {
+          "t": "0:31",
+          "sec": 31,
+          "title": "Dining and Bar Area",
+          "ife": false
+        },
+        {
+          "t": "1:07",
+          "sec": 67,
+          "title": "Shower Suites Tour",
+          "ife": false
+        },
+        {
+          "t": "1:56",
+          "sec": 116,
+          "title": "Main Seating Area",
+          "ife": false
+        },
+        {
+          "t": "2:24",
+          "sec": 144,
+          "title": "Final Thoughts and Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 4
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-06T07:49:08.615776"
+  "last_updated": "2026-09-07T08:09:06.870348"
 }
