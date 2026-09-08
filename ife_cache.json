@@ -139191,8 +139191,8 @@
           "ife": false
         },
         {
-          "t": "00:30",
-          "sec": 30,
+          "t": "00:31",
+          "sec": 31,
           "title": "Greenville-Spartanburg Airport",
           "ife": false
         },
@@ -139205,84 +139205,78 @@
         {
           "t": "04:35",
           "sec": 275,
-          "title": "GSP Outdoor Courtyard",
-          "ife": false
-        },
-        {
-          "t": "06:25",
-          "sec": 385,
           "title": "Our CRJ-700 Arrives",
           "ife": false
         },
         {
-          "t": "06:55",
-          "sec": 415,
+          "t": "04:50",
+          "sec": 290,
           "title": "Boarding the CRJ-700",
           "ife": false
         },
         {
-          "t": "07:40",
-          "sec": 460,
+          "t": "05:50",
+          "sec": 350,
           "title": "Business Class Seat 8A",
           "ife": false
         },
         {
-          "t": "08:15",
-          "sec": 495,
+          "t": "06:20",
+          "sec": 380,
           "title": "Pushback & Taxi",
           "ife": false
         },
         {
-          "t": "12:30",
-          "sec": 750,
+          "t": "10:14",
+          "sec": 614,
           "title": "Takeoff from GSP",
           "ife": false
         },
         {
-          "t": "15:10",
-          "sec": 910,
+          "t": "13:18",
+          "sec": 798,
           "title": "Wi-Fi & In-Flight Entertainment",
           "ife": true
         },
         {
-          "t": "15:30",
-          "sec": 930,
+          "t": "13:42",
+          "sec": 822,
           "title": "In-Flight Service",
           "ife": false
         },
         {
-          "t": "16:10",
-          "sec": 970,
+          "t": "14:25",
+          "sec": 865,
           "title": "CRJ-700 Lavatory",
           "ife": false
         },
         {
-          "t": "17:00",
-          "sec": 1020,
+          "t": "15:00",
+          "sec": 900,
           "title": "Cruising to Washington D.C.",
           "ife": false
         },
         {
-          "t": "24:30",
-          "sec": 1470,
+          "t": "17:20",
+          "sec": 1040,
           "title": "Potomac River Approach",
           "ife": false
         },
         {
-          "t": "28:20",
-          "sec": 1700,
+          "t": "19:40",
+          "sec": 1180,
           "title": "Landing at DCA",
           "ife": false
         },
         {
-          "t": "29:15",
-          "sec": 1755,
+          "t": "21:55",
+          "sec": 1315,
           "title": "Welcome to Washington D.C.",
           "ife": false
         },
         {
-          "t": "30:05",
-          "sec": 1805,
+          "t": "22:55",
+          "sec": 1375,
           "title": "Final Thoughts",
           "ife": false
         }
