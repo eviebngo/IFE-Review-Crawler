@@ -71073,13 +71073,13 @@
         {
           "t": "1:28",
           "sec": 88,
-          "title": "Departure and Takeoff",
+          "title": "Departure for Hong Kong",
           "ife": false
         },
         {
           "t": "2:34",
           "sec": 154,
-          "title": "Dinner Service and Menu Overview",
+          "title": "Dinner Service",
           "ife": false
         },
         {
@@ -138677,7 +138677,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=EjZQdb7csqk",
@@ -138721,7 +138723,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=vWuM54YPZts",
@@ -138873,7 +138877,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
     },
     {
       "url": "https://www.youtube.com/watch?v=wHz_Nr1e4VQ",
@@ -138921,7 +138927,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=8dbJs2Kns0M",
@@ -139050,7 +139058,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=JXz_Z301Svg",
@@ -139170,7 +139180,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
     },
     {
       "url": "https://www.youtube.com/watch?v=a7MWmfs3caY",
@@ -139303,7 +139315,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.583
     },
     {
       "url": "https://www.youtube.com/watch?v=-YTzk-ZgD10",
@@ -139334,7 +139348,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=o1Xr1n8OSLg",
@@ -139402,7 +139418,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=FqclGCQGjBU",
@@ -139442,8 +139460,191 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2G69SWENUd4",
+      "title": "FLYING QANTAS' 787 DREAMLINER TO HAWAII 🇦🇺🇺🇸 | Sydney to Honolulu Economy Review",
+      "year": 2026,
+      "published_at": "2026-09-09T02:00:03Z",
+      "channel_title": "Aussie Student Traveller",
+      "view_count": 25,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:18",
+          "sec": 18,
+          "title": "Domestic to International Transit Sydney Airport",
+          "ife": false
+        },
+        {
+          "t": "01:33",
+          "sec": 93,
+          "title": "Airside at Sydney Airport International Terminal",
+          "ife": false
+        },
+        {
+          "t": "02:04",
+          "sec": 124,
+          "title": "Gate Area",
+          "ife": false
+        },
+        {
+          "t": "02:14",
+          "sec": 134,
+          "title": "Seat features",
+          "ife": false
+        },
+        {
+          "t": "03:00",
+          "sec": 180,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "03:18",
+          "sec": 198,
+          "title": "Taxi and Take-off",
+          "ife": false
+        },
+        {
+          "t": "04:39",
+          "sec": 279,
+          "title": "Blankets and bottled water",
+          "ife": false
+        },
+        {
+          "t": "04:58",
+          "sec": 298,
+          "title": "Snack and Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "06:25",
+          "sec": 385,
+          "title": "Inflight Entertainment and Inflight Map",
+          "ife": true
+        },
+        {
+          "t": "06:50",
+          "sec": 410,
+          "title": "Cabin at night",
+          "ife": false
+        },
+        {
+          "t": "07:00",
+          "sec": 420,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "07:41",
+          "sec": 461,
+          "title": "Last thoughts",
+          "ife": false
+        },
+        {
+          "t": "08:21",
+          "sec": 501,
+          "title": "Landing into Honolulu",
+          "ife": false
+        },
+        {
+          "t": "10:06",
+          "sec": 606,
+          "title": "Taxi and Aircraft at Gate",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=T6am1qjakc8",
+      "title": "Is AIR INDIA Worth It Now? 16-Hour Toronto to Delhi Direct Flight! Honest Review",
+      "year": 2026,
+      "published_at": "2026-09-08T20:00:15Z",
+      "channel_title": "Lens of Saika",
+      "view_count": 476,
+      "like_count": 22,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 7
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-08T07:59:37.299817"
+  "last_updated": "2026-09-09T08:02:46.646238"
 }
