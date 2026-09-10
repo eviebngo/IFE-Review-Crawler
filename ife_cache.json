@@ -139590,7 +139590,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=T6am1qjakc8",
@@ -139631,8 +139633,427 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.67
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VR4hbCUJ6I0",
+      "title": "Qatar Q-Suite Fight Review Guangzhou to Doha Business Class",
+      "year": 2026,
+      "published_at": "2026-09-09T18:15:37Z",
+      "channel_title": "Plane Princess",
+      "view_count": 24,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PjcHhHJTTB4",
+      "title": "Malaysia Airlines ANCIENT A330-300 (Melbourne to Kuala Lumpur) - Economy Class",
+      "year": 2026,
+      "published_at": "2026-09-10T05:08:09Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 1152,
+      "like_count": 134,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:37",
+          "sec": 97,
+          "title": "Qantas International First Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:55",
+          "sec": 235,
+          "title": "Boarding flight MH146",
+          "ife": false
+        },
+        {
+          "t": "04:39",
+          "sec": 279,
+          "title": "Seat 27K & features",
+          "ife": false
+        },
+        {
+          "t": "06:12",
+          "sec": 372,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "08:19",
+          "sec": 499,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:25",
+          "sec": 625,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "11:38",
+          "sec": 698,
+          "title": "NordVPN",
+          "ife": false
+        },
+        {
+          "t": "12:59",
+          "sec": 779,
+          "title": "Breakfast service",
+          "ife": false
+        },
+        {
+          "t": "14:51",
+          "sec": 891,
+          "title": "Mid-flight",
+          "ife": false
+        },
+        {
+          "t": "16:11",
+          "sec": 971,
+          "title": "Prior landing meal",
+          "ife": false
+        },
+        {
+          "t": "16:57",
+          "sec": 1017,
+          "title": "PA",
+          "ife": false
+        },
+        {
+          "t": "17:14",
+          "sec": 1034,
+          "title": "Conclusion / landing",
+          "ife": false
+        },
+        {
+          "t": "21:46",
+          "sec": 1306,
+          "title": "Langkawi vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 3
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rBbP0bjfzpw",
+      "title": "Is JetBlue Mint the Best Business Class in America? London LGW to Boston BOS Full Review",
+      "year": 2026,
+      "published_at": "2026-09-10T01:05:59Z",
+      "channel_title": "Luxury Trails",
+      "view_count": 33,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Seat Overview",
+          "ife": false
+        },
+        {
+          "t": "01:21",
+          "sec": 81,
+          "title": "Slippers",
+          "ife": false
+        },
+        {
+          "t": "02:02",
+          "sec": 122,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "04:03",
+          "sec": 243,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "06:10",
+          "sec": 370,
+          "title": "Seat Controls",
+          "ife": false
+        },
+        {
+          "t": "06:46",
+          "sec": 406,
+          "title": "Headphones",
+          "ife": false
+        },
+        {
+          "t": "07:19",
+          "sec": 439,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "09:01",
+          "sec": 541,
+          "title": "Take Off",
+          "ife": false
+        },
+        {
+          "t": "10:26",
+          "sec": 626,
+          "title": "Bedding",
+          "ife": false
+        },
+        {
+          "t": "11:11",
+          "sec": 671,
+          "title": "Second Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "12:10",
+          "sec": 730,
+          "title": "Food Service",
+          "ife": false
+        },
+        {
+          "t": "13:56",
+          "sec": 836,
+          "title": "Bathroom Tour",
+          "ife": false
+        },
+        {
+          "t": "14:39",
+          "sec": 879,
+          "title": "Lie Flat Bed",
+          "ife": false
+        },
+        {
+          "t": "15:52",
+          "sec": 952,
+          "title": "Pre Arrival Meal",
+          "ife": false
+        },
+        {
+          "t": "17:02",
+          "sec": 1022,
+          "title": "Final Thoughts & Price",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RCHK2xSIWWs",
+      "title": "Airplane Travel Vlog: Inside a Flight to USA! ✈️",
+      "year": 2026,
+      "published_at": "2026-09-09T12:03:51Z",
+      "channel_title": "Viral Vault😍",
+      "view_count": 3,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vVDyjdrFM4w",
+      "title": "Could Swiss Be the BEST EUROPEAN Airline? | Swiss 777-300ER San Francisco to Zurich in Economy",
+      "year": 2026,
+      "published_at": "2026-09-09T14:00:02Z",
+      "channel_title": "Legitimate Aviation",
+      "view_count": 66,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-09T08:02:46.646238"
+  "last_updated": "2026-09-10T08:01:47.535610"
 }
