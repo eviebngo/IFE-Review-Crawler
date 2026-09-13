@@ -68981,7 +68981,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Zurich HB Station Navigation and Platform Guide",
+          "title": "Welcome to Zurich HB Station",
           "ife": false
         },
         {
@@ -68993,19 +68993,13 @@
         {
           "t": "1:11",
           "sec": 71,
-          "title": "Departure from Zurich HB",
+          "title": "Departure for Interlaken",
           "ife": false
         },
         {
           "t": "1:59",
           "sec": 119,
           "title": "SBB Bistro Car Amenities",
-          "ife": false
-        },
-        {
-          "t": "3:08",
-          "sec": 188,
-          "title": "Bern Station",
           "ife": false
         },
         {
