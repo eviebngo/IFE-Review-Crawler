@@ -140357,7 +140357,38 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "न्यूयॉर्क से भारत की लंबी उड़ान",
+          "ife": false
+        },
+        {
+          "t": "1:35",
+          "sec": 95,
+          "title": "जेएफके एयरपोर्ट पर चेक-इन का अनुभव",
+          "ife": false
+        },
+        {
+          "t": "3:36",
+          "sec": 216,
+          "title": "एयरबस 350 के अंदर का नजारा",
+          "ife": false
+        },
+        {
+          "t": "11:36",
+          "sec": 696,
+          "title": "दिल्ली एयरपोर्ट पर एक बड़ी परेशानी",
+          "ife": false
+        },
+        {
+          "t": "13:30",
+          "sec": 810,
+          "title": "सूरत की ओर आखिरी उड़ान",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
