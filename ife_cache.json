@@ -144709,7 +144709,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=BlA0JhaE4QU",
@@ -144855,7 +144857,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=F2Mp0FWFEmY",
@@ -144888,7 +144892,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.547
     },
     {
       "url": "https://www.youtube.com/watch?v=ZEXvTFc0uEE",
@@ -144925,8 +144931,453 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AINB-FX536Q",
+      "title": "Delta Economy Is Better Than You Think | A330neo LHR-SEA",
+      "year": 2026,
+      "published_at": "2026-09-11T15:00:02Z",
+      "channel_title": "Gabe Leigh",
+      "view_count": 11423,
+      "like_count": 326,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 7
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 6
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mxnL-CVBYJo",
+      "title": "A Better Way to Fly In India? Air India Premium Economy Experience",
+      "year": 2026,
+      "published_at": "2026-09-15T15:23:31Z",
+      "channel_title": "FlyWithAbeer",
+      "view_count": 104,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:54",
+          "sec": 54,
+          "title": "Encalm Lounge",
+          "ife": false
+        },
+        {
+          "t": "01:31",
+          "sec": 91,
+          "title": "Boarding the A320neo",
+          "ife": false
+        },
+        {
+          "t": "02:16",
+          "sec": 136,
+          "title": "Premium Economy Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "02:50",
+          "sec": 170,
+          "title": "Pushback & Takeoff from Delhi",
+          "ife": false
+        },
+        {
+          "t": "04:05",
+          "sec": 245,
+          "title": "Meal Service Begins",
+          "ife": false
+        },
+        {
+          "t": "04:14",
+          "sec": 254,
+          "title": "Upma & Idli Sambar Main Course",
+          "ife": false
+        },
+        {
+          "t": "05:20",
+          "sec": 320,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "06:13",
+          "sec": 373,
+          "title": "Lavatory Review",
+          "ife": false
+        },
+        {
+          "t": "06:30",
+          "sec": 390,
+          "title": "Descent into Hyderabad",
+          "ife": false
+        },
+        {
+          "t": "08:00",
+          "sec": 480,
+          "title": "Final Verdict: Is AI Premium Economy Worth It?",
+          "ife": false
+        },
+        {
+          "t": "08:27",
+          "sec": 507,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZFWYBoQcfpw",
+      "title": "Virgin Atlantic Premium Economy: Is It REALLY Worth the Extra Money?",
+      "year": 2026,
+      "published_at": "2026-09-15T18:27:18Z",
+      "channel_title": "Glen And Rhonda",
+      "view_count": 405,
+      "like_count": 26,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=E1UcXGXBzkk",
+      "title": "FlyDubai 737 Max-8 Flight Review: Bishkek Manas Airport To Dubai International Airport DXB",
+      "year": 2026,
+      "published_at": "2026-09-15T20:58:56Z",
+      "channel_title": "RBSpotter",
+      "view_count": 34,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 6
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=20x0EXoA8Q0",
+      "title": "Aeromexico 737-800 Economy Class Trip Report",
+      "year": 2026,
+      "published_at": "2026-09-15T18:23:18Z",
+      "channel_title": "iTripReport",
+      "view_count": 4609,
+      "like_count": 103,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://simpleflying.com/tag/in-flight-entertainment/",
+      "title": "in flight entertainment | Simple Flying",
+      "year": 2026,
+      "ife_system": "Panasonic Astrova",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "media_type": "article",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 9
+        },
+        {
+          "keyword": "delta",
+          "mentions": 8
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 7
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 3
+        },
+        {
+          "keyword": "air france",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": "Starlink Not every airline will eliminate seatback screens entirely, but some may see a clear opportunity to reduce reliance on traditional IFE.",
+      "article_quotes": [
+        {
+          "text": "Posts 1 By Victoria Agronsky Southwest Launches Its First Starlink Wi-Fi Flight, Eyes 300 Jets By End Of 2026 Southwest Airlines The carrier is on the way to next-level streaming in-flight.",
+          "kws": [
+            "starlink",
+            "wi-fi"
+          ]
+        },
+        {
+          "text": "Posts By Luke Diaz The New Inflight Entertainment System That Emirates Passengers Are Raving About Emirates The arrival of the first Airbus A350-900 into the Emirates fleet has brought a revolution to the back of seat screens.",
+          "kws": [
+            "entertainment system",
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts 1 By Jacob Johnson 4K Screens & Apple TV+: Inside Air France’s New PaxEx Push Air France Passengers can now enjoy exclusive access to hit TV series on their next long-haul flight.",
+          "kws": [
+            "tv series",
+            "4k screen",
+            "4k"
+          ]
+        },
+        {
+          "text": "Posts 1 By Aaron Bailey New Milestone: Delta Air Lines Equips 1,000th Aircraft With Sync Seatback & Free WiFi Delta Air Lines The fleet is getting even better.",
+          "kws": [
+            "seat",
+            "wifi"
+          ]
+        },
+        {
+          "text": "Posts 4 By Prachi Patel Is Starlink About to Replace Seatback Screens Forever?",
+          "kws": [
+            "seatback screen",
+            "starlink",
+            "seat"
+          ]
+        },
+        {
+          "text": "Starlink Not every airline will eliminate seatback screens entirely, but some may see a clear opportunity to reduce reliance on traditional IFE.",
+          "kws": [
+            "seatback screen",
+            "starlink",
+            "seat"
+          ]
+        },
+        {
+          "text": "Posts 8 By Michal Roberts Air Canada Apologizes For Israel Being Missing From Moving Maps On Boeing 737 MAX In-Flight Entertainment Air Canada The airline's in-flight entertainment system was the cause of controversy.",
+          "kws": [
+            "in-flight entertainment",
+            "entertainment system",
+            "moving map"
+          ]
+        },
+        {
+          "text": "Posts 7 By Tatenda Karuwa 1:24 Delta Air Lines Introduces Sync Seatback Across More Aircraft In 1st Phase Of Rollout Delta Air Lines Atlanta-based Delta Air Lines first unveiled its new innovative inflight entertainment (IFE) and connectivity system, Delta Sync, last year.",
+          "kws": [
+            "connectivity",
+            "seat",
+            "ife"
+          ]
+        }
+      ],
+      "captions": [],
+      "source_tier": 1,
+      "source_name": "Press"
     }
   ],
-  "last_updated": "2026-09-15T08:41:57.914474"
+  "last_updated": "2026-09-16T08:28:12.725876"
 }
