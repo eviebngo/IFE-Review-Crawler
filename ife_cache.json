@@ -145020,7 +145020,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=mxnL-CVBYJo",
@@ -145137,7 +145139,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=ZFWYBoQcfpw",
@@ -145185,7 +145189,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.445
     },
     {
       "url": "https://www.youtube.com/watch?v=E1UcXGXBzkk",
@@ -145234,7 +145240,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=20x0EXoA8Q0",
@@ -145275,7 +145283,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://simpleflying.com/tag/in-flight-entertainment/",
@@ -145407,8 +145417,464 @@
       ],
       "captions": [],
       "source_tier": 1,
-      "source_name": "Press"
+      "source_name": "Press",
+      "sentiment": "positive",
+      "sentiment_score": 0.84
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v-bVflnEG7I",
+      "title": "How to book CHEAP China Eastern Premium Economy Class?",
+      "year": 2026,
+      "published_at": "2026-09-17T04:00:38Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 916,
+      "like_count": 150,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:41",
+          "sec": 101,
+          "title": "China Eastern Lounge No. 36",
+          "ife": false
+        },
+        {
+          "t": "02:26",
+          "sec": 146,
+          "title": "Saily eSIM",
+          "ife": false
+        },
+        {
+          "t": "03:55",
+          "sec": 235,
+          "title": "Boarding flight MU787",
+          "ife": false
+        },
+        {
+          "t": "04:28",
+          "sec": 268,
+          "title": "Seat 28A & features",
+          "ife": false
+        },
+        {
+          "t": "06:44",
+          "sec": 404,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "07:58",
+          "sec": 478,
+          "title": "Taxi & takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:51",
+          "sec": 651,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "12:15",
+          "sec": 735,
+          "title": "Breakfast service",
+          "ife": false
+        },
+        {
+          "t": "15:42",
+          "sec": 942,
+          "title": "Lunch service",
+          "ife": false
+        },
+        {
+          "t": "17:26",
+          "sec": 1046,
+          "title": "Refreshment service",
+          "ife": false
+        },
+        {
+          "t": "18:39",
+          "sec": 1119,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "20:17",
+          "sec": 1217,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "22:24",
+          "sec": 1344,
+          "title": "Rome vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china eastern",
+          "mentions": 3
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RAaPK2S-V2o",
+      "title": "Indonesia AirAsia Airbus A320 Trip Report | Singapore to Bali 🇸🇬🇮🇩",
+      "year": 2026,
+      "published_at": "2026-09-09T10:00:31Z",
+      "channel_title": "Flying Asia",
+      "view_count": 1638,
+      "like_count": 30,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vyzZfoY-MJw",
+      "title": "Turkish Airlines A330 Economy Class Review | Istanbul to Cairo",
+      "year": 2026,
+      "published_at": "2026-09-16T17:30:28Z",
+      "channel_title": "Abdirisaq Aviation",
+      "view_count": 120,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 8
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 8
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MD_soeuXTHA",
+      "title": "Personal Vlog&Review Philippines Airline Toronto - Manila | PR119",
+      "year": 2026,
+      "published_at": "2026-09-11T09:00:37Z",
+      "channel_title": "BrowsingWithJoey",
+      "view_count": 295,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UqgZEmprLF8",
+      "title": "Malaysia Airlines A330neo Economy Class Review",
+      "year": 2026,
+      "published_at": "2026-09-17T05:00:30Z",
+      "channel_title": "Airside Travel",
+      "view_count": 57,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 7
+        },
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": true,
+      "transcript_excerpt": "display. It is really enjoyable to use.…",
+      "captions": [
+        {
+          "timestamp": "1:38",
+          "start_seconds": 98,
+          "text": "screens. There is a massive display in"
+        },
+        {
+          "timestamp": "2:57",
+          "start_seconds": 177,
+          "text": "USBC and USBA charging as well as a"
+        },
+        {
+          "timestamp": "4:13",
+          "start_seconds": 253,
+          "text": "display. It is really enjoyable to use."
+        },
+        {
+          "timestamp": "6:12",
+          "start_seconds": 372,
+          "text": "when in the water. Put the life vest on"
+        },
+        {
+          "timestamp": "11:26",
+          "start_seconds": 686,
+          "text": "mention, of course, that amazing 4K"
+        }
+      ],
+      "transcript_full": "It really is not very often that you get off a flight flying economy and you think, \"Wow, that is impressive.\" This is Malaysia Airlines economy on the brand new Airbus A330 Neo flying from Tempasar Bali to Koala Lumpur. And to be honest, if it wasn't for one mishap at the end of the flight, this would be one of my favorite economy experiences I can remember ever. It didn't start like that though. Just like the end of the flight, the start of this experience can only be described as chaotic. Whilst I was at the gate waiting to board the aircraft, there was a mob of maybe 30 or 40 passengers who were trying to storm the gate area and break past the barriers as if the door was about to close and they were being left behind. The poor ground staff though were not having it and they held their ground and made sure that when boarding did commence, [music] group and priority boarding were strictly adhered to. I was very happy to be in group one, which meant I was one of the first to board the economy cabin. To set the scene properly, only a month or so earlier, I'd flown Malaysia Airlines A330-300 in economy, which was a very tired and quite uncomfortable airplane. I have a review of that one linked below. And with that older product as my benchmark, stepping onto this cabin was really fantastic. The cabin design is elegant. I love the navy seats. Much better than the horrible burgundy red they had on the older aircraft. And they're complemented by proper LED mood lighting. But the first thing that actually strikes you [music] is the inflight entertainment screens. There is a massive display in every single seat. [music] They're bright, they're high resolution, and they make the whole cabin look incredibly modern. I'm in the rear economy cabin today where I'm greeted by a very friendly flight attendant who shows me straight to my seat and also stops to have a chat before the cabin starts to fill up. This aircraft has 269 Ricaro [music] CL 3810 seats in a very passenger friendly 242 [music] layout. In a world where almost every widebody economy cabin is now 9 or 10 across, [music] a new A330 with a 242 is a really nice place to be. The seats themselves are really comfortable to sit in. They're nice and cushioned and this back support as well provides a lot of stability as well of course as the [music] adjustable headrest. There is also generous recline on these seats as you can see here and something that I discover later in the flight as well. Each seat has a coat hook as well as USBC and USBA charging as well as a single headphone jack. We also have a standard tray table that folds [music] out like so. And a handy feature on the back of the tray table when it's [music] stowed is a cup holder. In terms of leg room, leg room is advertised as 32 in of pitch, but because of the way the seat is actually [music] designed, the space at your knees feels a lot more than that. I'm nearly 6'4 and I still had at least an inch between my knees and the back of the seat in front of me. I don't have that on other airlines unless I'm buying an extra leg room seat, including even Singapore Airlines, which supposedly gives you the exact same seat pitch. So, this is really impressive. And here is a closer look at the adjustable headrest. The only observation I do have is that there does seem to be more space [music] between the seat and the window wall as well as more space in the aisle than what I'm used to. I'm [music] wondering if these seats are not the full 18in width that Airbus advertise on their aircraft. Sadly though, there is no personalized control of the ventilation. And then there is the star of the show, which is this 13.3 in 4K touchscreen display. It is really enjoyable to use. [music] It has Bluetooth connectivity, so you can pair your own headphones, which I still can't believe is such a novelty in 2026. And the MH [music] Connect interface is really modern and quick. Such an upgrade from what I had on the older A330300. [music] There is a good range of both films and TV that [music] you can choose from. It's not worldleading, but there's definitely enough here to keep you entertained. There is also a moving map which is excellent [music] and fully interactive. Additional features on the screen is the ability to call the cabin [music] crew, control the lighting and a do not disturb button and of course the Bluetooth connectivity for your headphones. together with me can tell the summary officer and the rest are called by in charge as we 714 from the pasabi to Kalumpo. This part will take 2 hours and 45 minutes. The expect to be almost all the way to Kalumpo. is due to the arrival of from the previous sector. However, we are almost ready for departure. Let's see this before and thank you [music] >> as we take you through some important safety features specific to this aircraft. [music] As it is important to keep the aisles, bulkhead areas, and exits clear, please place your carry-on baggage in the overhead compartments and smaller items completely under the seat in front of you. Please enable flight mode on your remote takeoff and landing. Do not charge your devices during this time. Armrest down. Keep the window shades up and store your tray table. [music] Fasten your seat. Contract attention when in the water. Put the life vest on yourself first before helping someone else. Life tests for infants are also available on this aircraft. [music] [music] If there's a change in cabin pressure, the oxygen mask will drop from the panel above your seat. Reach up [music] and firmly pull the mask down to trigger Oh my god. Malaysia Airlines offers free Wi-Fi to all passengers on their aircraft. You don't need to be signed up to a loyalty program or anything. You just log in. Generally, I found it to be okay, and it was the same on this aircraft. The speeds were fine, but you certainly won't be doing any streaming or anything. Almost immediately after takeoff, the crew came around through the cabin to offer water before getting ready for the main meal service. [music] The menu was available to view on the entertainment system, which I like a lot. I went for the chicken curry with rice served with a bread roll and butter, roasted peanuts, and fresh fruit. Standard selection of beer, wine, soft drink, and juice were available alongside this. The Malaysia Airlines salted peanuts are amazing. I don't know how they make them so good, but if we didn't have strict quarantine rules in Australia, I would bring them home. The meal itself was very flavorsome and a decent portion [music] with plenty of protein. The fruit was fresh and overall, this was just a really another solid meal from Malaysia Airlines. I've flown them a few times now in economy and the catering is [music] up there with the best I've had on any carrier. The only negative is we get plastic cutlery. This whole thing would be elevated just that little bit more if [music] we had metal cutlery. While waiting for my tray to get collected, I discovered that there is a little storage pocket behind the meal tray. I wonder how many wallets get left behind. [music] Now for the cabin crew. From that brief interaction at boarding, the crew referred [music] to me by my name for the entire flight. They even asked me before the meal service if I had a preference for meal choices to [music] make sure it didn't run out. I don't know whether that is because he saw that I was filming or whether [music] it's something they do generally for One World Emerald passengers. I would love to hear from others if this is a common thing [music] or something they just did assuming I would be posting about this. Either way, the personal touch is far above what I would expect in economy on any airline, and it definitely left a good impression. One of the disappointing things about this flight, though, which is nothing to do with the airline, is that the two passengers in front of me fully reclined their seats as soon as we took off and then [music] the moment the meal service finished as well. I took the decision not to impose the same on the person behind me, and it left me feeling pretty cramped. [music] The seats do have a lot of recline as it turns out. I know this is often a controversial discussion that gets people really fired up, but my view is that reclining [music] is acceptable after the first meal service on an overnight longhaul flight when everyone else is also reclining and trying to sleep. Otherwise, on a short daytime flight like this one, only 3 hours, in my opinion, it's just a little bit rude. Let [music] me know if you agree or not. So, as we start our descent down into Koala Lumpur, let's take a look back at this economy flight with Malaysia Airlines. I love the 242 configuration as it's so passenger friendly, but previously to get that it meant flying on a regular A330, which nowadays tend to be getting a little bit old and the cabins looking like they're [music] a bit tired. The A330 Neo is the perfect answer for that. And I'm honestly surprised it has not received more orders, particularly with the large existing A330 co fleet and long lead times for 787s and A350s. Not to mention, [music] it's also cheaper for airlines to buy. Having said that, it is starting to improve [music] in terms of orders with Malaysia Airlines got 40 and Cath Pacific as well are using it to replace their A330 fleet. The seats are really, really comfortable. [music] They're well cushioned, have lots of support, generous recline, and lots of leg room. I've sat in a lot of economy seats, and these ones are up there with the most [music] comfortable. Not to mention, of course, that amazing 4K entertainment screen that you have. Combine the new seats, the new aircraft with the amazing cabin crew and the really strong and consistent catering that I've experienced on all of my Malaysia Airlines flights, [music] and Malaysia Airlines is starting to become one of those airlines on the top of the list that I [music] would look to when I'm flying from Australia to Asia, at least in economy. I would now actually put them above Singapore Airlines on this specific aircraft. The risk of course is that you end up on an older A330 or god forbid a 737 Max. At least for Singapore Airlines fleets, you know what you're getting every time. I did a review on both the Malaysia Airlines A330300 and the 737 Max. Both 5 1/2 6 hour flights between Perth and KL. I'll link those below. You can see [music] the experience is vastly different to this one. This is now the single biggest thing standing between Malaysia Airlines and a [music] real reputation turnaround. It's not the soft product, it's the inconsistency between aircraft types. I am holding out hope that the 737 Max 10 that they have on order will have better, more longer hall style economy seats. They're supposed to have liflap business class. So, let's hope economy also gets some treatment. And Malaysia Airlines is [music] also in the process of replacing their A350s as their lease is about to expire. They're either going to order new A350s, [music] potentially some 787s or even trip 7s, although I think that's less likely. Either [music] way, if they can replicate this product on the A330 Neo on these future aircraft, then Malaysia Airlines become seriously competitive. Unfortunately, on landing in KL, things started to unravel. We were stopped dead on the taxi way, waiting for an Air Maitius A30 to vacate our bay. It took the captain about 10 minutes to make any announcement at all, explaining the hold up, and what we were told would be a 10-minute delay quickly turned into 45. And we sat there with no further [music] communication at all, with the temperature very quickly rising. At one point, the call bells were going off like crazy, and people were just getting up, walking around, going to the toilet, completely [music] ignoring the flight attendants who were asking them to remain seated. One of the chimes was mistaken for the seat belt sign coming off and about half the plane stood up and started pulling their bags from the overhead bins while we were still out on the [music] taxi way. This handled by the airport authority. >> I was scared I [music] would like to purchase for the delayation. This is an airport issue, not Malaysia Airlines, so I'm not factoring it in to my overall impression of the A330 Neo product, but it was a rather disappointing way to end what was otherwise an amazing flight. What was, I guess, most frustrating is that we landed at quart 4 in the afternoon and the aircraft before us was meant to go [music] at midday. It was cancelled, but they still had hours before our flight landed to do something about it. It's not as if we arrived as a surprise. 45 minutes later, we are finally approaching the gate to disembark. So, if you flow in this cabin, I want to know whether you agree with me. Do you think, like I do, that this is a step change for Malaysia Airlines? [music] And I also really want to know where you stand on reclining your seat on a short daytime [music] flight. My next flight is on this exact same aircraft up the front, trying out the new business class that everyone has been talking about. But I have to say I came off that flight with a much more complicated opinion than this one. That review is already on my channel and linked below. Thank you for watching to the end of this video. I hope you have enjoyed it. Cheers.",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UtBqe-T5V3k",
+      "title": "Cathay Pacific A330 Flight Sounds - Hong Kong to Taipei",
+      "year": 2026,
+      "published_at": "2026-09-16T13:01:52Z",
+      "channel_title": "First Travel",
+      "view_count": 50,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Taxiing at Hong Kong",
+          "ife": false
+        },
+        {
+          "t": "1:29",
+          "sec": 89,
+          "title": "Takeoff for Taipei",
+          "ife": false
+        },
+        {
+          "t": "3:34",
+          "sec": 214,
+          "title": "Approach and Landing at Taipei",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Kz0agL-Q40U",
+      "title": "Beyond Borders: Erling Haaland | Etihad",
+      "year": 2026,
+      "published_at": "2026-09-16T14:53:36Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 4222,
+      "like_count": 37,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-09-16T08:28:12.725876"
+  "last_updated": "2026-09-17T08:34:33.503439"
 }
