@@ -146620,7 +146620,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=twmEhjFoaDs",
@@ -146767,7 +146769,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.493
     },
     {
       "url": "https://www.youtube.com/watch?v=yWLYNzCsJP4",
@@ -146805,7 +146809,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=AKYqlbb5al4",
@@ -146885,7 +146891,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=BjghEr2zAJk",
@@ -146924,7 +146932,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=bsBPrWsyBgg",
@@ -146977,7 +146987,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.103
     },
     {
       "url": "https://www.youtube.com/watch?v=mEGmKApMAJg",
@@ -147123,7 +147135,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=rM8bwfvs53k",
@@ -147164,7 +147178,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=Px73-HrQaUc",
@@ -147341,7 +147357,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.737
     },
     {
       "url": "https://www.youtube.com/watch?v=CRMuFxrb068",
@@ -147389,8 +147407,923 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aWcF_AktQk0",
+      "title": "✈️ EMIRATES ECONOMY CLASS 🇦🇪 | China to Dubai Flight Experience | FLIGHT VLOG",
+      "year": 2026,
+      "published_at": "2026-09-14T04:20:00Z",
+      "channel_title": "Walk with Vish & Kaush",
+      "view_count": 33,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 17
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1fTgKy6CUKI",
+      "title": "Cathay Pacific 777 Economy: Manila to Hong Kong — Better Than Budget Airlines?",
+      "year": 2026,
+      "published_at": "2026-09-20T04:23:35Z",
+      "channel_title": "OwenTravels",
+      "view_count": 142,
+      "like_count": 10,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 6
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        },
+        {
+          "keyword": "thai airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Yq91dHuFup8",
+      "title": "Flying Qatar Airways A350-900 Business Class ✈️ | Full Experience",
+      "year": 2026,
+      "published_at": "2026-09-19T11:00:22Z",
+      "channel_title": "Zuhair Farouk",
+      "view_count": 1424,
+      "like_count": 27,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "1:07",
+          "sec": 67,
+          "title": "Platinum Lounge North",
+          "ife": false
+        },
+        {
+          "t": "3:22",
+          "sec": 202,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "4:36",
+          "sec": 276,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "6:35",
+          "sec": 395,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "7:48",
+          "sec": 468,
+          "title": "Pushback & engine start",
+          "ife": false
+        },
+        {
+          "t": "8:45",
+          "sec": 525,
+          "title": "Departure",
+          "ife": false
+        },
+        {
+          "t": "11:21",
+          "sec": 681,
+          "title": "Breakfast service",
+          "ife": false
+        },
+        {
+          "t": "12:07",
+          "sec": 727,
+          "title": "Business class cabin",
+          "ife": false
+        },
+        {
+          "t": "13:22",
+          "sec": 802,
+          "title": "Arrival",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HDPi1xHtK-Y",
+      "title": "Japan Airlines A350 Business Class Review: A Disappointing Start to Japan?",
+      "year": 2026,
+      "published_at": "2026-09-19T20:31:07Z",
+      "channel_title": "CruiseReport",
+      "view_count": 497,
+      "like_count": 20,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "jal",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3c963gKdOjg",
+      "title": "China Eastern Airbus A350 | Zurich to Shanghai | Trip Report",
+      "year": 2026,
+      "published_at": "2026-09-19T08:00:01Z",
+      "channel_title": "a350",
+      "view_count": 4331,
+      "like_count": 46,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china eastern",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zvEnsefn1ZQ",
+      "title": "Qatar Airways Business Class Review: How I Flew Business Without Paying Full Price",
+      "year": 2026,
+      "published_at": "2026-09-13T23:00:00Z",
+      "channel_title": "Claudine Onsongo",
+      "view_count": 227,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ssAIu1SiRic",
+      "title": "Air India A320N | Singapore - Delhi | Trip Report",
+      "year": 2026,
+      "published_at": "2026-09-19T10:00:09Z",
+      "channel_title": "GM Aviation",
+      "view_count": 11632,
+      "like_count": 147,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:34",
+          "sec": 34,
+          "title": "Ride to airport",
+          "ife": false
+        },
+        {
+          "t": "1:04",
+          "sec": 64,
+          "title": "Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "4:03",
+          "sec": 243,
+          "title": "Gate area",
+          "ife": false
+        },
+        {
+          "t": "4:40",
+          "sec": 280,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "5:14",
+          "sec": 314,
+          "title": "Cabin",
+          "ife": false
+        },
+        {
+          "t": "5:38",
+          "sec": 338,
+          "title": "Seattour",
+          "ife": false
+        },
+        {
+          "t": "6:43",
+          "sec": 403,
+          "title": "Pre pushback",
+          "ife": false
+        },
+        {
+          "t": "8:14",
+          "sec": 494,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "9:22",
+          "sec": 562,
+          "title": "Taxi to runway",
+          "ife": false
+        },
+        {
+          "t": "10:40",
+          "sec": 640,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "12:48",
+          "sec": 768,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "14:04",
+          "sec": 844,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "15:35",
+          "sec": 935,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "17:10",
+          "sec": 1030,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "18:01",
+          "sec": 1081,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "20:59",
+          "sec": 1259,
+          "title": "Descent to Delhi",
+          "ife": false
+        },
+        {
+          "t": "23:17",
+          "sec": 1397,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "24:30",
+          "sec": 1470,
+          "title": "Taxi to the gate",
+          "ife": false
+        },
+        {
+          "t": "25:44",
+          "sec": 1544,
+          "title": "Disembark",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fBkiFDDlJMs",
+      "title": "How good is Singapore Airlines' Regional Business Class?",
+      "year": 2026,
+      "published_at": "2026-09-11T10:00:37Z",
+      "channel_title": "Overeasy Days",
+      "view_count": 909,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Shanghai Pudong Airport",
+          "ife": false
+        },
+        {
+          "t": "00:49",
+          "sec": 49,
+          "title": "Air China Lounge",
+          "ife": false
+        },
+        {
+          "t": "01:51",
+          "sec": 111,
+          "title": "China Eastern Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:08",
+          "sec": 188,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "03:31",
+          "sec": 211,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "04:10",
+          "sec": 250,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "05:43",
+          "sec": 343,
+          "title": "Pushback and Take Off",
+          "ife": false
+        },
+        {
+          "t": "07:47",
+          "sec": 467,
+          "title": "IFE and Wifi",
+          "ife": true
+        },
+        {
+          "t": "10:01",
+          "sec": 601,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "11:26",
+          "sec": 686,
+          "title": "Satay Service",
+          "ife": false
+        },
+        {
+          "t": "11:45",
+          "sec": 705,
+          "title": "Lavatory Check",
+          "ife": false
+        },
+        {
+          "t": "12:20",
+          "sec": 740,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "13:06",
+          "sec": 786,
+          "title": "Arrival into Singapore",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0oGnsCBZTNQ",
+      "title": "8日間、どうしても一つだけ気になった。北海道3000km、家族3人のリアル車中泊【AOSAGI】",
+      "year": 2026,
+      "published_at": "2026-09-19T09:00:55Z",
+      "channel_title": "クピ男の車中生活",
+      "view_count": 219548,
+      "like_count": 2500,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "北海道車中泊5日目｜Hokkaido Van Life Day 5",
+          "ife": true
+        },
+        {
+          "t": "06:39",
+          "sec": 399,
+          "title": "絶景エサヌカ線｜Esanuka Line",
+          "ife": false
+        },
+        {
+          "t": "08:04",
+          "sec": 484,
+          "title": "日本最北端・宗谷岬｜Cape Soya",
+          "ife": false
+        },
+        {
+          "t": "10:38",
+          "sec": 638,
+          "title": "稚内市内を観光｜Exploring Wakkanai",
+          "ife": false
+        },
+        {
+          "t": "12:56",
+          "sec": 776,
+          "title": "ノシャップ寒流水族館｜Noshappu Aquarium",
+          "ife": false
+        },
+        {
+          "t": "13:58",
+          "sec": 838,
+          "title": "日本最北の温泉｜Japan’s Northernmost Onsen",
+          "ife": false
+        },
+        {
+          "t": "15:27",
+          "sec": 927,
+          "title": "稚内で車中泊｜Van Life in Wakkanai",
+          "ife": true
+        },
+        {
+          "t": "16:39",
+          "sec": 999,
+          "title": "北海道の海鮮ディナー｜Hokkaido Seafood Dinner",
+          "ife": false
+        },
+        {
+          "t": "24:32",
+          "sec": 1472,
+          "title": "北海道車中泊6日目｜Hokkaido Van Life Day 6",
+          "ife": true
+        },
+        {
+          "t": "27:29",
+          "sec": 1649,
+          "title": "稚内を出発・走行充電検証｜Leaving Wakkanai",
+          "ife": false
+        },
+        {
+          "t": "30:03",
+          "sec": 1803,
+          "title": "三毛別ヒグマ事件の資料館｜Sankebetsu Bear Incident",
+          "ife": false
+        },
+        {
+          "t": "32:07",
+          "sec": 1927,
+          "title": "道の駅三笠で車中泊｜Van Life in Mikasa",
+          "ife": true
+        },
+        {
+          "t": "34:35",
+          "sec": 2075,
+          "title": "北海道最後の車中泊ディナー｜Last Night in Hokkaido",
+          "ife": false
+        },
+        {
+          "t": "39:08",
+          "sec": 2348,
+          "title": "北海道車中泊7日目｜Hokkaido Van Life Day 7",
+          "ife": true
+        },
+        {
+          "t": "44:02",
+          "sec": 2642,
+          "title": "札幌市内へ｜Arriving in Sapporo",
+          "ife": false
+        },
+        {
+          "t": "45:30",
+          "sec": 2730,
+          "title": "小樽港からフェリーへ｜Ferry from Otaru",
+          "ife": false
+        },
+        {
+          "t": "45:54",
+          "sec": 2754,
+          "title": "新潟港に到着｜Arriving in Niigata",
+          "ife": false
+        },
+        {
+          "t": "47:11",
+          "sec": 2831,
+          "title": "北海道旅から帰宅｜Back Home",
+          "ife": false
+        },
+        {
+          "t": "48:18",
+          "sec": 2898,
+          "title": "燃費・旅費を公開｜Fuel Economy & Travel Cost",
+          "ife": false
+        },
+        {
+          "t": "49:25",
+          "sec": 2965,
+          "title": "家族3人で長期車中泊した感想｜Family Van Life Review",
+          "ife": true
+        },
+        {
+          "t": "54:46",
+          "sec": 3286,
+          "title": "アオサギの走行性能・デメリット｜Driving Review & Cons",
+          "ife": false
+        },
+        {
+          "t": "57:05",
+          "sec": 3425,
+          "title": "アオサギ改良ポイント｜AOSAGI Improvements",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0VXavKkprP4",
+      "title": "I walked RIGHT Into their TRAP: My Centrum Air Flight!",
+      "year": 2026,
+      "published_at": "2026-09-19T08:00:15Z",
+      "channel_title": "Josh Cahill",
+      "view_count": 108338,
+      "like_count": 3378,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FmRjYJi3hfY",
+      "title": "4 Trains & 1 Ferry for JUST €73 - Poland to Finland!",
+      "year": 2026,
+      "published_at": "2026-09-18T11:00:22Z",
+      "channel_title": "Nonstop Eurotrip",
+      "view_count": 25621,
+      "like_count": 696,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "01:00",
+          "sec": 60,
+          "title": "Trip Information",
+          "ife": false
+        },
+        {
+          "t": "02:22",
+          "sec": 142,
+          "title": "PKPIC: Warsaw to Bialystock",
+          "ife": false
+        },
+        {
+          "t": "06:08",
+          "sec": 368,
+          "title": "Holafly - The eSIM I Use!",
+          "ife": false
+        },
+        {
+          "t": "07:12",
+          "sec": 432,
+          "title": "PKPIC: Bialystock to Mockava",
+          "ife": false
+        },
+        {
+          "t": "08:40",
+          "sec": 520,
+          "title": "LTG Link: Mockava to Vilnius",
+          "ife": false
+        },
+        {
+          "t": "12:05",
+          "sec": 725,
+          "title": "LTG Link: Vilnius to Riga",
+          "ife": false
+        },
+        {
+          "t": "14:10",
+          "sec": 850,
+          "title": "Rail Baltica: The Future",
+          "ife": false
+        },
+        {
+          "t": "15:16",
+          "sec": 916,
+          "title": "LTG Link - Riga to Valga",
+          "ife": false
+        },
+        {
+          "t": "16:02",
+          "sec": 962,
+          "title": "ELRON: Varga to Tallinn",
+          "ife": false
+        },
+        {
+          "t": "19:44",
+          "sec": 1184,
+          "title": "Viking: Tallinn to Helsinki",
+          "ife": false
+        },
+        {
+          "t": "22:40",
+          "sec": 1360,
+          "title": "Trip Summary & Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-19T07:58:54.987263"
+  "last_updated": "2026-09-20T08:29:17.678210"
 }
