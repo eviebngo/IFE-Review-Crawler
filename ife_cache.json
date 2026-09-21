@@ -81900,7 +81900,7 @@
         {
           "t": "04:59",
           "sec": 299,
-          "title": "Cabin Tour",
+          "title": "Cathay Pacific Economy Cabin Tour",
           "ife": false
         },
         {
@@ -81960,7 +81960,7 @@
         {
           "t": "11:51",
           "sec": 711,
-          "title": "Next Episode Preview – Ngong Ping 360 Cable Car",
+          "title": "Next Episode Preview — Ngong Ping 360 Cable Car",
           "ife": false
         }
       ],
@@ -147441,7 +147441,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=1fTgKy6CUKI",
@@ -147501,7 +147503,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=Yq91dHuFup8",
@@ -147606,7 +147610,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=HDPi1xHtK-Y",
@@ -147658,7 +147664,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.494
     },
     {
       "url": "https://www.youtube.com/watch?v=3c963gKdOjg",
@@ -147703,7 +147711,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=zvEnsefn1ZQ",
@@ -147734,7 +147744,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ssAIu1SiRic",
@@ -147894,7 +147906,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=fBkiFDDlJMs",
@@ -148017,7 +148031,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=0oGnsCBZTNQ",
@@ -148181,7 +148197,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0VXavKkprP4",
@@ -148218,7 +148236,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.515
     },
     {
       "url": "https://www.youtube.com/watch?v=FmRjYJi3hfY",
@@ -148322,8 +148342,789 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V3hHDWm2g_0",
+      "title": "Etihad Airways: Malé to Abu Dhabi Economy Flight Experience",
+      "year": 2026,
+      "published_at": "2026-09-20T20:18:53Z",
+      "channel_title": "Ahmed Dawn",
+      "view_count": 31,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Gate Boarding & Tarmac Bus Transfer",
+          "ife": false
+        },
+        {
+          "t": "01:20",
+          "sec": 80,
+          "title": "Boarding Aircraft & Cabin Overview",
+          "ife": false
+        },
+        {
+          "t": "02:15",
+          "sec": 135,
+          "title": "Seat Features, Amenities & Recline",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "In‑Flight Meal Service & Dining Review",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Bme7P9LazQc",
+      "title": "✈️ Flying SINGAPORE AIRLINES 🇸🇬 Boeing B737MAX8 Singapore - Chennai | TRIP REPORT",
+      "year": 2026,
+      "published_at": "2026-09-20T13:41:33Z",
+      "channel_title": "Aerowanderer",
+      "view_count": 12609,
+      "like_count": 141,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "03:04",
+          "sec": 184,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:23",
+          "sec": 263,
+          "title": "Cabin review",
+          "ife": false
+        },
+        {
+          "t": "06:14",
+          "sec": 374,
+          "title": "Pushback / taxi",
+          "ife": false
+        },
+        {
+          "t": "10:16",
+          "sec": 616,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "12:57",
+          "sec": 777,
+          "title": "Climb",
+          "ife": false
+        },
+        {
+          "t": "14:37",
+          "sec": 877,
+          "title": "View of Kuala Lumpur Airport",
+          "ife": false
+        },
+        {
+          "t": "15:59",
+          "sec": 959,
+          "title": "Inflight meal",
+          "ife": false
+        },
+        {
+          "t": "17:52",
+          "sec": 1072,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "19:10",
+          "sec": 1150,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "20:00",
+          "sec": 1200,
+          "title": "Inflight entertainment system",
+          "ife": true
+        },
+        {
+          "t": "21:18",
+          "sec": 1278,
+          "title": "Descent / Approach",
+          "ife": false
+        },
+        {
+          "t": "22:50",
+          "sec": 1370,
+          "title": "Landing at Chennai Airport",
+          "ife": false
+        },
+        {
+          "t": "26:01",
+          "sec": 1561,
+          "title": "Chennai Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 9
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rMdalGiJDLM",
+      "title": "SQ 224 Economy Class Perth → Singapore | Boeing B787-10 Singapore Airlines | Full Flight Experience",
+      "year": 2026,
+      "published_at": "2026-09-20T10:50:52Z",
+      "channel_title": "Travel Attendants",
+      "view_count": 853,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:13",
+          "sec": 13,
+          "title": "Perth Airport",
+          "ife": false
+        },
+        {
+          "t": "00:32",
+          "sec": 32,
+          "title": "Check-In",
+          "ife": false
+        },
+        {
+          "t": "02:17",
+          "sec": 137,
+          "title": "Perth Duty Free",
+          "ife": false
+        },
+        {
+          "t": "03:13",
+          "sec": 193,
+          "title": "Gate 53",
+          "ife": false
+        },
+        {
+          "t": "03:56",
+          "sec": 236,
+          "title": "Boarding SQ224",
+          "ife": false
+        },
+        {
+          "t": "04:38",
+          "sec": 278,
+          "title": "Economy Class Seat 44K",
+          "ife": true
+        },
+        {
+          "t": "05:17",
+          "sec": 317,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "08:25",
+          "sec": 505,
+          "title": "Takeoff ASMR",
+          "ife": false
+        },
+        {
+          "t": "09:52",
+          "sec": 592,
+          "title": "Cruising",
+          "ife": false
+        },
+        {
+          "t": "10:15",
+          "sec": 615,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "13:43",
+          "sec": 823,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "15:08",
+          "sec": 908,
+          "title": "Landing ASMR",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Arriving in Singapore",
+          "ife": false
+        },
+        {
+          "t": "17:50",
+          "sec": 1070,
+          "title": "Disembarking",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B4qz5Ebf9dc",
+      "title": "United Airlines Airbus A319 Economy Class Full Review | Denver (DEN) to Dallas (DFW)",
+      "year": 2026,
+      "published_at": "2026-09-20T18:14:08Z",
+      "channel_title": "WillAviation",
+      "view_count": 0,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Pr_8mYKY578",
+      "title": "KLM Airbus A330-300 FULL FLIGHT ✈️ | Amsterdam to Aruba | Economy Class",
+      "year": 2026,
+      "published_at": "2026-09-15T11:30:31Z",
+      "channel_title": "DTAM",
+      "view_count": 6466,
+      "like_count": 36,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction & Amsterdam Schiphol Airport (AMS)",
+          "ife": false
+        },
+        {
+          "t": "05:39",
+          "sec": 339,
+          "title": "Boarding the KLM Airbus A330-300",
+          "ife": false
+        },
+        {
+          "t": "05:50",
+          "sec": 350,
+          "title": "Economy Cabin & Seat 32A Overview (Legroom & Pitch)",
+          "ife": false
+        },
+        {
+          "t": "08:00",
+          "sec": 480,
+          "title": "Pushback, Taxi & Takeoff from Schiphol",
+          "ife": false
+        },
+        {
+          "t": "13:00",
+          "sec": 780,
+          "title": "Inflight Entertainment & Cabin Amenities",
+          "ife": true
+        },
+        {
+          "t": "16:10",
+          "sec": 970,
+          "title": "KLM Meal Service & Drinks",
+          "ife": false
+        },
+        {
+          "t": "18:40",
+          "sec": 1120,
+          "title": "Cruising Across the Atlantic Ocean",
+          "ife": false
+        },
+        {
+          "t": "22:57",
+          "sec": 1377,
+          "title": "Second Meal Service",
+          "ife": false
+        },
+        {
+          "t": "26:00",
+          "sec": 1560,
+          "title": "Caribbean Descent & Approach into Aruba",
+          "ife": false
+        },
+        {
+          "t": "27:13",
+          "sec": 1633,
+          "title": "Landing at Queen Beatrix International Airport (AUA)",
+          "ife": false
+        },
+        {
+          "t": "29:50",
+          "sec": 1790,
+          "title": "Flight Deck Visit",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ajOkpUI74kY",
+      "title": "How Good is SWISS Long-Haul? (777-300ER Economy Review) ✈️ ZRH - HKG",
+      "year": 2026,
+      "published_at": "2026-09-18T10:08:35Z",
+      "channel_title": "Jack Roaming",
+      "view_count": 1334,
+      "like_count": 31,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:31",
+          "sec": 31,
+          "title": "Zurich Center & Tram to ZRH Airport",
+          "ife": false
+        },
+        {
+          "t": "1:30",
+          "sec": 90,
+          "title": "Today's itinerary",
+          "ife": false
+        },
+        {
+          "t": "1:54",
+          "sec": 114,
+          "title": "Zurich Airport (ZRH)",
+          "ife": false
+        },
+        {
+          "t": "3:32",
+          "sec": 212,
+          "title": "Aspire Lounge & Panorama Terrace",
+          "ife": false
+        },
+        {
+          "t": "5:18",
+          "sec": 318,
+          "title": "Boarding the Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "5:56",
+          "sec": 356,
+          "title": "SWISS 777-300ER Economy Product",
+          "ife": false
+        },
+        {
+          "t": "8:00",
+          "sec": 480,
+          "title": "Zurich (ZRH) Taxi & Takeoff",
+          "ife": false
+        },
+        {
+          "t": "9:54",
+          "sec": 594,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "10:55",
+          "sec": 655,
+          "title": "IFE System",
+          "ife": true
+        },
+        {
+          "t": "12:08",
+          "sec": 728,
+          "title": "Breakfast Meal",
+          "ife": false
+        },
+        {
+          "t": "13:08",
+          "sec": 788,
+          "title": "Overall Experience, Loo, Cabin Crew",
+          "ife": false
+        },
+        {
+          "t": "13:37",
+          "sec": 817,
+          "title": "Hong Kong (HKG) Approach & Landing",
+          "ife": false
+        },
+        {
+          "t": "14:37",
+          "sec": 877,
+          "title": "Price & Conclusions",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 5
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=d_sMhz0q6Es",
+      "title": "I Paid $900 for THIS?! | Emirates 777 Business Class LOS-DXB | Emirati Escapades Ch. 4",
+      "year": 2026,
+      "published_at": "2026-09-20T14:00:32Z",
+      "channel_title": "Flight4080",
+      "view_count": 513,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Recap 🔁",
+          "ife": false
+        },
+        {
+          "t": "00:30",
+          "sec": 30,
+          "title": "Welcome Aboard, New Flightfam! ❤️✈️",
+          "ife": false
+        },
+        {
+          "t": "01:27",
+          "sec": 87,
+          "title": "Lagos Traffic Is Area Scatter! 🚗💀",
+          "ife": false
+        },
+        {
+          "t": "03:29",
+          "sec": 209,
+          "title": "Check-In & the Airport Dash 🛄🏃🏾‍♂️",
+          "ife": false
+        },
+        {
+          "t": "05:24",
+          "sec": 324,
+          "title": "Spotted Because of the Hat 😂🎩",
+          "ife": false
+        },
+        {
+          "t": "06:35",
+          "sec": 395,
+          "title": "Boarding... “Don’t I Know You?” 😂",
+          "ife": false
+        },
+        {
+          "t": "08:14",
+          "sec": 494,
+          "title": "No Suite Here! OLD Seat Tour 💺👀",
+          "ife": false
+        },
+        {
+          "t": "10:25",
+          "sec": 625,
+          "title": "Pushback & Aircraft Info 🛫",
+          "ife": false
+        },
+        {
+          "t": "11:54",
+          "sec": 714,
+          "title": "One of My BEST Takeoffs! 🤯✈️",
+          "ife": false
+        },
+        {
+          "t": "14:06",
+          "sec": 846,
+          "title": "Goodbye Lagos & the Libyan Shortcut 🗺️",
+          "ife": false
+        },
+        {
+          "t": "16:20",
+          "sec": 980,
+          "title": "FINALLY! The Amenity Kit! 😂",
+          "ife": false
+        },
+        {
+          "t": "17:29",
+          "sec": 1049,
+          "title": "THAT’S How the IFE Comes Out?! 🤨📺",
+          "ife": true
+        },
+        {
+          "t": "18:48",
+          "sec": 1128,
+          "title": "The Mundane Meal Service... 🍽️😐",
+          "ife": false
+        },
+        {
+          "t": "20:04",
+          "sec": 1204,
+          "title": "What Kind of Catering Is THIS?! ☕💀",
+          "ife": false
+        },
+        {
+          "t": "20:45",
+          "sec": 1245,
+          "title": "Finally on Approach! 🇦🇪🛬",
+          "ife": false
+        },
+        {
+          "t": "22:23",
+          "sec": 1343,
+          "title": "Final Thoughts... YOU PAID WHAT?! 💸😳",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TmB9aHMcwi0",
+      "title": "Singapore Airline Flight Review | Melbourne to Singapore | SQ238 🇦🇺✈️🇸🇬",
+      "year": 2026,
+      "published_at": "2026-09-14T12:00:28Z",
+      "channel_title": "Vong Vorak Both",
+      "view_count": 156,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true,
+        "4k_display": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-20T08:29:17.678210"
+  "last_updated": "2026-09-21T08:49:32.278059"
 }
