@@ -148402,7 +148402,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Bme7P9LazQc",
@@ -148528,7 +148530,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=rMdalGiJDLM",
@@ -148674,7 +148678,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=B4qz5Ebf9dc",
@@ -148710,7 +148716,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=Pr_8mYKY578",
@@ -148817,7 +148825,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ajOkpUI74kY",
@@ -148948,7 +148958,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=d_sMhz0q6Es",
@@ -149091,7 +149103,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=TmB9aHMcwi0",
@@ -149123,8 +149137,271 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RUBQ7GxHUk8",
+      "title": "We took 12 hours flight on Qatar Airways older 777-300 ER From JFK| Was the experience good?",
+      "year": 2026,
+      "published_at": "2026-09-21T16:00:04Z",
+      "channel_title": "ThePanzoAdventures",
+      "view_count": 70,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:31",
+          "sec": 31,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "01:43",
+          "sec": 103,
+          "title": "Configuration and Seat Review",
+          "ife": false
+        },
+        {
+          "t": "03:43",
+          "sec": 223,
+          "title": "Entertainment (IFE)",
+          "ife": true
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "Departure",
+          "ife": false
+        },
+        {
+          "t": "05:22",
+          "sec": 322,
+          "title": "Meal 1",
+          "ife": false
+        },
+        {
+          "t": "06:18",
+          "sec": 378,
+          "title": "Meal 2",
+          "ife": false
+        },
+        {
+          "t": "06:44",
+          "sec": 404,
+          "title": "Arrival and Final Summary",
+          "ife": false
+        },
+        {
+          "t": "07:51",
+          "sec": 471,
+          "title": "Doha Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IQGdchERINE",
+      "title": "I Flew American Airlines A321T Flagship First Before It’s Gone | JFK Chelsea Lounge | JFK to SFO",
+      "year": 2026,
+      "published_at": "2026-09-22T03:29:15Z",
+      "channel_title": "Guagua Travel",
+      "view_count": 28,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:32",
+          "sec": 32,
+          "title": "Flagship First Check-In",
+          "ife": false
+        },
+        {
+          "t": "01:19",
+          "sec": 79,
+          "title": "Chelsea Lounge & Dining",
+          "ife": false
+        },
+        {
+          "t": "04:25",
+          "sec": 265,
+          "title": "Soho Lounge",
+          "ife": false
+        },
+        {
+          "t": "05:11",
+          "sec": 311,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "05:36",
+          "sec": 336,
+          "title": "A321T Flagship First Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "07:13",
+          "sec": 433,
+          "title": "Departure from New York",
+          "ife": false
+        },
+        {
+          "t": "07:32",
+          "sec": 452,
+          "title": "Flagship First Dining",
+          "ife": false
+        },
+        {
+          "t": "08:51",
+          "sec": 531,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "09:02",
+          "sec": 542,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "10:31",
+          "sec": 631,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "10:43",
+          "sec": 643,
+          "title": "Fully Lie-Flat Bed",
+          "ife": false
+        },
+        {
+          "t": "11:32",
+          "sec": 692,
+          "title": "Arrival into San Francisco",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 10
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 11
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nfD9PvBwA-s",
+      "title": "Qatar Airways economy class review. London to Entebbe via Doha with my family",
+      "year": 2026,
+      "published_at": "2026-09-12T11:58:59Z",
+      "channel_title": "Patricia’s wealth Journey",
+      "view_count": 252,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-21T08:49:32.278059"
+  "last_updated": "2026-09-22T08:26:30.640892"
 }
