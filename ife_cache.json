@@ -149445,7 +149445,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=eE2uJrqiRWU",
@@ -149486,8 +149488,433 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2R6udeiRm1o",
+      "title": "🇬🇧 London Heathrow - Tokyo Haneda 🇯🇵 | Japan Airlines A350-1000 | FULL FLIGHT REPORT [4K]",
+      "year": 2026,
+      "published_at": "2026-09-18T12:00:17Z",
+      "channel_title": "CloudCowboy Flight & Travel",
+      "view_count": 29728,
+      "like_count": 293,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "jal",
+          "mentions": 10
+        },
+        {
+          "keyword": "japan airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 10
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "tail_camera": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hRcWGjC_Pgw",
+      "title": "✈️ Etihad 777 Economy Class | Abu Dhabi to Beijing (8 Hour Flight)",
+      "year": 2026,
+      "published_at": "2026-09-22T16:42:07Z",
+      "channel_title": "Halal Luver",
+      "view_count": 228,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aUNpFAtLo80",
+      "title": "Iberia A330 Economy 🇪🇸➡️🇵🇦 | Madrid to Panama City",
+      "year": 2026,
+      "published_at": "2026-09-24T06:06:36Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 566,
+      "like_count": 91,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & transit",
+          "ife": false
+        },
+        {
+          "t": "01:37",
+          "sec": 97,
+          "title": "Iberia Premium Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:52",
+          "sec": 292,
+          "title": "Boarding flight IB257",
+          "ife": false
+        },
+        {
+          "t": "07:02",
+          "sec": 422,
+          "title": "Seat 39L & features",
+          "ife": false
+        },
+        {
+          "t": "08:12",
+          "sec": 492,
+          "title": "Taxi / Takeoff",
+          "ife": false
+        },
+        {
+          "t": "11:04",
+          "sec": 664,
+          "title": "Small complaint regarding seat",
+          "ife": false
+        },
+        {
+          "t": "11:43",
+          "sec": 703,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "12:35",
+          "sec": 755,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "12:58",
+          "sec": 778,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "15:17",
+          "sec": 917,
+          "title": "Tapas service",
+          "ife": false
+        },
+        {
+          "t": "16:42",
+          "sec": 1002,
+          "title": "Refreshment service",
+          "ife": false
+        },
+        {
+          "t": "17:18",
+          "sec": 1038,
+          "title": "PA",
+          "ife": false
+        },
+        {
+          "t": "17:46",
+          "sec": 1066,
+          "title": "Conclusion / Landing",
+          "ife": false
+        },
+        {
+          "t": "20:31",
+          "sec": 1231,
+          "title": "Panama City day 1&2 vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kB2zXc8epC0",
+      "title": "EXCELLENT! Qatar Airways Business Class 777 To Doha | World’s Best Business Class 4K",
+      "year": 2026,
+      "published_at": "2026-09-19T15:11:15Z",
+      "channel_title": "Andreas Luxury Travel",
+      "view_count": 7405,
+      "like_count": 38,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:20",
+          "sec": 20,
+          "title": "Hello From Doha",
+          "ife": false
+        },
+        {
+          "t": "1:08",
+          "sec": 68,
+          "title": "Al Mourjan Business Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "2:16",
+          "sec": 136,
+          "title": "Airport Overview & Boarding",
+          "ife": false
+        },
+        {
+          "t": "2:41",
+          "sec": 161,
+          "title": "Overview of Qsuite seat",
+          "ife": false
+        },
+        {
+          "t": "3:04",
+          "sec": 184,
+          "title": "Welcome Drink & Menu Overview",
+          "ife": false
+        },
+        {
+          "t": "3:57",
+          "sec": 237,
+          "title": "Entertaining Safety Video",
+          "ife": false
+        },
+        {
+          "t": "4:29",
+          "sec": 269,
+          "title": "Taxi & Takeoff",
+          "ife": false
+        },
+        {
+          "t": "5:35",
+          "sec": 335,
+          "title": "Lighting & Lavatory",
+          "ife": false
+        },
+        {
+          "t": "5:59",
+          "sec": 359,
+          "title": "Appetizer (Caviar) & Entree (Filet)",
+          "ife": false
+        },
+        {
+          "t": "6:53",
+          "sec": 413,
+          "title": "Greatest Dessert Ever",
+          "ife": false
+        },
+        {
+          "t": "7:23",
+          "sec": 443,
+          "title": "Morning Time",
+          "ife": false
+        },
+        {
+          "t": "7:33",
+          "sec": 453,
+          "title": "Breakfast (Greek Yoghurt & Omelet)",
+          "ife": false
+        },
+        {
+          "t": "8:23",
+          "sec": 503,
+          "title": "Seat Recline & Lay Flat Positions",
+          "ife": false
+        },
+        {
+          "t": "8:53",
+          "sec": 533,
+          "title": "Qsuite Ambient Atmosphere",
+          "ife": false
+        },
+        {
+          "t": "9:27",
+          "sec": 567,
+          "title": "Oryx One Headphones & Pajamas",
+          "ife": false
+        },
+        {
+          "t": "9:54",
+          "sec": 594,
+          "title": "Approach to JFK & Landing in NY",
+          "ife": false
+        },
+        {
+          "t": "11:42",
+          "sec": 702,
+          "title": "Exploring New York",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "air france",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-23T08:28:32.726078"
+  "last_updated": "2026-09-24T08:20:07.147008"
 }
