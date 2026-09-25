@@ -149554,7 +149554,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=hRcWGjC_Pgw",
@@ -149591,7 +149593,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.557
     },
     {
       "url": "https://www.youtube.com/watch?v=aUNpFAtLo80",
@@ -149747,7 +149751,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=kB2zXc8epC0",
@@ -149913,8 +149919,202 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.873
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_F4_IGOk-aE",
+      "title": "Emirates Economy Full Review | London Stansted - Dubai | Boeing 777-300",
+      "year": 2026,
+      "published_at": "2026-09-24T16:00:31Z",
+      "channel_title": "N&B Global ",
+      "view_count": 121,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 15
+        },
+        {
+          "keyword": "level",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qM88LI6QjaU",
+      "title": "Airlines TERBAIK Taiwan | ✨STARLUX A350-1000 JX800 TPE-NRT | Business Class",
+      "year": 2026,
+      "published_at": "2026-09-24T03:00:40Z",
+      "channel_title": "AFLIGHT",
+      "view_count": 1160,
+      "like_count": 24,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:30",
+          "sec": 30,
+          "title": "Check-in",
+          "ife": false
+        },
+        {
+          "t": "02:05",
+          "sec": 125,
+          "title": "Taoyuan International Airport",
+          "ife": false
+        },
+        {
+          "t": "03:20",
+          "sec": 200,
+          "title": "GALATIC Lounge",
+          "ife": false
+        },
+        {
+          "t": "11:20",
+          "sec": 680,
+          "title": "Gate & Aircraft Configuration",
+          "ife": false
+        },
+        {
+          "t": "12:00",
+          "sec": 720,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "13:10",
+          "sec": 790,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "14:33",
+          "sec": 873,
+          "title": "Pre-Takeoff Service",
+          "ife": false
+        },
+        {
+          "t": "15:45",
+          "sec": 945,
+          "title": "Taxi & Takeoff",
+          "ife": false
+        },
+        {
+          "t": "17:45",
+          "sec": 1065,
+          "title": "Pre-Meal Service",
+          "ife": false
+        },
+        {
+          "t": "18:18",
+          "sec": 1098,
+          "title": "Entertainment & Wifi",
+          "ife": true
+        },
+        {
+          "t": "20:20",
+          "sec": 1220,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "25:10",
+          "sec": 1510,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "26:00",
+          "sec": 1560,
+          "title": "Descent & Pre-Landing Service",
+          "ife": false
+        },
+        {
+          "t": "26:26",
+          "sec": 1586,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "28:40",
+          "sec": 1720,
+          "title": "Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-24T08:20:07.147008"
+  "last_updated": "2026-09-25T08:42:55.011775"
 }
