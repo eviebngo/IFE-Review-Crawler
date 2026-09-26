@@ -149766,116 +149766,7 @@
       "ife_system": "Oryx One",
       "ife_system_inferred": false,
       "ife_system_guess": null,
-      "chapters": [
-        {
-          "t": "0:00",
-          "sec": 0,
-          "title": "Introduction",
-          "ife": false
-        },
-        {
-          "t": "0:20",
-          "sec": 20,
-          "title": "Hello From Doha",
-          "ife": false
-        },
-        {
-          "t": "1:08",
-          "sec": 68,
-          "title": "Al Mourjan Business Class Lounge",
-          "ife": false
-        },
-        {
-          "t": "2:16",
-          "sec": 136,
-          "title": "Airport Overview & Boarding",
-          "ife": false
-        },
-        {
-          "t": "2:41",
-          "sec": 161,
-          "title": "Overview of Qsuite seat",
-          "ife": false
-        },
-        {
-          "t": "3:04",
-          "sec": 184,
-          "title": "Welcome Drink & Menu Overview",
-          "ife": false
-        },
-        {
-          "t": "3:57",
-          "sec": 237,
-          "title": "Entertaining Safety Video",
-          "ife": false
-        },
-        {
-          "t": "4:29",
-          "sec": 269,
-          "title": "Taxi & Takeoff",
-          "ife": false
-        },
-        {
-          "t": "5:35",
-          "sec": 335,
-          "title": "Lighting & Lavatory",
-          "ife": false
-        },
-        {
-          "t": "5:59",
-          "sec": 359,
-          "title": "Appetizer (Caviar) & Entree (Filet)",
-          "ife": false
-        },
-        {
-          "t": "6:53",
-          "sec": 413,
-          "title": "Greatest Dessert Ever",
-          "ife": false
-        },
-        {
-          "t": "7:23",
-          "sec": 443,
-          "title": "Morning Time",
-          "ife": false
-        },
-        {
-          "t": "7:33",
-          "sec": 453,
-          "title": "Breakfast (Greek Yoghurt & Omelet)",
-          "ife": false
-        },
-        {
-          "t": "8:23",
-          "sec": 503,
-          "title": "Seat Recline & Lay Flat Positions",
-          "ife": false
-        },
-        {
-          "t": "8:53",
-          "sec": 533,
-          "title": "Qsuite Ambient Atmosphere",
-          "ife": false
-        },
-        {
-          "t": "9:27",
-          "sec": 567,
-          "title": "Oryx One Headphones & Pajamas",
-          "ife": false
-        },
-        {
-          "t": "9:54",
-          "sec": 594,
-          "title": "Approach to JFK & Landing in NY",
-          "ife": false
-        },
-        {
-          "t": "11:42",
-          "sec": 702,
-          "title": "Exploring New York",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "media_type": "video",
       "airlines_mentioned": [
         {
@@ -149965,7 +149856,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qM88LI6QjaU",
@@ -150113,8 +150006,730 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VjFgKvfaRSA",
+      "title": "Cathay Pacific A350-1000 ECONOMY CLASS | Boston to Hong Kong Red-Eye Trip Report ✈️",
+      "year": 2026,
+      "published_at": "2026-09-23T04:00:13Z",
+      "channel_title": "Vin N",
+      "view_count": 663,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:14",
+          "sec": 14,
+          "title": "Gate Change & Boarding",
+          "ife": false
+        },
+        {
+          "t": "1:45",
+          "sec": 105,
+          "title": "Seat/Cabin Tour/Menu",
+          "ife": false
+        },
+        {
+          "t": "3:14",
+          "sec": 194,
+          "title": "Take Off",
+          "ife": false
+        },
+        {
+          "t": "4:37",
+          "sec": 277,
+          "title": "IFE Tour",
+          "ife": true
+        },
+        {
+          "t": "6:07",
+          "sec": 367,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "6:40",
+          "sec": 400,
+          "title": "Bathroom Tour",
+          "ife": false
+        },
+        {
+          "t": "7:05",
+          "sec": 425,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "7:32",
+          "sec": 452,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "Disembarking",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=u8yvpSB8Cgo",
+      "title": "EVA Air Business Class SEA to TPE (BR25 Seattle to Taipei Boeing 787-10) 長榮航空西雅圖-台北 皇璽桂冠艙商務艙完整體驗",
+      "year": 2026,
+      "published_at": "2026-09-19T21:09:50Z",
+      "channel_title": "TPosition Travelogue",
+      "view_count": 4978,
+      "like_count": 21,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "quality": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=grxCsJQkmc4",
+      "title": "Lufthansa Allegris Business Suite in der Boeing 787: Lohnt sich dieser Sitz wirklich?",
+      "year": 2026,
+      "published_at": "2026-09-24T15:00:34Z",
+      "channel_title": "The Travel Happiness",
+      "view_count": 6094,
+      "like_count": 85,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "720 € Aufpreis für die Business Suite?",
+          "ife": false
+        },
+        {
+          "t": "00:39",
+          "sec": 39,
+          "title": "Lufthansa Allegris in der Boeing 787",
+          "ife": false
+        },
+        {
+          "t": "02:15",
+          "sec": 135,
+          "title": "Toronto & Air Canada Maple Leaf Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "Lufthansa Boeing 787-9 Dreamliner",
+          "ife": false
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "Lufthansa Allegris Business Suite",
+          "ife": false
+        },
+        {
+          "t": "06:52",
+          "sec": 412,
+          "title": "Take-off Toronto",
+          "ife": false
+        },
+        {
+          "t": "07:57",
+          "sec": 477,
+          "title": "Entertainment & Sitzfunktionen",
+          "ife": true
+        },
+        {
+          "t": "08:30",
+          "sec": 510,
+          "title": "Service & Abendessen",
+          "ife": false
+        },
+        {
+          "t": "12:50",
+          "sec": 770,
+          "title": "Schlafkomfort in der Business Suite",
+          "ife": false
+        },
+        {
+          "t": "14:30",
+          "sec": 870,
+          "title": "Frühstück & Anflug auf Frankfurt",
+          "ife": false
+        },
+        {
+          "t": "15:32",
+          "sec": 932,
+          "title": "Fazit: Lohnt sich die Allegris Business Suite?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 16
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=daDlEWAdeas",
+      "title": "I Did Not Expect Food This Bad on CHINA AIRLINES 🇹🇼",
+      "year": 2026,
+      "published_at": "2026-09-25T12:30:00Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 37228,
+      "like_count": 1015,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction and booking overview",
+          "ife": false
+        },
+        {
+          "t": "00:59",
+          "sec": 59,
+          "title": "Check-in and Malaysia Airlines Lounge access in Kuala Lumpur",
+          "ife": false
+        },
+        {
+          "t": "01:10",
+          "sec": 70,
+          "title": "History of China Airlines and safety overhaul",
+          "ife": false
+        },
+        {
+          "t": "02:12",
+          "sec": 132,
+          "title": "Fleet overview: A350s, 777s, and future 787s",
+          "ife": false
+        },
+        {
+          "t": "03:26",
+          "sec": 206,
+          "title": "Taipei Taoyuan hub and North American network expansion",
+          "ife": false
+        },
+        {
+          "t": "04:23",
+          "sec": 263,
+          "title": "Positioning against EVA Air and Starlux",
+          "ife": false
+        },
+        {
+          "t": "05:00",
+          "sec": 300,
+          "title": "Boarding and cabin first impressions",
+          "ife": false
+        },
+        {
+          "t": "06:08",
+          "sec": 368,
+          "title": "Review of the A350 reverse herringbone business class seat",
+          "ife": false
+        },
+        {
+          "t": "08:00",
+          "sec": 480,
+          "title": "Crew service and pre-departure honey lemon chia drink",
+          "ife": false
+        },
+        {
+          "t": "11:17",
+          "sec": 677,
+          "title": "Comfort items: Pillow, blanket, and monogrammed slippers",
+          "ife": false
+        },
+        {
+          "t": "12:07",
+          "sec": 727,
+          "title": "In-flight service start and cold satay appetizer",
+          "ife": false
+        },
+        {
+          "t": "13:33",
+          "sec": 813,
+          "title": "In-flight entertainment system review",
+          "ife": true
+        },
+        {
+          "t": "14:19",
+          "sec": 859,
+          "title": "Menu breakdown and the disappointing beef rendang meal",
+          "ife": false
+        },
+        {
+          "t": "15:20",
+          "sec": 920,
+          "title": "Flatbed comfort test",
+          "ife": false
+        },
+        {
+          "t": "15:58",
+          "sec": 958,
+          "title": "Final scoring, value calculation, and arrival in Taipei",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china airlines",
+          "mentions": 11
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 3
+        },
+        {
+          "keyword": "air france",
+          "mentions": 2
+        },
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RgGsxO97Np0",
+      "title": "Air Tahiti Nui 787 Economy Review ✈️ | Los Angeles to Tahiti (Papeete)",
+      "year": 2026,
+      "published_at": "2026-09-20T17:00:11Z",
+      "channel_title": "Miles to Luxury",
+      "view_count": 167,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Chaotic boarding experience",
+          "ife": false
+        },
+        {
+          "t": "00:30",
+          "sec": 30,
+          "title": "Seat Review + Amenities",
+          "ife": false
+        },
+        {
+          "t": "01:30",
+          "sec": 90,
+          "title": "IFE Tour",
+          "ife": true
+        },
+        {
+          "t": "03:00",
+          "sec": 180,
+          "title": "Meal Services",
+          "ife": false
+        },
+        {
+          "t": "03:40",
+          "sec": 220,
+          "title": "Landing/Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2AZPSdUbSnM",
+      "title": "Virgin Atlantic A330neo Premium Economy review",
+      "year": 2026,
+      "published_at": "2026-09-25T11:00:35Z",
+      "channel_title": "LiftOffandTravel",
+      "view_count": 1354,
+      "like_count": 56,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gdgEAJ1MzNg",
+      "title": "Qatar Airways GE90 Sounds | Boeing 777-300ER Doha to Maldives",
+      "year": 2026,
+      "published_at": "2026-09-23T13:06:01Z",
+      "channel_title": "First Travel",
+      "view_count": 78,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Cruise Altitude",
+          "ife": false
+        },
+        {
+          "t": "1:50",
+          "sec": 110,
+          "title": "Approach into Male",
+          "ife": false
+        },
+        {
+          "t": "2:56",
+          "sec": 176,
+          "title": "Landing at Male Velana International Airport (MLE)",
+          "ife": false
+        },
+        {
+          "t": "4:13",
+          "sec": 253,
+          "title": "Taxi to Remote Stand - Planespotting",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CnKgHkGaKKM",
+      "title": "I Took the Train to DRACULA'S CASTLE - You Can Too!",
+      "year": 2026,
+      "published_at": "2026-09-25T11:00:24Z",
+      "channel_title": "Nonstop Eurotrip",
+      "view_count": 12128,
+      "like_count": 377,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "01:04",
+          "sec": 64,
+          "title": "Arrival at Gara de Nord",
+          "ife": false
+        },
+        {
+          "t": "02:00",
+          "sec": 120,
+          "title": "Route & Train Information",
+          "ife": false
+        },
+        {
+          "t": "03:15",
+          "sec": 195,
+          "title": "Boarding & First Impressions",
+          "ife": false
+        },
+        {
+          "t": "03:52",
+          "sec": 232,
+          "title": "Departure & Pricing",
+          "ife": false
+        },
+        {
+          "t": "04:58",
+          "sec": 298,
+          "title": "First Class Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "06:05",
+          "sec": 365,
+          "title": "Level8: My Favourite Luggage!",
+          "ife": false
+        },
+        {
+          "t": "07:08",
+          "sec": 428,
+          "title": "Exploring the Train",
+          "ife": false
+        },
+        {
+          "t": "08:54",
+          "sec": 534,
+          "title": "The Best #TrainWindowViews",
+          "ife": false
+        },
+        {
+          "t": "09:58",
+          "sec": 598,
+          "title": "Trip Summary & Arrival in Brasov",
+          "ife": false
+        },
+        {
+          "t": "10:40",
+          "sec": 640,
+          "title": "How To Get To Dracula's Castle?",
+          "ife": false
+        },
+        {
+          "t": "11:42",
+          "sec": 702,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-25T08:42:55.011775"
+  "last_updated": "2026-09-26T08:29:17.587338"
 }
