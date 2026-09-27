@@ -150114,7 +150114,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=u8yvpSB8Cgo",
@@ -150172,7 +150174,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=grxCsJQkmc4",
@@ -150293,7 +150297,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=daDlEWAdeas",
@@ -150445,7 +150451,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.542
     },
     {
       "url": "https://www.youtube.com/watch?v=RgGsxO97Np0",
@@ -150509,7 +150517,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=2AZPSdUbSnM",
@@ -150549,7 +150559,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=gdgEAJ1MzNg",
@@ -150620,7 +150632,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=CnKgHkGaKKM",
@@ -150728,8 +150742,627 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bOGa54dkg7Q",
+      "title": "Business Class 747-400 Upper Deck | Lufthansa",
+      "year": 2026,
+      "published_at": "2026-09-26T10:00:21Z",
+      "channel_title": "Tom & Jenny Culinary Pilgrims",
+      "view_count": 24,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Lufthansa Business Lounge - Frankfurt",
+          "ife": false
+        },
+        {
+          "t": "00:49",
+          "sec": 49,
+          "title": "Boarding The Queen of the Skies",
+          "ife": false
+        },
+        {
+          "t": "01:09",
+          "sec": 69,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "03:19",
+          "sec": 199,
+          "title": "Pulling Away & Take-Off",
+          "ife": false
+        },
+        {
+          "t": "04:00",
+          "sec": 240,
+          "title": "Beginning of Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "04:41",
+          "sec": 281,
+          "title": "Amuse Bouche",
+          "ife": false
+        },
+        {
+          "t": "05:29",
+          "sec": 329,
+          "title": "Appetizer",
+          "ife": false
+        },
+        {
+          "t": "07:49",
+          "sec": 469,
+          "title": "Entree",
+          "ife": false
+        },
+        {
+          "t": "08:18",
+          "sec": 498,
+          "title": "Dessert",
+          "ife": false
+        },
+        {
+          "t": "08:49",
+          "sec": 529,
+          "title": "Refreshed after a great nap",
+          "ife": false
+        },
+        {
+          "t": "09:27",
+          "sec": 567,
+          "title": "Breakfast & Ginger Shot",
+          "ife": false
+        },
+        {
+          "t": "10:36",
+          "sec": 636,
+          "title": "A look at the Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "11:03",
+          "sec": 663,
+          "title": "Coming into Singapore",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "The Boys got to meet the pilots!",
+          "ife": false
+        },
+        {
+          "t": "12:28",
+          "sec": 748,
+          "title": "Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 17
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4S7DzaCAC9I",
+      "title": "What No One Tells You About Sichuan Airlines Business Class (LAX - TFU)",
+      "year": 2026,
+      "published_at": "2026-09-27T07:00:22Z",
+      "channel_title": "Hot Pot Bob",
+      "view_count": 2,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZQ_GjFaO1I4",
+      "title": "Short Flight Bliss, Long Flight Pain? Fiji Airways Business Class | FLIGHT REVIEW | Qantas Lounge",
+      "year": 2026,
+      "published_at": "2026-09-26T01:07:04Z",
+      "channel_title": "SkyStaySmill",
+      "view_count": 251,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "00:45 Preview",
+          "ife": false
+        },
+        {
+          "t": "00:46",
+          "sec": 46,
+          "title": "01:58 Check In",
+          "ife": false
+        },
+        {
+          "t": "01:59",
+          "sec": 119,
+          "title": "03:22 Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:23",
+          "sec": 203,
+          "title": "04:05 Cabin Overview",
+          "ife": false
+        },
+        {
+          "t": "04:06",
+          "sec": 246,
+          "title": "06:06 Seat Features",
+          "ife": false
+        },
+        {
+          "t": "06:07",
+          "sec": 367,
+          "title": "06:47 IFE",
+          "ife": true
+        },
+        {
+          "t": "06:48",
+          "sec": 408,
+          "title": "07:00 Takeoff",
+          "ife": false
+        },
+        {
+          "t": "07:01",
+          "sec": 421,
+          "title": "08:18 Meal Service",
+          "ife": false
+        },
+        {
+          "t": "08:19",
+          "sec": 499,
+          "title": "08:50 Seat Turns Into a Bed",
+          "ife": false
+        },
+        {
+          "t": "08:51",
+          "sec": 531,
+          "title": "09:29 Lavatory",
+          "ife": false
+        },
+        {
+          "t": "09:30",
+          "sec": 570,
+          "title": "10:16 Landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qzLr65kq0qM",
+      "title": "BRUTALLY HONEST REVIEW! | Air India 2026 ECONOMY CLASS on the Boeing 787-9 from Frankfurt to Mumbai",
+      "year": 2026,
+      "published_at": "2026-09-26T10:30:38Z",
+      "channel_title": "Simply Aviation",
+      "view_count": 101289,
+      "like_count": 2038,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "01:37",
+          "sec": 97,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "04:55",
+          "sec": 295,
+          "title": "Status of Cabin Refurbishments",
+          "ife": false
+        },
+        {
+          "t": "06:45",
+          "sec": 405,
+          "title": "Aircraft Change and Seat Assignment Issues",
+          "ife": false
+        },
+        {
+          "t": "08:36",
+          "sec": 516,
+          "title": "Transferring in Frankfurt",
+          "ife": false
+        },
+        {
+          "t": "09:27",
+          "sec": 567,
+          "title": "Aircraft and Fleet",
+          "ife": false
+        },
+        {
+          "t": "10:40",
+          "sec": 640,
+          "title": "New App",
+          "ife": false
+        },
+        {
+          "t": "11:57",
+          "sec": 717,
+          "title": "Cabin and Seat",
+          "ife": false
+        },
+        {
+          "t": "12:54",
+          "sec": 774,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "14:42",
+          "sec": 882,
+          "title": "Taxi and Take Off",
+          "ife": false
+        },
+        {
+          "t": "16:31",
+          "sec": 991,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "19:53",
+          "sec": 1193,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "20:44",
+          "sec": 1244,
+          "title": "Inflight Entertainment and WiFi",
+          "ife": true
+        },
+        {
+          "t": "22:42",
+          "sec": 1362,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "23:31",
+          "sec": 1411,
+          "title": "Inflight Magazine",
+          "ife": false
+        },
+        {
+          "t": "24:35",
+          "sec": 1475,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "28:37",
+          "sec": 1717,
+          "title": "Chhatrapati Shivaji Maharaj International Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WvmYQWEupgk",
+      "title": "Air Canada AC092 YYZ–SCL Review: Worst Air Canada Flight I’ve Taken? ✈️ | Economy + Kosher Meal",
+      "year": 2026,
+      "published_at": "2026-09-23T20:09:47Z",
+      "channel_title": "Charles Huang",
+      "view_count": 475,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 17
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IXBB-WBZxMg",
+      "title": "Apple iOS 27 – 12 Settings You MUST Change on Launch",
+      "year": 2026,
+      "published_at": "2026-09-14T22:59:44Z",
+      "channel_title": "Andrew Ethan Zeng",
+      "view_count": 3044200,
+      "like_count": 28886,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:24",
+          "sec": 24,
+          "title": "Tune Liquid Glass",
+          "ife": false
+        },
+        {
+          "t": "1:02",
+          "sec": 62,
+          "title": "Setup Full Screen Widgets",
+          "ife": true
+        },
+        {
+          "t": "1:48",
+          "sec": 108,
+          "title": "Enable Compact Lock Screen",
+          "ife": true
+        },
+        {
+          "t": "2:42",
+          "sec": 162,
+          "title": "Setup New Volumes",
+          "ife": false
+        },
+        {
+          "t": "3:22",
+          "sec": 202,
+          "title": "Setup New Siri & GPT Extension",
+          "ife": false
+        },
+        {
+          "t": "4:34",
+          "sec": 274,
+          "title": "Enable Auto Tab Grouping",
+          "ife": false
+        },
+        {
+          "t": "5:12",
+          "sec": 312,
+          "title": "Setup Notify Me",
+          "ife": false
+        },
+        {
+          "t": "6:08",
+          "sec": 368,
+          "title": "Enable Photo Ratings",
+          "ife": false
+        },
+        {
+          "t": "7:24",
+          "sec": 444,
+          "title": "Disable Location Sharing",
+          "ife": false
+        },
+        {
+          "t": "8:16",
+          "sec": 496,
+          "title": "Disable Significant Locations",
+          "ife": false
+        },
+        {
+          "t": "9:20",
+          "sec": 560,
+          "title": "Customize Message Text Fields",
+          "ife": false
+        },
+        {
+          "t": "10:12",
+          "sec": 612,
+          "title": "Create Supercharged Shortcuts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NGkDxrutY-s",
+      "title": "SaudiArab fast vlog hail city Saudi hail city Kaisa hai Saudi introduction fast vlog",
+      "year": 2026,
+      "published_at": "2026-09-26T03:55:57Z",
+      "channel_title": "ᴹᴿメTasleem Ahmad0445",
+      "view_count": 6,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-26T08:29:17.587338"
+  "last_updated": "2026-09-27T09:07:35.344787"
 }
