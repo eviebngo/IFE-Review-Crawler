@@ -128224,7 +128224,92 @@
       "ife_system": "Oryx One",
       "ife_system_inferred": false,
       "ife_system_guess": null,
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Opening",
+          "ife": false
+        },
+        {
+          "t": "00:50",
+          "sec": 50,
+          "title": "Heading to Hamad International Airport",
+          "ife": false
+        },
+        {
+          "t": "01:15",
+          "sec": 75,
+          "title": "Qatar Airways First Class dedicated terminal",
+          "ife": false
+        },
+        {
+          "t": "02:17",
+          "sec": 137,
+          "title": "Into the Al Safwa First Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:12",
+          "sec": 192,
+          "title": "The world-class lounge and reflecting pool",
+          "ife": false
+        },
+        {
+          "t": "04:14",
+          "sec": 254,
+          "title": "À la carte fine dining",
+          "ife": false
+        },
+        {
+          "t": "06:20",
+          "sec": 380,
+          "title": "Strolling through the lounge",
+          "ife": false
+        },
+        {
+          "t": "08:42",
+          "sec": 522,
+          "title": "Business center",
+          "ife": false
+        },
+        {
+          "t": "08:59",
+          "sec": 539,
+          "title": "Luxury duty-free (Bvlgari and more)",
+          "ife": false
+        },
+        {
+          "t": "09:35",
+          "sec": 575,
+          "title": "Kids' room and game room",
+          "ife": false
+        },
+        {
+          "t": "10:12",
+          "sec": 612,
+          "title": "Spa and private suite",
+          "ife": false
+        },
+        {
+          "t": "10:59",
+          "sec": 659,
+          "title": "Heading to the gate (Hamad Airport stroll)",
+          "ife": false
+        },
+        {
+          "t": "12:05",
+          "sec": 725,
+          "title": "Boarding First Class",
+          "ife": false
+        },
+        {
+          "t": "16:12",
+          "sec": 972,
+          "title": "Arrival in Abu Dhabi",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
