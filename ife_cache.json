@@ -121730,7 +121730,68 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "KrisWorld",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "00:43",
+          "sec": 43,
+          "title": "SilverKris Lounge (Terminal 3)",
+          "ife": false
+        },
+        {
+          "t": "03:40",
+          "sec": 220,
+          "title": "Boarding Process",
+          "ife": false
+        },
+        {
+          "t": "04:18",
+          "sec": 258,
+          "title": "Seat Architecture & Amenity Kit (Seat 20A)",
+          "ife": false
+        },
+        {
+          "t": "05:07",
+          "sec": 307,
+          "title": "Trent XWB Engine Start & Pushback",
+          "ife": false
+        },
+        {
+          "t": "05:44",
+          "sec": 344,
+          "title": "Takeoff from Singapore Changi",
+          "ife": false
+        },
+        {
+          "t": "06:17",
+          "sec": 377,
+          "title": "KrisWorld IFE System",
+          "ife": true
+        },
+        {
+          "t": "06:26",
+          "sec": 386,
+          "title": "Meal Service 1 (Lunch & Menu Overview)",
+          "ife": false
+        },
+        {
+          "t": "08:08",
+          "sec": 488,
+          "title": "Meal Service 2 (Supper & Menu Overview)",
+          "ife": false
+        },
+        {
+          "t": "09:30",
+          "sec": 570,
+          "title": "Final Approach & Touchdown at New York JFK",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
@@ -149766,7 +149827,44 @@
       "ife_system": "Oryx One",
       "ife_system_inferred": false,
       "ife_system_guess": null,
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:40",
+          "sec": 40,
+          "title": "Boarding & seat oberview",
+          "ife": false
+        },
+        {
+          "t": "2:12",
+          "sec": 132,
+          "title": "Menu & Takeoff",
+          "ife": false
+        },
+        {
+          "t": "4:00",
+          "sec": 240,
+          "title": "Dinner & Dessert",
+          "ife": false
+        },
+        {
+          "t": "7:00",
+          "sec": 420,
+          "title": "landing in Qatar",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "Al MourjanLounge",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
@@ -150872,7 +150970,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=4S7DzaCAC9I",
@@ -150921,7 +151021,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.296
     },
     {
       "url": "https://www.youtube.com/watch?v=ZQ_GjFaO1I4",
@@ -151030,7 +151132,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.103
     },
     {
       "url": "https://www.youtube.com/watch?v=qzLr65kq0qM",
@@ -151185,7 +151289,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.248
     },
     {
       "url": "https://www.youtube.com/watch?v=WvmYQWEupgk",
@@ -151225,7 +151331,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.625
     },
     {
       "url": "https://www.youtube.com/watch?v=IXBB-WBZxMg",
@@ -151330,7 +151438,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=NGkDxrutY-s",
@@ -151361,8 +151471,663 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.153
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q2gVq_g_bxI",
+      "title": "Virgin Atlantic Upper Class: Why I Won't Fly It Again",
+      "year": 2026,
+      "published_at": "2026-09-27T11:00:21Z",
+      "channel_title": "Callum Elsdon",
+      "view_count": 508,
+      "like_count": 20,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:42",
+          "sec": 42,
+          "title": "Dubai Airport and SkyTeam Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:27",
+          "sec": 147,
+          "title": "Boarding and first impressions of the \"coffin seat\"",
+          "ife": false
+        },
+        {
+          "t": "04:37",
+          "sec": 277,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "05:41",
+          "sec": 341,
+          "title": "Promo - Ohayu eSIM",
+          "ife": false
+        },
+        {
+          "t": "06:26",
+          "sec": 386,
+          "title": "Inflight entertainment and seat storage",
+          "ife": true
+        },
+        {
+          "t": "07:12",
+          "sec": 432,
+          "title": "Dining: menu, mains and drinks",
+          "ife": false
+        },
+        {
+          "t": "09:43",
+          "sec": 583,
+          "title": "Amenity kit review",
+          "ife": false
+        },
+        {
+          "t": "11:03",
+          "sec": 663,
+          "title": "The flat bed and sleep experience",
+          "ife": false
+        },
+        {
+          "t": "13:02",
+          "sec": 782,
+          "title": "Final verdict: is Virgin Atlantic Upper Class worth it?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4u6Uv8kEdo0",
+      "title": "Delta One HND ✈︎ SEA - Flight Review & Tokyo-Haneda SkyClub: 127,500 SkyMiles | 9 hours to Seattle",
+      "year": 2026,
+      "published_at": "2026-09-27T16:26:28Z",
+      "channel_title": "Zero Dollar Travel - Round the World",
+      "view_count": 101,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "HND Delta SkyClub",
+          "ife": false
+        },
+        {
+          "t": "04:11",
+          "sec": 251,
+          "title": "A350-900 views and boarding",
+          "ife": false
+        },
+        {
+          "t": "06:54",
+          "sec": 414,
+          "title": "Delta One Seat 8D tour",
+          "ife": false
+        },
+        {
+          "t": "10:17",
+          "sec": 617,
+          "title": "Welcome service",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "Amenity Kit contents",
+          "ife": true
+        },
+        {
+          "t": "12:00",
+          "sec": 720,
+          "title": "Pre-departure logistics",
+          "ife": false
+        },
+        {
+          "t": "14:43",
+          "sec": 883,
+          "title": "Resetting the broken IFE",
+          "ife": true
+        },
+        {
+          "t": "15:59",
+          "sec": 959,
+          "title": "Delta America 250 video",
+          "ife": false
+        },
+        {
+          "t": "16:39",
+          "sec": 999,
+          "title": "Safety briefing",
+          "ife": false
+        },
+        {
+          "t": "17:27",
+          "sec": 1047,
+          "title": "Push back from gate",
+          "ife": false
+        },
+        {
+          "t": "21:29",
+          "sec": 1289,
+          "title": "Taxi and plane spotting",
+          "ife": false
+        },
+        {
+          "t": "24:45",
+          "sec": 1485,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "27:14",
+          "sec": 1634,
+          "title": "Lavatory tour",
+          "ife": false
+        },
+        {
+          "t": "27:42",
+          "sec": 1662,
+          "title": "Dinner departure meal service",
+          "ife": false
+        },
+        {
+          "t": "29:09",
+          "sec": 1749,
+          "title": "Sleeping",
+          "ife": false
+        },
+        {
+          "t": "30:09",
+          "sec": 1809,
+          "title": "Waking up",
+          "ife": false
+        },
+        {
+          "t": "31:35",
+          "sec": 1895,
+          "title": "Breakfast arrival meal service",
+          "ife": false
+        },
+        {
+          "t": "32:24",
+          "sec": 1944,
+          "title": "Olympic Mountains",
+          "ife": false
+        },
+        {
+          "t": "35:06",
+          "sec": 2106,
+          "title": "Approaching Seattle",
+          "ife": false
+        },
+        {
+          "t": "37:35",
+          "sec": 2255,
+          "title": "On the ground at SEA",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aQs-68kKZ-g",
+      "title": "This Is How Japan Airlines Does Economy",
+      "year": 2026,
+      "published_at": "2026-09-20T12:00:25Z",
+      "channel_title": "Earl Jimenez",
+      "view_count": 23167,
+      "like_count": 159,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rHIvD7u7GM4",
+      "title": "American Airlines Frequent Flyers Try Delta First Class — Here's the Winner",
+      "year": 2026,
+      "published_at": "2026-09-25T23:00:37Z",
+      "channel_title": "Millers in Motion",
+      "view_count": 685,
+      "like_count": 26,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Delta vs American Airlines — which is better?",
+          "ife": false
+        },
+        {
+          "t": "0:16",
+          "sec": 16,
+          "title": "Why we always fly American out of DFW",
+          "ife": false
+        },
+        {
+          "t": "1:25",
+          "sec": 85,
+          "title": "Heading to DFW Airport",
+          "ife": false
+        },
+        {
+          "t": "1:35",
+          "sec": 95,
+          "title": "Why we booked Delta first class (it was cheaper)",
+          "ife": false
+        },
+        {
+          "t": "2:07",
+          "sec": 127,
+          "title": "Delta check-in and TSA at DFW",
+          "ife": false
+        },
+        {
+          "t": "2:32",
+          "sec": 152,
+          "title": "How we got into the Delta Sky Club (Amex Platinum)",
+          "ife": false
+        },
+        {
+          "t": "3:48",
+          "sec": 228,
+          "title": "Delta Sky Club DFW review vs Admirals Club",
+          "ife": false
+        },
+        {
+          "t": "4:45",
+          "sec": 285,
+          "title": "Lauren's Sky Club food review",
+          "ife": false
+        },
+        {
+          "t": "5:27",
+          "sec": 327,
+          "title": "Boarding Delta first class",
+          "ife": false
+        },
+        {
+          "t": "5:43",
+          "sec": 343,
+          "title": "Delta first class seat tour",
+          "ife": false
+        },
+        {
+          "t": "6:09",
+          "sec": 369,
+          "title": "Takeoff from DFW",
+          "ife": false
+        },
+        {
+          "t": "6:19",
+          "sec": 379,
+          "title": "Seatback screens and first impressions",
+          "ife": true
+        },
+        {
+          "t": "7:05",
+          "sec": 425,
+          "title": "The under-seat storage problem",
+          "ife": false
+        },
+        {
+          "t": "7:51",
+          "sec": 471,
+          "title": "Delta first class lunch service",
+          "ife": false
+        },
+        {
+          "t": "8:50",
+          "sec": 530,
+          "title": "The cherry dessert incident",
+          "ife": false
+        },
+        {
+          "t": "9:25",
+          "sec": 565,
+          "title": "Landing at Boston Logan",
+          "ife": false
+        },
+        {
+          "t": "9:59",
+          "sec": 599,
+          "title": "Lauren's final verdict",
+          "ife": false
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "Delta vs American: full comparison",
+          "ife": false
+        },
+        {
+          "t": "11:26",
+          "sec": 686,
+          "title": "Would we fly Delta or American again?",
+          "ife": false
+        },
+        {
+          "t": "11:58",
+          "sec": 718,
+          "title": "Bloopers and what's next in Boston",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 22
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WCxkn-loEYg",
+      "title": "American Airlines Main Cabin Extra Review - Tokyo to Dallas-Fort Worth",
+      "year": 2026,
+      "published_at": "2026-09-26T14:13:35Z",
+      "channel_title": "First Travel",
+      "view_count": 67,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Boarding at Tokyo Haneda (HND)",
+          "ife": false
+        },
+        {
+          "t": "0:19",
+          "sec": 19,
+          "title": "Main Cabin Extra Location and Seat Review",
+          "ife": false
+        },
+        {
+          "t": "2:00",
+          "sec": 120,
+          "title": "Two Wi-Fi Packages | No Free Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "2:08",
+          "sec": 128,
+          "title": "Inflight Entertainment Screen and Features",
+          "ife": true
+        },
+        {
+          "t": "2:46",
+          "sec": 166,
+          "title": "Main Meal Service",
+          "ife": false
+        },
+        {
+          "t": "3:28",
+          "sec": 208,
+          "title": "Restroom Walkthrough",
+          "ife": false
+        },
+        {
+          "t": "3:56",
+          "sec": 236,
+          "title": "Mid-Flight Snack",
+          "ife": false
+        },
+        {
+          "t": "4:23",
+          "sec": 263,
+          "title": "Galley Snacks",
+          "ife": false
+        },
+        {
+          "t": "4:45",
+          "sec": 285,
+          "title": "Pre-Arrival Snack and Meal",
+          "ife": false
+        },
+        {
+          "t": "5:04",
+          "sec": 304,
+          "title": "Overall 5-Star Rating and Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pYq_rbHkgB8",
+      "title": "United Airlines Boeing 737-800 Retro Domestic First Class Review | Atlanta to Chicago",
+      "year": 2026,
+      "published_at": "2026-09-14T20:00:06Z",
+      "channel_title": "WillAviation",
+      "view_count": 1260,
+      "like_count": 22,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jJ3k6hK0E5g",
+      "title": "Is Southwest Airlines WORTH IT in 2026? | Sacramento to Boise on a 737-800",
+      "year": 2026,
+      "published_at": "2026-09-23T22:11:31Z",
+      "channel_title": "Legitimate Aviation",
+      "view_count": 307,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "southwest",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-27T09:07:35.344787"
+  "last_updated": "2026-09-28T09:36:08.603497"
 }
