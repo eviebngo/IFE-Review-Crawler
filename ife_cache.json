@@ -88892,7 +88892,7 @@
         {
           "t": "04:16",
           "sec": 256,
-          "title": "Taiwan Taoyuan Airport",
+          "title": "Taoyuan International Airport",
           "ife": false
         },
         {
@@ -151664,7 +151664,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=4u6Uv8kEdo0",
@@ -151830,7 +151832,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=aQs-68kKZ-g",
@@ -151865,7 +151869,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=rHIvD7u7GM4",
@@ -152022,7 +152028,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.586
     },
     {
       "url": "https://www.youtube.com/watch?v=WCxkn-loEYg",
@@ -152131,7 +152139,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=pYq_rbHkgB8",
@@ -152171,7 +152181,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=jJ3k6hK0E5g",
@@ -152211,8 +152223,340 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.389
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CbQHxojMzlA",
+      "title": "5 Hours on Brand New Turkish Airlines A321neo ✈️ | Istanbul to Muscat Economy Review",
+      "year": 2026,
+      "published_at": "2026-09-25T12:14:38Z",
+      "channel_title": "Pakistani Travels",
+      "view_count": 129,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 7
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EORJSPahH-k",
+      "title": "Saudia 787-9 Business: I Finally Get Saudia",
+      "year": 2026,
+      "published_at": "2026-09-26T16:52:04Z",
+      "channel_title": "AirHub",
+      "view_count": 205,
+      "like_count": 14,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Saudia's A330 impressed me, will B787 take it further?",
+          "ife": false
+        },
+        {
+          "t": "00:57",
+          "sec": 57,
+          "title": "About flight, airport and lounge",
+          "ife": false
+        },
+        {
+          "t": "02:09",
+          "sec": 129,
+          "title": "Saudia's Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:06",
+          "sec": 186,
+          "title": "Cabin & Seat",
+          "ife": false
+        },
+        {
+          "t": "05:49",
+          "sec": 349,
+          "title": "Pre-flight Service & Menu",
+          "ife": false
+        },
+        {
+          "t": "07:18",
+          "sec": 438,
+          "title": "Taxiing, Take Off and Night Riyadh",
+          "ife": false
+        },
+        {
+          "t": "08:19",
+          "sec": 499,
+          "title": "Dinner and Chicken Bukhari",
+          "ife": false
+        },
+        {
+          "t": "09:08",
+          "sec": 548,
+          "title": "Miqat Announcement",
+          "ife": false
+        },
+        {
+          "t": "09:41",
+          "sec": 581,
+          "title": "In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:50",
+          "sec": 650,
+          "title": "Landing and Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 8
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BRxx6ortgIg",
+      "title": "Delhi to Helsinki on Finnair ✈️ My First International Flight Experience",
+      "year": 2026,
+      "published_at": "2026-09-26T11:03:42Z",
+      "channel_title": "Richa Srivastava",
+      "view_count": 365,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 13
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZoBDGWs5R-A",
+      "title": "Europe’s BEST Business Class?? Finnair A350 Business Class Review (Helsinki to Dallas)",
+      "year": 2026,
+      "published_at": "2026-09-26T12:00:14Z",
+      "channel_title": "Next Stop",
+      "view_count": 1348,
+      "like_count": 17,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oteYdeGxGxY",
+      "title": "Qatar Airways 787 Economy Class Full Flight Review | Doha to Salalah",
+      "year": 2026,
+      "published_at": "2026-09-23T17:30:20Z",
+      "channel_title": "Abdirisaq Aviation",
+      "view_count": 1591,
+      "like_count": 19,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L56x4Y9T0rU",
+      "title": "[TRIP REPORT] United Airlines Boeing 737-800 (ECONOMY PLUS) San Francisco (SFO) - San Diego (SAN)",
+      "year": 2026,
+      "published_at": "2026-09-25T16:00:36Z",
+      "channel_title": "theplanesguy",
+      "view_count": 2451,
+      "like_count": 32,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-09-28T09:36:08.603497"
+  "last_updated": "2026-09-29T09:40:34.748976"
 }
