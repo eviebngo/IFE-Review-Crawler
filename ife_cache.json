@@ -153194,7 +153194,152 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:51",
+          "sec": 51,
+          "title": "Abu Dhabi Airport",
+          "ife": false
+        },
+        {
+          "t": "01:39",
+          "sec": 99,
+          "title": "Gate 28 & Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:09",
+          "sec": 129,
+          "title": "Etihad A350-1000",
+          "ife": false
+        },
+        {
+          "t": "03:35",
+          "sec": 215,
+          "title": "Pushback & Engine Start",
+          "ife": false
+        },
+        {
+          "t": "05:26",
+          "sec": 326,
+          "title": "Taxiing to RWY 31R",
+          "ife": false
+        },
+        {
+          "t": "07:57",
+          "sec": 477,
+          "title": "Takeoff from Abu Dhabi",
+          "ife": false
+        },
+        {
+          "t": "09:27",
+          "sec": 567,
+          "title": "Climbing to FL370",
+          "ife": false
+        },
+        {
+          "t": "10:04",
+          "sec": 604,
+          "title": "In-Flight Entertainment & Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "10:53",
+          "sec": 653,
+          "title": "Headphones & Amenity Bag",
+          "ife": false
+        },
+        {
+          "t": "11:01",
+          "sec": 661,
+          "title": "Tray Table Review",
+          "ife": false
+        },
+        {
+          "t": "11:15",
+          "sec": 675,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "11:26",
+          "sec": 686,
+          "title": "Overnight Flight",
+          "ife": false
+        },
+        {
+          "t": "11:33",
+          "sec": 693,
+          "title": "Sunrise Over Asia",
+          "ife": false
+        },
+        {
+          "t": "12:17",
+          "sec": 737,
+          "title": "Safety Card & Inflight Magazine",
+          "ife": false
+        },
+        {
+          "t": "12:50",
+          "sec": 770,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "13:06",
+          "sec": 786,
+          "title": "Toilet Review",
+          "ife": false
+        },
+        {
+          "t": "13:19",
+          "sec": 799,
+          "title": "Descent into Tokyo",
+          "ife": false
+        },
+        {
+          "t": "13:53",
+          "sec": 833,
+          "title": "Approach to Narita",
+          "ife": false
+        },
+        {
+          "t": "15:40",
+          "sec": 940,
+          "title": "Landing on RWY 34R",
+          "ife": false
+        },
+        {
+          "t": "17:16",
+          "sec": 1036,
+          "title": "Taxi to the Stand",
+          "ife": false
+        },
+        {
+          "t": "19:24",
+          "sec": 1164,
+          "title": "Disembarkation",
+          "ife": false
+        },
+        {
+          "t": "19:54",
+          "sec": 1194,
+          "title": "Final Look at the A350",
+          "ife": false
+        },
+        {
+          "t": "20:03",
+          "sec": 1203,
+          "title": "Final Review & Outro",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
