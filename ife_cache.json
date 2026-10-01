@@ -56755,7 +56755,7 @@
         {
           "t": "0:00",
           "sec": 0,
-          "title": "Washington Reagan National DCA Airport",
+          "title": "Welcome to Washington Reagan National (DCA)",
           "ife": false
         },
         {
@@ -56773,13 +56773,13 @@
         {
           "t": "0:50",
           "sec": 50,
-          "title": "Extra Legroom and Pitch Review",
+          "title": "Extra Legroom and Pitch",
           "ife": false
         },
         {
           "t": "1:11",
           "sec": 71,
-          "title": "Boeing 737 MAX Cabin Seat Features",
+          "title": "MCE Seat Features",
           "ife": false
         },
         {
@@ -69251,13 +69251,13 @@
         {
           "t": "2:50",
           "sec": 170,
-          "title": "IAD Departure and Takeoff",
+          "title": "Depart to Doha",
           "ife": false
         },
         {
           "t": "2:59",
           "sec": 179,
-          "title": "Starlink Wi-Fi Speed Test",
+          "title": "Starlink Wi-Fi",
           "ife": true
         },
         {
@@ -69269,7 +69269,7 @@
         {
           "t": "4:22",
           "sec": 262,
-          "title": "Dine-on-Demand Menu Overview",
+          "title": "Dine-on-Demand Menu",
           "ife": false
         },
         {
@@ -69287,7 +69287,7 @@
         {
           "t": "6:07",
           "sec": 367,
-          "title": "Gourmet Dinner Service Review",
+          "title": "Dinner Service Review",
           "ife": false
         },
         {
@@ -152604,7 +152604,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=R-gFkMVKWSA",
@@ -152655,7 +152657,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FElfl2r8RMU",
@@ -152820,7 +152824,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=mKtksILsqCM",
@@ -153009,7 +153015,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=iHTizq6CbHY",
@@ -153171,7 +153179,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Z-QKIT7Qaqw",
@@ -153230,7 +153240,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=yltg1--kmec",
@@ -153290,7 +153302,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=NQJrQr-bYE4",
@@ -153410,7 +153424,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=3n94GLGWD-M",
@@ -153522,7 +153538,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.532
     },
     {
       "url": "https://www.youtube.com/watch?v=LsoudWh8N9A",
@@ -153724,7 +153742,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.546
     },
     {
       "url": "https://www.youtube.com/watch?v=2DpgAP0dgM0",
@@ -153751,7 +153771,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.382
     },
     {
       "url": "https://www.youtube.com/watch?v=_M3FyFUy6Sc",
@@ -153793,7 +153815,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=t2FiqTPCsno",
@@ -153878,7 +153902,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=cxkAPoJGO0M",
@@ -153992,8 +154018,39 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C2X4EX9YRYo",
+      "title": "Exploring Tashkent | Etihad",
+      "year": 2026,
+      "published_at": "2026-09-30T11:43:02Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 452,
+      "like_count": 20,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-09-30T09:32:50.206925"
+  "last_updated": "2026-10-01T09:58:28.992835"
 }
