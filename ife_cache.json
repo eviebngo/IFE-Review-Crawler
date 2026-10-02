@@ -153228,7 +153228,7 @@
         {
           "t": "05:26",
           "sec": 326,
-          "title": "Taxiing to RWY 31R",
+          "title": "Taxiing to RWY 31L",
           "ife": false
         },
         {
@@ -154194,8 +154194,932 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EPOU0zgg-8U",
+      "title": "Cathay Pacific Business Class Review 😍 | Brisbane to Hong Kong | A350-900 | CX150",
+      "year": 2026,
+      "published_at": "2026-09-27T03:00:33Z",
+      "channel_title": "Enrique CE",
+      "view_count": 10219,
+      "like_count": 53,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:18",
+          "sec": 18,
+          "title": "Airport Check-in",
+          "ife": false
+        },
+        {
+          "t": "1:05",
+          "sec": 65,
+          "title": "Qantas Business Lounge",
+          "ife": false
+        },
+        {
+          "t": "2:58",
+          "sec": 178,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "4:04",
+          "sec": 244,
+          "title": "Seat 14K",
+          "ife": true
+        },
+        {
+          "t": "5:20",
+          "sec": 320,
+          "title": "Taxi and Takeoff",
+          "ife": false
+        },
+        {
+          "t": "7:41",
+          "sec": 461,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "7:51",
+          "sec": 471,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "8:25",
+          "sec": 505,
+          "title": "WiFi",
+          "ife": true
+        },
+        {
+          "t": "8:37",
+          "sec": 517,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "8:57",
+          "sec": 537,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "10:15",
+          "sec": 615,
+          "title": "Lunch",
+          "ife": false
+        },
+        {
+          "t": "12:30",
+          "sec": 750,
+          "title": "Bed mode",
+          "ife": false
+        },
+        {
+          "t": "13:18",
+          "sec": 798,
+          "title": "Dinner",
+          "ife": false
+        },
+        {
+          "t": "14:12",
+          "sec": 852,
+          "title": "Conclusion & Landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UsM0xC_Q76c",
+      "title": "Flying Aeromexico Business Class for the First Time!",
+      "year": 2026,
+      "published_at": "2026-10-01T04:00:18Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 7615,
+      "like_count": 335,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:42",
+          "sec": 102,
+          "title": "The Lounge Panama",
+          "ife": false
+        },
+        {
+          "t": "02:50",
+          "sec": 170,
+          "title": "Boarding flight AM465",
+          "ife": false
+        },
+        {
+          "t": "03:38",
+          "sec": 218,
+          "title": "Seat 1F & features",
+          "ife": false
+        },
+        {
+          "t": "04:32",
+          "sec": 272,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "07:17",
+          "sec": 437,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "08:50",
+          "sec": 530,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:24",
+          "sec": 624,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "12:35",
+          "sec": 755,
+          "title": "PA",
+          "ife": false
+        },
+        {
+          "t": "13:13",
+          "sec": 793,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "15:15",
+          "sec": 915,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "17:48",
+          "sec": 1068,
+          "title": "Vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DYaroIub6Sw",
+      "title": "BRITISH AIRWAYS BUSINESS CLASS REVIEW | Club World Suite - London to New York 4k",
+      "year": 2026,
+      "published_at": "2026-10-01T15:11:09Z",
+      "channel_title": "Zarthuras",
+      "view_count": 2270,
+      "like_count": 19,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:20",
+          "sec": 20,
+          "title": "Hello From London Heathrow",
+          "ife": false
+        },
+        {
+          "t": "1:08",
+          "sec": 68,
+          "title": "British Airways Lounge",
+          "ife": false
+        },
+        {
+          "t": "2:16",
+          "sec": 136,
+          "title": "Airport Overview & Boarding",
+          "ife": false
+        },
+        {
+          "t": "2:41",
+          "sec": 161,
+          "title": "Overview of Club World Business Class Seat",
+          "ife": false
+        },
+        {
+          "t": "3:04",
+          "sec": 184,
+          "title": "Welcome Drink & Menu Overview",
+          "ife": false
+        },
+        {
+          "t": "3:57",
+          "sec": 237,
+          "title": "Safety Video & Cabin Preparation",
+          "ife": false
+        },
+        {
+          "t": "4:29",
+          "sec": 269,
+          "title": "Taxi & Takeoff From London Heathrow",
+          "ife": false
+        },
+        {
+          "t": "5:35",
+          "sec": 335,
+          "title": "Cabin Lighting & Lavatory",
+          "ife": false
+        },
+        {
+          "t": "5:59",
+          "sec": 359,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "6:53",
+          "sec": 413,
+          "title": "Dessert & Drinks",
+          "ife": false
+        },
+        {
+          "t": "7:23",
+          "sec": 443,
+          "title": "Relaxing Over the Atlantic",
+          "ife": false
+        },
+        {
+          "t": "7:33",
+          "sec": 453,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "8:23",
+          "sec": 503,
+          "title": "Seat Recline & Lay Flat Position",
+          "ife": false
+        },
+        {
+          "t": "8:53",
+          "sec": 533,
+          "title": "Landing at JFK & Exploring New York",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oAkPujI7w68",
+      "title": "BA 787-9 Premium Economy review: Plus size long-haul fit check! ✈️",
+      "year": 2026,
+      "published_at": "2026-09-26T23:00:26Z",
+      "channel_title": "Kay (That Geordie Lass)",
+      "view_count": 1069,
+      "like_count": 19,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VGtaN4SEKak",
+      "title": "My FIRST A380 Flight! British Airways Upper Deck Economy | Miami to London",
+      "year": 2026,
+      "published_at": "2026-09-30T18:00:35Z",
+      "channel_title": "Chris Films Things",
+      "view_count": 176,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 8
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fbA_BiQikEE",
+      "title": "#நண்பா நாம் அமெரிக்கா நாட்டை சுற்றி பார்ப்போமா | Chennai to USA travel British Airways flight review",
+      "year": 2026,
+      "published_at": "2026-10-01T11:45:30Z",
+      "channel_title": "Vamanan in KAAL PONA POKILEY 🚶 👣",
+      "view_count": 102,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 7
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SMwFoupte1c",
+      "title": "Polaris Studio on United's \"Lemon 87\": First Class or Business Class Plus?",
+      "year": 2026,
+      "published_at": "2026-10-01T16:05:35Z",
+      "channel_title": "Interchange",
+      "view_count": 25,
+      "like_count": 10,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Was it worth it?",
+          "ife": false
+        },
+        {
+          "t": "0:30",
+          "sec": 30,
+          "title": "The route: Emeryville to London",
+          "ife": false
+        },
+        {
+          "t": "1:13",
+          "sec": 73,
+          "title": "Emeryville, and why the airport is a bus ride",
+          "ife": false
+        },
+        {
+          "t": "2:51",
+          "sec": 171,
+          "title": "MacArthur BART, under the bay",
+          "ife": false
+        },
+        {
+          "t": "3:46",
+          "sec": 226,
+          "title": "San Francisco International",
+          "ife": false
+        },
+        {
+          "t": "4:51",
+          "sec": 291,
+          "title": "The Polaris Lounge",
+          "ife": false
+        },
+        {
+          "t": "6:34",
+          "sec": 394,
+          "title": "UA930, and a 787 with a secret",
+          "ife": false
+        },
+        {
+          "t": "8:06",
+          "sec": 486,
+          "title": "Pre-boarding, and seat 9L",
+          "ife": false
+        },
+        {
+          "t": "9:37",
+          "sec": 577,
+          "title": "Take-off, and the Lemon 87",
+          "ife": false
+        },
+        {
+          "t": "10:24",
+          "sec": 624,
+          "title": "Airborne in the Studio suite",
+          "ife": false
+        },
+        {
+          "t": "11:32",
+          "sec": 692,
+          "title": "The caviar",
+          "ife": false
+        },
+        {
+          "t": "12:03",
+          "sec": 723,
+          "title": "The beef",
+          "ife": false
+        },
+        {
+          "t": "13:40",
+          "sec": 820,
+          "title": "The pyjamas",
+          "ife": false
+        },
+        {
+          "t": "14:27",
+          "sec": 867,
+          "title": "Bed, and a seat that fights back",
+          "ife": false
+        },
+        {
+          "t": "15:56",
+          "sec": 956,
+          "title": "Breakfast, and the snack box",
+          "ife": false
+        },
+        {
+          "t": "17:27",
+          "sec": 1047,
+          "title": "The screen, and the adverts in front of it",
+          "ife": true
+        },
+        {
+          "t": "18:28",
+          "sec": 1108,
+          "title": "Descent across central London",
+          "ife": false
+        },
+        {
+          "t": "19:37",
+          "sec": 1177,
+          "title": "Heathrow, and the Elizabeth line",
+          "ife": false
+        },
+        {
+          "t": "21:49",
+          "sec": 1309,
+          "title": "Door to door: the numbers",
+          "ife": false
+        },
+        {
+          "t": "23:18",
+          "sec": 1398,
+          "title": "Verdict: is Polaris Studio worth it?",
+          "ife": false
+        },
+        {
+          "t": "24:32",
+          "sec": 1472,
+          "title": "Sign-off",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ss04SDGLNt0",
+      "title": "Nobody Told Me That... SHANGHAI AIRLINES surprising Business Class (B787)",
+      "year": 2026,
+      "published_at": "2026-10-02T07:00:03Z",
+      "channel_title": "Forgot My Passport",
+      "view_count": 67,
+      "like_count": 14,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ICZ2AL58WiI",
+      "title": "Is 2 Hours in Singapore Airlines Business Class Worth It? Bangkok to Singapore SQ 711",
+      "year": 2026,
+      "published_at": "2026-09-30T10:00:34Z",
+      "channel_title": "windowseatguy",
+      "view_count": 3244,
+      "like_count": 16,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LgZDNZqllzE",
+      "title": "#069 Is Qatar Airways Overrated? (A350 Business Class Jakarta-Doha)",
+      "year": 2026,
+      "published_at": "2026-10-01T13:00:05Z",
+      "channel_title": "sfbatraveler",
+      "view_count": 521,
+      "like_count": 15,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction & CGK T3",
+          "ife": false
+        },
+        {
+          "t": "01:49",
+          "sec": 109,
+          "title": "Boarding & Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "05:24",
+          "sec": 324,
+          "title": "Safety Video & Crew First Impressions",
+          "ife": false
+        },
+        {
+          "t": "08:02",
+          "sec": 482,
+          "title": "Takeoff from Jakarta",
+          "ife": false
+        },
+        {
+          "t": "09:43",
+          "sec": 583,
+          "title": "Onboard Amenities & Lavatory",
+          "ife": false
+        },
+        {
+          "t": "12:10",
+          "sec": 730,
+          "title": "Oryx One IFE & Starlink Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "12:57",
+          "sec": 777,
+          "title": "Skipped Supper & Bed Mode",
+          "ife": false
+        },
+        {
+          "t": "13:35",
+          "sec": 815,
+          "title": "Menu & Breakfast",
+          "ife": false
+        },
+        {
+          "t": "15:19",
+          "sec": 919,
+          "title": "Middle Galley & Crew Service",
+          "ife": false
+        },
+        {
+          "t": "16:20",
+          "sec": 980,
+          "title": "Landing in Doha",
+          "ife": false
+        },
+        {
+          "t": "17:31",
+          "sec": 1051,
+          "title": "Verdict & Scores",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-01T09:58:28.992835"
+  "last_updated": "2026-10-02T09:35:41.511558"
 }
