@@ -1899,87 +1899,45 @@
       "like_count": 7,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Intro & Zurich Airport (ZRH)",
+          "title": "Flight Details & Boarding in Zurich (ZRH)",
           "ife": false
         },
         {
-          "t": "0:52",
-          "sec": 52,
-          "title": "Boarding & Cabin Walkthrough (Business & Premium Economy)",
+          "t": "01:00",
+          "sec": 60,
+          "title": "Boeing 777-300ER Economy Seat & Legroom Tour",
           "ife": false
         },
         {
-          "t": "1:42",
-          "sec": 102,
-          "title": "Seat Tour & Initial Impressions (42J & 42K)",
-          "ife": false
-        },
-        {
-          "t": "2:15",
-          "sec": 135,
-          "title": "Tray Table & Features",
-          "ife": false
-        },
-        {
-          "t": "2:36",
-          "sec": 156,
-          "title": "Leg Room & Amenities (Pillow & Blanket)",
-          "ife": false
-        },
-        {
-          "t": "3:13",
-          "sec": 193,
-          "title": "In-Flight Entertainment (IFE) Review",
+          "t": "03:00",
+          "sec": 180,
+          "title": "In-Flight Entertainment (IFE) & Wi-Fi",
           "ife": true
         },
         {
-          "t": "4:07",
-          "sec": 247,
-          "title": "Flight Delay & Rerouting Info",
+          "t": "04:45",
+          "sec": 285,
+          "title": "Dinner Service & Onboard Dining Review",
           "ife": false
         },
         {
-          "t": "4:53",
-          "sec": 293,
-          "title": "In-Flight Experience & Language Options",
+          "t": "06:00",
+          "sec": 360,
+          "title": "Mid-Flight Amenities & Lavatory Walkthrough",
           "ife": false
         },
         {
-          "t": "5:54",
-          "sec": 354,
-          "title": "Menu & Dinner Service (Pasta Review!)",
+          "t": "07:30",
+          "sec": 450,
+          "title": "Pre-Arrival Breakfast Service",
           "ife": false
         },
         {
-          "t": "6:32",
-          "sec": 392,
-          "title": "Lavatory Inspection (Boeing 777-300ER)",
-          "ife": false
-        },
-        {
-          "t": "7:26",
-          "sec": 446,
-          "title": "Flight Map Update & Diversion Details",
-          "ife": false
-        },
-        {
-          "t": "8:36",
-          "sec": 516,
-          "title": "Breakfast Service",
-          "ife": false
-        },
-        {
-          "t": "9:07",
-          "sec": 547,
-          "title": "Amazing Night Landing in São Paulo (GRU)",
-          "ife": false
-        },
-        {
-          "t": "10:11",
-          "sec": 611,
-          "title": "Final Thoughts & Outro",
+          "t": "08:30",
+          "sec": 510,
+          "title": "Descent into São Paulo (GRU) & Final Verdict",
           "ife": false
         }
       ],
@@ -56874,39 +56832,39 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "London Heathrow LHR Boarding - Seat Tour",
+          "title": "London Heathrow (LHR) Boarding and Seat Tour",
           "ife": false
         },
         {
-          "t": "1:59",
+          "t": "01:59",
           "sec": 119,
           "title": "Wi-Fi Costs",
           "ife": true
         },
         {
-          "t": "2:11",
+          "t": "02:11",
           "sec": 131,
           "title": "Dinner Service",
           "ife": false
         },
         {
-          "t": "2:55",
+          "t": "02:55",
           "sec": 175,
           "title": "Restroom Check",
           "ife": false
         },
         {
-          "t": "3:23",
+          "t": "03:23",
           "sec": 203,
           "title": "Pre-Landing Snack",
           "ife": false
         },
         {
-          "t": "3:44",
+          "t": "03:44",
           "sec": 224,
-          "title": "New York JFK Landing - Trip Verdict",
+          "title": "New York (JFK) Landing and Trip Verdict",
           "ife": false
         }
       ],
@@ -57208,61 +57166,61 @@
       "sentiment_score": 0.637,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "JFK Boarding",
+          "title": "New York John F Kennedy International Airport Boarding",
           "ife": false
         },
         {
-          "t": "0:43",
+          "t": "00:43",
           "sec": 43,
           "title": "Airbus A350-1000 Economy Seat Tour",
           "ife": false
         },
         {
-          "t": "3:29",
+          "t": "03:29",
           "sec": 209,
-          "title": "JFK Takeoff",
+          "title": "Takeoff from New York",
           "ife": false
         },
         {
-          "t": "4:07",
+          "t": "04:07",
           "sec": 247,
           "title": "Multi-Course Dinner Service",
           "ife": false
         },
         {
-          "t": "5:50",
+          "t": "05:50",
           "sec": 350,
           "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
-          "t": "6:31",
+          "t": "06:31",
           "sec": 391,
-          "title": "Inflight Wi-Fi Speeds and Costs",
+          "title": "In-Flight Wi-Fi Speeds and Costs",
           "ife": true
         },
         {
-          "t": "6:50",
+          "t": "06:50",
           "sec": 410,
           "title": "Mid-Flight Snack Options",
           "ife": false
         },
         {
-          "t": "7:27",
+          "t": "07:27",
           "sec": 447,
           "title": "Pre-Landing Meal",
           "ife": false
         },
         {
-          "t": "8:22",
+          "t": "08:22",
           "sec": 502,
           "title": "Final Verdict and Value",
           "ife": false
         },
         {
-          "t": "9:40",
+          "t": "09:40",
           "sec": 580,
           "title": "Tokyo Haneda Landing",
           "ife": false
@@ -69399,55 +69357,55 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Boarding at Hong Kong International Airport (HKG)",
           "ife": false
         },
         {
-          "t": "0:18",
+          "t": "00:18",
           "sec": 18,
           "title": "Cathay Pacific A350 Economy Seat Tour",
           "ife": false
         },
         {
-          "t": "1:57",
+          "t": "01:57",
           "sec": 117,
           "title": "Takeoff from Hong Kong",
           "ife": false
         },
         {
-          "t": "2:45",
+          "t": "02:45",
           "sec": 165,
           "title": "Economy Dinner Service and Menu",
           "ife": false
         },
         {
-          "t": "4:02",
+          "t": "04:02",
           "sec": 242,
-          "title": "Inflight Entertainment and Wi-Fi Review",
+          "title": "In-Flight Entertainment and Wi-Fi Review",
           "ife": true
         },
         {
-          "t": "4:34",
+          "t": "04:34",
           "sec": 274,
           "title": "Economy Restroom Tour",
           "ife": false
         },
         {
-          "t": "5:02",
+          "t": "05:02",
           "sec": 302,
           "title": "Self-Service Galley Snacks",
           "ife": false
         },
         {
-          "t": "5:49",
+          "t": "05:49",
           "sec": 349,
           "title": "Economy Breakfast Service",
           "ife": false
         },
         {
-          "t": "6:20",
+          "t": "06:20",
           "sec": 380,
           "title": "Landing at Chicago O'Hare (ORD)",
           "ife": false
@@ -69599,51 +69557,51 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Welcome to London Heathrow T5 (LHR)",
+          "title": "Welcome to London Heathrow Terminal 5",
           "ife": false
         },
         {
-          "t": "0:33",
+          "t": "00:33",
           "sec": 33,
           "title": "Cabin and Upper Deck Tour",
           "ife": false
         },
         {
-          "t": "3:58",
+          "t": "03:58",
           "sec": 238,
           "title": "Takeoff",
           "ife": false
         },
         {
-          "t": "4:06",
+          "t": "04:06",
           "sec": 246,
           "title": "Lunch Service",
           "ife": false
         },
         {
-          "t": "5:33",
+          "t": "05:33",
           "sec": 333,
           "title": "Entertainment and Wi-Fi",
           "ife": true
         },
         {
-          "t": "5:48",
+          "t": "05:48",
           "sec": 348,
           "title": "Restroom Tour",
           "ife": false
         },
         {
-          "t": "5:58",
+          "t": "05:58",
           "sec": 358,
           "title": "Snack Service",
           "ife": false
         },
         {
-          "t": "6:32",
+          "t": "06:32",
           "sec": 392,
-          "title": "Final Verdict - Landing at Washingto Dulles (IAD)",
+          "title": "Final Verdict and Landing at Washington Dulles",
           "ife": false
         }
       ],
@@ -71053,57 +71011,57 @@
       "title_lang": "en",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Boarding at Dallas Fort Worth (DFW)",
           "ife": false
         },
         {
-          "t": "0:15",
+          "t": "00:15",
           "sec": 15,
           "title": "Cathay Pacific A350 Economy Seat Tour and Legroom",
           "ife": false
         },
         {
-          "t": "1:28",
+          "t": "01:28",
           "sec": 88,
           "title": "Departure for Hong Kong",
           "ife": false
         },
         {
-          "t": "2:34",
+          "t": "02:34",
           "sec": 154,
           "title": "Dinner Service",
           "ife": false
         },
         {
-          "t": "4:02",
+          "t": "04:02",
           "sec": 242,
-          "title": "Inflight Entertainment System and Wi-Fi",
+          "title": "In-Flight Entertainment System and Wi-Fi",
           "ife": true
         },
         {
-          "t": "4:56",
+          "t": "04:56",
           "sec": 296,
           "title": "Economy Class Lavatory Tour",
           "ife": false
         },
         {
-          "t": "5:22",
+          "t": "05:22",
           "sec": 322,
           "title": "Mid-Flight Snacks and Self-Serve Galley",
           "ife": false
         },
         {
-          "t": "5:35",
+          "t": "05:35",
           "sec": 335,
           "title": "Pre-Arrival Breakfast Service",
           "ife": false
         },
         {
-          "t": "6:02",
+          "t": "06:02",
           "sec": 362,
-          "title": "Final Rating - Landing at Hong Kong (HKG)",
+          "title": "Final Rating and Landing at Hong Kong (HKG)",
           "ife": false
         }
       ]
@@ -79607,8 +79565,8 @@
           "ife": false
         },
         {
-          "t": "16:34",
-          "sec": 994,
+          "t": "16:10",
+          "sec": 970,
           "title": "Taxi to Gate and Arrival",
           "ife": false
         }
@@ -81930,13 +81888,13 @@
         {
           "t": "06:37",
           "sec": 397,
-          "title": "Legroom Review",
+          "title": "Economy Class Legroom Review",
           "ife": false
         },
         {
           "t": "06:40",
           "sec": 400,
-          "title": "In-Flight Meal",
+          "title": "Cathay Pacific In-Flight Meal",
           "ife": false
         },
         {
@@ -81960,7 +81918,7 @@
         {
           "t": "11:51",
           "sec": 711,
-          "title": "Next Episode Preview — Ngong Ping 360 Cable Car",
+          "title": "Next Episode Preview: Ngong Ping 360 Cable Car",
           "ife": false
         }
       ],
@@ -114517,49 +114475,49 @@
       "ife_system_guess": "Panasonic eX3",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "British Airways Club Suite Tour",
           "ife": false
         },
         {
-          "t": "1:57",
+          "t": "01:57",
           "sec": 117,
           "title": "Taxi and Takeoff",
           "ife": false
         },
         {
-          "t": "3:13",
+          "t": "03:13",
           "sec": 193,
-          "title": "Inflight Entertainment and Wi-Fi",
+          "title": "In-Flight Entertainment and Wi-Fi",
           "ife": true
         },
         {
-          "t": "3:51",
+          "t": "03:51",
           "sec": 231,
-          "title": "Three Hour Meal Service Review",
+          "title": "Three-Hour Meal Service Review",
           "ife": false
         },
         {
-          "t": "6:15",
+          "t": "06:15",
           "sec": 375,
           "title": "Restroom Walkthrough",
           "ife": false
         },
         {
-          "t": "6:26",
+          "t": "06:26",
           "sec": 386,
           "title": "Bed Comfort and Legroom Test",
           "ife": false
         },
         {
-          "t": "6:48",
+          "t": "06:48",
           "sec": 408,
           "title": "Pre-Arrival Meal Service",
           "ife": false
         },
         {
-          "t": "7:14",
+          "t": "07:14",
           "sec": 434,
           "title": "Final Verdict and Value Rating",
           "ife": false
