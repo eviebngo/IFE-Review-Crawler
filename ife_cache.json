@@ -154337,7 +154337,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UsM0xC_Q76c",
@@ -154481,7 +154483,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=DYaroIub6Sw",
@@ -154621,7 +154625,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=oAkPujI7w68",
@@ -154654,7 +154660,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.42
     },
     {
       "url": "https://www.youtube.com/watch?v=VGtaN4SEKak",
@@ -154698,7 +154706,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=fbA_BiQikEE",
@@ -154733,7 +154743,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=SMwFoupte1c",
@@ -154905,7 +154917,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ss04SDGLNt0",
@@ -154957,7 +154971,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.273
     },
     {
       "url": "https://www.youtube.com/watch?v=ICZ2AL58WiI",
@@ -155007,7 +155023,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=LgZDNZqllzE",
@@ -155118,8 +155136,704 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L2JYPFn4I1A",
+      "title": "Flying Asiana Airlines One Last Time from Seoul to Tokyo | A321neo | Economy",
+      "year": 2026,
+      "published_at": "2026-10-03T04:29:43Z",
+      "channel_title": "The Global Peasant",
+      "view_count": 64,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:40",
+          "sec": 40,
+          "title": "Things to do in ICN",
+          "ife": false
+        },
+        {
+          "t": "2:25",
+          "sec": 145,
+          "title": "Matina Lounge at ICN T2",
+          "ife": false
+        },
+        {
+          "t": "3:50",
+          "sec": 230,
+          "title": "At the and boarding",
+          "ife": false
+        },
+        {
+          "t": "4:32",
+          "sec": 272,
+          "title": "Scouting Report and Takeoff",
+          "ife": false
+        },
+        {
+          "t": "5:35",
+          "sec": 335,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "6:55",
+          "sec": 415,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "7:50",
+          "sec": 470,
+          "title": "Cabin Interior",
+          "ife": false
+        },
+        {
+          "t": "8:25",
+          "sec": 505,
+          "title": "Seat features",
+          "ife": false
+        },
+        {
+          "t": "9:00",
+          "sec": 540,
+          "title": "🚻",
+          "ife": false
+        },
+        {
+          "t": "9:30",
+          "sec": 570,
+          "title": "Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 6
+        },
+        {
+          "keyword": "korean air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-Nyxp0Nq9Ms",
+      "title": "British Airways Business Class Mini Review (777-300ER Club Suite)",
+      "year": 2026,
+      "published_at": "2026-10-02T15:24:56Z",
+      "channel_title": "Gabe Leigh",
+      "view_count": 3355,
+      "like_count": 150,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ndXNv7nqaRA",
+      "title": "SriLankan A320 Business Class: The Best Way To Fly It | Singapore to Colombo",
+      "year": 2026,
+      "published_at": "2026-10-02T11:30:34Z",
+      "channel_title": "Our Travel SA",
+      "view_count": 230,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "SriLankan business class, Singapore to Colombo",
+          "ife": false
+        },
+        {
+          "t": "1:14",
+          "sec": 74,
+          "title": "Why I skipped the lounge they gave me",
+          "ife": false
+        },
+        {
+          "t": "1:55",
+          "sec": 115,
+          "title": "Inside the Qatar Airways Premium Lounge",
+          "ife": false
+        },
+        {
+          "t": "4:02",
+          "sec": 242,
+          "title": "Boarding the A320 and the recliner seat",
+          "ife": false
+        },
+        {
+          "t": "6:00",
+          "sec": 360,
+          "title": "Catering, entertainment and service",
+          "ife": true
+        },
+        {
+          "t": "8:18",
+          "sec": 498,
+          "title": "How I upgraded for $215 and earned full points",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NKFNL685FBA",
+      "title": "United First Class: Boeing 737 vs Airbus A320 – Which Is Better?",
+      "year": 2026,
+      "published_at": "2026-10-03T00:54:55Z",
+      "channel_title": "ThePanzoAdventures",
+      "view_count": 32,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro: 737 vs A320",
+          "ife": false
+        },
+        {
+          "t": "01:38",
+          "sec": 98,
+          "title": "Catching up on life",
+          "ife": true
+        },
+        {
+          "t": "02:01",
+          "sec": 121,
+          "title": "United Club at RDU",
+          "ife": false
+        },
+        {
+          "t": "03:44",
+          "sec": 224,
+          "title": "Boeing 737 first class cabin",
+          "ife": false
+        },
+        {
+          "t": "04:37",
+          "sec": 277,
+          "title": "737 vs A320 cabin comparison",
+          "ife": false
+        },
+        {
+          "t": "05:15",
+          "sec": 315,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "05:56",
+          "sec": 356,
+          "title": "Life update and upcoming videos",
+          "ife": true
+        },
+        {
+          "t": "07:12",
+          "sec": 432,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "08:05",
+          "sec": 485,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "08:37",
+          "sec": 517,
+          "title": "Final verdict: Is it worth it?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "china airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "thai airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 7
+        },
+        {
+          "keyword": "a320",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Streaming"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z1rIogYwyc0",
+      "title": "EgyptAir BRAND NEW A350 Economy Class Review | London to Cairo",
+      "year": 2026,
+      "published_at": "2026-10-01T17:30:00Z",
+      "channel_title": "Abdirisaq Aviation",
+      "view_count": 2889,
+      "like_count": 35,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:21",
+          "sec": 21,
+          "title": "Heathrow Airport",
+          "ife": false
+        },
+        {
+          "t": "1:39",
+          "sec": 99,
+          "title": "Boarding EgyptAir A350",
+          "ife": false
+        },
+        {
+          "t": "3:03",
+          "sec": 183,
+          "title": "A350-900 Cabin & Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "4:32",
+          "sec": 272,
+          "title": "Flight Information",
+          "ife": false
+        },
+        {
+          "t": "5:42",
+          "sec": 342,
+          "title": "Travel Prayer & Safety Video",
+          "ife": false
+        },
+        {
+          "t": "14:24",
+          "sec": 864,
+          "title": "Pushback & Engine Start",
+          "ife": false
+        },
+        {
+          "t": "19:34",
+          "sec": 1174,
+          "title": "Taxi to Runway 09R",
+          "ife": false
+        },
+        {
+          "t": "21:55",
+          "sec": 1315,
+          "title": "A350 IFE - Movies & TV Shows",
+          "ife": true
+        },
+        {
+          "t": "25:39",
+          "sec": 1539,
+          "title": "Departure from London Heathrow",
+          "ife": false
+        },
+        {
+          "t": "28:27",
+          "sec": 1707,
+          "title": "EgyptAir Current Fleet",
+          "ife": false
+        },
+        {
+          "t": "30:28",
+          "sec": 1828,
+          "title": "EgyptAir History",
+          "ife": false
+        },
+        {
+          "t": "37:03",
+          "sec": 2223,
+          "title": "Legroom & Amenities",
+          "ife": false
+        },
+        {
+          "t": "39:07",
+          "sec": 2347,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "42:57",
+          "sec": 2577,
+          "title": "Sunset",
+          "ife": false
+        },
+        {
+          "t": "43:58",
+          "sec": 2638,
+          "title": "Free Wi-Fi On EgyptAir",
+          "ife": true
+        },
+        {
+          "t": "46:54",
+          "sec": 2814,
+          "title": "EgyptAir Route Network",
+          "ife": false
+        },
+        {
+          "t": "49:01",
+          "sec": 2941,
+          "title": "Flight Summary & Conclusions",
+          "ife": false
+        },
+        {
+          "t": "50:23",
+          "sec": 3023,
+          "title": "Landing Into Cairo International Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 11
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        },
+        {
+          "keyword": "a320",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eDawCUkwvyI",
+      "title": "My FIRST Domestic Flight in China 🇨🇳 | China Southern A350 ✈️ (Guangzhou to Beijing)",
+      "year": 2026,
+      "published_at": "2026-10-02T07:32:39Z",
+      "channel_title": "Monte Aviation",
+      "view_count": 35,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Guangzhou Airport (CAN)",
+          "ife": false
+        },
+        {
+          "t": "01:37",
+          "sec": 97,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:16",
+          "sec": 136,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "04:45",
+          "sec": 285,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "05:29",
+          "sec": 329,
+          "title": "Inflight Entertainment Screen",
+          "ife": true
+        },
+        {
+          "t": "06:16",
+          "sec": 376,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "06:48",
+          "sec": 408,
+          "title": "Bathroom Review",
+          "ife": false
+        },
+        {
+          "t": "07:16",
+          "sec": 436,
+          "title": "Cabin & Approach into Beijing (PKX)",
+          "ife": false
+        },
+        {
+          "t": "08:30",
+          "sec": 510,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "09:30",
+          "sec": 570,
+          "title": "Delay for gate",
+          "ife": false
+        },
+        {
+          "t": "10:08",
+          "sec": 608,
+          "title": "Deboarding",
+          "ife": false
+        },
+        {
+          "t": "10:30",
+          "sec": 630,
+          "title": "Spotting the C919",
+          "ife": false
+        },
+        {
+          "t": "11:52",
+          "sec": 712,
+          "title": "Ending",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china southern",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6Ph9UQh1z48",
+      "title": "[TRIP REPORT] United Airlines Boeing 757-200 (ECONOMY PLUS) San Diego (SAN) - Newark (EWR)",
+      "year": 2026,
+      "published_at": "2026-10-02T16:00:37Z",
+      "channel_title": "theplanesguy",
+      "view_count": 860,
+      "like_count": 21,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-02T09:35:41.511558"
+  "last_updated": "2026-10-03T09:02:35.202178"
 }
