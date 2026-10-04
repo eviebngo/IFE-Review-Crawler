@@ -52124,51 +52124,51 @@
       "like_count": 17,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Boarding at New York JFK",
+          "title": "Boarding at New York (JFK)",
           "ife": false
         },
         {
-          "t": "0:17",
+          "t": "00:17",
           "sec": 17,
           "title": "Row 20 Bulkhead Seat Tour",
           "ife": false
         },
         {
-          "t": "2:35",
+          "t": "02:35",
           "sec": 155,
-          "title": "Takeoff from New York",
+          "title": "Takeoff from New York (JFK)",
           "ife": false
         },
         {
-          "t": "3:04",
+          "t": "03:04",
           "sec": 184,
           "title": "Transatlantic Dinner Service and Meal Review",
           "ife": false
         },
         {
-          "t": "3:39",
+          "t": "03:39",
           "sec": 219,
-          "title": "Economu Restroom Tour",
+          "title": "Economy Restroom Tour",
           "ife": false
         },
         {
-          "t": "4:11",
+          "t": "04:11",
           "sec": 251,
           "title": "Breakfast Service",
           "ife": false
         },
         {
-          "t": "4:32",
+          "t": "04:32",
           "sec": 272,
           "title": "Row 20 Bulkhead Seat Verdict",
           "ife": false
         },
         {
-          "t": "5:30",
+          "t": "05:30",
           "sec": 330,
-          "title": "Landing at London Heathrow LHR",
+          "title": "Landing at London Heathrow (LHR)",
           "ife": false
         }
       ],
@@ -56412,57 +56412,57 @@
       "sentiment_score": 0.226,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "London Heathrow Terminal 3 Departure",
           "ife": false
         },
         {
-          "t": "0:34",
+          "t": "00:34",
           "sec": 34,
-          "title": "American Airlines 787 Dreamliner Main Cabin Extra Seat Tour",
+          "title": "American Airlines Boeing 787-9 Dreamliner Main Cabin Extra Seat Tour",
           "ife": false
         },
         {
-          "t": "3:44",
+          "t": "03:44",
           "sec": 224,
-          "title": "Takeoff from London Heathrow LHR",
+          "title": "Takeoff from London Heathrow (LHR)",
           "ife": false
         },
         {
-          "t": "4:13",
+          "t": "04:13",
           "sec": 253,
-          "title": "Inflight Wi-Fi Packages and Costs",
+          "title": "In-Flight Wi-Fi Packages and Costs",
           "ife": true
         },
         {
-          "t": "4:32",
+          "t": "04:32",
           "sec": 272,
           "title": "Transatlantic Dinner Service and Meal Review",
           "ife": false
         },
         {
-          "t": "5:20",
+          "t": "05:20",
           "sec": 320,
-          "title": "Inflight Entertainment Review",
+          "title": "In-Flight Entertainment Review",
           "ife": true
         },
         {
-          "t": "6:02",
+          "t": "06:02",
           "sec": 362,
           "title": "Aircraft Restroom Tour",
           "ife": false
         },
         {
-          "t": "6:22",
+          "t": "06:22",
           "sec": 382,
           "title": "Pre-Landing Snack Service",
           "ife": false
         },
         {
-          "t": "6:54",
+          "t": "06:54",
           "sec": 414,
-          "title": "Landing at Chicago O'Hare ORD and Final Verdict",
+          "title": "Landing at Chicago O'Hare (ORD) and Final Verdict",
           "ife": false
         }
       ],
@@ -56519,43 +56519,43 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "New York JFK Boarding and Seat Tour",
+          "title": "New York (JFK) Boarding and Seat Tour",
           "ife": false
         },
         {
-          "t": "1:45",
+          "t": "01:45",
           "sec": 105,
           "title": "American Airlines Premium Economy Amenity Kit Review",
           "ife": false
         },
         {
-          "t": "2:07",
+          "t": "02:07",
           "sec": 127,
-          "title": "Inflight Entertainment System Review",
+          "title": "In-Flight Entertainment System Review",
           "ife": true
         },
         {
-          "t": "2:42",
+          "t": "02:42",
           "sec": 162,
           "title": "Transatlantic Dinner Service and Menu",
           "ife": false
         },
         {
-          "t": "4:03",
+          "t": "04:03",
           "sec": 243,
           "title": "Aircraft Restroom Tour",
           "ife": false
         },
         {
-          "t": "4:18",
+          "t": "04:18",
           "sec": 258,
-          "title": "Inflight Wi-Fi Options and Pricing",
+          "title": "In-Flight Wi-Fi Options and Pricing",
           "ife": true
         },
         {
-          "t": "4:49",
+          "t": "04:49",
           "sec": 289,
           "title": "American Airlines Premium Economy Final Value Verdict",
           "ife": false
@@ -56918,51 +56918,51 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Boarding at New York JFK and MCE Seat Setup",
+          "title": "Boarding at New York (JFK) and Main Cabin Extra Seat Setup",
           "ife": false
         },
         {
-          "t": "1:19",
+          "t": "01:19",
           "sec": 79,
-          "title": "Takeoff for London",
+          "title": "Takeoff for London (LHR)",
           "ife": false
         },
         {
-          "t": "1:44",
+          "t": "01:44",
           "sec": 104,
           "title": "Transatlantic Dinner Service",
           "ife": false
         },
         {
-          "t": "2:29",
+          "t": "02:29",
           "sec": 149,
-          "title": "Inflight Entertainment",
+          "title": "In-Flight Entertainment",
           "ife": true
         },
         {
-          "t": "2:54",
+          "t": "02:54",
           "sec": 174,
           "title": "Restroom Tour",
           "ife": false
         },
         {
-          "t": "3:49",
+          "t": "03:49",
           "sec": 229,
           "title": "Breakfast Service",
           "ife": false
         },
         {
-          "t": "4:22",
+          "t": "04:22",
           "sec": 262,
-          "title": "Landing at LHR - Final Verdict",
+          "title": "Landing at London Heathrow (LHR) and Final Verdict",
           "ife": false
         },
         {
-          "t": "4:55",
+          "t": "04:55",
           "sec": 295,
-          "title": "LHR American Airlines Arrivals Lounge",
+          "title": "London Heathrow (LHR) American Airlines Arrivals Lounge",
           "ife": false
         }
       ],
@@ -57037,69 +57037,69 @@
       "sentiment_score": 0.361,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Boarding at Tokyo Haneda HND",
+          "title": "Boarding at Tokyo Haneda (HND)",
           "ife": false
         },
         {
-          "t": "0:35",
+          "t": "00:35",
           "sec": 35,
           "title": "Economy Cabin Tour",
           "ife": false
         },
         {
-          "t": "2:53",
+          "t": "02:53",
           "sec": 173,
-          "title": "Takeoff from Tokyo Haneda",
+          "title": "Takeoff from Tokyo Haneda (HND)",
           "ife": false
         },
         {
-          "t": "3:44",
+          "t": "03:44",
           "sec": 224,
-          "title": "Inflight Entertainment System Review",
+          "title": "In-Flight Entertainment System Review",
           "ife": true
         },
         {
-          "t": "4:30",
+          "t": "04:30",
           "sec": 270,
           "title": "Snack and Beverage Service",
           "ife": false
         },
         {
-          "t": "5:16",
+          "t": "05:16",
           "sec": 316,
-          "title": "Inflight Wi-Fi Packages and Pricing",
+          "title": "In-Flight Wi-Fi Packages and Pricing",
           "ife": true
         },
         {
-          "t": "5:30",
+          "t": "05:30",
           "sec": 330,
           "title": "Meal Service",
           "ife": false
         },
         {
-          "t": "6:12",
+          "t": "06:12",
           "sec": 372,
           "title": "Restroom Tour",
           "ife": false
         },
         {
-          "t": "6:21",
+          "t": "06:21",
           "sec": 381,
           "title": "Galley Snacks Overview",
           "ife": false
         },
         {
-          "t": "6:29",
+          "t": "06:29",
           "sec": 389,
           "title": "Japan Airlines Economy Verdict",
           "ife": false
         },
         {
-          "t": "7:45",
+          "t": "07:45",
           "sec": 465,
-          "title": "Landing at Singapore Changi SIN",
+          "title": "Landing at Singapore Changi (SIN)",
           "ife": false
         }
       ],
@@ -69195,73 +69195,73 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Check-In at Washington Dulles",
           "ife": false
         },
         {
-          "t": "0:19",
+          "t": "00:19",
           "sec": 19,
           "title": "Boarding and Qsuite Cabin Tour",
           "ife": false
         },
         {
-          "t": "2:50",
+          "t": "02:50",
           "sec": 170,
           "title": "Depart to Doha",
           "ife": false
         },
         {
-          "t": "2:59",
+          "t": "02:59",
           "sec": 179,
           "title": "Starlink Wi-Fi",
           "ife": true
         },
         {
-          "t": "4:13",
+          "t": "04:13",
           "sec": 253,
           "title": "Oryx One Entertainment Options",
           "ife": true
         },
         {
-          "t": "4:22",
+          "t": "04:22",
           "sec": 262,
           "title": "Dine-on-Demand Menu",
           "ife": false
         },
         {
-          "t": "4:57",
+          "t": "04:57",
           "sec": 297,
           "title": "Wine and Beverage Selection",
           "ife": false
         },
         {
-          "t": "5:45",
+          "t": "05:45",
           "sec": 345,
           "title": "Mocktail and Warm Nuts Service",
           "ife": false
         },
         {
-          "t": "6:07",
+          "t": "06:07",
           "sec": 367,
           "title": "Dinner Service Review",
           "ife": false
         },
         {
-          "t": "7:57",
+          "t": "07:57",
           "sec": 477,
           "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
-          "t": "8:22",
+          "t": "08:22",
           "sec": 502,
           "title": "Turndown Service and Bed Test",
           "ife": false
         },
         {
-          "t": "9:27",
+          "t": "09:27",
           "sec": 567,
           "title": "Pre-Arrival Breakfast Service",
           "ife": false
@@ -69474,39 +69474,39 @@
       "sentiment_score": 0.637,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "SIN Boarding at Singapore Changi Airport",
+          "title": "Singapore Changi (SIN) Boarding",
           "ife": false
         },
         {
-          "t": "0:16",
+          "t": "00:16",
           "sec": 16,
           "title": "Cathay Pacific A330 Economy Seat Tour and Legroom",
           "ife": false
         },
         {
-          "t": "2:43",
+          "t": "02:43",
           "sec": 163,
-          "title": "SIN Departure and Takeoff",
+          "title": "Singapore Changi (SIN) Departure and Takeoff",
           "ife": false
         },
         {
-          "t": "3:12",
+          "t": "03:12",
           "sec": 192,
           "title": "Signature Meal and Beverage Service Review",
           "ife": false
         },
         {
-          "t": "3:41",
+          "t": "03:41",
           "sec": 221,
-          "title": "Inflight Entertainment System Overview",
+          "title": "In-Flight Entertainment System Overview",
           "ife": true
         },
         {
-          "t": "4:34",
+          "t": "04:34",
           "sec": 274,
-          "title": "Landing at Hong Kong International - Final Verdict",
+          "title": "Landing at Hong Kong International and Final Verdict",
           "ife": false
         }
       ],
@@ -85716,73 +85716,73 @@
       "sentiment_score": 0.637,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Boarding Qatar 777-300ER at Doha DOH and Cabin Tour",
+          "title": "Boarding Qatar 777-300ER at Doha (DOH) and Cabin Tour",
           "ife": false
         },
         {
-          "t": "3:33",
+          "t": "03:33",
           "sec": 213,
-          "title": "DOH Departure and Takeoff",
+          "title": "Doha (DOH) Departure and Takeoff",
           "ife": false
         },
         {
-          "t": "4:04",
+          "t": "04:04",
           "sec": 244,
-          "title": "Starlink Inflight Wi-Fi Speed Test",
+          "title": "Starlink In-Flight Wi-Fi Speed Test",
           "ife": true
         },
         {
-          "t": "4:24",
+          "t": "04:24",
           "sec": 264,
           "title": "Oryx One Entertainment System Overview",
           "ife": true
         },
         {
-          "t": "4:57",
+          "t": "04:57",
           "sec": 297,
           "title": "Champagne and Warm Nuts Service",
           "ife": false
         },
         {
-          "t": "5:18",
+          "t": "05:18",
           "sec": 318,
           "title": "Premium Beverage Selection",
           "ife": false
         },
         {
-          "t": "6:14",
+          "t": "06:14",
           "sec": 374,
           "title": "Dine-on-Demand Lunch Service and Steak Dinner",
           "ife": false
         },
         {
-          "t": "7:38",
+          "t": "07:38",
           "sec": 458,
           "title": "Lavatory Walkthrough",
           "ife": false
         },
         {
-          "t": "8:03",
+          "t": "08:03",
           "sec": 483,
           "title": "Diptyque Amenity Kit Unboxing",
           "ife": false
         },
         {
-          "t": "8:37",
+          "t": "08:37",
           "sec": 517,
-          "title": "Working Inflight in Qsuite",
+          "title": "Working In-Flight in Qsuite",
           "ife": false
         },
         {
-          "t": "8:53",
+          "t": "08:53",
           "sec": 533,
           "title": "Mid-Flight Snack Service",
           "ife": false
         },
         {
-          "t": "9:38",
+          "t": "09:38",
           "sec": 578,
           "title": "Full Bed Turndown Service and Sleep Test",
           "ife": false
@@ -85808,7 +85808,7 @@
         {
           "t": "12:03",
           "sec": 723,
-          "title": "Landing at Washington Dulles IAD",
+          "title": "Landing at Washington Dulles (IAD)",
           "ife": false
         }
       ],
@@ -86178,43 +86178,43 @@
       "sentiment_score": 0.226,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Cathay Pacific Lounge Location in Terminal 4",
           "ife": false
         },
         {
-          "t": "0:28",
+          "t": "00:28",
           "sec": 28,
           "title": "Lounge Design and Seating Tour",
           "ife": false
         },
         {
-          "t": "1:26",
+          "t": "01:26",
           "sec": 86,
           "title": "Hot Buffet and Self-Serve Drinks",
           "ife": false
         },
         {
-          "t": "2:26",
+          "t": "02:26",
           "sec": 146,
-          "title": "Famous Noodle Bar Review (Dan Dan Noodles and Singapore Laksa)",
+          "title": "Famous Noodle Bar Review",
           "ife": false
         },
         {
-          "t": "3:16",
+          "t": "03:16",
           "sec": 196,
           "title": "Bar Snacks and Beverage Options",
           "ife": false
         },
         {
-          "t": "3:25",
+          "t": "03:25",
           "sec": 205,
           "title": "Business Center",
           "ife": false
         },
         {
-          "t": "3:47",
+          "t": "03:47",
           "sec": 227,
           "title": "Final Verdict",
           "ife": false
@@ -89923,27 +89923,27 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Deluxe Twin Bed Room and Layout Tour",
           "ife": false
         },
         {
-          "t": "1:10",
+          "t": "01:10",
           "sec": 70,
           "title": "Room and Shower Amenities",
           "ife": false
         },
         {
-          "t": "2:20",
+          "t": "02:20",
           "sec": 140,
           "title": "Private Balcony Tour and Little India View",
           "ife": false
         },
         {
-          "t": "3:05",
+          "t": "03:05",
           "sec": 185,
-          "title": "Balcony Value Verdict: Is It Worth Upgrading?",
+          "title": "Balcony Value Verdict and Upgrade Analysis",
           "ife": false
         }
       ],
@@ -104419,55 +104419,55 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Boarding at Hong Kong (HKG)",
           "ife": false
         },
         {
-          "t": "0:29",
+          "t": "00:29",
           "sec": 29,
           "title": "Legroom and Seat Comfort",
           "ife": false
         },
         {
-          "t": "1:38",
+          "t": "01:38",
           "sec": 98,
-          "title": "Takeoff from Hong Kong",
+          "title": "Takeoff from Hong Kong (HKG)",
           "ife": false
         },
         {
-          "t": "2:20",
+          "t": "02:20",
           "sec": 140,
-          "title": "Inflight Entertainment",
+          "title": "In-Flight Entertainment",
           "ife": true
         },
         {
-          "t": "2:46",
+          "t": "02:46",
           "sec": 166,
           "title": "Hot Meal Service",
           "ife": false
         },
         {
-          "t": "3:08",
+          "t": "03:08",
           "sec": 188,
           "title": "Restroom Tour",
           "ife": false
         },
         {
-          "t": "3:14",
+          "t": "03:14",
           "sec": 194,
           "title": "Wi-Fi Options",
           "ife": true
         },
         {
-          "t": "3:36",
+          "t": "03:36",
           "sec": 216,
           "title": "Final Rating and Verdict",
           "ife": false
         },
         {
-          "t": "4:18",
+          "t": "04:18",
           "sec": 258,
           "title": "Landing at Taipei (TPE)",
           "ife": false
@@ -107503,31 +107503,31 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Rainy Night Taxiing at Dallas-Fort Worth DFW",
+          "title": "Rainy Night Taxiing at Dallas-Fort Worth (DFW)",
           "ife": false
         },
         {
-          "t": "0:40",
+          "t": "00:40",
           "sec": 40,
           "title": "Stormy Airbus A350-1000 Takeoff and Initial Climb",
           "ife": false
         },
         {
-          "t": "1:48",
+          "t": "01:48",
           "sec": 108,
           "title": "Quiet Mid-Flight Cruise Cabin Engine Audio",
           "ife": false
         },
         {
-          "t": "3:27",
+          "t": "03:27",
           "sec": 207,
-          "title": "Initial Descent and Approach into Hong Kong HKG",
+          "title": "Initial Descent and Approach into Hong Kong (HKG)",
           "ife": false
         },
         {
-          "t": "4:49",
+          "t": "04:49",
           "sec": 289,
           "title": "Touchdown and Wet-Runway Rollout at Hong Kong International Airport",
           "ife": false
@@ -120491,55 +120491,55 @@
       "ife_system_guess": "StudioCX",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Boarding at Taipei (TPE)",
           "ife": false
         },
         {
-          "t": "0:33",
+          "t": "00:33",
           "sec": 33,
           "title": "Legroom and Seat Comfort",
           "ife": false
         },
         {
-          "t": "1:42",
+          "t": "01:42",
           "sec": 102,
-          "title": "Taxi and Takeoff from Taipei",
+          "title": "Taxi and Takeoff from Taipei (TPE)",
           "ife": false
         },
         {
-          "t": "2:13",
+          "t": "02:13",
           "sec": 133,
-          "title": "Inflight Entertainment",
+          "title": "In-Flight Entertainment",
           "ife": true
         },
         {
-          "t": "2:34",
+          "t": "02:34",
           "sec": 154,
           "title": "Wi-Fi Options",
           "ife": true
         },
         {
-          "t": "2:49",
+          "t": "02:49",
           "sec": 169,
           "title": "Hot Meal and Beverage Service",
           "ife": false
         },
         {
-          "t": "3:06",
+          "t": "03:06",
           "sec": 186,
           "title": "Restroom Tour",
           "ife": false
         },
         {
-          "t": "3:13",
+          "t": "03:13",
           "sec": 193,
           "title": "Final Rating and Verdict",
           "ife": false
         },
         {
-          "t": "3:54",
+          "t": "03:54",
           "sec": 234,
           "title": "Landing at Hong Kong (HKG)",
           "ife": false
@@ -132113,51 +132113,51 @@
       "ife_system_guess": "StudioCX",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Welcome to Hong Kong International HKG",
+          "title": "Welcome to Hong Kong International (HKG)",
           "ife": false
         },
         {
-          "t": "0:15",
+          "t": "00:15",
           "sec": 15,
           "title": "Seat Tour and Amenities",
           "ife": false
         },
         {
-          "t": "1:42",
+          "t": "01:42",
           "sec": 102,
-          "title": "HKG Departure and Takeoff",
+          "title": "Hong Kong (HKG) Departure and Takeoff",
           "ife": false
         },
         {
-          "t": "2:05",
+          "t": "02:05",
           "sec": 125,
           "title": "Snack Box Service",
           "ife": false
         },
         {
-          "t": "2:28",
+          "t": "02:28",
           "sec": 148,
           "title": "Restroom Tour",
           "ife": false
         },
         {
-          "t": "2:32",
+          "t": "02:32",
           "sec": 152,
-          "title": "Inflight Entertainment",
+          "title": "In-Flight Entertainment",
           "ife": true
         },
         {
-          "t": "2:48",
+          "t": "02:48",
           "sec": 168,
           "title": "Wi-Fi Options",
           "ife": true
         },
         {
-          "t": "3:02",
+          "t": "03:02",
           "sec": 182,
-          "title": "Five-Star Rating - Landing at Singapore Changi SIN",
+          "title": "Five-Star Rating and Landing at Singapore Changi (SIN)",
           "ife": false
         }
       ],
@@ -138753,31 +138753,31 @@
       "ife_system_guess": "Panasonic eX3",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Lounge Location in Terminal 1",
           "ife": false
         },
         {
-          "t": "0:31",
+          "t": "00:31",
           "sec": 31,
           "title": "Dining and Bar Area",
           "ife": false
         },
         {
-          "t": "1:07",
+          "t": "01:07",
           "sec": 67,
           "title": "Shower Suites Tour",
           "ife": false
         },
         {
-          "t": "1:56",
+          "t": "01:56",
           "sec": 116,
           "title": "Main Seating Area",
           "ife": false
         },
         {
-          "t": "2:24",
+          "t": "02:24",
           "sec": 144,
           "title": "Final Thoughts and Verdict",
           "ife": false
@@ -144484,49 +144484,49 @@
       "ife_system_guess": "StudioCX",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Cathay Pacific Lounge Terminal 1 Location",
           "ife": false
         },
         {
-          "t": "0:15",
+          "t": "00:15",
           "sec": 15,
           "title": "Food and Beverage Station",
           "ife": false
         },
         {
-          "t": "0:27",
+          "t": "00:27",
           "sec": 27,
           "title": "Business Center",
           "ife": false
         },
         {
-          "t": "0:33",
+          "t": "00:33",
           "sec": 33,
           "title": "Famous Noodle Bar Experience",
           "ife": false
         },
         {
-          "t": "0:58",
+          "t": "00:58",
           "sec": 58,
-          "title": "Washrooms (No Shower Facilities)",
+          "title": "Washrooms and Restrooms",
           "ife": false
         },
         {
-          "t": "1:06",
+          "t": "01:06",
           "sec": 66,
           "title": "Seating and Relaxation Areas",
           "ife": false
         },
         {
-          "t": "1:38",
+          "t": "01:38",
           "sec": 98,
           "title": "Cocktail and Barista Bar",
           "ife": false
         },
         {
-          "t": "1:58",
+          "t": "01:58",
           "sec": 118,
           "title": "Final Thoughts and Verdict",
           "ife": false
@@ -145916,21 +145916,21 @@
       "ife_system_guess": "StudioCX",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
-          "title": "Taxiing at Hong Kong",
+          "title": "Taxiing at Hong Kong (HKG)",
           "ife": false
         },
         {
-          "t": "1:29",
+          "t": "01:29",
           "sec": 89,
-          "title": "Takeoff for Taipei",
+          "title": "Takeoff for Taipei (TPE)",
           "ife": false
         },
         {
-          "t": "3:34",
+          "t": "03:34",
           "sec": 214,
-          "title": "Approach and Landing at Taipei",
+          "title": "Approach and Landing at Taipei (TPE)",
           "ife": false
         }
       ],
@@ -152003,63 +152003,63 @@
       "ife_system_guess": "Panasonic eX3",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Boarding at Tokyo Haneda (HND)",
           "ife": false
         },
         {
-          "t": "0:19",
+          "t": "00:19",
           "sec": 19,
           "title": "Main Cabin Extra Location and Seat Review",
           "ife": false
         },
         {
-          "t": "2:00",
+          "t": "02:00",
           "sec": 120,
-          "title": "Two Wi-Fi Packages | No Free Wi-Fi",
+          "title": "Wi-Fi Options and Pricing",
           "ife": true
         },
         {
-          "t": "2:08",
+          "t": "02:08",
           "sec": 128,
-          "title": "Inflight Entertainment Screen and Features",
+          "title": "In-Flight Entertainment Screen and Features",
           "ife": true
         },
         {
-          "t": "2:46",
+          "t": "02:46",
           "sec": 166,
           "title": "Main Meal Service",
           "ife": false
         },
         {
-          "t": "3:28",
+          "t": "03:28",
           "sec": 208,
           "title": "Restroom Walkthrough",
           "ife": false
         },
         {
-          "t": "3:56",
+          "t": "03:56",
           "sec": 236,
           "title": "Mid-Flight Snack",
           "ife": false
         },
         {
-          "t": "4:23",
+          "t": "04:23",
           "sec": 263,
           "title": "Galley Snacks",
           "ife": false
         },
         {
-          "t": "4:45",
+          "t": "04:45",
           "sec": 285,
           "title": "Pre-Arrival Snack and Meal",
           "ife": false
         },
         {
-          "t": "5:04",
+          "t": "05:04",
           "sec": 304,
-          "title": "Overall 5-Star Rating and Verdict",
+          "title": "Overall Rating and Verdict",
           "ife": false
         }
       ],
@@ -155211,7 +155211,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=-Nyxp0Nq9Ms",
@@ -155255,7 +155257,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ndXNv7nqaRA",
@@ -155338,7 +155342,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=NKFNL685FBA",
@@ -155468,7 +155474,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.691
     },
     {
       "url": "https://www.youtube.com/watch?v=Z1rIogYwyc0",
@@ -155631,7 +155639,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=eDawCUkwvyI",
@@ -155754,7 +155764,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=6Ph9UQh1z48",
@@ -155790,8 +155802,737 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hb8KvykED1A",
+      "title": "Riyadh Air Business Class - Full Review… How Everything Went Wrong! + Full Hafawa Lounge Tour",
+      "year": 2026,
+      "published_at": "2026-10-03T12:07:39Z",
+      "channel_title": "Aviator Samy",
+      "view_count": 780,
+      "like_count": 11,
+      "ife_system": "Panasonic Astrova",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "content_count": "500+"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9Wi5pRjX27o",
+      "title": "Singapore Airlines 777-300ER Economy: The 9-Abreast Miracle?",
+      "year": 2026,
+      "published_at": "2026-10-02T16:30:34Z",
+      "channel_title": "Travels by Dreamer",
+      "view_count": 2872,
+      "like_count": 54,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z7824VUQ4fA",
+      "title": "[Flight Review] Cathay Pacific Airways A350-1000 CX198 Auckland to HongKong",
+      "year": 2026,
+      "published_at": "2026-10-02T11:03:43Z",
+      "channel_title": "30 Seconds World Travel",
+      "view_count": 106,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uao9DcnwYxs",
+      "title": "STARLUX A350-900 BKK → TPE | Bangkok to Taipei Trip Report",
+      "year": 2026,
+      "published_at": "2026-09-27T03:30:19Z",
+      "channel_title": "onlyaviation",
+      "view_count": 7045,
+      "like_count": 53,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "getting to the airport",
+          "ife": false
+        },
+        {
+          "t": "00:11",
+          "sec": 11,
+          "title": "BKK airport",
+          "ife": false
+        },
+        {
+          "t": "02:50",
+          "sec": 170,
+          "title": "boarding",
+          "ife": false
+        },
+        {
+          "t": "03:35",
+          "sec": 215,
+          "title": "seat",
+          "ife": false
+        },
+        {
+          "t": "04:50",
+          "sec": 290,
+          "title": "pushback/taxi",
+          "ife": false
+        },
+        {
+          "t": "05:49",
+          "sec": 349,
+          "title": "takeoff",
+          "ife": false
+        },
+        {
+          "t": "07:33",
+          "sec": 453,
+          "title": "meal service",
+          "ife": false
+        },
+        {
+          "t": "07:52",
+          "sec": 472,
+          "title": "IFE review",
+          "ife": true
+        },
+        {
+          "t": "08:37",
+          "sec": 517,
+          "title": "dimmable windows",
+          "ife": false
+        },
+        {
+          "t": "09:06",
+          "sec": 546,
+          "title": "descent",
+          "ife": false
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "landing",
+          "ife": false
+        },
+        {
+          "t": "12:19",
+          "sec": 739,
+          "title": "taxi to gate",
+          "ife": false
+        },
+        {
+          "t": "13:11",
+          "sec": 791,
+          "title": "deboarding",
+          "ife": false
+        },
+        {
+          "t": "13:27",
+          "sec": 807,
+          "title": "TPE airport",
+          "ife": false
+        },
+        {
+          "t": "13:36",
+          "sec": 816,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FAXAHDCZIis",
+      "title": "[Flight review] Cathay Pacific new premium economy class flight review",
+      "year": 2026,
+      "published_at": "2026-10-02T12:16:50Z",
+      "channel_title": "Starlux plane spotter",
+      "view_count": 44,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HAfHCwSkCY4",
+      "title": "The BEST and WORST PREMIUM ECONOMY Airlines in 2026",
+      "year": 2026,
+      "published_at": "2026-09-21T07:45:11Z",
+      "channel_title": "Epic Voyage",
+      "view_count": 3501,
+      "like_count": 15,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:45",
+          "sec": 45,
+          "title": "Worst #5 — LOT Polish Airlines",
+          "ife": false
+        },
+        {
+          "t": "02:03",
+          "sec": 123,
+          "title": "Worst #4 — China Southern Airlines",
+          "ife": false
+        },
+        {
+          "t": "03:14",
+          "sec": 194,
+          "title": "Worst #3 — Philippine Airlines",
+          "ife": false
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "Worst #2 — SWISS",
+          "ife": false
+        },
+        {
+          "t": "05:52",
+          "sec": 352,
+          "title": "Worst #1 — Lufthansa",
+          "ife": false
+        },
+        {
+          "t": "07:37",
+          "sec": 457,
+          "title": "Best #5 — Singapore Airlines",
+          "ife": false
+        },
+        {
+          "t": "08:46",
+          "sec": 526,
+          "title": "Best #4 — EVA Air",
+          "ife": false
+        },
+        {
+          "t": "10:15",
+          "sec": 615,
+          "title": "Best #3 — Virgin Atlantic",
+          "ife": false
+        },
+        {
+          "t": "11:25",
+          "sec": 685,
+          "title": "Best #2 — Japan Airlines (JAL)",
+          "ife": false
+        },
+        {
+          "t": "12:56",
+          "sec": 776,
+          "title": "Best #1 — Emirates",
+          "ife": false
+        },
+        {
+          "t": "14:39",
+          "sec": 879,
+          "title": "Final Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 5
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 4
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 3
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wnIyAlcKDrU",
+      "title": "$499 Upgrade to Lie Flat?? - DELTA ONE From Seattle to Taipei - Flight Review",
+      "year": 2026,
+      "published_at": "2026-09-25T13:00:28Z",
+      "channel_title": "worldtravelerwooootles",
+      "view_count": 665,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EdYGQhce3pw",
+      "title": "China Eastern Complete Business Class Review - prepare to be surprised!",
+      "year": 2026,
+      "published_at": "2026-09-29T14:08:30Z",
+      "channel_title": "Independent Travel Reviews",
+      "view_count": 589,
+      "like_count": 9,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "China Eastern Business Class - Check-in",
+          "ife": false
+        },
+        {
+          "t": "01:46",
+          "sec": 106,
+          "title": "China Eastern Business Class - Skyteam credits",
+          "ife": false
+        },
+        {
+          "t": "02:19",
+          "sec": 139,
+          "title": "China Eastern Business Class - China Immigration Formalities",
+          "ife": false
+        },
+        {
+          "t": "02:37",
+          "sec": 157,
+          "title": "China Eastern Business Class - Cebu Plaza Premium Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:42",
+          "sec": 222,
+          "title": "China Eastern Business Class - A320 Neo interior",
+          "ife": false
+        },
+        {
+          "t": "05:24",
+          "sec": 324,
+          "title": "China Eastern Business Class - Food and drink service (1)",
+          "ife": false
+        },
+        {
+          "t": "06:59",
+          "sec": 419,
+          "title": "China Eastern Business Class - Shanghai arrival and immigration",
+          "ife": false
+        },
+        {
+          "t": "08:22",
+          "sec": 502,
+          "title": "China Eastern Business Class - Shanghai Domestic Lounge",
+          "ife": false
+        },
+        {
+          "t": "09:11",
+          "sec": 551,
+          "title": "China Eastern Business Class - B777 boarding",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "China Eastern Business Class - B777 seat",
+          "ife": false
+        },
+        {
+          "t": "10:12",
+          "sec": 612,
+          "title": "China Eastern Business Class - IFE system and WiFi",
+          "ife": true
+        },
+        {
+          "t": "11:32",
+          "sec": 692,
+          "title": "China Eastern Business Class - Lie flat seat",
+          "ife": false
+        },
+        {
+          "t": "12:14",
+          "sec": 734,
+          "title": "China Eastern Business Class - Food and drinks (2)",
+          "ife": false
+        },
+        {
+          "t": "13:30",
+          "sec": 810,
+          "title": "China Eastern Business Class - Bye bye and Chengdu Pandas!",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china eastern",
+          "mentions": 18
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "a320",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2KIiYrjDF3w",
+      "title": "4K · Emirates NEW B777 Business Class · Brussels to Dubai · 🇦🇪 · Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-03T06:00:15Z",
+      "channel_title": "Silent Miles",
+      "view_count": 739,
+      "like_count": 14,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "01:24",
+          "sec": 84,
+          "title": "Welcome - Brussels Airport",
+          "ife": false
+        },
+        {
+          "t": "04:21",
+          "sec": 261,
+          "title": "Pier B - the long-haul side of Brussels",
+          "ife": false
+        },
+        {
+          "t": "07:38",
+          "sec": 458,
+          "title": "The View Lounge — Brussels Airport's newest lounge",
+          "ife": false
+        },
+        {
+          "t": "10:35",
+          "sec": 635,
+          "title": "Boarding the Emirates Boeing B777",
+          "ife": false
+        },
+        {
+          "t": "11:24",
+          "sec": 684,
+          "title": "First look - the NEW Emirates B777 Business Class",
+          "ife": false
+        },
+        {
+          "t": "14:22",
+          "sec": 862,
+          "title": "Pushback and taxi to runway 19",
+          "ife": false
+        },
+        {
+          "t": "16:01",
+          "sec": 961,
+          "title": "Take-off from Brussels",
+          "ife": false
+        },
+        {
+          "t": "18:39",
+          "sec": 1119,
+          "title": "Emirates amenity kit - Bose headset and slippers",
+          "ife": false
+        },
+        {
+          "t": "20:27",
+          "sec": 1227,
+          "title": "The starry ceiling - a quiet cabin",
+          "ife": false
+        },
+        {
+          "t": "21:14",
+          "sec": 1274,
+          "title": "Emirates Business Class dinner - mezze and lamb",
+          "ife": false
+        },
+        {
+          "t": "23:38",
+          "sec": 1418,
+          "title": "Descent into Dubai - runway 30L",
+          "ife": false
+        },
+        {
+          "t": "25:25",
+          "sec": 1525,
+          "title": "Landing in Dubai",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 12
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 12
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-03T09:02:35.202178"
+  "last_updated": "2026-10-04T09:34:34.949854"
 }
