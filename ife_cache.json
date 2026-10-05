@@ -122328,27 +122328,27 @@
       "ife_system_guess": "Panasonic eX3",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Taxiing at London Heathrow (LHR)",
           "ife": false
         },
         {
-          "t": "1:53",
+          "t": "01:53",
           "sec": 113,
           "title": "Takeoff",
           "ife": false
         },
         {
-          "t": "2:42",
+          "t": "02:42",
           "sec": 162,
           "title": "Cruise Altitude",
           "ife": false
         },
         {
-          "t": "3:42",
+          "t": "03:42",
           "sec": 222,
-          "title": "Approach - Landing at Washington Dulles (IAD)",
+          "title": "Approach and Landing at Washington Dulles (IAD)",
           "ife": false
         }
       ],
@@ -150717,27 +150717,27 @@
       "ife_system_guess": "Oryx One",
       "chapters": [
         {
-          "t": "0:00",
+          "t": "00:00",
           "sec": 0,
           "title": "Cruise Altitude",
           "ife": false
         },
         {
-          "t": "1:50",
+          "t": "01:50",
           "sec": 110,
           "title": "Approach into Male",
           "ife": false
         },
         {
-          "t": "2:56",
+          "t": "02:56",
           "sec": 176,
-          "title": "Landing at Male Velana International Airport (MLE)",
+          "title": "Landing at Velana International Airport (MLE)",
           "ife": false
         },
         {
-          "t": "4:13",
+          "t": "04:13",
           "sec": 253,
-          "title": "Taxi to Remote Stand - Planespotting",
+          "title": "Taxi to Remote Stand and Planespotting",
           "ife": false
         }
       ],
@@ -155868,7 +155868,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.525
     },
     {
       "url": "https://www.youtube.com/watch?v=9Wi5pRjX27o",
@@ -155912,7 +155914,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.586
     },
     {
       "url": "https://www.youtube.com/watch?v=Z7824VUQ4fA",
@@ -155953,7 +155957,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=uao9DcnwYxs",
@@ -156089,7 +156095,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FAXAHDCZIis",
@@ -156118,7 +156126,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=HAfHCwSkCY4",
@@ -156240,7 +156250,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.026
     },
     {
       "url": "https://www.youtube.com/watch?v=wnIyAlcKDrU",
@@ -156271,7 +156283,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=EdYGQhce3pw",
@@ -156406,7 +156420,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.294
     },
     {
       "url": "https://www.youtube.com/watch?v=2KIiYrjDF3w",
@@ -156531,8 +156547,459 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KwEcklO1O_c",
+      "title": "Hong Kong to London on Cathay Pacific Boeing 777 in Economy",
+      "year": 2026,
+      "published_at": "2026-09-30T07:00:37Z",
+      "channel_title": "mangochico",
+      "view_count": 841,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Where's my seat?",
+          "ife": false
+        },
+        {
+          "t": "00:28",
+          "sec": 28,
+          "title": "UI/UX of IFE",
+          "ife": true
+        },
+        {
+          "t": "01:27",
+          "sec": 87,
+          "title": "Pasta Bolognese",
+          "ife": false
+        },
+        {
+          "t": "01:57",
+          "sec": 117,
+          "title": "Omelette",
+          "ife": false
+        },
+        {
+          "t": "02:39",
+          "sec": 159,
+          "title": "Toilet",
+          "ife": false
+        },
+        {
+          "t": "03:07",
+          "sec": 187,
+          "title": "Premium Economy",
+          "ife": false
+        },
+        {
+          "t": "03:21",
+          "sec": 201,
+          "title": "ARIA Suite",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m_LICOvCJrk",
+      "title": "Lufthansa Airbus A320 | How Good Is Lufthansa Economy Class? | Munich to Naples | FLIGHT REVIEW.",
+      "year": 2026,
+      "published_at": "2026-09-26T07:00:30Z",
+      "channel_title": "OREON WINGS",
+      "view_count": 5697,
+      "like_count": 72,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MuIwzpP2lhY",
+      "title": "Don't Buy Delta FIRST CLASS Until You Watch This!",
+      "year": 2026,
+      "published_at": "2026-10-03T13:00:34Z",
+      "channel_title": "Travel At Random",
+      "view_count": 1099,
+      "like_count": 37,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction: Main vs Comfort+ vs First",
+          "ife": false
+        },
+        {
+          "t": "0:35",
+          "sec": 35,
+          "title": "The Flight Setup & Route Breakdown",
+          "ife": false
+        },
+        {
+          "t": "1:20",
+          "sec": 80,
+          "title": "Baggage Fees & Sky Priority Check-in",
+          "ife": false
+        },
+        {
+          "t": "1:55",
+          "sec": 115,
+          "title": "Airline Loyalty Status: The Wild Card",
+          "ife": false
+        },
+        {
+          "t": "2:35",
+          "sec": 155,
+          "title": "Boarding Zones & Overhead Bin Space",
+          "ife": false
+        },
+        {
+          "t": "3:10",
+          "sec": 190,
+          "title": "Cabin Layout & Seat Selection Perks",
+          "ife": false
+        },
+        {
+          "t": "4:01",
+          "sec": 241,
+          "title": "Seat Comparison: Dimensions, Legroom & Recline",
+          "ife": false
+        },
+        {
+          "t": "6:04",
+          "sec": 364,
+          "title": "Takeoff From Orlando (MCO)",
+          "ife": false
+        },
+        {
+          "t": "6:45",
+          "sec": 405,
+          "title": "In-Flight Entertainment (IFE) & Free Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "7:54",
+          "sec": 474,
+          "title": "Snack & Drink Service: Main vs Comfort+ vs First",
+          "ife": false
+        },
+        {
+          "t": "9:00",
+          "sec": 540,
+          "title": "Onboard Service Level",
+          "ife": false
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "Pricing Breakdown & SkyMiles Upgrade Value",
+          "ife": false
+        },
+        {
+          "t": "12:21",
+          "sec": 741,
+          "title": "Final Verdict: Is First Class Worth It?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 5
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pmlMjMr3tNg",
+      "title": "We Tried EVERY Delta Cabin on the Same Flight to Europe! ✈️ (Airbus 330-900neo)",
+      "year": 2026,
+      "published_at": "2026-10-04T17:21:37Z",
+      "channel_title": "Josh and Becca Travel",
+      "view_count": 398,
+      "like_count": 15,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 16
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2ersfBTBKaQ",
+      "title": "Riyadh Air Premium Economy Review – Worth It? | London to Riyadh",
+      "year": 2026,
+      "published_at": "2026-09-27T23:31:11Z",
+      "channel_title": "Nick Darby",
+      "view_count": 4438,
+      "like_count": 37,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TDamLnyaWEk",
+      "title": "Cathay Pacific A350-1000 Economy | Hong Kong to Ho Chi Minh City (HKG–SGN) Trip Report",
+      "year": 2026,
+      "published_at": "2026-10-05T04:00:28Z",
+      "channel_title": "Vin N",
+      "view_count": 11,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:08",
+          "sec": 8,
+          "title": "🛂 Transiting through Hong Kong International Airport",
+          "ife": false
+        },
+        {
+          "t": "0:41",
+          "sec": 41,
+          "title": "📸 Boarding",
+          "ife": false
+        },
+        {
+          "t": "1:42",
+          "sec": 102,
+          "title": "💺 Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "2:38",
+          "sec": 158,
+          "title": "Taxiing",
+          "ife": false
+        },
+        {
+          "t": "3:59",
+          "sec": 239,
+          "title": "Take Off",
+          "ife": false
+        },
+        {
+          "t": "5:32",
+          "sec": 332,
+          "title": "IFE Tour",
+          "ife": true
+        },
+        {
+          "t": "7:12",
+          "sec": 432,
+          "title": "🥟 Breakfast",
+          "ife": false
+        },
+        {
+          "t": "7:52",
+          "sec": 472,
+          "title": "Bathroom Tour",
+          "ife": false
+        },
+        {
+          "t": "8:14",
+          "sec": 494,
+          "title": "Descending into Vietnam",
+          "ife": false
+        },
+        {
+          "t": "9:00",
+          "sec": 540,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "11:47",
+          "sec": 707,
+          "title": "Disembarking",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-04T09:34:34.949854"
+  "last_updated": "2026-10-05T10:14:49.583087"
 }
