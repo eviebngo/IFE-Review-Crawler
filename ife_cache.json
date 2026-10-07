@@ -157050,7 +157050,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=9aKk7XlsibA",
@@ -157102,7 +157104,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=eunHOIupgn8",
@@ -157148,7 +157152,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=pSXo47uDTDs",
@@ -157292,7 +157298,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=xyD0Syoyp68",
@@ -157332,7 +157340,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=DwBiM3KN4Mw",
@@ -157364,7 +157374,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=io_xQm0wlYY",
@@ -157468,7 +157480,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=l_7InI4p5X0",
@@ -157509,7 +157523,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=K9gK39IzQ3Y",
@@ -157741,7 +157757,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=uehEUI3cSqc",
@@ -157895,7 +157913,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=Cn6_jHosEY4",
@@ -157986,7 +158006,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=9i8T5pVvETI",
@@ -158102,7 +158124,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=-I6P4MobC8c",
@@ -158139,7 +158163,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.729
     },
     {
       "url": "https://www.youtube.com/watch?v=tQ9K--E8PCc",
@@ -158177,8 +158203,638 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mD77Tu7o7ws",
+      "title": "Aer Lingus Business Class Review: Chicago to Dublin (A330-300)",
+      "year": 2026,
+      "published_at": "2026-10-06T20:00:00Z",
+      "channel_title": "Mel's Miles",
+      "view_count": 2667,
+      "like_count": 108,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:52",
+          "sec": 52,
+          "title": "Flight Day Begins",
+          "ife": false
+        },
+        {
+          "t": "3:50",
+          "sec": 230,
+          "title": "Time To Board",
+          "ife": false
+        },
+        {
+          "t": "5:44",
+          "sec": 344,
+          "title": "Cabin and Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "8:36",
+          "sec": 516,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:56",
+          "sec": 656,
+          "title": "The Menu and the Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "12:32",
+          "sec": 752,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "13:14",
+          "sec": 794,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "14:38",
+          "sec": 878,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "16:00",
+          "sec": 960,
+          "title": "Lights Out!",
+          "ife": false
+        },
+        {
+          "t": "16:50",
+          "sec": 1010,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "17:50",
+          "sec": 1070,
+          "title": "Final Thoughts and Landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nHXcEM0alc8",
+      "title": "I Paid $550 Extra for Cathay Pacific Premium Economy | Is It Actually Worth It?",
+      "year": 2026,
+      "published_at": "2026-10-02T00:33:32Z",
+      "channel_title": "Perspectives and Passports",
+      "view_count": 268,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro — Airlines of the World, Episode 6",
+          "ife": false
+        },
+        {
+          "t": "00:24",
+          "sec": 24,
+          "title": "What I paid: $1,475 vs $925 Economy",
+          "ife": false
+        },
+        {
+          "t": "01:29",
+          "sec": 89,
+          "title": "The Premium Economy seat — width, recline, leg rest",
+          "ife": false
+        },
+        {
+          "t": "03:06",
+          "sec": 186,
+          "title": "Food & drink service",
+          "ife": false
+        },
+        {
+          "t": "04:04",
+          "sec": 244,
+          "title": "In-flight entertainment & screen",
+          "ife": true
+        },
+        {
+          "t": "05:01",
+          "sec": 301,
+          "title": "Hong Kong lounge & hot shower layover",
+          "ife": false
+        },
+        {
+          "t": "07:17",
+          "sec": 437,
+          "title": "My seat-selection mistake — pick your seat early",
+          "ife": false
+        },
+        {
+          "t": "08:30",
+          "sec": 510,
+          "title": "Was the $550 worth it?",
+          "ife": false
+        },
+        {
+          "t": "10:02",
+          "sec": 602,
+          "title": "My full scorecard — 4.5 out of 5",
+          "ife": false
+        },
+        {
+          "t": "11:57",
+          "sec": 717,
+          "title": "Final verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=83FqjvZi3Aw",
+      "title": "London To Pakistan: what You Need to Know ?",
+      "year": 2026,
+      "published_at": "2026-10-01T14:44:47Z",
+      "channel_title": "Daak Saab",
+      "view_count": 946,
+      "like_count": 17,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=W4nN3w-zFjk",
+      "title": "Cebu Pacific SUPER HIGH-DENSITY Airbus A330neo from Tokyo via Manila to Jakarta! | BRUTALLY HONEST",
+      "year": 2026,
+      "published_at": "2026-10-04T11:13:21Z",
+      "channel_title": "Simply Aviation",
+      "view_count": 171955,
+      "like_count": 3026,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Airbus' High Density A330neo",
+          "ife": false
+        },
+        {
+          "t": "03:58",
+          "sec": 238,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "04:19",
+          "sec": 259,
+          "title": "Sponsored by Airalo",
+          "ife": false
+        },
+        {
+          "t": "05:44",
+          "sec": 344,
+          "title": "Getting to Narita Airport",
+          "ife": false
+        },
+        {
+          "t": "07:17",
+          "sec": 437,
+          "title": "Narita Airport",
+          "ife": false
+        },
+        {
+          "t": "08:33",
+          "sec": 513,
+          "title": "Cebu Pacific's A330neo Fleet",
+          "ife": false
+        },
+        {
+          "t": "09:26",
+          "sec": 566,
+          "title": "Cabin Design Elements",
+          "ife": false
+        },
+        {
+          "t": "11:50",
+          "sec": 710,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "13:49",
+          "sec": 829,
+          "title": "Taxi and Take Off",
+          "ife": false
+        },
+        {
+          "t": "15:00",
+          "sec": 900,
+          "title": "Buy-On-Board Menu",
+          "ife": false
+        },
+        {
+          "t": "16:25",
+          "sec": 985,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "17:24",
+          "sec": 1044,
+          "title": "Transferring in Manila",
+          "ife": false
+        },
+        {
+          "t": "19:48",
+          "sec": 1188,
+          "title": "Connecting Flight to Jakarta",
+          "ife": false
+        },
+        {
+          "t": "21:51",
+          "sec": 1311,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "23:37",
+          "sec": 1417,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a320",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WJM-QOcdER8",
+      "title": "Travel Essentials from Amazon Prime Big Deal Days Sale on October 6 - 7, 2026",
+      "year": 2026,
+      "published_at": "2026-10-06T15:07:35Z",
+      "channel_title": "Travel Tips by Laurie",
+      "view_count": 38974,
+      "like_count": 1208,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Amazon Prime Big Deal Day Sale",
+          "ife": false
+        },
+        {
+          "t": "00:04",
+          "sec": 4,
+          "title": "October 6 and October 7 Year 2026",
+          "ife": false
+        },
+        {
+          "t": "00:14",
+          "sec": 14,
+          "title": "Travel essentials from Big Deal Day sale",
+          "ife": false
+        },
+        {
+          "t": "1:30",
+          "sec": 90,
+          "title": "Under airplane seat Bento Bag",
+          "ife": false
+        },
+        {
+          "t": "3:07",
+          "sec": 187,
+          "title": "Portable fan from Amazon for travel",
+          "ife": false
+        },
+        {
+          "t": "3:43",
+          "sec": 223,
+          "title": "Travel essential to wear in rain",
+          "ife": false
+        },
+        {
+          "t": "4:10",
+          "sec": 250,
+          "title": "Hidden pocket vest from Big Deal Day Sale",
+          "ife": false
+        },
+        {
+          "t": "4:35",
+          "sec": 275,
+          "title": "Water resistant jogger pant for women",
+          "ife": false
+        },
+        {
+          "t": "5:13",
+          "sec": 313,
+          "title": "Waterproof travel gear from Amazon Big Deal Day Sale",
+          "ife": false
+        },
+        {
+          "t": "5:32",
+          "sec": 332,
+          "title": "Poncho for women wear in airplane",
+          "ife": false
+        },
+        {
+          "t": "6:06",
+          "sec": 366,
+          "title": "Merrell hiking sneaker from Amazon",
+          "ife": false
+        },
+        {
+          "t": "6:54",
+          "sec": 414,
+          "title": "Portable charging power bank monitor heat of phone",
+          "ife": false
+        },
+        {
+          "t": "7:23",
+          "sec": 443,
+          "title": "Travel outfit for women",
+          "ife": false
+        },
+        {
+          "t": "8:13",
+          "sec": 493,
+          "title": "Luggage tracker from Big Deal Day Sale",
+          "ife": false
+        },
+        {
+          "t": "8:40",
+          "sec": 520,
+          "title": "Kindle with unlimited books",
+          "ife": false
+        },
+        {
+          "t": "9:04",
+          "sec": 544,
+          "title": "Wires in strap crossbody bags for travel",
+          "ife": false
+        },
+        {
+          "t": "10:32",
+          "sec": 632,
+          "title": "Noise cancelingAirPods 3 from Amazon",
+          "ife": false
+        },
+        {
+          "t": "11:24",
+          "sec": 684,
+          "title": "Antibacterial wipes for airplane seat",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=E_NygjV1y7I",
+      "title": "This October, enjoy back-to-back cinematic hits and shows on KrisWorld",
+      "year": 2026,
+      "published_at": "2026-10-02T08:00:17Z",
+      "channel_title": "Singapore Airlines",
+      "view_count": 1333,
+      "like_count": 27,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MXKvYF3caH4",
+      "title": "Most asked questions about Sport 24",
+      "year": 2026,
+      "published_at": "2026-09-24T12:49:07Z",
+      "channel_title": "Qatar Airways",
+      "view_count": 2824104,
+      "like_count": 242,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:08",
+          "sec": 8,
+          "title": "What is Sport 24 on Qatar Airways?",
+          "ife": false
+        },
+        {
+          "t": "00:30",
+          "sec": 30,
+          "title": "Is Sport 24 free on Qatar Airways?",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Is Sport 24 available on all Qatar Airways flights?",
+          "ife": false
+        },
+        {
+          "t": "01:01",
+          "sec": 61,
+          "title": "How can I watch Sport 24 on my Qatar Airways flight?",
+          "ife": false
+        },
+        {
+          "t": "01:25",
+          "sec": 85,
+          "title": "What sports can I watch on Sport 24?",
+          "ife": false
+        },
+        {
+          "t": "01:42",
+          "sec": 102,
+          "title": "Can I watch Sport 24 throughout my entire flight?",
+          "ife": false
+        },
+        {
+          "t": "01:58",
+          "sec": 118,
+          "title": "Does Sport 24 show sports live or on demand?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-10-06T09:59:32.639678"
+  "last_updated": "2026-10-07T10:05:20.118867"
 }
