@@ -158315,7 +158315,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=nHXcEM0alc8",
@@ -158409,7 +158411,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=83FqjvZi3Aw",
@@ -158440,7 +158444,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=W4nN3w-zFjk",
@@ -158571,7 +158577,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.64
     },
     {
       "url": "https://www.youtube.com/watch?v=WJM-QOcdER8",
@@ -158719,7 +158727,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.178
     },
     {
       "url": "https://www.youtube.com/watch?v=E_NygjV1y7I",
@@ -158755,7 +158765,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "positive",
+      "sentiment_score": 0.494
     },
     {
       "url": "https://www.youtube.com/watch?v=MXKvYF3caH4",
@@ -158833,8 +158845,350 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SjLNL68GemU",
+      "title": "I'll avoid Cathay Pacific A350-900 ECONOMY Class in the future",
+      "year": 2026,
+      "published_at": "2026-10-08T04:05:04Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 6008,
+      "like_count": 258,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:00",
+          "sec": 60,
+          "title": "Cathay Pacific The Pier First Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:33",
+          "sec": 213,
+          "title": "The Qantas Hong Kong Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:41",
+          "sec": 281,
+          "title": "Cathay Pacific The Bridge Lounge",
+          "ife": false
+        },
+        {
+          "t": "05:10",
+          "sec": 310,
+          "title": "back to The Pier",
+          "ife": false
+        },
+        {
+          "t": "06:02",
+          "sec": 362,
+          "title": "NordVPN",
+          "ife": false
+        },
+        {
+          "t": "07:18",
+          "sec": 438,
+          "title": "Boarding flight CX165",
+          "ife": false
+        },
+        {
+          "t": "08:05",
+          "sec": 485,
+          "title": "Seat 47A & features",
+          "ife": false
+        },
+        {
+          "t": "09:07",
+          "sec": 547,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "10:04",
+          "sec": 604,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "11:30",
+          "sec": 690,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "12:58",
+          "sec": 778,
+          "title": "Dinner",
+          "ife": false
+        },
+        {
+          "t": "15:17",
+          "sec": 917,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "17:02",
+          "sec": 1022,
+          "title": "PA",
+          "ife": false
+        },
+        {
+          "t": "17:51",
+          "sec": 1071,
+          "title": "Conclusion / landing",
+          "ife": false
+        },
+        {
+          "t": "22:06",
+          "sec": 1326,
+          "title": "Queensland vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=d6MWfsqBDDE",
+      "title": "India to China on SINGAPORE AIRLINES Premium Economy 🇮🇳✈️🇨🇳 || First Premium Economy Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-03T03:30:10Z",
+      "channel_title": "Love and Latitude",
+      "view_count": 1505,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Oy5ZIcteWp0",
+      "title": "Cathay Pacific NEW Aria Business Class Review: Sliding Door Private Suite",
+      "year": 2026,
+      "published_at": "2026-10-05T09:14:29Z",
+      "channel_title": "Superflanker Studio",
+      "view_count": 859,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lbiRInHH_xM",
+      "title": "Why Does Malaysia Airlines' MAX Business LOOK So Cheap?",
+      "year": 2026,
+      "published_at": "2026-10-06T14:30:22Z",
+      "channel_title": "Million Miles Up",
+      "view_count": 762,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:15",
+          "sec": 15,
+          "title": "Check-in at Bali",
+          "ife": false
+        },
+        {
+          "t": "0:29",
+          "sec": 29,
+          "title": "Tujuwan Lounge",
+          "ife": false
+        },
+        {
+          "t": "1:45",
+          "sec": 105,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "2:10",
+          "sec": 130,
+          "title": "The Business Class cabin",
+          "ife": false
+        },
+        {
+          "t": "3:10",
+          "sec": 190,
+          "title": "Service and welcome",
+          "ife": false
+        },
+        {
+          "t": "4:20",
+          "sec": 260,
+          "title": "The meal",
+          "ife": false
+        },
+        {
+          "t": "5:00",
+          "sec": 300,
+          "title": "Arrival in Kuala Lumpur",
+          "ife": false
+        },
+        {
+          "t": "5:20",
+          "sec": 320,
+          "title": "Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-07T10:05:20.118867"
+  "last_updated": "2026-10-08T10:18:32.065556"
 }
