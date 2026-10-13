@@ -162157,7 +162157,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.103
     },
     {
       "url": "https://www.youtube.com/watch?v=JTaOhxi-FMY",
@@ -162229,7 +162231,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=DRT5zgF4uTQ",
@@ -162267,7 +162271,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=B7CLa5rcl8A",
@@ -162379,7 +162385,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=dyBze7SKoj0",
@@ -162413,7 +162421,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=QZBywL0fQ2c",
@@ -162575,7 +162585,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.729
     },
     {
       "url": "https://www.youtube.com/watch?v=IufuEZ8f6VE",
@@ -162649,7 +162661,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.465
     },
     {
       "url": "https://www.youtube.com/watch?v=0-Lm0Wxp1fI",
@@ -162676,7 +162690,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=SH143WzRF6g",
@@ -162714,7 +162730,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=hczdqnrKO_A",
@@ -162829,7 +162847,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=AWdAcwZZbEY",
@@ -162978,7 +162998,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.026
     },
     {
       "url": "https://www.youtube.com/watch?v=pQIN2BOUMdc",
@@ -163012,7 +163034,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ce9Z7u23cwI",
@@ -163107,7 +163131,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=S2UbjI64iWA",
@@ -163273,7 +163299,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=iZUmF6hU9fU",
@@ -163321,8 +163349,631 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8jUjdm-rOew",
+      "title": "SAS A350 Economy: Great Plane, Basic Service",
+      "year": 2026,
+      "published_at": "2026-10-09T15:00:28Z",
+      "channel_title": "Gabe Leigh",
+      "view_count": 10580,
+      "like_count": 247,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true,
+        "tail_camera": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZdZ5WtP4Wxk",
+      "title": "[TRIP REPORT] United Airlines Boeing 767-400ER (PREMIUM PLUS) Newark (EWR) - Amsterdam (AMS)",
+      "year": 2026,
+      "published_at": "2026-10-09T16:00:30Z",
+      "channel_title": "theplanesguy",
+      "view_count": 5522,
+      "like_count": 60,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UKciriVvQRA",
+      "title": "London Heathrow - 20 Heavy Boeing and Airbus Arrivals",
+      "year": 2026,
+      "published_at": "2026-10-07T13:02:08Z",
+      "channel_title": "First Travel",
+      "view_count": 180,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "American Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "00:14",
+          "sec": 14,
+          "title": "Emirates Airbus A380-800",
+          "ife": false
+        },
+        {
+          "t": "00:27",
+          "sec": 27,
+          "title": "Virgin Atlantic Airbus A330-900",
+          "ife": false
+        },
+        {
+          "t": "00:38",
+          "sec": 38,
+          "title": "Air Canada Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "00:48",
+          "sec": 48,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "01:01",
+          "sec": 61,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "01:13",
+          "sec": 73,
+          "title": "Etihad Airways Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "01:21",
+          "sec": 81,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "01:35",
+          "sec": 95,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "01:48",
+          "sec": 108,
+          "title": "Virgin Atlantic Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "01:58",
+          "sec": 118,
+          "title": "American Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "02:08",
+          "sec": 128,
+          "title": "United Airlines Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "02:14",
+          "sec": 134,
+          "title": "United Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "02:26",
+          "sec": 146,
+          "title": "Delta Air Lines Airbus A330-900neo",
+          "ife": false
+        },
+        {
+          "t": "02:33",
+          "sec": 153,
+          "title": "American Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "02:45",
+          "sec": 165,
+          "title": "Virgin Atlantic Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "02:56",
+          "sec": 176,
+          "title": "British Airways Boeing 777-200ER Oneworld Livery",
+          "ife": false
+        },
+        {
+          "t": "03:11",
+          "sec": 191,
+          "title": "Air Canada Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "03:21",
+          "sec": 201,
+          "title": "United Airlines Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "03:28",
+          "sec": 208,
+          "title": "British Airways Boeing 787-10",
+          "ife": false
+        },
+        {
+          "t": "03:41",
+          "sec": 221,
+          "title": "Emirates Airbus A380-800",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 6
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 3
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 18
+        },
+        {
+          "keyword": "777",
+          "mentions": 9
+        },
+        {
+          "keyword": "787",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 7
+        },
+        {
+          "keyword": "a380",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IlqjAibAKow",
+      "title": "Cathay Pacific Lounge Tour - Tokyo Haneda",
+      "year": 2026,
+      "published_at": "2026-10-04T13:00:11Z",
+      "channel_title": "First Travel",
+      "view_count": 276,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Cathay Pacific Lounge Terminal 3 Location",
+          "ife": false
+        },
+        {
+          "t": "00:24",
+          "sec": 24,
+          "title": "Food and Beverage Station",
+          "ife": false
+        },
+        {
+          "t": "00:56",
+          "sec": 56,
+          "title": "Seating and Relaxation Areas",
+          "ife": false
+        },
+        {
+          "t": "01:32",
+          "sec": 92,
+          "title": "Cocktail and Barista Bar",
+          "ife": false
+        },
+        {
+          "t": "01:47",
+          "sec": 107,
+          "title": "Business Center",
+          "ife": false
+        },
+        {
+          "t": "01:58",
+          "sec": 118,
+          "title": "Washrooms",
+          "ife": false
+        },
+        {
+          "t": "02:04",
+          "sec": 124,
+          "title": "Signature Noodle Bar Experience",
+          "ife": false
+        },
+        {
+          "t": "02:42",
+          "sec": 162,
+          "title": "Overall Rating and Final Review",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=c-gmhEKBVT8",
+      "title": "London Heathrow - 35 Heavy Jets on Final Approach",
+      "year": 2026,
+      "published_at": "2026-09-30T13:21:24Z",
+      "channel_title": "First Travel",
+      "view_count": 57,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Uzbekistan Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "00:09",
+          "sec": 9,
+          "title": "Air India Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "00:29",
+          "sec": 29,
+          "title": "Etihad Airways Airbus A380-800",
+          "ife": false
+        },
+        {
+          "t": "00:39",
+          "sec": 39,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "00:54",
+          "sec": 54,
+          "title": "Air Canada Airbus A330-300",
+          "ife": false
+        },
+        {
+          "t": "01:04",
+          "sec": 64,
+          "title": "WestJet Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "01:16",
+          "sec": 76,
+          "title": "United Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "01:26",
+          "sec": 86,
+          "title": "WestJet Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "01:38",
+          "sec": 98,
+          "title": "Cathay Pacific Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "01:48",
+          "sec": 108,
+          "title": "Icelandair Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "02:01",
+          "sec": 121,
+          "title": "British Airways Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "02:12",
+          "sec": 132,
+          "title": "Finnair Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "02:23",
+          "sec": 143,
+          "title": "Air India Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "02:31",
+          "sec": 151,
+          "title": "Delta Air Lines Airbus A330-900neo",
+          "ife": false
+        },
+        {
+          "t": "02:43",
+          "sec": 163,
+          "title": "Qatar Airways Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "02:55",
+          "sec": 175,
+          "title": "British Airways Airbus A380-800",
+          "ife": false
+        },
+        {
+          "t": "03:05",
+          "sec": 185,
+          "title": "Etihad Airways Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "03:18",
+          "sec": 198,
+          "title": "British Airways Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "03:29",
+          "sec": 209,
+          "title": "Turkish Airlines Airbus A330-300",
+          "ife": false
+        },
+        {
+          "t": "03:41",
+          "sec": 221,
+          "title": "Air Canada Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "03:54",
+          "sec": 234,
+          "title": "Virgin Atlantic Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "04:07",
+          "sec": 247,
+          "title": "Saudia Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "04:16",
+          "sec": 256,
+          "title": "British Airways Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "04:26",
+          "sec": 266,
+          "title": "Vistara Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "04:36",
+          "sec": 276,
+          "title": "Virgin Atlantic Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "04:48",
+          "sec": 288,
+          "title": "EgyptAir Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "05:00",
+          "sec": 300,
+          "title": "British Airways Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "05:12",
+          "sec": 312,
+          "title": "United Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "05:23",
+          "sec": 323,
+          "title": "Virgin Atlantic Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "05:33",
+          "sec": 333,
+          "title": "British Airways Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "05:46",
+          "sec": 346,
+          "title": "American Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "05:58",
+          "sec": 358,
+          "title": "Delta Air Lines Boeing 767-400ER",
+          "ife": false
+        },
+        {
+          "t": "06:04",
+          "sec": 364,
+          "title": "Emirates Airbus A380-800",
+          "ife": false
+        },
+        {
+          "t": "06:23",
+          "sec": 383,
+          "title": "American Airlines Boeing 777-300ER",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 7
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 3
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 26
+        },
+        {
+          "keyword": "787",
+          "mentions": 13
+        },
+        {
+          "keyword": "777",
+          "mentions": 12
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 12
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 9
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-12T10:32:49.877585"
+  "last_updated": "2026-10-13T10:22:19.189646"
 }
