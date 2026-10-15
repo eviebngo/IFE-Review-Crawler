@@ -164017,7 +164017,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=aG5Pso0fitE",
@@ -164054,7 +164056,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=F2fBpLlfc8w",
@@ -164178,7 +164182,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=8QNiBdNMNFg",
@@ -164311,7 +164317,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=RHDWw3l4r7E",
@@ -164342,7 +164350,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Fec52GchqUE",
@@ -164475,7 +164485,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UhyU313rgEU",
@@ -164630,7 +164642,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=EaYcTqloK6Y",
@@ -164759,7 +164773,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ZqHsS2Flq7Y",
@@ -164798,7 +164814,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5COszhC1eYA",
@@ -164917,7 +164935,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=ajX00aW0N8U",
@@ -165079,8 +165099,573 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8mKJmxsxV8U",
+      "title": "Emirates 777 Economy for Just $110?! Singapore to Cambodia Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-14T21:28:05Z",
+      "channel_title": "OwenTravels",
+      "view_count": 228,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Emirates to Cambodia for $110?!",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "Singapore Changi Terminal 1",
+          "ife": false
+        },
+        {
+          "t": "01:08",
+          "sec": 68,
+          "title": "Jewel Changi Early Check-In",
+          "ife": false
+        },
+        {
+          "t": "01:36",
+          "sec": 96,
+          "title": "Exploring Jewel Rain Vortex",
+          "ife": false
+        },
+        {
+          "t": "02:14",
+          "sec": 134,
+          "title": "Emirates Self Check-In",
+          "ife": false
+        },
+        {
+          "t": "02:35",
+          "sec": 155,
+          "title": "Terminal 1 & Kinetic Rain",
+          "ife": false
+        },
+        {
+          "t": "03:54",
+          "sec": 234,
+          "title": "Immigration, Duty-Free & Singapore Food",
+          "ife": false
+        },
+        {
+          "t": "04:41",
+          "sec": 281,
+          "title": "Terminal 3 Butterfly Garden",
+          "ife": false
+        },
+        {
+          "t": "05:57",
+          "sec": 357,
+          "title": "Emirates Boeing 777 & Fifth-Freedom Route",
+          "ife": false
+        },
+        {
+          "t": "06:42",
+          "sec": 402,
+          "title": "Gate C24 & Boarding Preparations",
+          "ife": false
+        },
+        {
+          "t": "08:03",
+          "sec": 483,
+          "title": "Boarding Emirates Economy Class",
+          "ife": false
+        },
+        {
+          "t": "08:53",
+          "sec": 533,
+          "title": "Emirates Boeing 777 Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "ICE Inflight Entertainment Review",
+          "ife": true
+        },
+        {
+          "t": "12:26",
+          "sec": 746,
+          "title": "Safety Video & Departure",
+          "ife": false
+        },
+        {
+          "t": "13:04",
+          "sec": 784,
+          "title": "Taxiing & Aircraft Spotting at Changi",
+          "ife": false
+        },
+        {
+          "t": "15:03",
+          "sec": 903,
+          "title": "Boeing 777 Takeoff from Singapore",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Cruising Above Southeast Asia",
+          "ife": false
+        },
+        {
+          "t": "17:19",
+          "sec": 1039,
+          "title": "Emirates Economy Class Meal Review",
+          "ife": false
+        },
+        {
+          "t": "19:11",
+          "sec": 1151,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "19:32",
+          "sec": 1172,
+          "title": "Preparing for Arrival",
+          "ife": false
+        },
+        {
+          "t": "20:13",
+          "sec": 1213,
+          "title": "Emirates Cabin Crew Experience",
+          "ife": false
+        },
+        {
+          "t": "21:14",
+          "sec": 1274,
+          "title": "Landing at Techo International Airport",
+          "ife": false
+        },
+        {
+          "t": "22:41",
+          "sec": 1361,
+          "title": "First Impressions of Cambodia’s New Airport",
+          "ife": false
+        },
+        {
+          "t": "24:28",
+          "sec": 1468,
+          "title": "Emirates Economy Class Final Verdict",
+          "ife": false
+        },
+        {
+          "t": "25:07",
+          "sec": 1507,
+          "title": "Final Thoughts & Onward Journey",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 20
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 11
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 9
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-IAoKjIQ7OQ",
+      "title": "What's it like to fly American Airlines Short Haul Business Class (Cartagena to Miami)",
+      "year": 2026,
+      "published_at": "2026-10-15T04:00:35Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 2079,
+      "like_count": 140,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:05",
+          "sec": 65,
+          "title": "Airside",
+          "ife": false
+        },
+        {
+          "t": "02:30",
+          "sec": 150,
+          "title": "Boarding flight AA1144",
+          "ife": false
+        },
+        {
+          "t": "04:06",
+          "sec": 246,
+          "title": "Seat 3A & features",
+          "ife": false
+        },
+        {
+          "t": "05:53",
+          "sec": 353,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "07:09",
+          "sec": 429,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "08:37",
+          "sec": 517,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "09:48",
+          "sec": 588,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "11:56",
+          "sec": 716,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "13:27",
+          "sec": 807,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "15:44",
+          "sec": 944,
+          "title": "Miami vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6F2RMNliBNA",
+      "title": "Is Emirates' New Business Class Worth It? 777-300ER Singapore to Dubai",
+      "year": 2026,
+      "published_at": "2026-10-14T14:09:00Z",
+      "channel_title": "Pepper.Eggy.Nugget",
+      "view_count": 270,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=83AMXoREwOc",
+      "title": "Cathay Pacific 777-300ER Flight Review: Mumbai To Hong Kong",
+      "year": 2026,
+      "published_at": "2026-10-15T06:56:21Z",
+      "channel_title": "RBSpotter",
+      "view_count": 4,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rsi6ovap0LQ",
+      "title": "Roblox Flight Review | Cathay Pacific | Business Class | HKG - LHR",
+      "year": 2026,
+      "published_at": "2026-10-10T08:14:00Z",
+      "channel_title": "Cooked Oreo",
+      "view_count": 202,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vZWYx3fNQxk",
+      "title": "First time on ANA BUSINESS CLASS on Boeing 777 — Beijing to Tokyo",
+      "year": 2026,
+      "published_at": "2026-10-14T11:00:15Z",
+      "channel_title": "mangochico",
+      "view_count": 86,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "01:40",
+          "sec": 100,
+          "title": "Seat",
+          "ife": false
+        },
+        {
+          "t": "04:00",
+          "sec": 240,
+          "title": "Amenities",
+          "ife": false
+        },
+        {
+          "t": "05:44",
+          "sec": 344,
+          "title": "Departure",
+          "ife": false
+        },
+        {
+          "t": "07:10",
+          "sec": 430,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "08:54",
+          "sec": 534,
+          "title": "Poor UX on IFE",
+          "ife": true
+        },
+        {
+          "t": "10:44",
+          "sec": 644,
+          "title": "Wifi Speed Test",
+          "ife": true
+        },
+        {
+          "t": "11:10",
+          "sec": 670,
+          "title": "Sake and Dinner",
+          "ife": false
+        },
+        {
+          "t": "18:53",
+          "sec": 1133,
+          "title": "Toilet",
+          "ife": false
+        },
+        {
+          "t": "19:38",
+          "sec": 1178,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "20:23",
+          "sec": 1223,
+          "title": "Arrival",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-14T08:34:43.555729"
+  "last_updated": "2026-10-15T08:09:48.088305"
 }
