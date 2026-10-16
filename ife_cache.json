@@ -165336,7 +165336,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=-IAoKjIQ7OQ",
@@ -165474,7 +165476,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
     },
     {
       "url": "https://www.youtube.com/watch?v=6F2RMNliBNA",
@@ -165515,7 +165519,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=83AMXoREwOc",
@@ -165556,7 +165562,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=rsi6ovap0LQ",
@@ -165590,7 +165598,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=vZWYx3fNQxk",
@@ -165707,8 +165717,468 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7h1f-wpuZEk",
+      "title": "Lufthansa Economy Class on the Boeing 747-8 | Frankfurt to New York – A Legend Showing Its Age",
+      "year": 2026,
+      "published_at": "2026-10-15T12:30:38Z",
+      "channel_title": "Freddie’s Flight Reviews",
+      "view_count": 1783,
+      "like_count": 49,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:59",
+          "sec": 59,
+          "title": "Frankfurt Airport",
+          "ife": false
+        },
+        {
+          "t": "01:42",
+          "sec": 102,
+          "title": "About the Boeing 747",
+          "ife": false
+        },
+        {
+          "t": "02:39",
+          "sec": 159,
+          "title": "Flight Details & Route Map",
+          "ife": false
+        },
+        {
+          "t": "02:58",
+          "sec": 178,
+          "title": "Heading to Gate",
+          "ife": false
+        },
+        {
+          "t": "03:37",
+          "sec": 217,
+          "title": "747-8 Seat Map",
+          "ife": false
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:41",
+          "sec": 281,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "05:48",
+          "sec": 348,
+          "title": "Sponsor",
+          "ife": false
+        },
+        {
+          "t": "07:20",
+          "sec": 440,
+          "title": "Taxi & Safety Video",
+          "ife": false
+        },
+        {
+          "t": "08:31",
+          "sec": 511,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "10:32",
+          "sec": 632,
+          "title": "Food!",
+          "ife": false
+        },
+        {
+          "t": "11:20",
+          "sec": 680,
+          "title": "Snacks in the Galley",
+          "ife": false
+        },
+        {
+          "t": "11:42",
+          "sec": 702,
+          "title": "IFE System (bad)",
+          "ife": true
+        },
+        {
+          "t": "12:21",
+          "sec": 741,
+          "title": "Pre-landing food",
+          "ife": false
+        },
+        {
+          "t": "13:00",
+          "sec": 780,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "14:53",
+          "sec": 893,
+          "title": "Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "15:48",
+          "sec": 948,
+          "title": "Score, Tier list, Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 4
+        },
+        {
+          "keyword": "level",
+          "mentions": 4
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nSSRBuLfoLM",
+      "title": "New 2027 Delta Air Lines Experience Revealed! Next-Level, Luxury & Innovation! ✈️🔥 | Latest Review!",
+      "year": 2026,
+      "published_at": "2026-10-14T04:27:52Z",
+      "channel_title": "MotorZone",
+      "view_count": 18,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 40
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FAjNZWWfD9Q",
+      "title": "FREEZING plane and BRUTAL turbulence - my EVA Air 777-300ER Economy Class Review",
+      "year": 2026,
+      "published_at": "2026-10-08T18:48:26Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 20608,
+      "like_count": 282,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6KQaoYJP6Ys",
+      "title": "Fly Jinnah Flight Review 🇵🇰✈️ Karachi to Lahore | His First Ever Flight!",
+      "year": 2026,
+      "published_at": "2026-10-09T13:00:04Z",
+      "channel_title": "WildFrame by Sufyan",
+      "view_count": 5830,
+      "like_count": 50,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LsBkxYS_amY",
+      "title": "The UNCOMFORTABLE truth about Cathay’s ARIA SUITE | Frankfurt - HongKong | Business Class Experience",
+      "year": 2026,
+      "published_at": "2026-10-16T08:01:11Z",
+      "channel_title": "Fly_with_jo",
+      "view_count": 26,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Welcome from Frankfurt and introduction",
+          "ife": false
+        },
+        {
+          "t": "2:15",
+          "sec": 135,
+          "title": "Priority Lounge Frankfurt T3",
+          "ife": false
+        },
+        {
+          "t": "4:47",
+          "sec": 287,
+          "title": "Boarding process and seat map",
+          "ife": false
+        },
+        {
+          "t": "6:10",
+          "sec": 370,
+          "title": "Seat 15A",
+          "ife": false
+        },
+        {
+          "t": "8:06",
+          "sec": 486,
+          "title": "Taxi, GE90 startup",
+          "ife": false
+        },
+        {
+          "t": "9:12",
+          "sec": 552,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "11:49",
+          "sec": 709,
+          "title": "Detailed seat tour",
+          "ife": false
+        },
+        {
+          "t": "16:16",
+          "sec": 976,
+          "title": "WiFi onboard & amenity kit",
+          "ife": true
+        },
+        {
+          "t": "18:00",
+          "sec": 1080,
+          "title": "First meal service",
+          "ife": false
+        },
+        {
+          "t": "26:33",
+          "sec": 1593,
+          "title": "Window views",
+          "ife": false
+        },
+        {
+          "t": "27:34",
+          "sec": 1654,
+          "title": "Detailed IFE tour",
+          "ife": true
+        },
+        {
+          "t": "31:20",
+          "sec": 1880,
+          "title": "Flat bed mode",
+          "ife": false
+        },
+        {
+          "t": "33:05",
+          "sec": 1985,
+          "title": "“Gallery in the Sky” & loo review",
+          "ife": false
+        },
+        {
+          "t": "34:40",
+          "sec": 2080,
+          "title": "Mid-flight snacks",
+          "ife": false
+        },
+        {
+          "t": "35:28",
+          "sec": 2128,
+          "title": "Second meal service (breakfast) & sunrise above China",
+          "ife": false
+        },
+        {
+          "t": "38:29",
+          "sec": 2309,
+          "title": "Landing (incredible views)",
+          "ife": false
+        },
+        {
+          "t": "42:36",
+          "sec": 2556,
+          "title": "Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=d5zjro0oydI",
+      "title": "United A321XLR Polaris Business Trip Report",
+      "year": 2026,
+      "published_at": "2026-10-06T19:02:10Z",
+      "channel_title": "iTripReport",
+      "view_count": 23362,
+      "like_count": 460,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-15T08:09:48.088305"
+  "last_updated": "2026-10-16T08:02:54.248351"
 }
