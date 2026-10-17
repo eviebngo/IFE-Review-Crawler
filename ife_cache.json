@@ -56786,7 +56786,7 @@
         {
           "t": "02:01",
           "sec": 121,
-          "title": "Takeoff from Washington Reagan National (DCA)",
+          "title": "Takeoff from Washington Reagan National",
           "ife": false
         },
         {
@@ -81925,14 +81925,8 @@
         {
           "t": "06:22",
           "sec": 382,
-          "title": "In-Flight Entertainment",
+          "title": "In-Flight Entertainment & Legroom Review",
           "ife": true
-        },
-        {
-          "t": "06:37",
-          "sec": 397,
-          "title": "Economy Class Legroom Review",
-          "ife": false
         },
         {
           "t": "06:40",
@@ -85761,7 +85755,7 @@
         {
           "t": "00:00",
           "sec": 0,
-          "title": "Boarding Qatar 777-300ER at Doha (DOH) and Cabin Tour",
+          "title": "Boarding Qatar 777-300ER at Doha (DOH)",
           "ife": false
         },
         {
@@ -85773,7 +85767,7 @@
         {
           "t": "04:04",
           "sec": 244,
-          "title": "Starlink In-Flight Wi-Fi Speed Test",
+          "title": "Starlink In-Flight Wi-Fi",
           "ife": true
         },
         {
@@ -85785,7 +85779,7 @@
         {
           "t": "04:57",
           "sec": 297,
-          "title": "Champagne and Warm Nuts Service",
+          "title": "Champagne and Warm Nuts",
           "ife": false
         },
         {
@@ -85797,7 +85791,7 @@
         {
           "t": "06:14",
           "sec": 374,
-          "title": "Dine-on-Demand Lunch Service and Steak Dinner",
+          "title": "Dine-on-Demand Lunch Service",
           "ife": false
         },
         {
@@ -95697,7 +95691,7 @@
         {
           "t": "02:21",
           "sec": 141,
-          "title": "USM Departure and Takeoff",
+          "title": "Departure and Takeoff",
           "ife": false
         },
         {
