@@ -165891,7 +165891,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=nSSRBuLfoLM",
@@ -165927,7 +165929,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.539
     },
     {
       "url": "https://www.youtube.com/watch?v=FAjNZWWfD9Q",
@@ -165967,7 +165971,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.788
     },
     {
       "url": "https://www.youtube.com/watch?v=6KQaoYJP6Ys",
@@ -165994,7 +166000,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=LsBkxYS_amY",
@@ -166141,7 +166149,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.258
     },
     {
       "url": "https://www.youtube.com/watch?v=d5zjro0oydI",
@@ -166177,8 +166187,707 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=A1OjCyCy04g",
+      "title": "Flying World’s Best Airline! Singapore Airlines 787 Business Class Singapore to Bangkok",
+      "year": 2026,
+      "published_at": "2026-10-16T17:00:18Z",
+      "channel_title": "Grounded Life Travel",
+      "view_count": 1683,
+      "like_count": 54,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QQG3ypIyQlM",
+      "title": "Singapore Airlines A350 Economy Class Review | Barcelona to Milan",
+      "year": 2026,
+      "published_at": "2026-10-14T18:15:17Z",
+      "channel_title": "Abdirisaq Aviation",
+      "view_count": 4062,
+      "like_count": 24,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:26",
+          "sec": 26,
+          "title": "Boarding Singapore Airlines A350",
+          "ife": false
+        },
+        {
+          "t": "0:44",
+          "sec": 44,
+          "title": "Singapore Airlines A350-900 Cabin & Seat",
+          "ife": false
+        },
+        {
+          "t": "3:14",
+          "sec": 194,
+          "title": "Singapore Airlines Safety Video",
+          "ife": false
+        },
+        {
+          "t": "3:48",
+          "sec": 228,
+          "title": "Taxi to Runway",
+          "ife": false
+        },
+        {
+          "t": "5:24",
+          "sec": 324,
+          "title": "Takeoff from Barcelona Airport",
+          "ife": false
+        },
+        {
+          "t": "7:14",
+          "sec": 434,
+          "title": "Climb + Inflight",
+          "ife": false
+        },
+        {
+          "t": "9:25",
+          "sec": 565,
+          "title": "KrisWorld IFE - Movies & TV Shows",
+          "ife": true
+        },
+        {
+          "t": "12:46",
+          "sec": 766,
+          "title": "Snack Service + Menu",
+          "ife": false
+        },
+        {
+          "t": "14:13",
+          "sec": 853,
+          "title": "Decent into Italy",
+          "ife": false
+        },
+        {
+          "t": "16:34",
+          "sec": 994,
+          "title": "Landing Into Milan Malpensa Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-wN1opP3z_o",
+      "title": "Batik Air Economy Class Review: is it worth it?",
+      "year": 2026,
+      "published_at": "2026-10-16T22:00:38Z",
+      "channel_title": "Lone star traveler",
+      "view_count": 17,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "The Truth about Batik Air Economy -Intro",
+          "ife": false
+        },
+        {
+          "t": "0:10",
+          "sec": 10,
+          "title": "Narita to KUL: Flight Overview",
+          "ife": false
+        },
+        {
+          "t": "0:21",
+          "sec": 21,
+          "title": "Inside the Boeing 737-900 Cabin",
+          "ife": false
+        },
+        {
+          "t": "0:35",
+          "sec": 35,
+          "title": "KUL Airport Check-In Process",
+          "ife": false
+        },
+        {
+          "t": "1:02",
+          "sec": 62,
+          "title": "Heading to the Security Gate",
+          "ife": false
+        },
+        {
+          "t": "1:12",
+          "sec": 72,
+          "title": "The Pre-Lounge Security Screen",
+          "ife": true
+        },
+        {
+          "t": "1:25",
+          "sec": 85,
+          "title": "Inside the Waiting Gate Lounge",
+          "ife": false
+        },
+        {
+          "t": "1:45",
+          "sec": 105,
+          "title": "Boarding the Plane",
+          "ife": false
+        },
+        {
+          "t": "2:19",
+          "sec": 139,
+          "title": "Looking at the Paid Menu",
+          "ife": false
+        },
+        {
+          "t": "2:41",
+          "sec": 161,
+          "title": "The Food I ate before boarding",
+          "ife": false
+        },
+        {
+          "t": "3:23",
+          "sec": 203,
+          "title": "The In-Flight Entertainment catch (No IFE)",
+          "ife": true
+        },
+        {
+          "t": "3:54",
+          "sec": 234,
+          "title": "Paid Meal Service Prep & Reveal",
+          "ife": false
+        },
+        {
+          "t": "4:13",
+          "sec": 253,
+          "title": "Economy Restroom Review",
+          "ife": false
+        },
+        {
+          "t": "4:46",
+          "sec": 286,
+          "title": "Arriving at Narita Airport",
+          "ife": false
+        },
+        {
+          "t": "4:50",
+          "sec": 290,
+          "title": "The Final Verdict: Is It Wort It?",
+          "ife": false
+        },
+        {
+          "t": "5:18",
+          "sec": 318,
+          "title": "Batik Air Economy Class Review-Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 10
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "a320",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7Gt4fSBF078",
+      "title": "Flight review! Starlux from Taipei to Singapore",
+      "year": 2026,
+      "published_at": "2026-10-17T03:06:23Z",
+      "channel_title": "B777fan",
+      "view_count": 0,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bfGuK_n1jMQ",
+      "title": "SURPRISE upgrade on my China Eastern flight to Bangkok!",
+      "year": 2026,
+      "published_at": "2026-10-15T19:35:21Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 2822,
+      "like_count": 72,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china eastern",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=b_94W31EclI",
+      "title": "18 HOURS in BAHRAIN AIRPORT!!🤯 | Gulf Air Journey to Russia🇷🇺 | YSMU Russia | MBBS Abroad Vlog Hindi",
+      "year": 2026,
+      "published_at": "2026-10-17T05:41:01Z",
+      "channel_title": "Soham Explores",
+      "view_count": 2,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tpkNflpPDG0",
+      "title": "LATAM AIRLINES Business Class Is Better Than You Think. I Promise.",
+      "year": 2026,
+      "published_at": "2026-10-15T12:40:29Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 37796,
+      "like_count": 1041,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction and Route Overview",
+          "ife": false
+        },
+        {
+          "t": "01:15",
+          "sec": 75,
+          "title": "Airport Check-in and Lounge Access",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "LATAM Fleet Strategy and Widebody Evolution",
+          "ife": false
+        },
+        {
+          "t": "05:10",
+          "sec": 310,
+          "title": "Boarding and Cabin First Impressions",
+          "ife": false
+        },
+        {
+          "t": "06:45",
+          "sec": 405,
+          "title": "Boeing 787 Business Class Seat Review",
+          "ife": false
+        },
+        {
+          "t": "08:20",
+          "sec": 500,
+          "title": "Storage Compartments and Console Features",
+          "ife": false
+        },
+        {
+          "t": "09:50",
+          "sec": 590,
+          "title": "Bed Comfort, Mattress Topper, and Sleep Quality",
+          "ife": false
+        },
+        {
+          "t": "11:30",
+          "sec": 690,
+          "title": "Pre-Departure Service and Welcome Drinks",
+          "ife": false
+        },
+        {
+          "t": "13:10",
+          "sec": 790,
+          "title": "In-Flight Entertainment System and Screen Quality",
+          "ife": true
+        },
+        {
+          "t": "14:45",
+          "sec": 885,
+          "title": "Dinner Service Start and Appetizer Selection",
+          "ife": false
+        },
+        {
+          "t": "16:20",
+          "sec": 980,
+          "title": "Main Course Review and South American Wines",
+          "ife": false
+        },
+        {
+          "t": "18:05",
+          "sec": 1085,
+          "title": "Amenity Kit and Onboard Comfort Items",
+          "ife": false
+        },
+        {
+          "t": "19:40",
+          "sec": 1180,
+          "title": "Lavatory Tour and Cabin Maintenance",
+          "ife": false
+        },
+        {
+          "t": "21:15",
+          "sec": 1275,
+          "title": "Breakfast Service Prior to Arrival",
+          "ife": false
+        },
+        {
+          "t": "23:05",
+          "sec": 1385,
+          "title": "Final Verdict and LATAM Brand Ranking",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 8
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tA7MB8vBSgE",
+      "title": "4K · Emirates A380 Business Class & Onboard Bar · Dubai to Bali · 🇦🇪 · Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-16T13:00:24Z",
+      "channel_title": "Silent Miles",
+      "view_count": 2618,
+      "like_count": 22,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "01:47",
+          "sec": 107,
+          "title": "Welcome — Dubai at 2AM",
+          "ife": false
+        },
+        {
+          "t": "02:10",
+          "sec": 130,
+          "title": "The Emirates Business Class Lounge — Concourse A",
+          "ife": false
+        },
+        {
+          "t": "03:41",
+          "sec": 221,
+          "title": "Night walk through the 16,000 m² lounge",
+          "ife": false
+        },
+        {
+          "t": "11:10",
+          "sec": 670,
+          "title": "The shower suite",
+          "ife": false
+        },
+        {
+          "t": "11:20",
+          "sec": 680,
+          "title": "Boarding the A380 — straight to the upper deck",
+          "ife": false
+        },
+        {
+          "t": "12:15",
+          "sec": 735,
+          "title": "Emirates A380 upper deck — 18 seats and seat 22K",
+          "ife": false
+        },
+        {
+          "t": "13:24",
+          "sec": 804,
+          "title": "Captain's welcome — flight EK368 to Bali",
+          "ife": false
+        },
+        {
+          "t": "15:40",
+          "sec": 940,
+          "title": "A380 take-off from Dubai — runway 30R",
+          "ife": false
+        },
+        {
+          "t": "20:36",
+          "sec": 1236,
+          "title": "Cruising at 35,000 feet",
+          "ife": false
+        },
+        {
+          "t": "21:06",
+          "sec": 1266,
+          "title": "The cabin in night colours",
+          "ife": false
+        },
+        {
+          "t": "21:36",
+          "sec": 1296,
+          "title": "The Emirates A380 onboard bar — in pyjamas",
+          "ife": false
+        },
+        {
+          "t": "22:26",
+          "sec": 1346,
+          "title": "Making the flat bed",
+          "ife": false
+        },
+        {
+          "t": "22:37",
+          "sec": 1357,
+          "title": "Good morning — the honest sleep review",
+          "ife": false
+        },
+        {
+          "t": "23:02",
+          "sec": 1382,
+          "title": "Emirates Business Class brunch — steak and curry",
+          "ife": false
+        },
+        {
+          "t": "24:04",
+          "sec": 1444,
+          "title": "The lavatory with a window",
+          "ife": false
+        },
+        {
+          "t": "24:26",
+          "sec": 1466,
+          "title": "Descent into Bali",
+          "ife": false
+        },
+        {
+          "t": "25:59",
+          "sec": 1559,
+          "title": "A380 crosswind landing at Ngurah Rai",
+          "ife": false
+        },
+        {
+          "t": "26:21",
+          "sec": 1581,
+          "title": "Outro — a sunny Bali evening",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 13
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 13
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-16T08:02:54.248351"
+  "last_updated": "2026-10-17T07:41:44.138849"
 }
