@@ -169909,7 +169909,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=YudTEedSxZQ",
@@ -169944,7 +169946,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
     },
     {
       "url": "https://www.youtube.com/watch?v=BoiGZyb7Plk",
@@ -170138,7 +170142,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5wIW5v6ybjw",
@@ -170264,7 +170270,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=PsVhgOlJ9VM",
@@ -170314,7 +170322,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5iFVTZOMUxE",
@@ -170348,7 +170358,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=e7UYOt3hcHg",
@@ -170491,7 +170503,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=SJRLIHnA36w",
@@ -170539,7 +170553,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=RdAvpb7b26c",
@@ -170574,8 +170590,744 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VTBcbwt8K-g",
+      "title": "Singapore Airlines Premium Economy Review: Tokyo to Los Angeles",
+      "year": 2026,
+      "published_at": "2026-10-20T09:20:55Z",
+      "channel_title": "Travel Squad Podcast",
+      "view_count": 9,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "klm",
+          "mentions": 2
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "tap air portugal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=G7f_8_GWoho",
+      "title": "Plane Landing View from Passenger Seat 🛬",
+      "year": 2026,
+      "published_at": "2026-10-20T15:12:00Z",
+      "channel_title": "Lincoln Gomes",
+      "view_count": 13,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "a380",
+          "mentions": 3
+        },
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qo-kMc2tIAI",
+      "title": "Air India A319 Business Class 🇮🇳 | Is the Legacy Maharaja Still Worth It?",
+      "year": 2026,
+      "published_at": "2026-10-10T20:36:20Z",
+      "channel_title": "FlyWithAbeer",
+      "view_count": 10517,
+      "like_count": 56,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "Mumbai CSMIA Terminal-2",
+          "ife": false
+        },
+        {
+          "t": "02:11",
+          "sec": 131,
+          "title": "Adani Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:05",
+          "sec": 185,
+          "title": "Plane Spotting",
+          "ife": false
+        },
+        {
+          "t": "04:17",
+          "sec": 257,
+          "title": "Boarding the A319",
+          "ife": false
+        },
+        {
+          "t": "07:13",
+          "sec": 433,
+          "title": "Business Class Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "09:52",
+          "sec": 592,
+          "title": "Pushback & Takeoff from Mumbai",
+          "ife": false
+        },
+        {
+          "t": "13:16",
+          "sec": 796,
+          "title": "Air India A319 Models",
+          "ife": false
+        },
+        {
+          "t": "14:02",
+          "sec": 842,
+          "title": "Meal Service Begins",
+          "ife": false
+        },
+        {
+          "t": "14:24",
+          "sec": 864,
+          "title": "Stir Fried Hakka Noodles Main Course",
+          "ife": false
+        },
+        {
+          "t": "18:55",
+          "sec": 1135,
+          "title": "Mexican Brown Rice Salad Bowl",
+          "ife": false
+        },
+        {
+          "t": "19:47",
+          "sec": 1187,
+          "title": "Lavatory Review",
+          "ife": false
+        },
+        {
+          "t": "20:19",
+          "sec": 1219,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "20:55",
+          "sec": 1255,
+          "title": "Descent into Vijayawada",
+          "ife": false
+        },
+        {
+          "t": "21:53",
+          "sec": 1313,
+          "title": "Final Thoughts: Farewell to Air India A319",
+          "ife": false
+        },
+        {
+          "t": "23:05",
+          "sec": 1385,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 9
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qQ8vWEYTZJ4",
+      "title": "🇮🇳 Mumbai - Jaipur 🇮🇳 | PREMIUM ECONOMY Air India Airbus A320neo | Full Flight Report",
+      "year": 2026,
+      "published_at": "2026-10-19T15:30:07Z",
+      "channel_title": "The SkyDeck Reports",
+      "view_count": 3757,
+      "like_count": 34,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:25",
+          "sec": 25,
+          "title": "Terminal 2 / Check In / Departure Hall / Security Check",
+          "ife": false
+        },
+        {
+          "t": "01:00",
+          "sec": 60,
+          "title": "Termina 2 Exploration / Airside",
+          "ife": false
+        },
+        {
+          "t": "04:45",
+          "sec": 285,
+          "title": "Walking towards Gate 43",
+          "ife": false
+        },
+        {
+          "t": "05:05",
+          "sec": 305,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "06:05",
+          "sec": 365,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "06:50",
+          "sec": 410,
+          "title": "Taxi",
+          "ife": false
+        },
+        {
+          "t": "09:05",
+          "sec": 545,
+          "title": "Take off from Runway 27",
+          "ife": false
+        },
+        {
+          "t": "13:30",
+          "sec": 810,
+          "title": "Premium Economy Menu",
+          "ife": false
+        },
+        {
+          "t": "13:55",
+          "sec": 835,
+          "title": "Meal Services",
+          "ife": false
+        },
+        {
+          "t": "14:40",
+          "sec": 880,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "16:05",
+          "sec": 965,
+          "title": "Seat Pocket Content",
+          "ife": true
+        },
+        {
+          "t": "17:35",
+          "sec": 1055,
+          "title": "Vista AI - Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "21:15",
+          "sec": 1275,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "22:00",
+          "sec": 1320,
+          "title": "Descent in Jaipur",
+          "ife": false
+        },
+        {
+          "t": "23:00",
+          "sec": 1380,
+          "title": "Approach and Landing in Jaipur",
+          "ife": false
+        },
+        {
+          "t": "28:00",
+          "sec": 1680,
+          "title": "Deplane",
+          "ife": false
+        },
+        {
+          "t": "29:10",
+          "sec": 1750,
+          "title": "Baggage Claim / Exit Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5VimqfmSOoE",
+      "title": "SINGAPORE Airlines A350-900 ECONOMY Review | HOW GOOD is it? | Hangzhou to Singapore",
+      "year": 2026,
+      "published_at": "2026-10-18T11:01:28Z",
+      "channel_title": "Shattered",
+      "view_count": 2549,
+      "like_count": 20,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:13",
+          "sec": 13,
+          "title": "Check-in & Airside",
+          "ife": false
+        },
+        {
+          "t": "1:50",
+          "sec": 110,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "3:07",
+          "sec": 187,
+          "title": "Seat details and Amenities",
+          "ife": false
+        },
+        {
+          "t": "5:16",
+          "sec": 316,
+          "title": "Pushback and Taxi",
+          "ife": false
+        },
+        {
+          "t": "6:07",
+          "sec": 367,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "6:26",
+          "sec": 386,
+          "title": "Inflight Entertainment System",
+          "ife": true
+        },
+        {
+          "t": "7:20",
+          "sec": 440,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "9:04",
+          "sec": 544,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "9:38",
+          "sec": 578,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "10:18",
+          "sec": 618,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "10:47",
+          "sec": 647,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "12:02",
+          "sec": 722,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "13:02",
+          "sec": 782,
+          "title": "Disembarkation",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0-Et21kbPMg",
+      "title": "#071 ⚠️ Falling Apart? Cathay Pacific A350-1000 Business to Shanghai",
+      "year": 2026,
+      "published_at": "2026-10-19T13:00:09Z",
+      "channel_title": "The Cabin Report",
+      "view_count": 846,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction & The Bridge Lounge",
+          "ife": false
+        },
+        {
+          "t": "01:29",
+          "sec": 89,
+          "title": "The Pier Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:43",
+          "sec": 223,
+          "title": "The Wing Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:31",
+          "sec": 271,
+          "title": "Boarding & Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "07:24",
+          "sec": 444,
+          "title": "Safety Video & Technical Oopsie",
+          "ife": false
+        },
+        {
+          "t": "09:21",
+          "sec": 561,
+          "title": "Takeoff from Hong Kong",
+          "ife": false
+        },
+        {
+          "t": "11:49",
+          "sec": 709,
+          "title": "Onboard Amenities",
+          "ife": false
+        },
+        {
+          "t": "12:33",
+          "sec": 753,
+          "title": "In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "13:10",
+          "sec": 790,
+          "title": "Meal Service, Bed, Lavatory",
+          "ife": false
+        },
+        {
+          "t": "14:27",
+          "sec": 867,
+          "title": "Conclusion & Scores",
+          "ife": false
+        },
+        {
+          "t": "15:52",
+          "sec": 952,
+          "title": "Rough Landing in Shanghai",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WHlUEKXgLZY",
+      "title": "Flying Lie-Flat Business Class on a 2-Hour Flight! CX Cathay Pacific HKG • Wuhan Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-17T02:00:42Z",
+      "channel_title": "Anita C.  First Take.  Affordable Luxury Travel.",
+      "view_count": 810,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vu4-aIkdW9M",
+      "title": "Cathay Pacific Business Class Review: Hong Kong to Taipei",
+      "year": 2026,
+      "published_at": "2026-10-16T23:50:37Z",
+      "channel_title": "The Boundless Brothers",
+      "view_count": 382,
+      "like_count": 10,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:28",
+          "sec": 28,
+          "title": "Seat Tour And First Impressions",
+          "ife": false
+        },
+        {
+          "t": "4:06",
+          "sec": 246,
+          "title": "Food Service",
+          "ife": false
+        },
+        {
+          "t": "4:23",
+          "sec": 263,
+          "title": "Landing In Taipai",
+          "ife": false
+        },
+        {
+          "t": "4:31",
+          "sec": 271,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-20T08:23:06.905476"
+  "last_updated": "2026-10-21T08:26:54.599062"
 }
