@@ -170642,7 +170642,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=G7f_8_GWoho",
@@ -170709,7 +170711,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qo-kMc2tIAI",
@@ -170847,7 +170851,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=qQ8vWEYTZJ4",
@@ -170996,7 +171002,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5VimqfmSOoE",
@@ -171123,7 +171131,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.562
     },
     {
       "url": "https://www.youtube.com/watch?v=0-Et21kbPMg",
@@ -171235,7 +171245,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.153
     },
     {
       "url": "https://www.youtube.com/watch?v=WHlUEKXgLZY",
@@ -171264,7 +171276,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=vu4-aIkdW9M",
@@ -171326,8 +171340,624 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dlyhKJy_axw",
+      "title": "Is Vietjet really as bad as the reviews says it is?! We tried it for 9hrs",
+      "year": 2026,
+      "published_at": "2026-10-16T11:05:29Z",
+      "channel_title": "Sarah Priestley (Moore)",
+      "view_count": 21020,
+      "like_count": 524,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Tablet"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ThByHSwLC44",
+      "title": "Virgin Australia International Business Class Review 🇻🇺 Port Vila to Brisbane | Boeing 737 MAX 8",
+      "year": 2026,
+      "published_at": "2026-10-15T04:56:21Z",
+      "channel_title": "KT Aviation & Flight Reviews",
+      "view_count": 609,
+      "like_count": 13,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "737",
+          "mentions": 5
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Lec8bx_lm1w",
+      "title": "KLM Business Class Flight Review: San Diego to Amsterdam",
+      "year": 2026,
+      "published_at": "2026-10-21T09:19:58Z",
+      "channel_title": "Travel Squad Podcast",
+      "view_count": 17,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 5
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "tap air portugal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iiLZ3_oCmlM",
+      "title": "Trip Report | Lufthansa (Economy) | Airbus A340-600 | Frankfurt (FRA) - New York (JFK)",
+      "year": 2026,
+      "published_at": "2026-10-21T11:00:33Z",
+      "channel_title": "IFlyPlanes",
+      "view_count": 536,
+      "like_count": 9,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Frankfurt Airport",
+          "ife": false
+        },
+        {
+          "t": "0:44",
+          "sec": 44,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "2:22",
+          "sec": 142,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "3:04",
+          "sec": 184,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "4:12",
+          "sec": 252,
+          "title": "Taxi",
+          "ife": false
+        },
+        {
+          "t": "4:40",
+          "sec": 280,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "5:12",
+          "sec": 312,
+          "title": "Flight Overview",
+          "ife": false
+        },
+        {
+          "t": "5:31",
+          "sec": 331,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "5:51",
+          "sec": 351,
+          "title": "Cabin Views",
+          "ife": false
+        },
+        {
+          "t": "5:57",
+          "sec": 357,
+          "title": "Lavatory Review",
+          "ife": false
+        },
+        {
+          "t": "6:43",
+          "sec": 403,
+          "title": "Catering",
+          "ife": false
+        },
+        {
+          "t": "7:52",
+          "sec": 472,
+          "title": "In-flight Entertainment Review",
+          "ife": true
+        },
+        {
+          "t": "9:10",
+          "sec": 550,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "10:01",
+          "sec": 601,
+          "title": "General",
+          "ife": false
+        },
+        {
+          "t": "10:17",
+          "sec": 617,
+          "title": "Mid-flight Lavatory Review",
+          "ife": false
+        },
+        {
+          "t": "10:21",
+          "sec": 621,
+          "title": "Pre-landing Snack",
+          "ife": false
+        },
+        {
+          "t": "10:48",
+          "sec": 648,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "10:57",
+          "sec": 657,
+          "title": "Wi-Fi System Review",
+          "ife": true
+        },
+        {
+          "t": "12:15",
+          "sec": 735,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "12:27",
+          "sec": 747,
+          "title": "Approach + Summary",
+          "ife": false
+        },
+        {
+          "t": "13:10",
+          "sec": 790,
+          "title": "Approach",
+          "ife": false
+        },
+        {
+          "t": "14:06",
+          "sec": 846,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "14:49",
+          "sec": 889,
+          "title": "Taxi to Gate",
+          "ife": false
+        },
+        {
+          "t": "15:23",
+          "sec": 923,
+          "title": "Deboarding",
+          "ife": false
+        },
+        {
+          "t": "15:41",
+          "sec": 941,
+          "title": "New York JFK Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RBtJXQCo-68",
+      "title": "Premium Economy dari Kuala Lumpur ke Milan dengan harga Economy | Episode 1",
+      "year": 2026,
+      "published_at": "2026-10-15T09:09:55Z",
+      "channel_title": "Danial Travelog",
+      "view_count": 262,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Dalam video ini",
+          "ife": false
+        },
+        {
+          "t": "0:45",
+          "sec": 45,
+          "title": "Laluan perjalanan",
+          "ife": false
+        },
+        {
+          "t": "1:09",
+          "sec": 69,
+          "title": "Dalam perjalanan ke KLIA",
+          "ife": false
+        },
+        {
+          "t": "1:57",
+          "sec": 117,
+          "title": "KLIA, dewan berlepas",
+          "ife": false
+        },
+        {
+          "t": "16:13",
+          "sec": 973,
+          "title": "Di pintu berlepas",
+          "ife": false
+        },
+        {
+          "t": "17:27",
+          "sec": 1047,
+          "title": "Masa untuk boarding",
+          "ife": false
+        },
+        {
+          "t": "18:14",
+          "sec": 1094,
+          "title": "Kabin Premium Economy Turkish Airlines",
+          "ife": false
+        },
+        {
+          "t": "18:51",
+          "sec": 1131,
+          "title": "Review ruang kaki",
+          "ife": false
+        },
+        {
+          "t": "21:53",
+          "sec": 1313,
+          "title": "Live tail camera",
+          "ife": false
+        },
+        {
+          "t": "23:01",
+          "sec": 1381,
+          "title": "Berlepas! Selamat tinggal KL",
+          "ife": false
+        },
+        {
+          "t": "25:29",
+          "sec": 1529,
+          "title": "Unboxing amenity kit",
+          "ife": false
+        },
+        {
+          "t": "26:28",
+          "sec": 1588,
+          "title": "Flight map & hiburan dalam pesawat",
+          "ife": false
+        },
+        {
+          "t": "29:51",
+          "sec": 1791,
+          "title": "Makanan dalam penerbangan & tandas",
+          "ife": false
+        },
+        {
+          "t": "31:30",
+          "sec": 1890,
+          "title": "Transit di Istanbul Airport",
+          "ife": false
+        },
+        {
+          "t": "35:20",
+          "sec": 2120,
+          "title": "Plane spotting di Istanbul",
+          "ife": false
+        },
+        {
+          "t": "37:30",
+          "sec": 2250,
+          "title": "Duty free & pintu berlepas",
+          "ife": false
+        },
+        {
+          "t": "40:35",
+          "sec": 2435,
+          "title": "Sampai di Milan Malpensa!",
+          "ife": false
+        },
+        {
+          "t": "41:23",
+          "sec": 2483,
+          "title": "Terima kasih kerana menonton",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 8
+        },
+        {
+          "keyword": "jal",
+          "mentions": 5
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "tail_camera": true,
+        "moving_map": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0rXP5_Spw3s",
+      "title": "China Southern A350 Business Class - Consistently... Inconsistent!",
+      "year": 2026,
+      "published_at": "2026-10-21T12:00:13Z",
+      "channel_title": "AirHub",
+      "view_count": 556,
+      "like_count": 17,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "China Southern: What to Expect?",
+          "ife": false
+        },
+        {
+          "t": "01:01",
+          "sec": 61,
+          "title": "Amsterdam Airport & KLM Crown Lounge",
+          "ife": false
+        },
+        {
+          "t": "03:27",
+          "sec": 207,
+          "title": "China Southern A350 Business Cabin - first impressions",
+          "ife": false
+        },
+        {
+          "t": "05:17",
+          "sec": 317,
+          "title": "Pre-Flight Service & Menu",
+          "ife": false
+        },
+        {
+          "t": "07:01",
+          "sec": 421,
+          "title": "TakeOff & Who is China Southern?",
+          "ife": false
+        },
+        {
+          "t": "08:48",
+          "sec": 528,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "11:25",
+          "sec": 685,
+          "title": "A Closer Look at the Seat: Comfort & Space",
+          "ife": false
+        },
+        {
+          "t": "13:34",
+          "sec": 814,
+          "title": "In-flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "15:31",
+          "sec": 931,
+          "title": "Amenities & Bedding",
+          "ife": false
+        },
+        {
+          "t": "16:49",
+          "sec": 1009,
+          "title": "Breakfast: A Shakshuka Disappointment",
+          "ife": false
+        },
+        {
+          "t": "18:30",
+          "sec": 1110,
+          "title": "Landing in Beijing & Final Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china southern",
+          "mentions": 9
+        },
+        {
+          "keyword": "klm",
+          "mentions": 1
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=e5ZIFEghw0k",
+      "title": "Turkish Airlines Business Class review to London, (ended early, sorry), 6.5/10",
+      "year": 2026,
+      "published_at": "2026-10-18T04:09:27Z",
+      "channel_title": "Azam Zaka",
+      "view_count": 68,
+      "like_count": 10,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-21T08:26:54.599062"
+  "last_updated": "2026-10-22T08:34:40.565147"
 }
