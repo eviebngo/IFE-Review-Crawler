@@ -171372,7 +171372,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.621
     },
     {
       "url": "https://www.youtube.com/watch?v=ThByHSwLC44",
@@ -171415,7 +171417,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Lec8bx_lm1w",
@@ -171465,7 +171469,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=iiLZ3_oCmlM",
@@ -171657,7 +171663,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=RBtJXQCo-68",
@@ -171807,7 +171815,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0rXP5_Spw3s",
@@ -171927,7 +171937,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=e5ZIFEghw0k",
@@ -171956,8 +171968,496 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nnGiTQVVMWE",
+      "title": "STARLUX: Is It Worth the Hype? | Airbus A330-900neo Economy Class | Taipei to Hong Kong",
+      "year": 2026,
+      "published_at": "2026-10-22T11:00:22Z",
+      "channel_title": "Freddie’s Flight Reviews",
+      "view_count": 2178,
+      "like_count": 45,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Taipei Airport",
+          "ife": false
+        },
+        {
+          "t": "01:44",
+          "sec": 104,
+          "title": "Who are Starlux?",
+          "ife": false
+        },
+        {
+          "t": "03:01",
+          "sec": 181,
+          "title": "Snoopy?",
+          "ife": false
+        },
+        {
+          "t": "03:23",
+          "sec": 203,
+          "title": "Flight Details & Route Map",
+          "ife": false
+        },
+        {
+          "t": "03:45",
+          "sec": 225,
+          "title": "Bus Time!",
+          "ife": false
+        },
+        {
+          "t": "04:31",
+          "sec": 271,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "05:08",
+          "sec": 308,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "06:00",
+          "sec": 360,
+          "title": "Taxi & Cool Safety Video",
+          "ife": false
+        },
+        {
+          "t": "07:44",
+          "sec": 464,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "08:42",
+          "sec": 522,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "09:20",
+          "sec": 560,
+          "title": "10/10 IFE System",
+          "ife": true
+        },
+        {
+          "t": "10:12",
+          "sec": 612,
+          "title": "Cabin & Loo",
+          "ife": false
+        },
+        {
+          "t": "10:29",
+          "sec": 629,
+          "title": "Pilot Announcement",
+          "ife": false
+        },
+        {
+          "t": "10:50",
+          "sec": 650,
+          "title": "More Starlux History",
+          "ife": false
+        },
+        {
+          "t": "11:30",
+          "sec": 690,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "12:09",
+          "sec": 729,
+          "title": "Final Thoughts and Score",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 2
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "china airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JMDw-CIEUyg",
+      "title": "UNITED POLARIS \"The Original\": 17 Hours San Francisco to Singapore on UA1 (Boeing 787-9 Dreamliner)",
+      "year": 2026,
+      "published_at": "2026-10-18T10:00:27Z",
+      "channel_title": "windowseatguy",
+      "view_count": 4211,
+      "like_count": 34,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "03:00",
+          "sec": 180,
+          "title": "Gate situation and Boarding United 787-9 Dreamliner",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "Classic Polaris Pod (No Doors), Features & Saks Bedding",
+          "ife": false
+        },
+        {
+          "t": "04:41",
+          "sec": 281,
+          "title": "IFE quick overview",
+          "ife": true
+        },
+        {
+          "t": "05:18",
+          "sec": 318,
+          "title": "Captain's announcement",
+          "ife": false
+        },
+        {
+          "t": "06:06",
+          "sec": 366,
+          "title": "Safety briefing, pushback, Engine Start & Taxi",
+          "ife": false
+        },
+        {
+          "t": "06:49",
+          "sec": 409,
+          "title": "Night Takeoff from San Francisco (SFO)",
+          "ife": false
+        },
+        {
+          "t": "07:30",
+          "sec": 450,
+          "title": "Dinner Service & Inflight Menu",
+          "ife": false
+        },
+        {
+          "t": "08:42",
+          "sec": 522,
+          "title": "Lavatory visit",
+          "ife": false
+        },
+        {
+          "t": "08:50",
+          "sec": 530,
+          "title": "Bed Mode Setup (with Saks Fifth Avenue bedding)",
+          "ife": false
+        },
+        {
+          "t": "09:10",
+          "sec": 550,
+          "title": "Mid-Flight Cabin Ambience & Snack",
+          "ife": false
+        },
+        {
+          "t": "10:25",
+          "sec": 625,
+          "title": "Sunrise over the Pacific",
+          "ife": false
+        },
+        {
+          "t": "11:10",
+          "sec": 670,
+          "title": "Pre-Arrival Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "12:10",
+          "sec": 730,
+          "title": "Descent & Morning Final Approach into Singapore",
+          "ife": false
+        },
+        {
+          "t": "12:25",
+          "sec": 745,
+          "title": "Touchdown at Singapore Changi Airport (SIN)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2L-pB1e1yCE",
+      "title": "Is Cathay Pacific Premium Economy Still Worth It?14-Hour Flight Review (HK-NY) #cathaypacific",
+      "year": 2026,
+      "published_at": "2026-10-16T15:51:14Z",
+      "channel_title": "Globalography Travel",
+      "view_count": 3232,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Coming Up",
+          "ife": false
+        },
+        {
+          "t": "00:17",
+          "sec": 17,
+          "title": "HK Airport Plaza Premium Lounge",
+          "ife": false
+        },
+        {
+          "t": "00:54",
+          "sec": 54,
+          "title": "Refreshhh by Aerotel - it was super cold!",
+          "ife": false
+        },
+        {
+          "t": "01:46",
+          "sec": 106,
+          "title": "Awesome water set up!",
+          "ife": false
+        },
+        {
+          "t": "02:41",
+          "sec": 161,
+          "title": "How many ground crew does it take to push a ladder?",
+          "ife": false
+        },
+        {
+          "t": "03:18",
+          "sec": 198,
+          "title": "Business class...bah humbug to you sir!",
+          "ife": false
+        },
+        {
+          "t": "03:39",
+          "sec": 219,
+          "title": "Washroom - round 1",
+          "ife": false
+        },
+        {
+          "t": "04:00",
+          "sec": 240,
+          "title": "LEG ROOM!",
+          "ife": false
+        },
+        {
+          "t": "05:11",
+          "sec": 311,
+          "title": "2-4-2",
+          "ife": false
+        },
+        {
+          "t": "05:51",
+          "sec": 351,
+          "title": "Welcome drink",
+          "ife": false
+        },
+        {
+          "t": "06:02",
+          "sec": 362,
+          "title": "This seat has seen better days...",
+          "ife": false
+        },
+        {
+          "t": "06:51",
+          "sec": 411,
+          "title": "The Menu",
+          "ife": false
+        },
+        {
+          "t": "07:34",
+          "sec": 454,
+          "title": "Amenities Kit!",
+          "ife": false
+        },
+        {
+          "t": "08:22",
+          "sec": 502,
+          "title": "LEGROOM!",
+          "ife": false
+        },
+        {
+          "t": "09:18",
+          "sec": 558,
+          "title": "This is a TRAVESTY!",
+          "ife": false
+        },
+        {
+          "t": "11:43",
+          "sec": 703,
+          "title": "Take off!",
+          "ife": false
+        },
+        {
+          "t": "12:32",
+          "sec": 752,
+          "title": "Aw NUTS!",
+          "ife": false
+        },
+        {
+          "t": "13:06",
+          "sec": 786,
+          "title": "LUNCH was pretty good",
+          "ife": false
+        },
+        {
+          "t": "16:11",
+          "sec": 971,
+          "title": "DINNER was ok",
+          "ife": false
+        },
+        {
+          "t": "17:01",
+          "sec": 1021,
+          "title": "Washroom - round 2",
+          "ife": false
+        },
+        {
+          "t": "17:43",
+          "sec": 1063,
+          "title": "We've landed",
+          "ife": false
+        },
+        {
+          "t": "18:33",
+          "sec": 1113,
+          "title": "LEGROOM! Did I mention the leg room was pretty rad?",
+          "ife": false
+        },
+        {
+          "t": "19:34",
+          "sec": 1174,
+          "title": "THANKS FOR WATCHING!",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-22T08:34:40.565147"
+  "last_updated": "2026-10-23T08:25:16.720002"
 }
