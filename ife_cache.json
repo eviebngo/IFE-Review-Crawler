@@ -172132,7 +172132,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=JMDw-CIEUyg",
@@ -172277,7 +172279,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.547
     },
     {
       "url": "https://www.youtube.com/watch?v=2L-pB1e1yCE",
@@ -172456,8 +172460,1293 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m7i9b5xpztM",
+      "title": "Emirates Business Class | Dubai - London Stansted | Full Review | Boeing 777-300",
+      "year": 2026,
+      "published_at": "2026-10-22T15:00:05Z",
+      "channel_title": "N&B Global ",
+      "view_count": 389,
+      "like_count": 3,
+      "ife_system": "Emirates ICE",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 19
+        },
+        {
+          "keyword": "level",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8XKcrt_BsHA",
+      "title": "EMIRATES VS QATAR WHICH BUSINESS CLASS WINS #businessclass #aviation",
+      "year": 2026,
+      "published_at": "2026-10-23T22:42:34Z",
+      "channel_title": "Airplane Enthusiasts Playground",
+      "view_count": 619,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 8
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l7cvLxLxYaM",
+      "title": "Copa Airlines 737 MAX 8 ECONOMY Class Review",
+      "year": 2026,
+      "published_at": "2026-10-22T09:04:14Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 8513,
+      "like_count": 314,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:12",
+          "sec": 72,
+          "title": "United Club",
+          "ife": false
+        },
+        {
+          "t": "02:28",
+          "sec": 148,
+          "title": "Boarding flight CM467",
+          "ife": false
+        },
+        {
+          "t": "03:29",
+          "sec": 209,
+          "title": "Seat 17A & features",
+          "ife": false
+        },
+        {
+          "t": "05:43",
+          "sec": 343,
+          "title": "Taxi / Takeoff",
+          "ife": false
+        },
+        {
+          "t": "07:25",
+          "sec": 445,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "08:24",
+          "sec": 504,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "10:35",
+          "sec": 635,
+          "title": "Passenger announcement (PA)",
+          "ife": false
+        },
+        {
+          "t": "11:19",
+          "sec": 679,
+          "title": "Conclusion / Landing",
+          "ife": false
+        },
+        {
+          "t": "14:07",
+          "sec": 847,
+          "title": "Panama City vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 2
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "singapore airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LcoPjcyTT1U",
+      "title": "ほぼ満席のキャセイ、最後列エコノミーはどうなのか？ ソウル(仁川)→香港",
+      "year": 2026,
+      "published_at": "2026-10-23T11:00:40Z",
+      "channel_title": "Daiki Yamamoto / 元Vリーガーの旅日記",
+      "view_count": 4307,
+      "like_count": 45,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "オープニング",
+          "ife": false
+        },
+        {
+          "t": "00:31",
+          "sec": 31,
+          "title": "仁川空港から香港へ・前便で起きたスーツケースの破損",
+          "ife": false
+        },
+        {
+          "t": "01:59",
+          "sec": 119,
+          "title": "ターミナル間の距離と乗り継ぎ時の預け荷物について",
+          "ife": false
+        },
+        {
+          "t": "04:47",
+          "sec": 287,
+          "title": "第2ターミナルの出発階へ・シャトルバス乗り場を探す",
+          "ife": false
+        },
+        {
+          "t": "05:33",
+          "sec": 333,
+          "title": "3階7番出口の無料シャトルバス・運行間隔を確認",
+          "ife": false
+        },
+        {
+          "t": "06:17",
+          "sec": 377,
+          "title": "17分かけて第1ターミナルに到着",
+          "ife": false
+        },
+        {
+          "t": "06:39",
+          "sec": 399,
+          "title": "CX419便のチェックインカウンターへ",
+          "ife": false
+        },
+        {
+          "t": "07:40",
+          "sec": 460,
+          "title": "自動チェックイン・ほぼ満席の座席表を確認",
+          "ife": false
+        },
+        {
+          "t": "08:57",
+          "sec": 537,
+          "title": "紙の搭乗券を発行・スマートパスに登録",
+          "ife": false
+        },
+        {
+          "t": "09:41",
+          "sec": 581,
+          "title": "保安検査・出国審査を通過してワンワールドラウンジへ",
+          "ife": false
+        },
+        {
+          "t": "10:47",
+          "sec": 647,
+          "title": "ラウンジに入室・バーとドリンクの品ぞろえ",
+          "ife": false
+        },
+        {
+          "t": "11:44",
+          "sec": 704,
+          "title": "ビュッフェ紹介・パン、サラダ、点心、温かい料理",
+          "ife": false
+        },
+        {
+          "t": "12:47",
+          "sec": 767,
+          "title": "ラウンジの座席と雰囲気・窓から見える飛行機",
+          "ife": false
+        },
+        {
+          "t": "13:24",
+          "sec": 804,
+          "title": "ラウンジで食事・サラダ、点心、ステーキを実食",
+          "ife": false
+        },
+        {
+          "t": "14:01",
+          "sec": 841,
+          "title": "食事の感想とシャワールームの紹介",
+          "ife": false
+        },
+        {
+          "t": "14:29",
+          "sec": 869,
+          "title": "49番搭乗口へ・混雑するゲートから搭乗",
+          "ife": false
+        },
+        {
+          "t": "16:50",
+          "sec": 1010,
+          "title": "A330-300の最後列75A・座席と足元の広さ",
+          "ife": false
+        },
+        {
+          "t": "18:56",
+          "sec": 1136,
+          "title": "機内食が到着・チキンを選択して内容を確認",
+          "ife": false
+        },
+        {
+          "t": "19:45",
+          "sec": 1185,
+          "title": "機内食を実食・鴨肉のサラダ、パン、ピリ辛チキン",
+          "ife": false
+        },
+        {
+          "t": "21:44",
+          "sec": 1304,
+          "title": "デザートのハーゲンダッツ・機内食の感想",
+          "ife": false
+        },
+        {
+          "t": "22:16",
+          "sec": 1336,
+          "title": "キャセイ創立80周年・いつもと違うクルーの制服",
+          "ife": false
+        },
+        {
+          "t": "25:06",
+          "sec": 1506,
+          "title": "ソウル→香港の出発時刻と機内での過ごし方",
+          "ife": false
+        },
+        {
+          "t": "25:35",
+          "sec": 1535,
+          "title": "最後列付近にトイレがない配置・リクライニングの深さ",
+          "ife": false
+        },
+        {
+          "t": "26:36",
+          "sec": 1596,
+          "title": "繰り返し鳴る呼び出し音・照明も点いたり消えたり",
+          "ife": false
+        },
+        {
+          "t": "29:14",
+          "sec": 1754,
+          "title": "機内エンタメを紹介・日本語対応作品の絞り込み方",
+          "ife": false
+        },
+        {
+          "t": "30:34",
+          "sec": 1834,
+          "title": "香港到着まであと22分・フライト終盤",
+          "ife": false
+        },
+        {
+          "t": "33:53",
+          "sec": 2033,
+          "title": "香港国際空港に到着・ソウル発のお得な航空券を振り返る",
+          "ife": false
+        },
+        {
+          "t": "34:45",
+          "sec": 2085,
+          "title": "仁川での乗り継ぎを振り返る・ターミナル移動と荷物",
+          "ife": false
+        },
+        {
+          "t": "36:06",
+          "sec": 2166,
+          "title": "ワンワールドラウンジとプライオリティパス対応ラウンジを比較",
+          "ife": false
+        },
+        {
+          "t": "37:10",
+          "sec": 2230,
+          "title": "フライトの総評・機内の異変、座席、機内食",
+          "ife": false
+        },
+        {
+          "t": "38:44",
+          "sec": 2324,
+          "title": "印象に残ったクルーの制服・日本の航空会社でも見てみたい",
+          "ife": false
+        },
+        {
+          "t": "40:04",
+          "sec": 2404,
+          "title": "エンディング",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=T-suu7UmX0Q",
+      "title": "Mahan Air Business Class on the World’s Only Active Airbus A340-200",
+      "year": 2026,
+      "published_at": "2026-10-23T13:45:02Z",
+      "channel_title": "Aerosaeed",
+      "view_count": 3846,
+      "like_count": 47,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Mehrabad Airport & Check-in",
+          "ife": false
+        },
+        {
+          "t": "00:23",
+          "sec": 23,
+          "title": "Boarding & Apron Bus Ride",
+          "ife": false
+        },
+        {
+          "t": "03:20",
+          "sec": 200,
+          "title": "Business Class Cabin",
+          "ife": false
+        },
+        {
+          "t": "04:12",
+          "sec": 252,
+          "title": "Taxiing at Mehrabad",
+          "ife": false
+        },
+        {
+          "t": "05:43",
+          "sec": 343,
+          "title": "Takeoff & Climb",
+          "ife": false
+        },
+        {
+          "t": "11:18",
+          "sec": 678,
+          "title": "Business Class Experience",
+          "ife": false
+        },
+        {
+          "t": "13:20",
+          "sec": 800,
+          "title": "Approach to Kerman",
+          "ife": false
+        },
+        {
+          "t": "15:00",
+          "sec": 900,
+          "title": "Landing & Taxi to Stand",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gJi3qLyVZHY",
+      "title": "AIR INDIA BOEING 787-9 Review 🇮🇳 Delhi to London Heathrow 🇬🇧  | Full Flight Experience",
+      "year": 2026,
+      "published_at": "2026-10-24T07:00:03Z",
+      "channel_title": "Roam with Jerome",
+      "view_count": 24,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:10",
+          "sec": 10,
+          "title": "Delhi Indira Gandhi International Airport layover experience",
+          "ife": false
+        },
+        {
+          "t": "02:33",
+          "sec": 153,
+          "title": "Boarding the Air India Boeing 787-9 Dreamliner",
+          "ife": false
+        },
+        {
+          "t": "04:45",
+          "sec": 285,
+          "title": "Aircraft cabin tour and seat comfort",
+          "ife": false
+        },
+        {
+          "t": "08:11",
+          "sec": 491,
+          "title": "Taxiing",
+          "ife": false
+        },
+        {
+          "t": "08:24",
+          "sec": 504,
+          "title": "In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:11",
+          "sec": 611,
+          "title": "Take-off from Delhi Airport",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "Breakfast Meal - Air India onboard food and drinks",
+          "ife": false
+        },
+        {
+          "t": "13:05",
+          "sec": 785,
+          "title": "Lavatory cleanliness and facilities",
+          "ife": false
+        },
+        {
+          "t": "14:32",
+          "sec": 872,
+          "title": "Nap Time",
+          "ife": false
+        },
+        {
+          "t": "14:47",
+          "sec": 887,
+          "title": "Mid-Flight Snacks",
+          "ife": false
+        },
+        {
+          "t": "15:09",
+          "sec": 909,
+          "title": "Lunch Meal - Air India onboard food and drinks",
+          "ife": false
+        },
+        {
+          "t": "17:22",
+          "sec": 1042,
+          "title": "Preparing for Landing",
+          "ife": false
+        },
+        {
+          "t": "17:36",
+          "sec": 1056,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "18:44",
+          "sec": 1124,
+          "title": "Descend",
+          "ife": false
+        },
+        {
+          "t": "18:55",
+          "sec": 1135,
+          "title": "London City from Above",
+          "ife": false
+        },
+        {
+          "t": "19:20",
+          "sec": 1160,
+          "title": "Landing at London Heathrow Airport",
+          "ife": false
+        },
+        {
+          "t": "20:15",
+          "sec": 1215,
+          "title": "Final verdict and overall flight review.",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 9
+        },
+        {
+          "keyword": "787",
+          "mentions": 8
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 6
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qGC3VNAi8HA",
+      "title": "Korean Air Economy Class Review: Boeing 737-900 | Busan (PUS) to Taipei (TPE)",
+      "year": 2026,
+      "published_at": "2026-10-22T09:00:07Z",
+      "channel_title": "Your Pal Hachi",
+      "view_count": 621,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:08",
+          "sec": 8,
+          "title": "Transit to Gimhae Airport from Seomyeon",
+          "ife": false
+        },
+        {
+          "t": "00:26",
+          "sec": 26,
+          "title": "Check-in",
+          "ife": false
+        },
+        {
+          "t": "00:47",
+          "sec": 47,
+          "title": "Aircraft",
+          "ife": false
+        },
+        {
+          "t": "00:57",
+          "sec": 57,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "01:43",
+          "sec": 103,
+          "title": "Takeoff & Views",
+          "ife": false
+        },
+        {
+          "t": "01:56",
+          "sec": 116,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "02:23",
+          "sec": 143,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "02:39",
+          "sec": 159,
+          "title": "Final Thoughts & Conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rjXuL23GY3U",
+      "title": "Cathay Pacific A330 Economy Review: Hong Kong to Taipei",
+      "year": 2026,
+      "published_at": "2026-10-21T16:00:40Z",
+      "channel_title": "First Travel",
+      "view_count": 114,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Boarding at Hong Kong (HKG)",
+          "ife": false
+        },
+        {
+          "t": "00:29",
+          "sec": 29,
+          "title": "Legroom and Seat Comfort",
+          "ife": false
+        },
+        {
+          "t": "01:35",
+          "sec": 95,
+          "title": "Takeoff from Hong Kong (HKG)",
+          "ife": false
+        },
+        {
+          "t": "02:14",
+          "sec": 134,
+          "title": "In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "02:41",
+          "sec": 161,
+          "title": "Hot Meal Service",
+          "ife": false
+        },
+        {
+          "t": "03:03",
+          "sec": 183,
+          "title": "Restroom Tour",
+          "ife": false
+        },
+        {
+          "t": "03:08",
+          "sec": 188,
+          "title": "Wi-Fi Options",
+          "ife": true
+        },
+        {
+          "t": "03:31",
+          "sec": 211,
+          "title": "Final Rating and Verdict",
+          "ife": false
+        },
+        {
+          "t": "04:00",
+          "sec": 240,
+          "title": "Landing at Taipei (TPE)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=II8YsrA5j58",
+      "title": "London Heathrow - Heavy Jets on Final Approach",
+      "year": 2026,
+      "published_at": "2026-10-18T13:04:35Z",
+      "channel_title": "First Travel",
+      "view_count": 552,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Emirates Airbus A380-800",
+          "ife": false
+        },
+        {
+          "t": "00:15",
+          "sec": 15,
+          "title": "Virgin Atlantic Airbus A330-900neo",
+          "ife": false
+        },
+        {
+          "t": "00:26",
+          "sec": 26,
+          "title": "Delta Air Lines Boeing 767-400ER",
+          "ife": false
+        },
+        {
+          "t": "00:36",
+          "sec": 36,
+          "title": "British Airways Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "00:47",
+          "sec": 47,
+          "title": "Virgin Atlantic Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "00:58",
+          "sec": 58,
+          "title": "American Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "01:11",
+          "sec": 71,
+          "title": "Delta Air Lines Airbus A330-900neo",
+          "ife": false
+        },
+        {
+          "t": "01:22",
+          "sec": 82,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "01:35",
+          "sec": 95,
+          "title": "Air India Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "01:48",
+          "sec": 108,
+          "title": "British Airways Airbus A350-900",
+          "ife": false
+        },
+        {
+          "t": "02:01",
+          "sec": 121,
+          "title": "American Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "02:13",
+          "sec": 133,
+          "title": "Virgin Atlantic Airbus A350-1000",
+          "ife": false
+        },
+        {
+          "t": "02:27",
+          "sec": 147,
+          "title": "United Airlines Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "02:36",
+          "sec": 156,
+          "title": "Virgin Atlantic Airbus A330-300",
+          "ife": false
+        },
+        {
+          "t": "02:49",
+          "sec": 169,
+          "title": "Saudia Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "03:00",
+          "sec": 180,
+          "title": "British Airways Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "03:14",
+          "sec": 194,
+          "title": "British Airways Airbus A380-800",
+          "ife": false
+        },
+        {
+          "t": "03:27",
+          "sec": 207,
+          "title": "American Airlines Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "03:37",
+          "sec": 217,
+          "title": "Air Canada Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "03:47",
+          "sec": 227,
+          "title": "Virgin Atlantic Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "03:59",
+          "sec": 239,
+          "title": "Qatar Airways Airbus A350-900",
+          "ife": false
+        },
+        {
+          "t": "04:12",
+          "sec": 252,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "04:25",
+          "sec": 265,
+          "title": "DHL Airbus A300",
+          "ife": false
+        },
+        {
+          "t": "04:38",
+          "sec": 278,
+          "title": "United Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "04:52",
+          "sec": 292,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "05:05",
+          "sec": 305,
+          "title": "Etihad Airways Airbus A380-800",
+          "ife": false
+        },
+        {
+          "t": "05:18",
+          "sec": 318,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "05:30",
+          "sec": 330,
+          "title": "United Airlines Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "05:45",
+          "sec": 345,
+          "title": "British Airways Boeing 787-8",
+          "ife": false
+        },
+        {
+          "t": "05:58",
+          "sec": 358,
+          "title": "American Airlines Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "06:06",
+          "sec": 366,
+          "title": "Finnair Airbus A350-900",
+          "ife": false
+        },
+        {
+          "t": "06:18",
+          "sec": 378,
+          "title": "Virgin Atlantic Airbus A330-900neo",
+          "ife": false
+        },
+        {
+          "t": "06:33",
+          "sec": 393,
+          "title": "United Airlines Boeing 787-9",
+          "ife": false
+        },
+        {
+          "t": "06:44",
+          "sec": 404,
+          "title": "British Airways Boeing 777-200ER",
+          "ife": false
+        },
+        {
+          "t": "06:57",
+          "sec": 417,
+          "title": "EgyptAir Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "07:12",
+          "sec": 432,
+          "title": "Turkish Airlines Airbus A330-300",
+          "ife": false
+        },
+        {
+          "t": "07:23",
+          "sec": 443,
+          "title": "Icelandair Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "07:37",
+          "sec": 457,
+          "title": "Air India Airbus A350-900",
+          "ife": false
+        },
+        {
+          "t": "07:49",
+          "sec": 469,
+          "title": "Emirates Airbus A380-800",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 10
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 6
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 24
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 17
+        },
+        {
+          "keyword": "777",
+          "mentions": 13
+        },
+        {
+          "keyword": "787",
+          "mentions": 9
+        },
+        {
+          "keyword": "a350",
+          "mentions": 7
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hxWKLSWTtE0",
+      "title": "American Airlines 737 MAX 8 Flight Sound and Cabin View",
+      "year": 2026,
+      "published_at": "2026-10-14T15:36:41Z",
+      "channel_title": "First Travel",
+      "view_count": 143,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Takeoff from Washington Reagan National (DCA)",
+          "ife": false
+        },
+        {
+          "t": "00:52",
+          "sec": 52,
+          "title": "Climb and Transition to Cruise Altitude",
+          "ife": false
+        },
+        {
+          "t": "03:10",
+          "sec": 190,
+          "title": "Cruising Above the Clouds",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "Beginning Descent",
+          "ife": false
+        },
+        {
+          "t": "13:10",
+          "sec": 790,
+          "title": "Final Approach and Landing at Dallas Fort Worth (DFW)",
+          "ife": false
+        },
+        {
+          "t": "14:43",
+          "sec": 883,
+          "title": "Taxiing to the Terminal Gate",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 6
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-23T08:25:16.720002"
+  "last_updated": "2026-10-24T08:02:17.992019"
 }
