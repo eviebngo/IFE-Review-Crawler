@@ -173831,7 +173831,164 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Welcome to travel day!",
+          "ife": false
+        },
+        {
+          "t": "00:41",
+          "sec": 41,
+          "title": "Gatwick South Terminal",
+          "ife": false
+        },
+        {
+          "t": "01:15",
+          "sec": 75,
+          "title": "Gatwick Airport Security",
+          "ife": false
+        },
+        {
+          "t": "03:02",
+          "sec": 182,
+          "title": "Why We're Only Going for 48 Hours",
+          "ife": false
+        },
+        {
+          "t": "04:23",
+          "sec": 263,
+          "title": "No1 Lounge Gatwick Review",
+          "ife": false
+        },
+        {
+          "t": "06:27",
+          "sec": 387,
+          "title": "Food at the No1 Lounge",
+          "ife": false
+        },
+        {
+          "t": "08:18",
+          "sec": 498,
+          "title": "Our Flight Plans & Flighty App",
+          "ife": false
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "Heading to Our Gate",
+          "ife": false
+        },
+        {
+          "t": "13:36",
+          "sec": 816,
+          "title": "Our British Airways Boeing 777",
+          "ife": false
+        },
+        {
+          "t": "14:43",
+          "sec": 883,
+          "title": "Boarding Delays",
+          "ife": false
+        },
+        {
+          "t": "15:03",
+          "sec": 903,
+          "title": "British Airways Economy Seats",
+          "ife": false
+        },
+        {
+          "t": "16:05",
+          "sec": 965,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "17:09",
+          "sec": 1029,
+          "title": "Filming Rules & Flight Delays",
+          "ife": false
+        },
+        {
+          "t": "20:07",
+          "sec": 1207,
+          "title": "Turbulence Over the Atlantic",
+          "ife": false
+        },
+        {
+          "t": "21:08",
+          "sec": 1268,
+          "title": "British Airways Economy Meals",
+          "ife": false
+        },
+        {
+          "t": "22:26",
+          "sec": 1346,
+          "title": "Halfway to Orlando",
+          "ife": false
+        },
+        {
+          "t": "25:54",
+          "sec": 1554,
+          "title": "Landing at Orlando Airport",
+          "ife": false
+        },
+        {
+          "t": "26:20",
+          "sec": 1580,
+          "title": "Global Entry & Hand Luggage Only",
+          "ife": false
+        },
+        {
+          "t": "27:00",
+          "sec": 1620,
+          "title": "Florida Visitor Toll Pass",
+          "ife": false
+        },
+        {
+          "t": "28:15",
+          "sec": 1695,
+          "title": "Collecting Our Toll Pass",
+          "ife": false
+        },
+        {
+          "t": "29:20",
+          "sec": 1760,
+          "title": "Avis Rental Car Delays",
+          "ife": false
+        },
+        {
+          "t": "30:50",
+          "sec": 1850,
+          "title": "Our British Airways Flight Review",
+          "ife": false
+        },
+        {
+          "t": "33:29",
+          "sec": 2009,
+          "title": "Arriving at Walt Disney World",
+          "ife": false
+        },
+        {
+          "t": "34:38",
+          "sec": 2078,
+          "title": "Disney's Old Key West Resort",
+          "ife": false
+        },
+        {
+          "t": "37:07",
+          "sec": 2227,
+          "title": "What's Coming Up in Orlando?",
+          "ife": false
+        },
+        {
+          "t": "37:49",
+          "sec": 2269,
+          "title": "Our Final Travel Day Thoughts",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
