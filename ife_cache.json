@@ -177298,7 +177298,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ER1XmN8Nbz4",
@@ -177334,7 +177336,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=zRuDaBMb2Ao",
@@ -177678,8 +177682,132 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AWkyXvvQGmU",
+      "title": "Gulf Air Boeing 787-9 Trip Report | Singapore to Kuala Lumpur 🇸🇬🇲🇾 | Inaugural Flight",
+      "year": 2026,
+      "published_at": "2026-10-27T10:00:24Z",
+      "channel_title": "Flying Asia",
+      "view_count": 1853,
+      "like_count": 16,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=neIX-fb8xa0",
+      "title": "A day with us: Towing Operator",
+      "year": 2026,
+      "published_at": "2026-10-25T12:13:30Z",
+      "channel_title": "Qatar Airways",
+      "view_count": 192759,
+      "like_count": 355,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:27",
+          "sec": 27,
+          "title": "Meet Thomas Chebii",
+          "ife": false
+        },
+        {
+          "t": "00:44",
+          "sec": 44,
+          "title": "What is aircraft towing?",
+          "ife": false
+        },
+        {
+          "t": "00:58",
+          "sec": 58,
+          "title": "Towing checklist",
+          "ife": false
+        },
+        {
+          "t": "01:13",
+          "sec": 73,
+          "title": "Team communication",
+          "ife": false
+        },
+        {
+          "t": "01:26",
+          "sec": 86,
+          "title": "Towing begins",
+          "ife": false
+        },
+        {
+          "t": "01:44",
+          "sec": 104,
+          "title": "Speed limits",
+          "ife": false
+        },
+        {
+          "t": "01:59",
+          "sec": 119,
+          "title": "The team behind the scenes",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-10-27T09:25:35.683923"
+  "last_updated": "2026-10-28T09:31:21.203270"
 }
