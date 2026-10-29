@@ -178240,7 +178240,80 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:07",
+          "sec": 7,
+          "title": "Boarding Turkish Airlines 787",
+          "ife": false
+        },
+        {
+          "t": "0:29",
+          "sec": 29,
+          "title": "Turkish Airlines B787-9 Economy Class Cabin",
+          "ife": false
+        },
+        {
+          "t": "1:32",
+          "sec": 92,
+          "title": "Captain Announcement",
+          "ife": false
+        },
+        {
+          "t": "2:26",
+          "sec": 146,
+          "title": "Turkish Airlines Safety Video + Pushback",
+          "ife": false
+        },
+        {
+          "t": "3:17",
+          "sec": 197,
+          "title": "Filming Issue on Turkish Airlines",
+          "ife": false
+        },
+        {
+          "t": "3:48",
+          "sec": 228,
+          "title": "Taxi to Runway",
+          "ife": false
+        },
+        {
+          "t": "4:15",
+          "sec": 255,
+          "title": "Takeoff from Cairo International Airport",
+          "ife": false
+        },
+        {
+          "t": "4:46",
+          "sec": 286,
+          "title": "Climb + Inflight",
+          "ife": false
+        },
+        {
+          "t": "5:54",
+          "sec": 354,
+          "title": "Planet IFE - Movies & TV Shows",
+          "ife": true
+        },
+        {
+          "t": "8:02",
+          "sec": 482,
+          "title": "Breakfast Service + Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "12:29",
+          "sec": 749,
+          "title": "Landing Into Istanbul Airport",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
