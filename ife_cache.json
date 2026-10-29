@@ -177728,7 +177728,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=neIX-fb8xa0",
@@ -177806,8 +177808,947 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DyoatLVNVYs",
+      "title": "Lufthansa A380 Business Class |Washington DC (IAD)–Munich (MUC)| Of Aurora Borealis & Ceramic Shards",
+      "year": 2026,
+      "published_at": "2026-10-28T16:52:57Z",
+      "channel_title": "Fly Guys",
+      "view_count": 87,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "🕒 Introduction",
+          "ife": false
+        },
+        {
+          "t": "02:43",
+          "sec": 163,
+          "title": "🚪 Pre-boarding & boarding",
+          "ife": false
+        },
+        {
+          "t": "04:26",
+          "sec": 266,
+          "title": "💺 Seat review pt. 1",
+          "ife": false
+        },
+        {
+          "t": "10:51",
+          "sec": 651,
+          "title": "🍽️ Meal service",
+          "ife": false
+        },
+        {
+          "t": "14:39",
+          "sec": 879,
+          "title": "😱 Ceramic shards in my dessert",
+          "ife": false
+        },
+        {
+          "t": "15:56",
+          "sec": 956,
+          "title": "🚻 Lavatory 1",
+          "ife": false
+        },
+        {
+          "t": "16:31",
+          "sec": 991,
+          "title": "🎬 IFE",
+          "ife": true
+        },
+        {
+          "t": "18:40",
+          "sec": 1120,
+          "title": "🌌 Aurora Borealis/Northern Lights",
+          "ife": false
+        },
+        {
+          "t": "19:56",
+          "sec": 1196,
+          "title": "📶 Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "21:21",
+          "sec": 1281,
+          "title": "🚻 Lavatory 2",
+          "ife": false
+        },
+        {
+          "t": "22:31",
+          "sec": 1351,
+          "title": "💺 Seat review pt. 2",
+          "ife": false
+        },
+        {
+          "t": "24:09",
+          "sec": 1449,
+          "title": "🪥 Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "24:56",
+          "sec": 1496,
+          "title": "🍽️ Meal service (Breakfast)",
+          "ife": false
+        },
+        {
+          "t": "26:45",
+          "sec": 1605,
+          "title": "📊 Final thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bW7_EBxOpfE",
+      "title": "Mein erstes und letztes Mal A340-600!",
+      "year": 2026,
+      "published_at": "2026-10-28T15:00:01Z",
+      "channel_title": "Philippe",
+      "view_count": 338,
+      "like_count": 16,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Info",
+          "ife": false
+        },
+        {
+          "t": "00:39",
+          "sec": 39,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "01:05",
+          "sec": 65,
+          "title": "Geschichte",
+          "ife": false
+        },
+        {
+          "t": "06:49",
+          "sec": 409,
+          "title": "Der Flug",
+          "ife": false
+        },
+        {
+          "t": "07:56",
+          "sec": 476,
+          "title": "Boarding und Sitzplatz",
+          "ife": false
+        },
+        {
+          "t": "10:23",
+          "sec": 623,
+          "title": "der Start (FRA)",
+          "ife": false
+        },
+        {
+          "t": "11:49",
+          "sec": 709,
+          "title": "Inflight Entertainment und Internet",
+          "ife": true
+        },
+        {
+          "t": "13:10",
+          "sec": 790,
+          "title": "1. Essensservice",
+          "ife": false
+        },
+        {
+          "t": "14:09",
+          "sec": 849,
+          "title": "Toiletten und weiterer Flug",
+          "ife": false
+        },
+        {
+          "t": "16:50",
+          "sec": 1010,
+          "title": "2. Essensservice",
+          "ife": false
+        },
+        {
+          "t": "18:04",
+          "sec": 1084,
+          "title": "Landeanflug und Landung (JFK)",
+          "ife": false
+        },
+        {
+          "t": "19:15",
+          "sec": 1155,
+          "title": "Fazit",
+          "ife": false
+        },
+        {
+          "t": "20:33",
+          "sec": 1233,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TF5566odDAY",
+      "title": "✈️ Flying THAI AIRWAYS 🇹🇭 Airbus A330-300 Chennai - Bangkok | TRIP REPORT",
+      "year": 2026,
+      "published_at": "2026-10-24T13:30:23Z",
+      "channel_title": "Aerowanderer",
+      "view_count": 26780,
+      "like_count": 252,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Chennai Airport",
+          "ife": false
+        },
+        {
+          "t": "03:01",
+          "sec": 181,
+          "title": "Our aircraft",
+          "ife": false
+        },
+        {
+          "t": "03:54",
+          "sec": 234,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "06:19",
+          "sec": 379,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "08:29",
+          "sec": 509,
+          "title": "Pushback / taxi",
+          "ife": false
+        },
+        {
+          "t": "10:23",
+          "sec": 623,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "12:17",
+          "sec": 737,
+          "title": "View of Chennai at night",
+          "ife": false
+        },
+        {
+          "t": "14:40",
+          "sec": 880,
+          "title": "Inflight meal",
+          "ife": false
+        },
+        {
+          "t": "17:48",
+          "sec": 1068,
+          "title": "Inflight entertainment system",
+          "ife": true
+        },
+        {
+          "t": "18:46",
+          "sec": 1126,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "19:31",
+          "sec": 1171,
+          "title": "Descent / Approach",
+          "ife": false
+        },
+        {
+          "t": "21:41",
+          "sec": 1301,
+          "title": "Landing at Bangkok Suvarnabhumi Airport",
+          "ife": false
+        },
+        {
+          "t": "24:46",
+          "sec": 1486,
+          "title": "Bangkok Suvarnabhumi Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 7
+        },
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xJlsF97FQqk",
+      "title": "Cathay Pacific Airbus 350/900 business SG-HKG - Come for noodles, stay for bed!",
+      "year": 2026,
+      "published_at": "2026-10-29T01:00:23Z",
+      "channel_title": "Alisa par-ci, par-la",
+      "view_count": 8,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UUp3tM_NeJQ",
+      "title": "Turkish Airlines BRAND NEW B787-9 Economy Class Review | Cairo to Istanbul",
+      "year": 2026,
+      "published_at": "2026-10-28T19:40:14Z",
+      "channel_title": "Abdirisaq Aviation",
+      "view_count": 251,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JwQmHXsr6qY",
+      "title": "Etihad A321LR Economy Class 🇦🇪 | Bangkok to Abu Dhabi Full Flight Review (2026)",
+      "year": 2026,
+      "published_at": "2026-10-23T16:13:28Z",
+      "channel_title": "Garry Curran ",
+      "view_count": 7032,
+      "like_count": 62,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Bangkok Suvarnabhumi Airport",
+          "ife": false
+        },
+        {
+          "t": "0:30",
+          "sec": 30,
+          "title": "Check In",
+          "ife": false
+        },
+        {
+          "t": "2:31",
+          "sec": 151,
+          "title": "The Coral First Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "6:41",
+          "sec": 401,
+          "title": "Heading to the departure gate",
+          "ife": false
+        },
+        {
+          "t": "6:54",
+          "sec": 414,
+          "title": "Boarding and Economy Class cabin",
+          "ife": false
+        },
+        {
+          "t": "10:47",
+          "sec": 647,
+          "title": "Departure from Bangkok",
+          "ife": false
+        },
+        {
+          "t": "12:28",
+          "sec": 748,
+          "title": "In-flight experience",
+          "ife": false
+        },
+        {
+          "t": "14:43",
+          "sec": 883,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "20:45",
+          "sec": 1245,
+          "title": "Dinner & Aircraft Thoughts",
+          "ife": false
+        },
+        {
+          "t": "23:17",
+          "sec": 1397,
+          "title": "Loo Review",
+          "ife": false
+        },
+        {
+          "t": "24:34",
+          "sec": 1474,
+          "title": "Decending Towards Abu Dhabi",
+          "ife": false
+        },
+        {
+          "t": "25:34",
+          "sec": 1534,
+          "title": "Arrival in Abu Dhabi",
+          "ife": false
+        },
+        {
+          "t": "26:25",
+          "sec": 1585,
+          "title": "Final thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 15
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 9
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VRj38-yTuNM",
+      "title": "Onboard the First Flight from Asia to Iceland - Air China A330 BUSINESS CLASS",
+      "year": 2026,
+      "published_at": "2026-10-29T04:00:19Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 5590,
+      "like_count": 249,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro (luxury car transfer)",
+          "ife": false
+        },
+        {
+          "t": "02:35",
+          "sec": 155,
+          "title": "Air China Business Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "06:25",
+          "sec": 385,
+          "title": "Boarding flight CA807",
+          "ife": false
+        },
+        {
+          "t": "07:22",
+          "sec": 442,
+          "title": "Seat 14A & features",
+          "ife": false
+        },
+        {
+          "t": "12:29",
+          "sec": 749,
+          "title": "Taxi / Takeoff",
+          "ife": false
+        },
+        {
+          "t": "12:53",
+          "sec": 773,
+          "title": "WiFi / Lavatory tour / IFE",
+          "ife": true
+        },
+        {
+          "t": "14:33",
+          "sec": 873,
+          "title": "Supper service",
+          "ife": false
+        },
+        {
+          "t": "16:09",
+          "sec": 969,
+          "title": "Bed time",
+          "ife": false
+        },
+        {
+          "t": "17:30",
+          "sec": 1050,
+          "title": "Mid-flight",
+          "ife": false
+        },
+        {
+          "t": "19:09",
+          "sec": 1149,
+          "title": "Breakfast service",
+          "ife": false
+        },
+        {
+          "t": "20:42",
+          "sec": 1242,
+          "title": "Short conclusion / Landing",
+          "ife": false
+        },
+        {
+          "t": "22:57",
+          "sec": 1377,
+          "title": "Copenhagen layover",
+          "ife": false
+        },
+        {
+          "t": "24:32",
+          "sec": 1472,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "27:48",
+          "sec": 1668,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "29:22",
+          "sec": 1762,
+          "title": "Lunch service",
+          "ife": false
+        },
+        {
+          "t": "32:20",
+          "sec": 1940,
+          "title": "Mid-flight",
+          "ife": false
+        },
+        {
+          "t": "34:41",
+          "sec": 2081,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "36:18",
+          "sec": 2178,
+          "title": "Water salute",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "737",
+          "mentions": 3
+        },
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zK6JiHd3raQ",
+      "title": "Gulf Air vs Saudia: The Shocking Economy Winner",
+      "year": 2026,
+      "published_at": "2026-10-25T09:00:19Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 16673,
+      "like_count": 324,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:32",
+          "sec": 32,
+          "title": "Gulf Air overview",
+          "ife": false
+        },
+        {
+          "t": "01:38",
+          "sec": 98,
+          "title": "Saudia overview",
+          "ife": false
+        },
+        {
+          "t": "02:44",
+          "sec": 164,
+          "title": "Gulf Air boarding",
+          "ife": false
+        },
+        {
+          "t": "03:13",
+          "sec": 193,
+          "title": "Gulf Air seat",
+          "ife": false
+        },
+        {
+          "t": "04:08",
+          "sec": 248,
+          "title": "Saudia boarding",
+          "ife": false
+        },
+        {
+          "t": "04:54",
+          "sec": 294,
+          "title": "Saudia seat",
+          "ife": false
+        },
+        {
+          "t": "05:55",
+          "sec": 355,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "06:15",
+          "sec": 375,
+          "title": "Gulf Air meal",
+          "ife": false
+        },
+        {
+          "t": "07:01",
+          "sec": 421,
+          "title": "Saudia meal",
+          "ife": false
+        },
+        {
+          "t": "08:22",
+          "sec": 502,
+          "title": "NordVPN",
+          "ife": false
+        },
+        {
+          "t": "10:01",
+          "sec": 601,
+          "title": "Season 2 bracket",
+          "ife": false
+        },
+        {
+          "t": "10:32",
+          "sec": 632,
+          "title": "Gulf Air tech",
+          "ife": false
+        },
+        {
+          "t": "11:37",
+          "sec": 697,
+          "title": "Saudia tech",
+          "ife": false
+        },
+        {
+          "t": "12:50",
+          "sec": 770,
+          "title": "Gulf Air service",
+          "ife": false
+        },
+        {
+          "t": "14:06",
+          "sec": 846,
+          "title": "Saudia service",
+          "ife": false
+        },
+        {
+          "t": "15:01",
+          "sec": 901,
+          "title": "Gulf Air efficiency",
+          "ife": false
+        },
+        {
+          "t": "15:54",
+          "sec": 954,
+          "title": "Saudia efficiency",
+          "ife": false
+        },
+        {
+          "t": "16:18",
+          "sec": 978,
+          "title": "Results",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "a320",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-28T09:31:21.203270"
+  "last_updated": "2026-10-29T09:44:26.868071"
 }
