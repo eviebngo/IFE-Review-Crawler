@@ -177940,7 +177940,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=bW7_EBxOpfE",
@@ -178059,7 +178061,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=TF5566odDAY",
@@ -178183,7 +178187,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=xJlsF97FQqk",
@@ -178227,7 +178233,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UUp3tM_NeJQ",
@@ -178353,7 +178361,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=JwQmHXsr6qY",
@@ -178478,7 +178488,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=VRj38-yTuNM",
@@ -178661,7 +178673,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=zK6JiHd3raQ",
@@ -178820,8 +178834,2397 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.273
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aXudyiX-7fs",
+      "title": "Singapore Airlines KrisWorld Tour | Movies, TV Shows & Features (SQ447)",
+      "year": 2026,
+      "published_at": "2026-10-28T13:00:20Z",
+      "channel_title": "Jesan Tanvir",
+      "view_count": 26,
+      "like_count": 3,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O5R5EIjwCnQ",
+      "title": "Emirates A350 Business Class: Dubai to Beirut | Luxury Seat, Food & Full Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-29T16:32:21Z",
+      "channel_title": "Anthony Rahayel",
+      "view_count": 0,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Emirates A350 Business Class: Dubai to Beirut",
+          "ife": false
+        },
+        {
+          "t": "00:53",
+          "sec": 53,
+          "title": "Discovering the Airbus A350",
+          "ife": false
+        },
+        {
+          "t": "01:34",
+          "sec": 94,
+          "title": "Business Class Seat & Welcome Service",
+          "ife": false
+        },
+        {
+          "t": "01:47",
+          "sec": 107,
+          "title": "Entertainment Screen & Cabin Features",
+          "ife": true
+        },
+        {
+          "t": "02:09",
+          "sec": 129,
+          "title": "Exploring the Breakfast Menu",
+          "ife": false
+        },
+        {
+          "t": "03:19",
+          "sec": 199,
+          "title": "Choosing My Inflight Breakfast",
+          "ife": false
+        },
+        {
+          "t": "04:35",
+          "sec": 275,
+          "title": "Cinnamon French Toast Taste Test",
+          "ife": false
+        },
+        {
+          "t": "05:55",
+          "sec": 355,
+          "title": "Warm Blueberry Muffin",
+          "ife": false
+        },
+        {
+          "t": "06:31",
+          "sec": 391,
+          "title": "Business Class Seat Privacy",
+          "ife": false
+        },
+        {
+          "t": "08:01",
+          "sec": 481,
+          "title": "Greek Yogurt, Coffee & Pastries",
+          "ife": false
+        },
+        {
+          "t": "08:48",
+          "sec": 528,
+          "title": "My Verdict on Emirates Breakfast",
+          "ife": false
+        },
+        {
+          "t": "09:54",
+          "sec": 594,
+          "title": "Is Emirates Business Class Worth It?",
+          "ife": false
+        },
+        {
+          "t": "10:51",
+          "sec": 651,
+          "title": "A350 HD Cameras & Views of Lebanon",
+          "ife": false
+        },
+        {
+          "t": "11:24",
+          "sec": 684,
+          "title": "Wireless Headphones & Charging",
+          "ife": false
+        },
+        {
+          "t": "11:46",
+          "sec": 706,
+          "title": "Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 17
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 14
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xcPiIsjnMIs",
+      "title": "I was SHOCKED how CRAMPED and TIGHT my Qatar Airways economy seat was! Full A350-1000 flight review",
+      "year": 2026,
+      "published_at": "2026-10-29T19:00:06Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 2407,
+      "like_count": 80,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AnN-w4yRqIQ",
+      "title": "Is Korean Air Secretly the World's Best Economy Class? Boeing 787-10 | Seattle to Seoul Incheon",
+      "year": 2026,
+      "published_at": "2026-10-29T13:00:28Z",
+      "channel_title": "Freddie’s Flight Reviews",
+      "view_count": 4125,
+      "like_count": 61,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:59",
+          "sec": 59,
+          "title": "Frankfurt Airport",
+          "ife": false
+        },
+        {
+          "t": "01:42",
+          "sec": 102,
+          "title": "About the Boeing 747",
+          "ife": false
+        },
+        {
+          "t": "02:39",
+          "sec": 159,
+          "title": "Flight Details & Route Map",
+          "ife": false
+        },
+        {
+          "t": "02:58",
+          "sec": 178,
+          "title": "Heading to Gate",
+          "ife": false
+        },
+        {
+          "t": "03:37",
+          "sec": 217,
+          "title": "747-8 Seat Map",
+          "ife": false
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:41",
+          "sec": 281,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "05:48",
+          "sec": 348,
+          "title": "Sponsor",
+          "ife": false
+        },
+        {
+          "t": "07:20",
+          "sec": 440,
+          "title": "Taxi & Safety Video",
+          "ife": false
+        },
+        {
+          "t": "08:31",
+          "sec": 511,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "10:32",
+          "sec": 632,
+          "title": "Food!",
+          "ife": false
+        },
+        {
+          "t": "11:20",
+          "sec": 680,
+          "title": "Snacks in the Galley",
+          "ife": false
+        },
+        {
+          "t": "11:42",
+          "sec": 702,
+          "title": "IFE System (bad)",
+          "ife": true
+        },
+        {
+          "t": "12:21",
+          "sec": 741,
+          "title": "Pre-landing food",
+          "ife": false
+        },
+        {
+          "t": "13:00",
+          "sec": 780,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "14:53",
+          "sec": 893,
+          "title": "Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "15:48",
+          "sec": 948,
+          "title": "Score, Tier list, Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 4
+        },
+        {
+          "keyword": "level",
+          "mentions": 2
+        },
+        {
+          "keyword": "lufthansa",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 3
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DqFNWRMvuII",
+      "title": "Malaysia Airlines Business Class to JAPAN 🇯🇵 [ Flight Review] | Mercedes Transfer, Lounge & Food",
+      "year": 2026,
+      "published_at": "2026-10-30T09:10:32Z",
+      "channel_title": "悠美·vlog",
+      "view_count": 16,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SgP4TS_NSoI",
+      "title": "FLYING STARLUX AIRSORAYAMA SILVER! ✨ Stunning Livery on Airbus A350-1000 | TPE–NRT JX800",
+      "year": 2026,
+      "published_at": "2026-10-30T06:00:27Z",
+      "channel_title": "ikhwanhidayat",
+      "view_count": 1548,
+      "like_count": 77,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bCfvs0ps5f4",
+      "title": "Air France Business class on Boeing 777 | Washington D.C. to Paris Charles de Gaulle",
+      "year": 2026,
+      "published_at": "2026-10-18T03:24:38Z",
+      "channel_title": "Travel Memoire",
+      "view_count": 3229,
+      "like_count": 17,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "intro",
+          "ife": false
+        },
+        {
+          "t": "0:44",
+          "sec": 44,
+          "title": "driving to Dulles airport",
+          "ife": false
+        },
+        {
+          "t": "1:17",
+          "sec": 77,
+          "title": "Dulles Airport Main Terminal",
+          "ife": false
+        },
+        {
+          "t": "1:42",
+          "sec": 102,
+          "title": "check in",
+          "ife": false
+        },
+        {
+          "t": "3:13",
+          "sec": 193,
+          "title": "Air Train to Terminal A",
+          "ife": false
+        },
+        {
+          "t": "5:34",
+          "sec": 334,
+          "title": "Air France KLM Lounge",
+          "ife": false
+        },
+        {
+          "t": "8:47",
+          "sec": 527,
+          "title": "Views from the departure gate",
+          "ife": false
+        },
+        {
+          "t": "9:23",
+          "sec": 563,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "9:32",
+          "sec": 572,
+          "title": "first impressions and tour of the seat",
+          "ife": false
+        },
+        {
+          "t": "11:00",
+          "sec": 660,
+          "title": "Business Class Menu",
+          "ife": false
+        },
+        {
+          "t": "14:49",
+          "sec": 889,
+          "title": "Pushback and Taxi",
+          "ife": false
+        },
+        {
+          "t": "18:13",
+          "sec": 1093,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "21:47",
+          "sec": 1307,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "22:42",
+          "sec": 1362,
+          "title": "Lie Flat Bed",
+          "ife": false
+        },
+        {
+          "t": "23:33",
+          "sec": 1413,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "24:24",
+          "sec": 1464,
+          "title": "Sunrise and approach to CDG",
+          "ife": false
+        },
+        {
+          "t": "28:50",
+          "sec": 1730,
+          "title": "landing in CDG",
+          "ife": false
+        },
+        {
+          "t": "29:41",
+          "sec": 1781,
+          "title": "taxiing at CDG",
+          "ife": false
+        },
+        {
+          "t": "32:33",
+          "sec": 1953,
+          "title": "disembarking and views of CDG",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 5
+        },
+        {
+          "keyword": "klm",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iwi4NF6xDVw",
+      "title": "London Heathrow LHR 🇬🇧 - Chicago O’Hare ORD 🇺🇸 | Airbus A380 | British Airways | Economy Class",
+      "year": 2026,
+      "published_at": "2026-10-28T12:08:18Z",
+      "channel_title": "Worldwide Aviation & Journeys",
+      "view_count": 1840,
+      "like_count": 32,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro / ride on the Tube to LHR Terminal 5",
+          "ife": false
+        },
+        {
+          "t": "01:12",
+          "sec": 72,
+          "title": "Heathrow Airport / Terminal 5 views",
+          "ife": false
+        },
+        {
+          "t": "01:27",
+          "sec": 87,
+          "title": "Apron / aircraft views",
+          "ife": false
+        },
+        {
+          "t": "02:45",
+          "sec": 165,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:02",
+          "sec": 242,
+          "title": "Pre-flight announcement",
+          "ife": false
+        },
+        {
+          "t": "07:36",
+          "sec": 456,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "09:09",
+          "sec": 549,
+          "title": "Engine start",
+          "ife": false
+        },
+        {
+          "t": "09:44",
+          "sec": 584,
+          "title": "Deployment of flaps",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "Taxi to runway",
+          "ife": false
+        },
+        {
+          "t": "12:04",
+          "sec": 724,
+          "title": "Takeoff from Heathrow (LHR)",
+          "ife": false
+        },
+        {
+          "t": "13:17",
+          "sec": 797,
+          "title": "Climb",
+          "ife": false
+        },
+        {
+          "t": "14:01",
+          "sec": 841,
+          "title": "Cabin crew inflight announcement",
+          "ife": false
+        },
+        {
+          "t": "17:55",
+          "sec": 1075,
+          "title": "Snack",
+          "ife": false
+        },
+        {
+          "t": "18:10",
+          "sec": 1090,
+          "title": "Main meal",
+          "ife": false
+        },
+        {
+          "t": "18:33",
+          "sec": 1113,
+          "title": "IFE/Moving Map",
+          "ife": true
+        },
+        {
+          "t": "18:58",
+          "sec": 1138,
+          "title": "Cruise over the Atlantic Ocean",
+          "ife": false
+        },
+        {
+          "t": "19:24",
+          "sec": 1164,
+          "title": "Cookies (after the meal service)",
+          "ife": false
+        },
+        {
+          "t": "20:55",
+          "sec": 1255,
+          "title": "Contrails",
+          "ife": false
+        },
+        {
+          "t": "21:43",
+          "sec": 1303,
+          "title": "Flying over Canada",
+          "ife": false
+        },
+        {
+          "t": "22:39",
+          "sec": 1359,
+          "title": "Montréal–Mirabel International Airport (YMX)",
+          "ife": false
+        },
+        {
+          "t": "23:06",
+          "sec": 1386,
+          "title": "Pre-arrival snack",
+          "ife": false
+        },
+        {
+          "t": "23:12",
+          "sec": 1392,
+          "title": "Pre-arrival announcement",
+          "ife": false
+        },
+        {
+          "t": "25:09",
+          "sec": 1509,
+          "title": "Descent into Chicago (ORD)",
+          "ife": false
+        },
+        {
+          "t": "28:53",
+          "sec": 1733,
+          "title": "Deployment of flaps",
+          "ife": false
+        },
+        {
+          "t": "31:55",
+          "sec": 1915,
+          "title": "Final approach",
+          "ife": false
+        },
+        {
+          "t": "32:58",
+          "sec": 1978,
+          "title": "Flight rating",
+          "ife": false
+        },
+        {
+          "t": "33:23",
+          "sec": 2003,
+          "title": "Deplaning & O’Hare (ORD) Airport Views",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "controller": "Handheld remote"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=K_5cCXRbj9E",
+      "title": "Turkish Airlines ECONOMY CLASS 🇹🇷 | Is It REALLY Worth It? ✈️ Amsterdam to Istanbul | Boeing 737-800",
+      "year": 2026,
+      "published_at": "2026-10-30T08:19:11Z",
+      "channel_title": "travelwithmelih",
+      "view_count": 17,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YfmzRvuTHk8",
+      "title": "Air France Business Class is Not What I Expected",
+      "year": 2026,
+      "published_at": "2026-10-29T14:30:26Z",
+      "channel_title": "Harry Jaggard Vlogs",
+      "view_count": 17273,
+      "like_count": 344,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "First Time Flying Air France Business",
+          "ife": false
+        },
+        {
+          "t": "1:03",
+          "sec": 63,
+          "title": "How I Got SkyTeam Platinum Status",
+          "ife": false
+        },
+        {
+          "t": "5:20",
+          "sec": 320,
+          "title": "Stepping Into the Business Class Cabin",
+          "ife": false
+        },
+        {
+          "t": "7:19",
+          "sec": 439,
+          "title": "A Taste of French Fine Dining",
+          "ife": false
+        },
+        {
+          "t": "11:24",
+          "sec": 684,
+          "title": "Waking Up After a Long Haul",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-T_tGk7Vsrs",
+      "title": "A Legend Returns | Northwest Boeing 757 | Real Airline Pilot | BlueBird 757 #msfs2024",
+      "year": 2026,
+      "published_at": "2026-10-20T21:21:02Z",
+      "channel_title": "V1-Simulations",
+      "view_count": 23304,
+      "like_count": 397,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a320",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Vhr72WUkGRk",
+      "title": "(Trip experience) United Airlines | Airbus A321neo | Chicago (ORD) to Houston (IAH) #a321neo",
+      "year": 2026,
+      "published_at": "2026-10-22T20:51:10Z",
+      "channel_title": "RVA Aviation and Travel",
+      "view_count": 781,
+      "like_count": 13,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "0:08",
+          "sec": 8,
+          "title": "Seat and window view",
+          "ife": false
+        },
+        {
+          "t": "0:35",
+          "sec": 35,
+          "title": "Captain’s announcement",
+          "ife": false
+        },
+        {
+          "t": "1:00",
+          "sec": 60,
+          "title": "Safety video preview",
+          "ife": false
+        },
+        {
+          "t": "1:21",
+          "sec": 81,
+          "title": "Engine start",
+          "ife": false
+        },
+        {
+          "t": "3:18",
+          "sec": 198,
+          "title": "Flaps takeoff setting",
+          "ife": false
+        },
+        {
+          "t": "3:36",
+          "sec": 216,
+          "title": "Outbound taxi",
+          "ife": false
+        },
+        {
+          "t": "3:53",
+          "sec": 233,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "5:55",
+          "sec": 355,
+          "title": "Chicago skyline",
+          "ife": false
+        },
+        {
+          "t": "6:12",
+          "sec": 372,
+          "title": "Flying over MDW",
+          "ife": false
+        },
+        {
+          "t": "6:28",
+          "sec": 388,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "6:44",
+          "sec": 404,
+          "title": "FL320",
+          "ife": false
+        },
+        {
+          "t": "7:07",
+          "sec": 427,
+          "title": "Turbulence",
+          "ife": false
+        },
+        {
+          "t": "7:53",
+          "sec": 473,
+          "title": "FL360",
+          "ife": false
+        },
+        {
+          "t": "8:00",
+          "sec": 480,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "8:59",
+          "sec": 539,
+          "title": "Approaching Houston",
+          "ife": false
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "10:57",
+          "sec": 657,
+          "title": "Inbound taxi",
+          "ife": false
+        },
+        {
+          "t": "12:09",
+          "sec": 729,
+          "title": "Deboarding",
+          "ife": false
+        },
+        {
+          "t": "12:19",
+          "sec": 739,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 6
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qvTR8y0eiR0",
+      "title": "【ASMR】STARLUX Inaugural Flight Review（スターラックス 札幌＝台中の初便に乗ってみた！）",
+      "year": 2026,
+      "published_at": "2026-10-27T09:00:18Z",
+      "channel_title": "Shu",
+      "view_count": 241,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0BlLWGlBCCY",
+      "title": "TRIPREPORT | China Southern Airlines CZ 8138 A321-200 Neo Economy Class Surabaya - Guangzhou",
+      "year": 2026,
+      "published_at": "2026-10-28T06:51:17Z",
+      "channel_title": "ID BRYANT LIFT 5000",
+      "view_count": 33,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro, Check-in, Security + Immigration",
+          "ife": false
+        },
+        {
+          "t": "0:50",
+          "sec": 50,
+          "title": "Walking to the gate",
+          "ife": false
+        },
+        {
+          "t": "2:05",
+          "sec": 125,
+          "title": "Boarding process while on final call",
+          "ife": false
+        },
+        {
+          "t": "3:41",
+          "sec": 221,
+          "title": "Seat reviews",
+          "ife": false
+        },
+        {
+          "t": "4:38",
+          "sec": 278,
+          "title": "Pushback and taxi process",
+          "ife": false
+        },
+        {
+          "t": "6:41",
+          "sec": 401,
+          "title": "Takeoff process",
+          "ife": false
+        },
+        {
+          "t": "7:57",
+          "sec": 477,
+          "title": "Lunch review",
+          "ife": false
+        },
+        {
+          "t": "9:13",
+          "sec": 553,
+          "title": "Lavatory review",
+          "ife": false
+        },
+        {
+          "t": "9:51",
+          "sec": 591,
+          "title": "Decent and landing progress.",
+          "ife": false
+        },
+        {
+          "t": "10:48",
+          "sec": 648,
+          "title": "Deboarding + outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china southern",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rMJMF63XtP8",
+      "title": "15 HOURS in Economy Class! Qatar Airways Boeing 787-9 Dreamliner | Lagos to Doha to New York (JFK)",
+      "year": 2026,
+      "published_at": "2026-10-25T18:53:27Z",
+      "channel_title": "Rareisbeautiful",
+      "view_count": 182,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pPxth0FAuIE",
+      "title": "40만원대 미국행 요즘 에어프레미아는 탈 만할까? | 샌프란시스코 이코노미 탑승기",
+      "year": 2026,
+      "published_at": "2026-10-19T10:00:19Z",
+      "channel_title": "오웬즈데이 OWEN's :DAY",
+      "view_count": 22236,
+      "like_count": 55,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:28",
+          "sec": 28,
+          "title": "인천국제공항 | 발권",
+          "ife": false
+        },
+        {
+          "t": "01:18",
+          "sec": 78,
+          "title": "체크인",
+          "ife": false
+        },
+        {
+          "t": "02:00",
+          "sec": 120,
+          "title": "보안 검색 | 면세 구역 | 라운지",
+          "ife": false
+        },
+        {
+          "t": "02:17",
+          "sec": 137,
+          "title": "탑승구 | 항공기 소개",
+          "ife": false
+        },
+        {
+          "t": "02:52",
+          "sec": 172,
+          "title": "탑승",
+          "ife": false
+        },
+        {
+          "t": "03:19",
+          "sec": 199,
+          "title": "좌석 특징 1",
+          "ife": false
+        },
+        {
+          "t": "04:07",
+          "sec": 247,
+          "title": "이륙 준비",
+          "ife": false
+        },
+        {
+          "t": "04:43",
+          "sec": 283,
+          "title": "푸시백 | 택싱",
+          "ife": false
+        },
+        {
+          "t": "04:48",
+          "sec": 288,
+          "title": "이륙",
+          "ife": false
+        },
+        {
+          "t": "06:30",
+          "sec": 390,
+          "title": "무지개",
+          "ife": false
+        },
+        {
+          "t": "06:44",
+          "sec": 404,
+          "title": "기내 엔터테인먼트",
+          "ife": false
+        },
+        {
+          "t": "07:09",
+          "sec": 429,
+          "title": "첫 번째 기내식",
+          "ife": false
+        },
+        {
+          "t": "08:00",
+          "sec": 480,
+          "title": "긴 휴식 모드",
+          "ife": false
+        },
+        {
+          "t": "08:30",
+          "sec": 510,
+          "title": "두 번째 기내식",
+          "ife": false
+        },
+        {
+          "t": "08:48",
+          "sec": 528,
+          "title": "착륙 준비",
+          "ife": false
+        },
+        {
+          "t": "09:09",
+          "sec": 549,
+          "title": "착륙",
+          "ife": false
+        },
+        {
+          "t": "11:20",
+          "sec": 680,
+          "title": "좌석 특징 2",
+          "ife": false
+        },
+        {
+          "t": "11:38",
+          "sec": 698,
+          "title": "하기",
+          "ife": false
+        },
+        {
+          "t": "11:46",
+          "sec": 706,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dFeKCLgXgy8",
+      "title": "Air China 777-300ER Economy Class ✈️ | Wie gut ist der Langstreckenflug wirklich?",
+      "year": 2026,
+      "published_at": "2026-10-28T17:00:27Z",
+      "channel_title": "Scarhunter Vlogs",
+      "view_count": 86,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tHHPCRDY9QM",
+      "title": "I Flew SWISS Business Class in the “Throne Seat | Zurich to Bangkok | Boeing 777--300er",
+      "year": 2026,
+      "published_at": "2026-10-23T10:00:37Z",
+      "channel_title": "LuxuryAvGeek",
+      "view_count": 27479,
+      "like_count": 367,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Welcome",
+          "ife": false
+        },
+        {
+          "t": "00:45",
+          "sec": 45,
+          "title": "SWISS Senator Lounge in Zurich",
+          "ife": false
+        },
+        {
+          "t": "02:15",
+          "sec": 135,
+          "title": "Terrace & Plane Spotting",
+          "ife": false
+        },
+        {
+          "t": "05:15",
+          "sec": 315,
+          "title": "Heading to the Gate",
+          "ife": false
+        },
+        {
+          "t": "06:00",
+          "sec": 360,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "06:15",
+          "sec": 375,
+          "title": "SWISS Business Class",
+          "ife": false
+        },
+        {
+          "t": "09:40",
+          "sec": 580,
+          "title": "Takeoff from Zurich",
+          "ife": false
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "Exploring the Business Class Seat",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Turning the Seat into a Bed",
+          "ife": false
+        },
+        {
+          "t": "18:00",
+          "sec": 1080,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "20:55",
+          "sec": 1255,
+          "title": "Descent into Bangkok",
+          "ife": false
+        },
+        {
+          "t": "22:15",
+          "sec": 1335,
+          "title": "Landing in Bangkok",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "swiss",
+          "mentions": 13
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pNhmYSacgxo",
+      "title": "Dubai to Seoul on the Emirates A380: Economy Class Review",
+      "year": 2026,
+      "published_at": "2026-10-23T10:00:34Z",
+      "channel_title": "Solo Travel KR",
+      "view_count": 429,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xQdvPBIHMGo",
+      "title": "Singapore Airlines Premium Economy: Singapore to Jakarta & NEW SilverKris T2 Lounge (SQ950)",
+      "year": 2026,
+      "published_at": "2026-10-26T16:00:05Z",
+      "channel_title": "windowseatguy",
+      "view_count": 1243,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "01:10",
+          "sec": 70,
+          "title": "Brand New SilverKris Lounge (Changi T2 Tour & Breakfast)",
+          "ife": false
+        },
+        {
+          "t": "04:30",
+          "sec": 270,
+          "title": "Gate Arrival & Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:55",
+          "sec": 295,
+          "title": "Premium Economy Cabin & Seat Tour, Cabin announcement, IFE",
+          "ife": true
+        },
+        {
+          "t": "05:55",
+          "sec": 355,
+          "title": "All doors closed, Safety Briefing",
+          "ife": false
+        },
+        {
+          "t": "06:35",
+          "sec": 395,
+          "title": "Engine Start & Pushback",
+          "ife": false
+        },
+        {
+          "t": "06:50",
+          "sec": 410,
+          "title": "Takeoff from Singapore Changi Airport (Raw Engine Audio)",
+          "ife": false
+        },
+        {
+          "t": "07:35",
+          "sec": 455,
+          "title": "Short-Haul Inflight Breakfast & Beverage Service",
+          "ife": false
+        },
+        {
+          "t": "08:10",
+          "sec": 490,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "08:50",
+          "sec": 530,
+          "title": "Descent & Approach into Jakarta Soekarno-Hatta (CGK)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 7
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "air france",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qQ7A2To2644",
+      "title": "REALITA? Garuda Indonesia 737 Economy Review: Jakarta to Singapore (GA828)",
+      "year": 2026,
+      "published_at": "2026-10-29T10:00:20Z",
+      "channel_title": "windowseatguy",
+      "view_count": 349,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Jakarta Soekarno-Hatta (CGK) Terminal 3",
+          "ife": false
+        },
+        {
+          "t": "01:25",
+          "sec": 85,
+          "title": "Djournal Coffee and Plaza Premium Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:45",
+          "sec": 165,
+          "title": "Boarding Boeing 737-800 & Economy Cabin",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "Seat Features & Hardware Condition",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "Captain's announcement",
+          "ife": false
+        },
+        {
+          "t": "04:39",
+          "sec": 279,
+          "title": "Safety Video, pushback & CFM56 Engine Start",
+          "ife": false
+        },
+        {
+          "t": "05:20",
+          "sec": 320,
+          "title": "Takeoff from CGK Runway",
+          "ife": false
+        },
+        {
+          "t": "06:28",
+          "sec": 388,
+          "title": "IFE highlights",
+          "ife": true
+        },
+        {
+          "t": "07:09",
+          "sec": 429,
+          "title": "Regional Inflight Meal Service",
+          "ife": false
+        },
+        {
+          "t": "07:38",
+          "sec": 458,
+          "title": "Final Approach & Touchdown at Singapore Changi (SIN)",
+          "ife": false
+        },
+        {
+          "t": "08:32",
+          "sec": 512,
+          "title": "Disembarkation & Arrival",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=e5tgFS_IDGc",
+      "title": "國泰航空 A350、A330商務艙心得 CATHAY PACIFIC A350 & A330 Business Class Review",
+      "year": 2026,
+      "published_at": "2026-10-24T01:20:01Z",
+      "channel_title": "What’s Tr@ndy!?",
+      "view_count": 3969,
+      "like_count": 28,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "a330",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L8E3l8GxNT0",
+      "title": "Finnair & Cathay Pacific Business Class Review ✈️ Sydney to Helsinki via Hong Kong on the A350",
+      "year": 2026,
+      "published_at": "2026-10-24T04:50:51Z",
+      "channel_title": "Sketch and Run",
+      "view_count": 729,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 5
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0jIvgPJR_RY",
+      "title": "SANSA AIRLINES CESSNA 208B Grand Caravan | San Jose - Liberia | Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-27T16:00:22Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 68689,
+      "like_count": 580,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JVkz2B2pW9A",
+      "title": "American Airlines Airbus A320 Cabin Sound - Dallas to DC",
+      "year": 2026,
+      "published_at": "2026-10-28T16:00:14Z",
+      "channel_title": "First Travel",
+      "view_count": 118,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Takeoff from Dallas Fort Worth",
+          "ife": false
+        },
+        {
+          "t": "02:29",
+          "sec": 149,
+          "title": "Climb to Cruise Altitude",
+          "ife": false
+        },
+        {
+          "t": "05:49",
+          "sec": 349,
+          "title": "Beginning Descent toward Washington",
+          "ife": false
+        },
+        {
+          "t": "11:00",
+          "sec": 660,
+          "title": "Final Approach and Landing at Washington Reagan National",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oQcnRsN7ieU",
+      "title": "Day One at the Airport Nobody Wanted to Build",
+      "year": 2026,
+      "published_at": "2026-10-28T08:50:58Z",
+      "channel_title": "Flight Formula",
+      "view_count": 83413,
+      "like_count": 2165,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OEg-OyJOeMw",
+      "title": "The BIZARRE 12 Hour Sleeper Train That You CAN'T SLEEP On...",
+      "year": 2026,
+      "published_at": "2026-10-16T11:00:31Z",
+      "channel_title": "Nonstop Eurotrip",
+      "view_count": 154620,
+      "like_count": 1610,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "01:15",
+          "sec": 75,
+          "title": "Arrival At Gia Lam Station & Tour",
+          "ife": false
+        },
+        {
+          "t": "02:20",
+          "sec": 140,
+          "title": "Route Info & Boarding",
+          "ife": false
+        },
+        {
+          "t": "04:44",
+          "sec": 284,
+          "title": "Train Info",
+          "ife": false
+        },
+        {
+          "t": "05:35",
+          "sec": 335,
+          "title": "Incogni: Data Broker Removal Service",
+          "ife": false
+        },
+        {
+          "t": "06:42",
+          "sec": 402,
+          "title": "Departure & Pricing",
+          "ife": false
+        },
+        {
+          "t": "08:10",
+          "sec": 490,
+          "title": "Soft Sleeper Room Tour",
+          "ife": false
+        },
+        {
+          "t": "10:16",
+          "sec": 616,
+          "title": "Train Tour",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "Vietnam Exit Check",
+          "ife": false
+        },
+        {
+          "t": "12:55",
+          "sec": 775,
+          "title": "China Entry Checks",
+          "ife": false
+        },
+        {
+          "t": "14:08",
+          "sec": 848,
+          "title": "Amazing #TrainWindowViews",
+          "ife": false
+        },
+        {
+          "t": "14:48",
+          "sec": 888,
+          "title": "Calling at Chongzuo",
+          "ife": false
+        },
+        {
+          "t": "15:12",
+          "sec": 912,
+          "title": "China's AMAZING Highspeed Network",
+          "ife": false
+        },
+        {
+          "t": "15:52",
+          "sec": 952,
+          "title": "Trip Summary",
+          "ife": false
+        },
+        {
+          "t": "16:44",
+          "sec": 1004,
+          "title": "Arrival in Nanning & Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TL7Ssuf7ElM",
+      "title": "Copenhagen Layover with Anders Antonsen | Etihad",
+      "year": 2026,
+      "published_at": "2026-10-28T11:49:21Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 689,
+      "like_count": 24,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NSlNFEHiT6A",
+      "title": "A Second Chance for Bu and Tyapa, A Rescue Journey I Etihad Cargo",
+      "year": 2026,
+      "published_at": "2026-10-21T12:21:45Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 2814,
+      "like_count": 34,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=82QZcjtvK9w",
+      "title": "Beyond Borders: Oscar Piastri | Etihad",
+      "year": 2026,
+      "published_at": "2026-10-16T19:31:43Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 57201,
+      "like_count": 40,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-10-29T09:44:26.868071"
+  "last_updated": "2026-10-30T09:50:42.157492"
 }
