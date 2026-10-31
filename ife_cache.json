@@ -179085,115 +179085,73 @@
         {
           "t": "00:00",
           "sec": 0,
-          "title": "Intro",
+          "title": "Intro & Seattle Airport",
           "ife": false
         },
         {
-          "t": "00:59",
-          "sec": 59,
-          "title": "Frankfurt Airport",
+          "t": "01:25",
+          "sec": 85,
+          "title": "Korean Rebranding",
           "ife": false
         },
         {
-          "t": "01:42",
-          "sec": 102,
-          "title": "About the Boeing 747",
-          "ife": false
-        },
-        {
-          "t": "02:39",
-          "sec": 159,
+          "t": "01:45",
+          "sec": 105,
           "title": "Flight Details & Route Map",
           "ife": false
         },
         {
-          "t": "02:58",
-          "sec": 178,
-          "title": "Heading to Gate",
-          "ife": false
-        },
-        {
-          "t": "03:37",
-          "sec": 217,
-          "title": "747-8 Seat Map",
-          "ife": false
-        },
-        {
-          "t": "04:20",
-          "sec": 260,
+          "t": "02:19",
+          "sec": 139,
           "title": "Boarding",
           "ife": false
         },
         {
-          "t": "04:41",
-          "sec": 281,
+          "t": "02:29",
+          "sec": 149,
           "title": "Seat Tour",
           "ife": false
         },
         {
-          "t": "05:48",
-          "sec": 348,
-          "title": "Sponsor",
-          "ife": false
-        },
-        {
-          "t": "07:20",
-          "sec": 440,
+          "t": "04:02",
+          "sec": 242,
           "title": "Taxi & Safety Video",
           "ife": false
         },
         {
-          "t": "08:31",
-          "sec": 511,
+          "t": "05:52",
+          "sec": 352,
           "title": "Takeoff",
           "ife": false
         },
         {
-          "t": "10:00",
-          "sec": 600,
-          "title": "Meal Service",
+          "t": "07:14",
+          "sec": 434,
+          "title": "Bibimbap!",
           "ife": false
         },
         {
-          "t": "10:32",
-          "sec": 632,
-          "title": "Food!",
-          "ife": false
-        },
-        {
-          "t": "11:20",
-          "sec": 680,
-          "title": "Snacks in the Galley",
-          "ife": false
-        },
-        {
-          "t": "11:42",
-          "sec": 702,
-          "title": "IFE System (bad)",
+          "t": "07:59",
+          "sec": 479,
+          "title": "IFE System & WiFi",
           "ife": true
         },
         {
-          "t": "12:21",
-          "sec": 741,
-          "title": "Pre-landing food",
+          "t": "09:06",
+          "sec": 546,
+          "title": "Pre-landing food (terrible)",
           "ife": false
         },
         {
-          "t": "13:00",
-          "sec": 780,
+          "t": "10:24",
+          "sec": 624,
           "title": "Landing",
           "ife": false
         },
         {
-          "t": "14:53",
-          "sec": 893,
-          "title": "Final Thoughts",
-          "ife": false
-        },
-        {
-          "t": "15:48",
-          "sec": 948,
-          "title": "Score, Tier list, Outro",
+          "t": "12:17",
+          "sec": 737,
+          "title": "Final Thoughts & Score",
           "ife": false
         }
       ],
