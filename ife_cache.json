@@ -181281,7 +181281,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=OHssepTFXFU",
@@ -181564,7 +181566,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Z7I0KR4SRYM",
@@ -181668,7 +181672,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=lLxGRVr_jlM",
@@ -181728,7 +181734,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.727
     },
     {
       "url": "https://www.youtube.com/watch?v=kF3d9GmZc9w",
@@ -181876,7 +181884,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=hPi9EGrszFU",
@@ -181957,7 +181967,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FMB375SpXUg",
@@ -181999,7 +182011,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Op7lwhiKgdo",
@@ -182104,7 +182118,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.674
     },
     {
       "url": "https://www.youtube.com/watch?v=wkZJYtRZQXE",
@@ -182249,7 +182265,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.659
     },
     {
       "url": "https://www.youtube.com/watch?v=MGKBNCS8TOo",
@@ -182459,7 +182477,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=fRIFR7StAAM",
@@ -182582,7 +182602,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qjqXBUlmli0",
@@ -182616,7 +182638,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=yZc-Nqt0FWU",
@@ -182656,7 +182680,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.729
     },
     {
       "url": "https://www.youtube.com/watch?v=oRpXSDVpzLw",
@@ -182687,7 +182713,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=F1I4d4EVyA4",
@@ -182796,7 +182824,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=mIT99xC2Hzc",
@@ -182937,7 +182967,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.532
     },
     {
       "url": "https://www.youtube.com/watch?v=gXnS6ewsj4s",
@@ -182981,7 +183013,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=HtUVv7DKkV8",
@@ -183085,7 +183119,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=t2zabqFx7iM",
@@ -183131,7 +183167,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=rmF5vTP4xdw",
@@ -183169,7 +183207,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=KgJbY7YABNo",
@@ -183206,7 +183246,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=WOunzIBD8B0",
@@ -183237,7 +183279,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=v5VeMXzpQVs",
@@ -183272,7 +183316,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5hBHlVeR030",
@@ -183408,7 +183454,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=lu-RNl2i_q4",
@@ -183519,8 +183567,881 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.556
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UOObKUgR1ng",
+      "title": "I Flew in Qatar Airways Economy Class for 12 Hours! | Full Experience & Review",
+      "year": 2026,
+      "published_at": "2026-10-31T11:00:07Z",
+      "channel_title": "Travel With Vedant",
+      "view_count": 150,
+      "like_count": 2,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:37",
+          "sec": 37,
+          "title": "Starting at JFK",
+          "ife": false
+        },
+        {
+          "t": "1:04",
+          "sec": 64,
+          "title": "Boarding the Boeing 777",
+          "ife": false
+        },
+        {
+          "t": "1:12",
+          "sec": 72,
+          "title": "Glimpse of $10K Business Class",
+          "ife": false
+        },
+        {
+          "t": "1:30",
+          "sec": 90,
+          "title": "Amenity kit & blanket",
+          "ife": false
+        },
+        {
+          "t": "1:45",
+          "sec": 105,
+          "title": "Economy seat & legroom",
+          "ife": false
+        },
+        {
+          "t": "2:06",
+          "sec": 126,
+          "title": "Oryx One entertainment system",
+          "ife": true
+        },
+        {
+          "t": "2:38",
+          "sec": 158,
+          "title": "First meal service",
+          "ife": false
+        },
+        {
+          "t": "3:08",
+          "sec": 188,
+          "title": "Starlink Wifi",
+          "ife": true
+        },
+        {
+          "t": "3:21",
+          "sec": 201,
+          "title": "Seats and Headrest and Pitch",
+          "ife": false
+        },
+        {
+          "t": "3:55",
+          "sec": 235,
+          "title": "Second meal before landing",
+          "ife": false
+        },
+        {
+          "t": "4:20",
+          "sec": 260,
+          "title": "Almost landing at Doha",
+          "ife": false
+        },
+        {
+          "t": "4:30",
+          "sec": 270,
+          "title": "Arrival at Hamad International Airport, Doha",
+          "ife": false
+        },
+        {
+          "t": "5:06",
+          "sec": 306,
+          "title": "Final verdict: is it worth it?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gErXPPRKNPk",
+      "title": "Scoot Airlines Economy Class: Flying Scoot Subang Airport to Singapore",
+      "year": 2026,
+      "published_at": "2026-10-31T16:00:08Z",
+      "channel_title": "ONESkyFlyer",
+      "view_count": 143,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Scoot Airlines Economy Class Video Start",
+          "ife": false
+        },
+        {
+          "t": "0:15",
+          "sec": 15,
+          "title": "Subang Airport Experience",
+          "ife": false
+        },
+        {
+          "t": "0:38",
+          "sec": 38,
+          "title": "Subang Airport Walkaround",
+          "ife": false
+        },
+        {
+          "t": "1:13",
+          "sec": 73,
+          "title": "Subang Airport Food",
+          "ife": false
+        },
+        {
+          "t": "1:38",
+          "sec": 98,
+          "title": "Scoot Airlines Subang Airport Check In",
+          "ife": false
+        },
+        {
+          "t": "1:57",
+          "sec": 117,
+          "title": "Boarding Scoot from Subang Airport",
+          "ife": false
+        },
+        {
+          "t": "2:14",
+          "sec": 134,
+          "title": "Takeoff from Subang Airport",
+          "ife": false
+        },
+        {
+          "t": "3:06",
+          "sec": 186,
+          "title": "Scoot Airlines Economy Class Seat",
+          "ife": false
+        },
+        {
+          "t": "4:16",
+          "sec": 256,
+          "title": "Scoot Airlines Economy Class Food",
+          "ife": false
+        },
+        {
+          "t": "4:49",
+          "sec": 289,
+          "title": "Scoot Airlines Economy Class Menu",
+          "ife": false
+        },
+        {
+          "t": "5:03",
+          "sec": 303,
+          "title": "Scoot Airlines Economy Class Toilets",
+          "ife": false
+        },
+        {
+          "t": "5:13",
+          "sec": 313,
+          "title": "Scoot Airlines Economy Class In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "5:32",
+          "sec": 332,
+          "title": "Views from Subang Airport to Singapore",
+          "ife": false
+        },
+        {
+          "t": "5:42",
+          "sec": 342,
+          "title": "Scoot Airlines Economy Class Review",
+          "ife": false
+        },
+        {
+          "t": "5:54",
+          "sec": 354,
+          "title": "Landing from Subang Airport to Singapore",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hBjnbxdxgj4",
+      "title": "日曜日に韓国から帰国する人は要注意！アシアナ航空 ソウル(金浦)→大阪(関西)",
+      "year": 2026,
+      "published_at": "2026-10-31T10:00:01Z",
+      "channel_title": "Daiki Yamamoto / 元Vリーガーの旅日記",
+      "view_count": 5040,
+      "like_count": 40,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "オープニング・アシアナ航空で韓国から関西へ",
+          "ife": false
+        },
+        {
+          "t": "01:18",
+          "sec": 78,
+          "title": "仁川発への変更を検討・特典航空券の空席待ち",
+          "ife": false
+        },
+        {
+          "t": "02:36",
+          "sec": 156,
+          "title": "仁川空港のラウンジ事情・空港泊で翌朝を待つ",
+          "ife": false
+        },
+        {
+          "t": "03:47",
+          "sec": 227,
+          "title": "金浦空港へ移動・予定どおり金浦発で帰国",
+          "ife": false
+        },
+        {
+          "t": "04:17",
+          "sec": 257,
+          "title": "ロッテマートが定休日・第2・第4日曜日の買い物に注意",
+          "ife": false
+        },
+        {
+          "t": "05:16",
+          "sec": 316,
+          "title": "日曜日のロッテモール・飲食店の混雑",
+          "ife": false
+        },
+        {
+          "t": "06:16",
+          "sec": 376,
+          "title": "チェックインカウンターへ・自動チェックイン機で座席を確認",
+          "ife": false
+        },
+        {
+          "t": "07:26",
+          "sec": 446,
+          "title": "ANA・大韓航空・アシアナ航空のチェックイン受付時間",
+          "ife": false
+        },
+        {
+          "t": "08:26",
+          "sec": 506,
+          "title": "荷物を預けた後も要確認・受託手荷物検査の見届け方",
+          "ife": false
+        },
+        {
+          "t": "10:02",
+          "sec": 602,
+          "title": "金浦空港の出発便と混雑状況・朝の保安検査に注意",
+          "ife": false
+        },
+        {
+          "t": "10:44",
+          "sec": 644,
+          "title": "保安検査前のフロアを散策・コンビニと飲食店",
+          "ife": false
+        },
+        {
+          "t": "11:50",
+          "sec": 710,
+          "title": "フードコートを見学・韓国料理のメニューと空港価格",
+          "ife": false
+        },
+        {
+          "t": "14:25",
+          "sec": 865,
+          "title": "出国手続き完了・スカイハブラウンジへ",
+          "ife": false
+        },
+        {
+          "t": "15:00",
+          "sec": 900,
+          "title": "スカイハブラウンジの食事紹介・ビビンバ具材やカレー",
+          "ife": false
+        },
+        {
+          "t": "16:43",
+          "sec": 1003,
+          "title": "ラウンジの料理を実食・ハンバーグ、チャーハン、カレー",
+          "ife": false
+        },
+        {
+          "t": "19:12",
+          "sec": 1152,
+          "title": "アシアナラウンジへ・食事とドリンクをチェック",
+          "ife": false
+        },
+        {
+          "t": "20:22",
+          "sec": 1222,
+          "title": "出発便で変わる混雑状況・2つのラウンジを比較",
+          "ife": false
+        },
+        {
+          "t": "21:15",
+          "sec": 1275,
+          "title": "搭乗口へ・搭乗開始の遅れと長い優先搭乗列",
+          "ife": false
+        },
+        {
+          "t": "23:47",
+          "sec": 1427,
+          "title": "A330-300の座席紹介・エコノミークラス12K",
+          "ife": false
+        },
+        {
+          "t": "25:56",
+          "sec": 1556,
+          "title": "金浦空港を離陸・関西へ出発",
+          "ife": false
+        },
+        {
+          "t": "27:12",
+          "sec": 1632,
+          "title": "フルーツミール到着・韓国発の内容と北京発との違い",
+          "ife": false
+        },
+        {
+          "t": "28:14",
+          "sec": 1694,
+          "title": "フルーツを実食・りんご、メロン、パイナップルの感想",
+          "ife": false
+        },
+        {
+          "t": "28:55",
+          "sec": 1735,
+          "title": "フルーツミールの予約方法・他社発券時の電話手配",
+          "ife": false
+        },
+        {
+          "t": "29:56",
+          "sec": 1796,
+          "title": "機内エンタメをチェック・タッチパネルの操作感",
+          "ife": false
+        },
+        {
+          "t": "31:09",
+          "sec": 1869,
+          "title": "日本語対応映画の見分け方・リモコン操作も確認",
+          "ife": false
+        },
+        {
+          "t": "32:39",
+          "sec": 1959,
+          "title": "揺れが続く中で着陸へ・関西空港への最終進入",
+          "ife": false
+        },
+        {
+          "t": "33:23",
+          "sec": 2003,
+          "title": "関西空港に到着・降機後はシャトルが大混雑",
+          "ife": false
+        },
+        {
+          "t": "35:18",
+          "sec": 2118,
+          "title": "帰国後の振り返り・仁川発に変更できなかった経緯",
+          "ife": false
+        },
+        {
+          "t": "35:57",
+          "sec": 2157,
+          "title": "韓国土産の買い物で失敗しないために・スーパーの定休日を再確認",
+          "ife": false
+        },
+        {
+          "t": "37:14",
+          "sec": 2234,
+          "title": "日曜夕方便は日本人が多い・週末の韓国旅行を振り返る",
+          "ife": false
+        },
+        {
+          "t": "38:20",
+          "sec": 2300,
+          "title": "金浦空港利用の注意点・チェックイン時間とラウンジの混雑",
+          "ife": false
+        },
+        {
+          "t": "39:21",
+          "sec": 2361,
+          "title": "朝便の保安検査と出発時間選び・金浦空港の使い勝手",
+          "ife": false
+        },
+        {
+          "t": "40:32",
+          "sec": 2432,
+          "title": "フルーツミールの総評・ラウンジの食事との組み合わせ",
+          "ife": false
+        },
+        {
+          "t": "41:22",
+          "sec": 2482,
+          "title": "エンディング",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "quality": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=It-1uqAeKH0",
+      "title": "KLM New York to Amsterdam Flight Review (Booked Through Delta)",
+      "year": 2026,
+      "published_at": "2026-10-31T21:00:32Z",
+      "channel_title": "Landon Kissell",
+      "view_count": 17,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "klm",
+          "mentions": 25
+        },
+        {
+          "keyword": "delta",
+          "mentions": 11
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LoXMMSjZarY",
+      "title": "United Airlines Boeing 737-900ER First Class Review | Kansas City to Chicago",
+      "year": 2026,
+      "published_at": "2026-10-31T09:29:05Z",
+      "channel_title": "WillAviation",
+      "view_count": 0,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Xkka2F7LfQ4",
+      "title": "I Flew 14 Hours in LATAM Boeing 787 Business Class… Is It the BEST in South America?! 🤯✈️",
+      "year": 2026,
+      "published_at": "2026-10-31T11:44:08Z",
+      "channel_title": "Charles Shan | Eagle Jetss",
+      "view_count": 192,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Flight Highlights",
+          "ife": false
+        },
+        {
+          "t": "0:18",
+          "sec": 18,
+          "title": "Welcome to Santiago, Chile",
+          "ife": false
+        },
+        {
+          "t": "0:28",
+          "sec": 28,
+          "title": "Santiago International Airport",
+          "ife": false
+        },
+        {
+          "t": "1:00",
+          "sec": 60,
+          "title": "LATAM Business Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "2:38",
+          "sec": 158,
+          "title": "Heading to the Boarding Gate",
+          "ife": false
+        },
+        {
+          "t": "2:57",
+          "sec": 177,
+          "title": "Boarding the Boeing 787",
+          "ife": false
+        },
+        {
+          "t": "3:29",
+          "sec": 209,
+          "title": "Business Class Seat Review",
+          "ife": false
+        },
+        {
+          "t": "4:21",
+          "sec": 261,
+          "title": "Business Class Menu",
+          "ife": false
+        },
+        {
+          "t": "4:52",
+          "sec": 292,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "5:43",
+          "sec": 343,
+          "title": "Departure and Takeoff",
+          "ife": false
+        },
+        {
+          "t": "7:20",
+          "sec": 440,
+          "title": "Flying Over Santiago",
+          "ife": false
+        },
+        {
+          "t": "7:47",
+          "sec": 467,
+          "title": "First Meal",
+          "ife": false
+        },
+        {
+          "t": "8:10",
+          "sec": 490,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "8:45",
+          "sec": 525,
+          "title": "Relaxing Onboard",
+          "ife": false
+        },
+        {
+          "t": "9:00",
+          "sec": 540,
+          "title": "Second Meal",
+          "ife": false
+        },
+        {
+          "t": "9:30",
+          "sec": 570,
+          "title": "Time to Sleep",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "LATAM Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "10:27",
+          "sec": 627,
+          "title": "Relaxing and Enjoying the Views",
+          "ife": false
+        },
+        {
+          "t": "10:48",
+          "sec": 648,
+          "title": "Onboard Snack",
+          "ife": false
+        },
+        {
+          "t": "11:00",
+          "sec": 660,
+          "title": "Visiting the Bathroom",
+          "ife": false
+        },
+        {
+          "t": "11:12",
+          "sec": 672,
+          "title": "Third Meal",
+          "ife": false
+        },
+        {
+          "t": "13:07",
+          "sec": 787,
+          "title": "Approaching Melbourne",
+          "ife": false
+        },
+        {
+          "t": "14:25",
+          "sec": 865,
+          "title": "Landing in Melbourne",
+          "ife": false
+        },
+        {
+          "t": "14:48",
+          "sec": 888,
+          "title": "Exiting Melbourne Airport",
+          "ife": false
+        },
+        {
+          "t": "15:03",
+          "sec": 903,
+          "title": "Melbourne CBD",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lHU-wBh3Qg0",
+      "title": "NEW 787-9 | Royal Jordanian Boeing 787-9 | AMM-LHR | Economy",
+      "year": 2026,
+      "published_at": "2026-10-30T10:10:06Z",
+      "channel_title": "FLYERLHR",
+      "view_count": 3035,
+      "like_count": 29,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YcVzBmOx8AI",
+      "title": "Saudia Business Class Review: Jakarta to Jeddah",
+      "year": 2026,
+      "published_at": "2026-10-27T19:15:47Z",
+      "channel_title": "The Filipino Traveler",
+      "view_count": 223,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4c7aTzHI8p4",
+      "title": "ZAMBIA AIRWAYS - This Airline HATES Economy Class Passengers!",
+      "year": 2026,
+      "published_at": "2026-10-31T10:00:18Z",
+      "channel_title": "Josh Cahill",
+      "view_count": 173191,
+      "like_count": 4391,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-10-31T09:29:43.962955"
+  "last_updated": "2026-11-01T10:18:25.881200"
 }
