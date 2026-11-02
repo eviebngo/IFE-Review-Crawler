@@ -94442,63 +94442,45 @@
       "sentiment_score": 0.0,
       "chapters": [
         {
-          "t": "00:00",
+          "t": "0:00",
           "sec": 0,
-          "title": "Introduction: What Really Happened",
+          "title": "Arrival at Orlando Terminal C",
           "ife": false
         },
         {
-          "t": "01:15",
-          "sec": 75,
-          "title": "Check-In & Airport Experience (Dublin Airport)",
+          "t": "2:48",
+          "sec": 168,
+          "title": "Flight cancellation ordeal",
           "ife": false
         },
         {
-          "t": "03:40",
-          "sec": 220,
-          "title": "Boarding Expectations & First Impressions",
+          "t": "5:17",
+          "sec": 317,
+          "title": "Preparing for departure",
           "ife": false
         },
         {
-          "t": "06:20",
-          "sec": 380,
-          "title": "In-Flight Amenities & Entertainment",
-          "ife": true
-        },
-        {
-          "t": "09:05",
-          "sec": 545,
-          "title": "The Moment It All Went Wrong: Flight Canceled",
+          "t": "7:13",
+          "sec": 433,
+          "title": "Onboard experience",
           "ife": false
         },
         {
-          "t": "12:30",
-          "sec": 750,
-          "title": "Ground Chaos: Passengers & Staff Response",
+          "t": "10:05",
+          "sec": 605,
+          "title": "In-flight dining review",
           "ife": false
         },
         {
-          "t": "15:00",
-          "sec": 900,
-          "title": "Rebooking Experience & Overnight Options",
+          "t": "12:42",
+          "sec": 762,
+          "title": "Rest and breakfast service",
           "ife": false
         },
         {
-          "t": "18:25",
-          "sec": 1105,
-          "title": "The Replacement Flight (Next Day)",
-          "ife": false
-        },
-        {
-          "t": "21:40",
-          "sec": 1300,
-          "title": "Final Thoughts: Should You Fly Aer Lingus to Orlando?",
-          "ife": false
-        },
-        {
-          "t": "24:00",
-          "sec": 1440,
-          "title": "Outro & Viewer Q&A",
+          "t": "14:00",
+          "sec": 840,
+          "title": "Arrival and final thoughts",
           "ife": false
         }
       ],
@@ -178270,7 +178252,7 @@
         {
           "t": "4:15",
           "sec": 255,
-          "title": "Takeoff from Cairo International Airport",
+          "title": "TakeOff from Cairo International Airport",
           "ife": false
         },
         {
