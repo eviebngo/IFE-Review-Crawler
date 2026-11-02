@@ -81841,85 +81841,61 @@
         {
           "t": "00:00",
           "sec": 0,
-          "title": "Intro",
-          "ife": false
-        },
-        {
-          "t": "00:09",
-          "sec": 9,
-          "title": "Arriving at Chennai International Airport (Terminal 2)",
+          "title": "Arriving at Chennai Airport (Terminal 2)",
           "ife": false
         },
         {
           "t": "00:28",
           "sec": 28,
-          "title": "Flight Delayed by 3 Hours",
-          "ife": false
-        },
-        {
-          "t": "00:34",
-          "sec": 34,
-          "title": "Immigration Process",
+          "title": "Flight Delayed by 3 Hours & Check-in",
           "ife": false
         },
         {
           "t": "00:48",
           "sec": 48,
-          "title": "Duty-Free Shopping",
+          "title": "Immigration & Duty-Free Walkthrough",
           "ife": false
         },
         {
           "t": "01:06",
           "sec": 66,
-          "title": "Airport Lounge Tour",
+          "title": "Chennai Airport Lounge Tour",
           "ife": false
         },
         {
           "t": "02:58",
           "sec": 178,
-          "title": "Boarding Begins",
-          "ife": false
-        },
-        {
-          "t": "03:06",
-          "sec": 186,
-          "title": "Shuttle Bus to the Aircraft",
+          "title": "Boarding Call & Shuttle Bus to Aircraft",
           "ife": false
         },
         {
           "t": "03:22",
           "sec": 202,
-          "title": "Aircraft Views on the Tarmac",
+          "title": "Aircraft Views on Tarmac",
           "ife": false
         },
         {
           "t": "04:43",
           "sec": 283,
-          "title": "Boarding the Flight",
+          "title": "Boarding Cathay Pacific Economy",
           "ife": false
         },
         {
           "t": "04:59",
           "sec": 299,
-          "title": "Cathay Pacific Economy Cabin Tour",
-          "ife": false
-        },
-        {
-          "t": "05:24",
-          "sec": 324,
-          "title": "Aircraft Washroom Tour",
+          "title": "Cabin Layout & Washroom Tour",
           "ife": false
         },
         {
           "t": "05:33",
           "sec": 333,
-          "title": "Takeoff from Chennai",
+          "title": "Night Takeoff from Chennai",
           "ife": false
         },
         {
           "t": "06:03",
           "sec": 363,
-          "title": "Beautiful Night View of Chennai",
+          "title": "Night Views of Chennai City",
           "ife": false
         },
         {
@@ -81931,31 +81907,31 @@
         {
           "t": "06:40",
           "sec": 400,
-          "title": "Cathay Pacific In-Flight Meal",
+          "title": "In-Flight Meal Service",
           "ife": false
         },
         {
           "t": "08:14",
           "sec": 494,
-          "title": "Landing in Hong Kong",
+          "title": "Descent & Landing in Hong Kong",
           "ife": false
         },
         {
           "t": "10:07",
           "sec": 607,
-          "title": "Immigration & Baggage Claim",
+          "title": "HKG Terminal Transit, Immigration & Baggage Claim",
           "ife": false
         },
         {
           "t": "11:19",
           "sec": 679,
-          "title": "Bus S1 to Tung Chung",
+          "title": "Boarding Bus S1 to Tung Chung",
           "ife": false
         },
         {
           "t": "11:51",
           "sec": 711,
-          "title": "Next Episode Preview: Ngong Ping 360 Cable Car",
+          "title": "Preview: Ngong Ping 360 Cable Car",
           "ife": false
         }
       ],
@@ -183698,7 +183674,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=gErXPPRKNPk",
@@ -183816,7 +183794,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=hBjnbxdxgj4",
@@ -184057,7 +184037,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=It-1uqAeKH0",
@@ -184093,7 +184075,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=LoXMMSjZarY",
@@ -184133,7 +184117,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=Xkka2F7LfQ4",
@@ -184327,7 +184313,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.737
     },
     {
       "url": "https://www.youtube.com/watch?v=lHU-wBh3Qg0",
@@ -184367,7 +184355,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=YcVzBmOx8AI",
@@ -184407,7 +184397,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=4c7aTzHI8p4",
@@ -184440,8 +184432,751 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.603
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J3lD4MPBh8c",
+      "title": "UK to Pakistan 🇬🇧✈️🇵🇰 | Emirates Economy Class Review 2026 | Dubai Transit & Family Vlog",
+      "year": 2026,
+      "published_at": "2026-11-01T11:09:08Z",
+      "channel_title": "Zain & Tehmina VLogs",
+      "view_count": 234,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5E1sljIJ37E",
+      "title": "Japan Airlines 767 Economy Review | Singapore to Tokyo",
+      "year": 2026,
+      "published_at": "2026-11-01T13:54:35Z",
+      "channel_title": "First Travel",
+      "view_count": 35,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Singapore MRT Transit from Tanah Merah to Changi",
+          "ife": false
+        },
+        {
+          "t": "00:42",
+          "sec": 42,
+          "title": "Boarding Japan Airlines Boeing 767-300ER",
+          "ife": false
+        },
+        {
+          "t": "00:53",
+          "sec": 53,
+          "title": "Economy Seat Review",
+          "ife": false
+        },
+        {
+          "t": "02:34",
+          "sec": 154,
+          "title": "Takeoff from Singapore Changi (SIN)",
+          "ife": false
+        },
+        {
+          "t": "02:50",
+          "sec": 170,
+          "title": "Inflight Entertainment Review",
+          "ife": true
+        },
+        {
+          "t": "03:38",
+          "sec": 218,
+          "title": "Inflight Snack and Meal Service",
+          "ife": false
+        },
+        {
+          "t": "04:48",
+          "sec": 288,
+          "title": "Wi-Fi Packages",
+          "ife": true
+        },
+        {
+          "t": "05:16",
+          "sec": 316,
+          "title": "Restroom Walkthrough",
+          "ife": false
+        },
+        {
+          "t": "05:38",
+          "sec": 338,
+          "title": "Approach and Landing at Tokyo Haneda (HND)",
+          "ife": false
+        },
+        {
+          "t": "07:20",
+          "sec": 440,
+          "title": "Final Verdict and 5-Star Rating",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NwPj2LCiF9A",
+      "title": "TRIPREPORT | Pegasus (ECONOMY) | Airbus A321neo | Istanbul - Hurghada",
+      "year": 2026,
+      "published_at": "2026-11-01T14:00:10Z",
+      "channel_title": "The Flight Explorer",
+      "view_count": 468,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "00:38 Intro",
+          "ife": false
+        },
+        {
+          "t": "00:38",
+          "sec": 38,
+          "title": "01:56 Istanbul Sabiha Gökçen Airport",
+          "ife": false
+        },
+        {
+          "t": "01:56",
+          "sec": 116,
+          "title": "02:06 Gate 305A",
+          "ife": false
+        },
+        {
+          "t": "02:06",
+          "sec": 126,
+          "title": "03:57 Boarding our A321neo",
+          "ife": false
+        },
+        {
+          "t": "03:57",
+          "sec": 237,
+          "title": "04:53 Cabin",
+          "ife": false
+        },
+        {
+          "t": "04:53",
+          "sec": 293,
+          "title": "07:14 Pushback & Engine Start",
+          "ife": false
+        },
+        {
+          "t": "07:14",
+          "sec": 434,
+          "title": "10:04 Taxing to runway 06L at SAW",
+          "ife": false
+        },
+        {
+          "t": "10:04",
+          "sec": 604,
+          "title": "11:14 Takeoff from SAW",
+          "ife": false
+        },
+        {
+          "t": "11:14",
+          "sec": 674,
+          "title": "12:12 Istanbul, Turkey (Asian part)",
+          "ife": false
+        },
+        {
+          "t": "12:12",
+          "sec": 732,
+          "title": "13:03 About Pegasus",
+          "ife": false
+        },
+        {
+          "t": "13:03",
+          "sec": 783,
+          "title": "13:17 Müşküle, Turkey",
+          "ife": false
+        },
+        {
+          "t": "13:17",
+          "sec": 797,
+          "title": "13:24 Kütahya, Turkey",
+          "ife": false
+        },
+        {
+          "t": "13:24",
+          "sec": 804,
+          "title": "13:36 In-flight entertainment",
+          "ife": true
+        },
+        {
+          "t": "13:36",
+          "sec": 816,
+          "title": "14:26 Lavatory review",
+          "ife": false
+        },
+        {
+          "t": "14:26",
+          "sec": 866,
+          "title": "14:42 Arrival card (Egypt)",
+          "ife": false
+        },
+        {
+          "t": "14:42",
+          "sec": 882,
+          "title": "14:50 Nasr city, Egypt",
+          "ife": false
+        },
+        {
+          "t": "14:50",
+          "sec": 890,
+          "title": "14:58 New-Cairo, Egypt",
+          "ife": false
+        },
+        {
+          "t": "14:58",
+          "sec": 898,
+          "title": "16:08 Descending into HRG",
+          "ife": false
+        },
+        {
+          "t": "16:08",
+          "sec": 968,
+          "title": "17:43 Landing in Hurghada",
+          "ife": false
+        },
+        {
+          "t": "17:43",
+          "sec": 1063,
+          "title": "19:41 Taxi to the gate",
+          "ife": false
+        },
+        {
+          "t": "19:41",
+          "sec": 1181,
+          "title": "19:59 Deboarding",
+          "ife": false
+        },
+        {
+          "t": "19:59",
+          "sec": 1199,
+          "title": "21:02 Hurghada Intl. Airport",
+          "ife": false
+        },
+        {
+          "t": "21:02",
+          "sec": 1262,
+          "title": "21:37 Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 5
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1ed_-7ujKT4",
+      "title": "12 HOURS ONBOARD FINNAIR FROM MELBOURNE TO HELSINKI (Watch Before Flying)",
+      "year": 2026,
+      "published_at": "2026-11-01T05:30:01Z",
+      "channel_title": "Aidan Unfiltered",
+      "view_count": 14019,
+      "like_count": 307,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:29",
+          "sec": 29,
+          "title": "Check in",
+          "ife": false
+        },
+        {
+          "t": "00:53",
+          "sec": 53,
+          "title": "Airside",
+          "ife": false
+        },
+        {
+          "t": "01:44",
+          "sec": 104,
+          "title": "Qantas First Class Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:26",
+          "sec": 146,
+          "title": "Gate Event",
+          "ife": false
+        },
+        {
+          "t": "03:59",
+          "sec": 239,
+          "title": "My Aircraft",
+          "ife": false
+        },
+        {
+          "t": "04:16",
+          "sec": 256,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "06:35",
+          "sec": 395,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "07:40",
+          "sec": 460,
+          "title": "Pushback / Taxi",
+          "ife": false
+        },
+        {
+          "t": "08:13",
+          "sec": 493,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "13:05",
+          "sec": 785,
+          "title": "Lunch",
+          "ife": false
+        },
+        {
+          "t": "14:09",
+          "sec": 849,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "15:04",
+          "sec": 904,
+          "title": "Loo Review",
+          "ife": false
+        },
+        {
+          "t": "15:35",
+          "sec": 935,
+          "title": "Mid Flight Sleep",
+          "ife": false
+        },
+        {
+          "t": "17:31",
+          "sec": 1051,
+          "title": "Pre Landing Snack",
+          "ife": false
+        },
+        {
+          "t": "18:39",
+          "sec": 1119,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "22:04",
+          "sec": 1324,
+          "title": "Landing into Bangkok",
+          "ife": false
+        },
+        {
+          "t": "30:51",
+          "sec": 1851,
+          "title": "Deboarding / Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "finnair",
+          "mentions": 1
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Nlkj2-EQjpY",
+      "title": "Flying Delta Economy from NYC’s New $4B Terminal (LGA to DTW Review + Free Wi-Fi Test!)",
+      "year": 2026,
+      "published_at": "2026-11-01T14:00:34Z",
+      "channel_title": "Khiz & Eesa",
+      "view_count": 1309,
+      "like_count": 37,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 16
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QZ6SRkaAyxo",
+      "title": "Esta vez NO pagué la tasa de Lima conectando desde Quito — Boeing 787 de LATAM a Madrid ✈️",
+      "year": 2026,
+      "published_at": "2026-11-01T20:05:14Z",
+      "channel_title": "Nicolás Larenas",
+      "view_count": 6941,
+      "like_count": 205,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Eo0iBjjsUv8",
+      "title": "Flight Review | Air India Express (IX-1831) Airbus A320 Neo | A New Era for AIX under Tata Group",
+      "year": 2026,
+      "published_at": "2026-10-26T05:45:18Z",
+      "channel_title": "Victor Sierra Aviation",
+      "view_count": 1496,
+      "like_count": 61,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "3:21",
+          "sec": 201,
+          "title": "Strategic role of Air India Express Fleet Expansion & Routes",
+          "ife": false
+        },
+        {
+          "t": "5:06",
+          "sec": 306,
+          "title": "Air India Express A320Neo New Livery (IX-1831)",
+          "ife": false
+        },
+        {
+          "t": "7:00",
+          "sec": 420,
+          "title": "Boarding Time [Air India Express IX-1831]",
+          "ife": false
+        },
+        {
+          "t": "9:45",
+          "sec": 585,
+          "title": "Seat Practicality review [Air India Express IX-1831] (Ex-Vistara)",
+          "ife": false
+        },
+        {
+          "t": "11:05",
+          "sec": 665,
+          "title": "Departure from Hyderabad (VOHS)",
+          "ife": false
+        },
+        {
+          "t": "22:42",
+          "sec": 1362,
+          "title": "Aircraft Profile (Air India Express A320Neo)",
+          "ife": false
+        },
+        {
+          "t": "23:04",
+          "sec": 1384,
+          "title": "Inflight Snacks offerings (Air India Express)",
+          "ife": false
+        },
+        {
+          "t": "24:34",
+          "sec": 1474,
+          "title": "Entering Chennai Airspace",
+          "ife": false
+        },
+        {
+          "t": "25:08",
+          "sec": 1508,
+          "title": "Arriving at Chennai International Airport (VOMM)",
+          "ife": false
+        },
+        {
+          "t": "32:34",
+          "sec": 1954,
+          "title": "My Flight Experience",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 13
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 10
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a321",
+          "mentions": 2
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kgY-wnsZQXE",
+      "title": "10h en ECONOMY. TURKISH AIRLINES quiere AIR EUROPA",
+      "year": 2026,
+      "published_at": "2026-10-25T16:45:30Z",
+      "channel_title": "JClassTraveller",
+      "view_count": 2716,
+      "like_count": 61,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 11
+        },
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "737",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-01T10:18:25.881200"
+  "last_updated": "2026-11-02T10:48:22.394127"
 }
