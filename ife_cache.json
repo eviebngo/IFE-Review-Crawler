@@ -184448,7 +184448,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=5E1sljIJ37E",
@@ -184556,7 +184558,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=NwPj2LCiF9A",
@@ -184736,7 +184740,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=1ed_-7ujKT4",
@@ -184887,7 +184893,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Nlkj2-EQjpY",
@@ -184933,7 +184941,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.556
     },
     {
       "url": "https://www.youtube.com/watch?v=QZ6SRkaAyxo",
@@ -184979,7 +184989,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.447
     },
     {
       "url": "https://www.youtube.com/watch?v=Eo0iBjjsUv8",
@@ -185102,7 +185114,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=kgY-wnsZQXE",
@@ -185157,8 +185171,597 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FUhVHFhvUpU",
+      "title": "Singapore Airlines Review: Worth the Hype? सच में Best Airline है?",
+      "year": 2026,
+      "published_at": "2026-11-03T02:30:05Z",
+      "channel_title": "Prakash Panchal",
+      "view_count": 28,
+      "like_count": 1,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & The Big Question",
+          "ife": false
+        },
+        {
+          "t": "01:15",
+          "sec": 75,
+          "title": "3 Reasons Why I Chose Singapore Airlines",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "Seat Comfort & Legroom",
+          "ife": false
+        },
+        {
+          "t": "05:15",
+          "sec": 315,
+          "title": "Inflight Indian Food Review",
+          "ife": false
+        },
+        {
+          "t": "07:00",
+          "sec": 420,
+          "title": "KrisWorld Inflight Entertainment & Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "08:30",
+          "sec": 510,
+          "title": "Final Verdict: Worth It?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 13
+        },
+        {
+          "keyword": "air india",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J6Ivpy2R4vI",
+      "title": "Singapore Airlines A350-900 Business Class Review | Singapore to Mumbai",
+      "year": 2026,
+      "published_at": "2026-11-02T21:31:17Z",
+      "channel_title": "explorerErwin",
+      "view_count": 23,
+      "like_count": 1,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Welcome & Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:21",
+          "sec": 21,
+          "title": "Changi Airport Butterfly Garden",
+          "ife": false
+        },
+        {
+          "t": "01:24",
+          "sec": 84,
+          "title": "Changi Airport Sunflower Garden",
+          "ife": false
+        },
+        {
+          "t": "02:27",
+          "sec": 147,
+          "title": "SilverKris Business Class Lounge | Terminal 2",
+          "ife": false
+        },
+        {
+          "t": "06:17",
+          "sec": 377,
+          "title": "Flight Boarding | Singapore Airlines SQ422",
+          "ife": false
+        },
+        {
+          "t": "07:45",
+          "sec": 465,
+          "title": "A350-900 Business Class Seat Tour & Amenities",
+          "ife": false
+        },
+        {
+          "t": "11:29",
+          "sec": 689,
+          "title": "Takeoff from Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "11:56",
+          "sec": 716,
+          "title": "Business Class Lounge & Lie-Flat Seat Modes",
+          "ife": false
+        },
+        {
+          "t": "12:25",
+          "sec": 745,
+          "title": "Business Class Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "13:01",
+          "sec": 781,
+          "title": "Business Class Cabin Walkthrough",
+          "ife": false
+        },
+        {
+          "t": "13:17",
+          "sec": 797,
+          "title": "Inflight Breakfast & Book the Cook",
+          "ife": false
+        },
+        {
+          "t": "13:43",
+          "sec": 823,
+          "title": "Final Verdict & Ratings",
+          "ife": false
+        },
+        {
+          "t": "16:32",
+          "sec": 992,
+          "title": "Landing in Mumbai & Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 7
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FxauaVk5u7A",
+      "title": "Flying Philippine Airlines to Japan in 2026 – Here's What I Found!",
+      "year": 2026,
+      "published_at": "2026-11-02T23:12:35Z",
+      "channel_title": "Asia Travel Stories",
+      "view_count": 0,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Philippine Airlines – Hit or Miss?",
+          "ife": false
+        },
+        {
+          "t": "00:28",
+          "sec": 28,
+          "title": "Melbourne to Tokyo – The Journey Begins",
+          "ife": false
+        },
+        {
+          "t": "01:29",
+          "sec": 89,
+          "title": "Onboard PAL – Cabin & Amenities",
+          "ife": false
+        },
+        {
+          "t": "02:35",
+          "sec": 155,
+          "title": "In-flight Meals & Entertainment",
+          "ife": true
+        },
+        {
+          "t": "04:35",
+          "sec": 275,
+          "title": "Is Philippine Airlines Good Value?",
+          "ife": false
+        },
+        {
+          "t": "05:51",
+          "sec": 351,
+          "title": "Transferring Through Manila Airport",
+          "ife": false
+        },
+        {
+          "t": "06:31",
+          "sec": 391,
+          "title": "Manila to Tokyo – Flight PR432",
+          "ife": false
+        },
+        {
+          "t": "08:41",
+          "sec": 521,
+          "title": "Arriving at Tokyo Narita",
+          "ife": false
+        },
+        {
+          "t": "09:05",
+          "sec": 545,
+          "title": "Final Verdict – Was PAL Worth It?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CJmuJ9jOX-U",
+      "title": "American Airlines DUB to DFW in Business Class Worth It?",
+      "year": 2026,
+      "published_at": "2026-11-03T03:45:45Z",
+      "channel_title": "TipsNNTricks",
+      "view_count": 72,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 13
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8ci6AgoGZrM",
+      "title": "🇰🇷 Korean Air short-haul business class: How good is it? 🤔 CSX - ICN Boeing 737-900ER",
+      "year": 2026,
+      "published_at": "2026-11-02T22:35:55Z",
+      "channel_title": "Learn and Travel with Dr Guo",
+      "view_count": 32,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:16",
+          "sec": 16,
+          "title": "Check-in",
+          "ife": false
+        },
+        {
+          "t": "00:31",
+          "sec": 31,
+          "title": "Lounge",
+          "ife": false
+        },
+        {
+          "t": "00:54",
+          "sec": 54,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "01:08",
+          "sec": 68,
+          "title": "Business class cabin",
+          "ife": false
+        },
+        {
+          "t": "01:19",
+          "sec": 79,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "01:40",
+          "sec": 100,
+          "title": "Amenities",
+          "ife": false
+        },
+        {
+          "t": "02:09",
+          "sec": 129,
+          "title": "Pushback & take-off",
+          "ife": false
+        },
+        {
+          "t": "02:23",
+          "sec": 143,
+          "title": "Meal service",
+          "ife": false
+        },
+        {
+          "t": "04:29",
+          "sec": 269,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "05:10",
+          "sec": 310,
+          "title": "WiFi",
+          "ife": true
+        },
+        {
+          "t": "05:25",
+          "sec": 325,
+          "title": "Service",
+          "ife": false
+        },
+        {
+          "t": "05:57",
+          "sec": 357,
+          "title": "Price",
+          "ife": false
+        },
+        {
+          "t": "06:28",
+          "sec": 388,
+          "title": "Next video",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 25
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 18
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dICyA1Sbnkk",
+      "title": "Flying Batik Air Indonesia Again After 9 Years! 🇮🇩 | SIN–CGK Flight Review",
+      "year": 2026,
+      "published_at": "2026-10-24T12:00:27Z",
+      "channel_title": "Wingsight Aviation",
+      "view_count": 846,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9V3PGsfVSEI",
+      "title": "Flip the Trip | Paris",
+      "year": 2026,
+      "published_at": "2026-11-02T11:15:19Z",
+      "channel_title": "Qatar Airways",
+      "view_count": 37205,
+      "like_count": 1248,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:45",
+          "sec": 45,
+          "title": "Hamad International Airport",
+          "ife": false
+        },
+        {
+          "t": "01:50",
+          "sec": 110,
+          "title": "Flight to Paris",
+          "ife": false
+        },
+        {
+          "t": "03:01",
+          "sec": 181,
+          "title": "Day 1 in Paris",
+          "ife": false
+        },
+        {
+          "t": "04:47",
+          "sec": 287,
+          "title": "Eiffel Tower",
+          "ife": false
+        },
+        {
+          "t": "05:55",
+          "sec": 355,
+          "title": "Croissant-making",
+          "ife": false
+        },
+        {
+          "t": "06:36",
+          "sec": 396,
+          "title": "Your own scent",
+          "ife": false
+        },
+        {
+          "t": "08:35",
+          "sec": 515,
+          "title": "Siene River",
+          "ife": false
+        },
+        {
+          "t": "09:48",
+          "sec": 588,
+          "title": "Museum & Street Art",
+          "ife": false
+        },
+        {
+          "t": "10:57",
+          "sec": 657,
+          "title": "@DisneylandParis",
+          "ife": false
+        },
+        {
+          "t": "15:17",
+          "sec": 917,
+          "title": "Disney Cascade of Lights",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-11-02T10:48:22.394127"
+  "last_updated": "2026-11-03T10:40:36.027710"
 }
