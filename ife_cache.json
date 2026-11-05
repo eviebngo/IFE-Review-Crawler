@@ -184956,7 +184956,80 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Aeropuerto Internacional Jorge Chávez en Lima.",
+          "ife": false
+        },
+        {
+          "t": "01:06",
+          "sec": 66,
+          "title": "Consejo para evitar pagar la tasa aeroportuaria TUUA.",
+          "ife": false
+        },
+        {
+          "t": "04:24",
+          "sec": 264,
+          "title": "Proceso de migración para ingresar a Perú.",
+          "ife": false
+        },
+        {
+          "t": "09:27",
+          "sec": 567,
+          "title": "Sesión de spotting en la zona internacional.",
+          "ife": false
+        },
+        {
+          "t": "17:49",
+          "sec": 1069,
+          "title": "sala VIP The Club en Lima.",
+          "ife": false
+        },
+        {
+          "t": "20:23",
+          "sec": 1223,
+          "title": "Proceso de abordaje al vuelo de LATAM hacia Madrid.",
+          "ife": false
+        },
+        {
+          "t": "22:02",
+          "sec": 1322,
+          "title": "Interior del Boeing 787 Dreamliner.",
+          "ife": false
+        },
+        {
+          "t": "27:30",
+          "sec": 1650,
+          "title": "Servicio de cena a bordo.",
+          "ife": false
+        },
+        {
+          "t": "30:38",
+          "sec": 1838,
+          "title": "Servicio de desayuno antes del aterrizaje.",
+          "ife": false
+        },
+        {
+          "t": "34:59",
+          "sec": 2099,
+          "title": "Aterrizaje en el Aeropuerto Adolfo Suárez Madrid-Barajas.",
+          "ife": false
+        },
+        {
+          "t": "36:05",
+          "sec": 2165,
+          "title": "Explicación sobre conexiones internacionales y visas en el espacio Schengen.",
+          "ife": false
+        },
+        {
+          "t": "43:44",
+          "sec": 2624,
+          "title": "Ubicación en la puerta de embarque final hacia Bruselas.",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
