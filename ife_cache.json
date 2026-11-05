@@ -185931,7 +185931,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=6yFJywHsc5k",
@@ -186098,7 +186100,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.713
     },
     {
       "url": "https://www.youtube.com/watch?v=sHZyF92cfvY",
@@ -186143,7 +186147,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Z63JpvlAtDo",
@@ -186188,7 +186194,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.525
     },
     {
       "url": "https://www.youtube.com/watch?v=9wmyocFXx2k",
@@ -186252,7 +186260,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=GT-z2sNgqqw",
@@ -186283,7 +186293,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.361
     },
     {
       "url": "https://www.youtube.com/watch?v=Pn3oVaKzvVU",
@@ -186390,7 +186402,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=UJdn1dgurZA",
@@ -186430,7 +186444,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=yJ3pk9zXLgg",
@@ -186463,7 +186479,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.459
     },
     {
       "url": "https://www.youtube.com/watch?v=Xwp6dYUmeBg",
@@ -186500,7 +186518,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.536
     },
     {
       "url": "https://www.youtube.com/watch?v=ddzDybkRTPs",
@@ -186529,7 +186549,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=AfS3LG2w8vE",
@@ -186561,8 +186583,1005 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AxQbvQgklu0",
+      "title": "Qatar Airways Qsuite Business Class & Wine Tasting | Boeing 777-300ER | Sydney to Doha",
+      "year": 2026,
+      "published_at": "2026-11-05T06:00:00Z",
+      "channel_title": "ItsIvyBond | Ivy Bond | Travel lover",
+      "view_count": 34,
+      "like_count": 5,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "The Journey Begins",
+          "ife": false
+        },
+        {
+          "t": "01:08",
+          "sec": 68,
+          "title": "Sydney Airport Recap",
+          "ife": false
+        },
+        {
+          "t": "02:03",
+          "sec": 123,
+          "title": "Boarding QR909",
+          "ife": false
+        },
+        {
+          "t": "03:40",
+          "sec": 220,
+          "title": "Cabin Layout",
+          "ife": false
+        },
+        {
+          "t": "04:36",
+          "sec": 276,
+          "title": "Qsuite Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "07:08",
+          "sec": 428,
+          "title": "Champagne Time",
+          "ife": false
+        },
+        {
+          "t": "08:12",
+          "sec": 492,
+          "title": "Dinner Choices",
+          "ife": false
+        },
+        {
+          "t": "09:25",
+          "sec": 565,
+          "title": "Time for Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:15",
+          "sec": 615,
+          "title": "Getting Comfortable",
+          "ife": false
+        },
+        {
+          "t": "10:39",
+          "sec": 639,
+          "title": "Bathroom Tour",
+          "ife": false
+        },
+        {
+          "t": "11:24",
+          "sec": 684,
+          "title": "Qatar Airways Pyjamas",
+          "ife": false
+        },
+        {
+          "t": "12:27",
+          "sec": 747,
+          "title": "Time to Eat",
+          "ife": false
+        },
+        {
+          "t": "15:47",
+          "sec": 947,
+          "title": "Wine Tasting & Dessert",
+          "ife": false
+        },
+        {
+          "t": "17:24",
+          "sec": 1044,
+          "title": "Diptyque Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "18:02",
+          "sec": 1082,
+          "title": "Bed & Sleep Experience",
+          "ife": false
+        },
+        {
+          "t": "19:48",
+          "sec": 1188,
+          "title": "Oryx One Entertainment",
+          "ife": true
+        },
+        {
+          "t": "20:38",
+          "sec": 1238,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "23:30",
+          "sec": 1410,
+          "title": "Final Review & Rating",
+          "ife": false
+        },
+        {
+          "t": "24:32",
+          "sec": 1472,
+          "title": "Up Next",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0SRK_-9X_Fo",
+      "title": "Qatar Airways ,Doha Qatar - Kuala Lumpur Malaysia | Economy Class Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-04T14:54:08Z",
+      "channel_title": "Ur Friendly Traveler",
+      "view_count": 14,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Lamp Bear",
+          "ife": false
+        },
+        {
+          "t": "03:40",
+          "sec": 220,
+          "title": "Orchard",
+          "ife": false
+        },
+        {
+          "t": "06:13",
+          "sec": 373,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "06:18",
+          "sec": 378,
+          "title": "Bus to Airplane",
+          "ife": false
+        },
+        {
+          "t": "07:59",
+          "sec": 479,
+          "title": "Inside Airplane",
+          "ife": false
+        },
+        {
+          "t": "08:09",
+          "sec": 489,
+          "title": "Seat 27A",
+          "ife": false
+        },
+        {
+          "t": "08:36",
+          "sec": 516,
+          "title": "Tray board,Safety card & wellness bag",
+          "ife": false
+        },
+        {
+          "t": "08:57",
+          "sec": 537,
+          "title": "Blanket & Pillow",
+          "ife": false
+        },
+        {
+          "t": "09:06",
+          "sec": 546,
+          "title": "Charging Ports",
+          "ife": false
+        },
+        {
+          "t": "10:08",
+          "sec": 608,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:57",
+          "sec": 657,
+          "title": "Pushback & Heading to the Runway",
+          "ife": false
+        },
+        {
+          "t": "15:26",
+          "sec": 926,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "20:16",
+          "sec": 1216,
+          "title": "Views",
+          "ife": false
+        },
+        {
+          "t": "24:14",
+          "sec": 1454,
+          "title": "Meal",
+          "ife": false
+        },
+        {
+          "t": "27:18",
+          "sec": 1638,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "31:39",
+          "sec": 1899,
+          "title": "Snack",
+          "ife": false
+        },
+        {
+          "t": "32:07",
+          "sec": 1927,
+          "title": "Arriving",
+          "ife": false
+        },
+        {
+          "t": "34:43",
+          "sec": 2083,
+          "title": "Landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Handheld remote"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=R2WSrfKvBtw",
+      "title": "Cathay Pacific Business Class Aria Suite Review on Boeing 777 (London to Hong Kong)",
+      "year": 2026,
+      "published_at": "2026-11-04T12:00:28Z",
+      "channel_title": "mangochico",
+      "view_count": 68,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:20",
+          "sec": 20,
+          "title": "Overview",
+          "ife": false
+        },
+        {
+          "t": "00:44",
+          "sec": 44,
+          "title": "First Impressions",
+          "ife": false
+        },
+        {
+          "t": "01:16",
+          "sec": 76,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "06:50",
+          "sec": 410,
+          "title": "Amenities",
+          "ife": false
+        },
+        {
+          "t": "08:00",
+          "sec": 480,
+          "title": "Unboxing of Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "08:55",
+          "sec": 535,
+          "title": "In flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "11:20",
+          "sec": 680,
+          "title": "WiFi",
+          "ife": true
+        },
+        {
+          "t": "12:40",
+          "sec": 760,
+          "title": "Wireless Charger",
+          "ife": false
+        },
+        {
+          "t": "13:11",
+          "sec": 791,
+          "title": "Bedtime",
+          "ife": false
+        },
+        {
+          "t": "14:29",
+          "sec": 869,
+          "title": "Post Sleep Analysis",
+          "ife": false
+        },
+        {
+          "t": "14:52",
+          "sec": 892,
+          "title": "Toilet",
+          "ife": false
+        },
+        {
+          "t": "15:36",
+          "sec": 936,
+          "title": "Conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=c8IxN6hkk0U",
+      "title": "How Travel Writers can Get Flight Reviews Published (And Maybe an Upgrade)",
+      "year": 2026,
+      "published_at": "2026-11-04T15:00:13Z",
+      "channel_title": "Lindy Alexander | The Travel Writer Accelerator",
+      "view_count": 12,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wEBH9Yik-Qs",
+      "title": "TRIPREPORT | Ajet (ECONOMY) | Airbus A321neo | Cairo - Istanbul",
+      "year": 2026,
+      "published_at": "2026-11-04T15:00:10Z",
+      "channel_title": "The Flight Explorer",
+      "view_count": 494,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "00:36 Intro",
+          "ife": false
+        },
+        {
+          "t": "00:36",
+          "sec": 36,
+          "title": "02:06 Cairo Airport",
+          "ife": false
+        },
+        {
+          "t": "02:06",
+          "sec": 126,
+          "title": "02:12 Gate F8",
+          "ife": false
+        },
+        {
+          "t": "02:12",
+          "sec": 132,
+          "title": "02:58 Boarding our A321neo",
+          "ife": false
+        },
+        {
+          "t": "02:58",
+          "sec": 178,
+          "title": "04:35 Cabin",
+          "ife": false
+        },
+        {
+          "t": "04:35",
+          "sec": 275,
+          "title": "07:47 Pushback & Engine Start",
+          "ife": false
+        },
+        {
+          "t": "07:47",
+          "sec": 467,
+          "title": "09:35 Taxing to runway 05C at CAI",
+          "ife": false
+        },
+        {
+          "t": "09:35",
+          "sec": 575,
+          "title": "11:11 Takeoff from CAI",
+          "ife": false
+        },
+        {
+          "t": "11:11",
+          "sec": 671,
+          "title": "11:21 El-Obour city, Egypt",
+          "ife": false
+        },
+        {
+          "t": "11:21",
+          "sec": 681,
+          "title": "11:30 Ninth district, Egypt",
+          "ife": false
+        },
+        {
+          "t": "11:30",
+          "sec": 690,
+          "title": "11:53 Monshaat Al-Kiram, Egypt",
+          "ife": false
+        },
+        {
+          "t": "11:53",
+          "sec": 713,
+          "title": "12:02 El-Mansoura, Egypt",
+          "ife": false
+        },
+        {
+          "t": "12:02",
+          "sec": 722,
+          "title": "12:09 New-Damietta city, Egypt",
+          "ife": false
+        },
+        {
+          "t": "12:09",
+          "sec": 729,
+          "title": "12:29 Catering service (breakfast)",
+          "ife": false
+        },
+        {
+          "t": "12:29",
+          "sec": 749,
+          "title": "12:59 In-flight entertainment",
+          "ife": true
+        },
+        {
+          "t": "12:59",
+          "sec": 779,
+          "title": "13:57 Lavatory review",
+          "ife": false
+        },
+        {
+          "t": "13:57",
+          "sec": 837,
+          "title": "15:30 About Ajet",
+          "ife": false
+        },
+        {
+          "t": "15:30",
+          "sec": 930,
+          "title": "15:40 Antalya, Turkey",
+          "ife": false
+        },
+        {
+          "t": "15:40",
+          "sec": 940,
+          "title": "15:48 Kütahya, Turkey",
+          "ife": false
+        },
+        {
+          "t": "15:48",
+          "sec": 948,
+          "title": "17:02 Descending into SAW",
+          "ife": false
+        },
+        {
+          "t": "17:02",
+          "sec": 1022,
+          "title": "18:35 Landing in Istanbul",
+          "ife": false
+        },
+        {
+          "t": "18:35",
+          "sec": 1115,
+          "title": "21:01 Taxi to the gate",
+          "ife": false
+        },
+        {
+          "t": "21:01",
+          "sec": 1261,
+          "title": "21:58 Deboarding",
+          "ife": false
+        },
+        {
+          "t": "21:58",
+          "sec": 1318,
+          "title": "22:09 Connection flights way in SAW",
+          "ife": false
+        },
+        {
+          "t": "22:09",
+          "sec": 1329,
+          "title": "22:30 Istanbul Sabiha Gökçen Intl. Airport",
+          "ife": false
+        },
+        {
+          "t": "22:30",
+          "sec": 1350,
+          "title": "23:05 Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "turkish airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 5
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BcpKlQXCktk",
+      "title": "PTFS A380 Tripreport Heathrow-Keflavik (BAW)",
+      "year": 2026,
+      "published_at": "2026-11-05T10:28:15Z",
+      "channel_title": "Tayography",
+      "view_count": 3,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pvSzrJJg0N4",
+      "title": "THAI Airways Trip Report | Flight Review | Lahore to Bangkok | Bangkok to Kuala Lumpur | B777 | A350",
+      "year": 2026,
+      "published_at": "2026-10-30T09:48:37Z",
+      "channel_title": "Talha Hassan",
+      "view_count": 162,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:31",
+          "sec": 31,
+          "title": "Lahore to Bangkok (B777-200 ER)",
+          "ife": false
+        },
+        {
+          "t": "12:18",
+          "sec": 738,
+          "title": "Bangkok Airport",
+          "ife": false
+        },
+        {
+          "t": "14:34",
+          "sec": 874,
+          "title": "Bangkok to Kuala Lumpur (A350)",
+          "ife": false
+        },
+        {
+          "t": "22:59",
+          "sec": 1379,
+          "title": "Kuala Lumpur",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 9
+        },
+        {
+          "keyword": "777",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jOM7ICeBTP0",
+      "title": "Can Kuwait Airways ACTUALLY Beat Emirates?",
+      "year": 2026,
+      "published_at": "2026-11-01T09:00:12Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 27261,
+      "like_count": 372,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Emirates overview",
+          "ife": false
+        },
+        {
+          "t": "01:34",
+          "sec": 94,
+          "title": "Kuwait Airways overview",
+          "ife": false
+        },
+        {
+          "t": "02:38",
+          "sec": 158,
+          "title": "Emirates boarding",
+          "ife": false
+        },
+        {
+          "t": "03:18",
+          "sec": 198,
+          "title": "Emirates seat",
+          "ife": false
+        },
+        {
+          "t": "04:37",
+          "sec": 277,
+          "title": "Kuwait Airways boarding",
+          "ife": false
+        },
+        {
+          "t": "05:20",
+          "sec": 320,
+          "title": "Kuwait Airways seat",
+          "ife": false
+        },
+        {
+          "t": "06:23",
+          "sec": 383,
+          "title": "Ubigi",
+          "ife": false
+        },
+        {
+          "t": "07:50",
+          "sec": 470,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "08:06",
+          "sec": 486,
+          "title": "Emirates meal",
+          "ife": false
+        },
+        {
+          "t": "09:16",
+          "sec": 556,
+          "title": "Kuwait Airways meal",
+          "ife": false
+        },
+        {
+          "t": "10:28",
+          "sec": 628,
+          "title": "Season 2 bracket",
+          "ife": false
+        },
+        {
+          "t": "10:46",
+          "sec": 646,
+          "title": "Emirates tech",
+          "ife": false
+        },
+        {
+          "t": "12:07",
+          "sec": 727,
+          "title": "Kuwait Airways tech",
+          "ife": false
+        },
+        {
+          "t": "13:46",
+          "sec": 826,
+          "title": "Emirates service",
+          "ife": false
+        },
+        {
+          "t": "14:55",
+          "sec": 895,
+          "title": "Kuwait Airways service",
+          "ife": false
+        },
+        {
+          "t": "16:29",
+          "sec": 989,
+          "title": "Emirates efficiency",
+          "ife": false
+        },
+        {
+          "t": "16:50",
+          "sec": 1010,
+          "title": "Kuwait Airways efficiency",
+          "ife": false
+        },
+        {
+          "t": "17:26",
+          "sec": 1046,
+          "title": "Results",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HVqBcECrxdE",
+      "title": "Scoot Is the Worst Budget Airline I've Ever Flown (but that's the point)",
+      "year": 2026,
+      "published_at": "2026-11-05T05:03:44Z",
+      "channel_title": "Flight Formula",
+      "view_count": 17177,
+      "like_count": 811,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mOiMLmSm5WI",
+      "title": "Buckle up for the latest blockbusters and epic new releases on KrisWorld this November.",
+      "year": 2026,
+      "published_at": "2026-11-05T08:00:10Z",
+      "channel_title": "Singapore Airlines",
+      "view_count": 177,
+      "like_count": 17,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Official"
     }
   ],
-  "last_updated": "2026-11-04T10:43:52.535281"
+  "last_updated": "2026-11-05T10:38:24.149188"
 }
