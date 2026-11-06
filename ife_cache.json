@@ -185259,44 +185259,7 @@
       "ife_system": "KrisWorld",
       "ife_system_inferred": false,
       "ife_system_guess": null,
-      "chapters": [
-        {
-          "t": "00:00",
-          "sec": 0,
-          "title": "Intro & The Big Question",
-          "ife": false
-        },
-        {
-          "t": "01:15",
-          "sec": 75,
-          "title": "3 Reasons Why I Chose Singapore Airlines",
-          "ife": false
-        },
-        {
-          "t": "03:30",
-          "sec": 210,
-          "title": "Seat Comfort & Legroom",
-          "ife": false
-        },
-        {
-          "t": "05:15",
-          "sec": 315,
-          "title": "Inflight Indian Food Review",
-          "ife": false
-        },
-        {
-          "t": "07:00",
-          "sec": 420,
-          "title": "KrisWorld Inflight Entertainment & Wi-Fi",
-          "ife": true
-        },
-        {
-          "t": "08:30",
-          "sec": 510,
-          "title": "Final Verdict: Worth It?",
-          "ife": false
-        }
-      ],
+      "chapters": [],
       "media_type": "video",
       "airlines_mentioned": [
         {
