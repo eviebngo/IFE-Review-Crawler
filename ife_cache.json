@@ -186813,7 +186813,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0SRK_-9X_Fo",
@@ -186958,7 +186960,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=R2WSrfKvBtw",
@@ -187084,7 +187088,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=c8IxN6hkk0U",
@@ -187108,7 +187114,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=wEBH9Yik-Qs",
@@ -187315,7 +187323,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=BcpKlQXCktk",
@@ -187355,7 +187365,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=pvSzrJJg0N4",
@@ -187432,7 +187444,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=jOM7ICeBTP0",
@@ -187596,7 +187610,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=HVqBcECrxdE",
@@ -187627,7 +187643,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.625
     },
     {
       "url": "https://www.youtube.com/watch?v=mOiMLmSm5WI",
@@ -187653,8 +187671,694 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jRkiIbqCvWw",
+      "title": "13 Hours in Etihad Airways Economy: Is It Worth It? B787-9 Review | Chicago (ORD) - Abu Dhabi (AUH)",
+      "year": 2026,
+      "published_at": "2026-11-05T19:30:30Z",
+      "channel_title": "Your Pal Hachi",
+      "view_count": 116,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:33",
+          "sec": 33,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "00:48",
+          "sec": 48,
+          "title": "Cabin",
+          "ife": false
+        },
+        {
+          "t": "01:05",
+          "sec": 65,
+          "title": "Seat Features & Amenities",
+          "ife": false
+        },
+        {
+          "t": "02:22",
+          "sec": 142,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "02:34",
+          "sec": 154,
+          "title": "First Meal Service",
+          "ife": false
+        },
+        {
+          "t": "02:52",
+          "sec": 172,
+          "title": "In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "03:51",
+          "sec": 231,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "04:07",
+          "sec": 247,
+          "title": "Mid-Flight Snack",
+          "ife": false
+        },
+        {
+          "t": "04:18",
+          "sec": 258,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "04:32",
+          "sec": 272,
+          "title": "Seat Comfort",
+          "ife": false
+        },
+        {
+          "t": "04:49",
+          "sec": 289,
+          "title": "Second Meal Service",
+          "ife": false
+        },
+        {
+          "t": "05:09",
+          "sec": 309,
+          "title": "Seat Upgrade Offers",
+          "ife": false
+        },
+        {
+          "t": "05:46",
+          "sec": 346,
+          "title": "Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 7
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "korean air",
+          "mentions": 1
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2Pwrn-v0xeM",
+      "title": "Is Europe Falling Behind? United Airlines Economy Review (Boeing 737-900ER) | Newark to Chicago",
+      "year": 2026,
+      "published_at": "2026-11-05T13:00:09Z",
+      "channel_title": "Freddie’s Flight Reviews",
+      "view_count": 1495,
+      "like_count": 28,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Newark Airport",
+          "ife": false
+        },
+        {
+          "t": "02:53",
+          "sec": 173,
+          "title": "Flight Details & Route Map",
+          "ife": false
+        },
+        {
+          "t": "03:24",
+          "sec": 204,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "03:41",
+          "sec": 221,
+          "title": "Seat Tour & IFE System",
+          "ife": true
+        },
+        {
+          "t": "04:53",
+          "sec": 293,
+          "title": "Pilot Announcement",
+          "ife": false
+        },
+        {
+          "t": "05:04",
+          "sec": 304,
+          "title": "Taxi & Safety Video",
+          "ife": false
+        },
+        {
+          "t": "05:47",
+          "sec": 347,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "07:34",
+          "sec": 454,
+          "title": "Inflight Menu and Snack",
+          "ife": false
+        },
+        {
+          "t": "08:13",
+          "sec": 493,
+          "title": "Lake America?",
+          "ife": false
+        },
+        {
+          "t": "08:30",
+          "sec": 510,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "09:30",
+          "sec": 570,
+          "title": "Final Thoughts and Score",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 3
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "level",
+          "mentions": 2
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3cC1UC9lk6M",
+      "title": "Turkish Airlines Business Class A350-900 | Full Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-04T23:18:08Z",
+      "channel_title": "Your Travel Moves",
+      "view_count": 1301,
+      "like_count": 30,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Turkish Airlines Business Class Preview & Awards Booking",
+          "ife": false
+        },
+        {
+          "t": "01:25",
+          "sec": 85,
+          "title": "Getting to Istanbul Airport (IST)",
+          "ife": false
+        },
+        {
+          "t": "02:12",
+          "sec": 132,
+          "title": "Business Class Check-In",
+          "ife": false
+        },
+        {
+          "t": "03:07",
+          "sec": 187,
+          "title": "Turkish Airlines Business Lounge (IST)",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "Making our Way to The Gate - Boarding Order",
+          "ife": false
+        },
+        {
+          "t": "05:07",
+          "sec": 307,
+          "title": "Turkish Airlines A350-900 Configuration (Ex-Aeroflot)",
+          "ife": false
+        },
+        {
+          "t": "06:54",
+          "sec": 414,
+          "title": "Our Business Class Seat & Cabin Walkthrough",
+          "ife": false
+        },
+        {
+          "t": "10:18",
+          "sec": 618,
+          "title": "Business Class Amenities",
+          "ife": false
+        },
+        {
+          "t": "13:04",
+          "sec": 784,
+          "title": "Onboard Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "15:15",
+          "sec": 915,
+          "title": "Our Business Class Journey",
+          "ife": false
+        },
+        {
+          "t": "18:29",
+          "sec": 1109,
+          "title": "Business Class Bathrooms",
+          "ife": false
+        },
+        {
+          "t": "19:04",
+          "sec": 1144,
+          "title": "Turndown Service & Trying to Sleep",
+          "ife": false
+        },
+        {
+          "t": "20:23",
+          "sec": 1223,
+          "title": "Mid-Flight Snack Service",
+          "ife": false
+        },
+        {
+          "t": "20:39",
+          "sec": 1239,
+          "title": "Second Meal: Breakfast",
+          "ife": false
+        },
+        {
+          "t": "22:00",
+          "sec": 1320,
+          "title": "Newark to Manhattan",
+          "ife": false
+        },
+        {
+          "t": "22:28",
+          "sec": 1348,
+          "title": "Turkish Airlines A350 Business Class Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 7
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iRgbe0GEVXs",
+      "title": "✈️ I FLEW EMIRATES BUSINESS CLASS! 😱 IS IT REALLY WORTH £3,000?!",
+      "year": 2026,
+      "published_at": "2026-11-05T17:00:38Z",
+      "channel_title": "Master Your Points",
+      "view_count": 98,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 24
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GFA4bG7IUz0",
+      "title": "PIA's First Boeing 787 Dreamliner Arrives in Pakistan, Marking a New Addition to Its Fleet",
+      "year": 2026,
+      "published_at": "2026-11-01T08:48:03Z",
+      "channel_title": "Karachi Narrative",
+      "view_count": 526,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S4GXjaZ_o8A",
+      "title": "I flew to THREE of Asia's LARGEST airports AND BACK to North America in 2.5 days! (Plus a surprise!)",
+      "year": 2026,
+      "published_at": "2026-11-05T20:00:13Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 1906,
+      "like_count": 59,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china eastern",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        },
+        {
+          "keyword": "thai airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qKHnBy3YDt8",
+      "title": "Singapore Airlines Just Revealed Its Next First and Business Class",
+      "year": 2026,
+      "published_at": "2026-11-06T05:31:14Z",
+      "channel_title": "Callum Elsdon",
+      "view_count": 1823,
+      "like_count": 50,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro & announcement overview",
+          "ife": false
+        },
+        {
+          "t": "1:08",
+          "sec": 68,
+          "title": "Singapore Airlines launch video",
+          "ife": false
+        },
+        {
+          "t": "3:40",
+          "sec": 220,
+          "title": "Aircraft details (Boeing 777X & A350-900ULR)",
+          "ife": false
+        },
+        {
+          "t": "5:00",
+          "sec": 300,
+          "title": "First Class cabin breakdown & analysis",
+          "ife": false
+        },
+        {
+          "t": "12:48",
+          "sec": 768,
+          "title": "Business Class cabin breakdown & analysis",
+          "ife": false
+        },
+        {
+          "t": "17:04",
+          "sec": 1024,
+          "title": "Premium Economy cabin overview",
+          "ife": false
+        },
+        {
+          "t": "18:36",
+          "sec": 1116,
+          "title": "Economy Class cabin overview",
+          "ife": false
+        },
+        {
+          "t": "19:08",
+          "sec": 1148,
+          "title": "Extra details (IFE, Starlink Wi-Fi, dining & amenity kits)",
+          "ife": true
+        },
+        {
+          "t": "24:19",
+          "sec": 1459,
+          "title": "Conclusion & final thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 4
+        },
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-05T10:38:24.149188"
+  "last_updated": "2026-11-06T11:18:28.661080"
 }
