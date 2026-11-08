@@ -188469,7 +188469,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=VqtcrCw3O28",
@@ -188602,7 +188604,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.439
     },
     {
       "url": "https://www.youtube.com/watch?v=BqgLBp5H624",
@@ -188642,7 +188646,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=wcTmL8gJEk8",
@@ -188709,7 +188715,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=TmlPeSN0Pug",
@@ -188755,7 +188763,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=mJtjmijsalA",
@@ -188881,7 +188891,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FQ8yIezn5vo",
@@ -188934,7 +188946,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=uRJdpoPfZ0c",
@@ -189022,8 +189036,762 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oc2DNGGVe2I",
+      "title": "Flying SINGAPORE AIRLINES 🇸🇬 Boeing B777-300ER Singapore - Hong Kong | TRIP REPORT",
+      "year": 2026,
+      "published_at": "2026-11-07T13:30:29Z",
+      "channel_title": "Aerowanderer",
+      "view_count": 5644,
+      "like_count": 65,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Arrival into Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "04:39",
+          "sec": 279,
+          "title": "Plane Spotting at Terminal-3",
+          "ife": false
+        },
+        {
+          "t": "06:25",
+          "sec": 385,
+          "title": "Our Boeing B777-300ER",
+          "ife": false
+        },
+        {
+          "t": "08:43",
+          "sec": 523,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "11:01",
+          "sec": 661,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "14:26",
+          "sec": 866,
+          "title": "Pushback / taxi",
+          "ife": false
+        },
+        {
+          "t": "17:28",
+          "sec": 1048,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "19:06",
+          "sec": 1146,
+          "title": "View of Singapore & climb phase",
+          "ife": false
+        },
+        {
+          "t": "22:23",
+          "sec": 1343,
+          "title": "Inflight meal",
+          "ife": false
+        },
+        {
+          "t": "24:45",
+          "sec": 1485,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "26:19",
+          "sec": 1579,
+          "title": "Inflight entertainment system",
+          "ife": true
+        },
+        {
+          "t": "28:04",
+          "sec": 1684,
+          "title": "Descent / Approach",
+          "ife": false
+        },
+        {
+          "t": "31:00",
+          "sec": 1860,
+          "title": "Landing at Hong Kong Airport",
+          "ife": false
+        },
+        {
+          "t": "34:42",
+          "sec": 2082,
+          "title": "Hong Kong Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 11
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oHLsq0glSQc",
+      "title": "ANCIENT CABIN BUT STILL GREAT? | TURKISH AIRLINES BOEING 737-800 TRIP REPORT: Istanbul to Zurich",
+      "year": 2026,
+      "published_at": "2026-11-07T10:56:04Z",
+      "channel_title": "ZRH Trainspotter",
+      "view_count": 1444,
+      "like_count": 33,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:24",
+          "sec": 24,
+          "title": "Istanbul Airport",
+          "ife": false
+        },
+        {
+          "t": "2:23",
+          "sec": 143,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "3:10",
+          "sec": 190,
+          "title": "Seat Review, 19F",
+          "ife": false
+        },
+        {
+          "t": "5:03",
+          "sec": 303,
+          "title": "Pushback and Engine Startup",
+          "ife": false
+        },
+        {
+          "t": "7:02",
+          "sec": 422,
+          "title": "Taxiing",
+          "ife": false
+        },
+        {
+          "t": "8:09",
+          "sec": 489,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "11:17",
+          "sec": 677,
+          "title": "Route Impressions 1 (Black Sea, Turkey, Bulgaria)",
+          "ife": false
+        },
+        {
+          "t": "13:30",
+          "sec": 810,
+          "title": "Inflight Menu",
+          "ife": false
+        },
+        {
+          "t": "13:55",
+          "sec": 835,
+          "title": "Meal Service, Lunch",
+          "ife": false
+        },
+        {
+          "t": "14:57",
+          "sec": 897,
+          "title": "Route Impressions 2 (Bosnia and Herzegovina, Croatia, Adriatic Sea, Italy)",
+          "ife": false
+        },
+        {
+          "t": "18:16",
+          "sec": 1096,
+          "title": "Captain Announcement",
+          "ife": false
+        },
+        {
+          "t": "18:47",
+          "sec": 1127,
+          "title": "Route Impressions 3 (Switzerland)",
+          "ife": false
+        },
+        {
+          "t": "21:03",
+          "sec": 1263,
+          "title": "Approaching Zurich",
+          "ife": false
+        },
+        {
+          "t": "23:11",
+          "sec": 1391,
+          "title": "HARD Landing",
+          "ife": false
+        },
+        {
+          "t": "25:35",
+          "sec": 1535,
+          "title": "Flight Review",
+          "ife": false
+        },
+        {
+          "t": "26:41",
+          "sec": 1601,
+          "title": "Zurich Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=naeVFpuuuq4",
+      "title": "Spotify Can Be Streamed Now On United Airlines’ Flights",
+      "year": 2026,
+      "published_at": "2026-11-07T02:00:23Z",
+      "channel_title": "GadInsider ",
+      "view_count": 12,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DXDKOUZrcEU",
+      "title": "Kolkata to Zurich 🇨🇭 | Etihad via Abu Dhabi | Switzerland | Europe Trip EP 1",
+      "year": 2026,
+      "published_at": "2026-11-01T09:22:29Z",
+      "channel_title": "pVlog",
+      "view_count": 799,
+      "like_count": 16,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "The Europe Dream 🇪🇺",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "Kolkata Airport | Journey Begins",
+          "ife": false
+        },
+        {
+          "t": "01:09",
+          "sec": 69,
+          "title": "Etihad Check-in & Fast Track Immigration",
+          "ife": false
+        },
+        {
+          "t": "02:02",
+          "sec": 122,
+          "title": "Visa & Boarding Details",
+          "ife": false
+        },
+        {
+          "t": "02:39",
+          "sec": 159,
+          "title": "Etihad Airways | Boarding",
+          "ife": false
+        },
+        {
+          "t": "03:13",
+          "sec": 193,
+          "title": "A Dream Come True",
+          "ife": false
+        },
+        {
+          "t": "03:51",
+          "sec": 231,
+          "title": "Etihad Economy Class Review",
+          "ife": false
+        },
+        {
+          "t": "04:41",
+          "sec": 281,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "05:01",
+          "sec": 301,
+          "title": "Etihad Inflight Meal Review",
+          "ife": false
+        },
+        {
+          "t": "05:52",
+          "sec": 352,
+          "title": "Food & Flight Experience",
+          "ife": false
+        },
+        {
+          "t": "07:02",
+          "sec": 422,
+          "title": "Flying Over Oman",
+          "ife": false
+        },
+        {
+          "t": "07:36",
+          "sec": 456,
+          "title": "Abu Dhabi Arrival 🇦🇪",
+          "ife": false
+        },
+        {
+          "t": "08:06",
+          "sec": 486,
+          "title": "Abu Dhabi Airport Tour",
+          "ife": false
+        },
+        {
+          "t": "09:19",
+          "sec": 559,
+          "title": "Airport Snacks & Food Prices",
+          "ife": false
+        },
+        {
+          "t": "10:17",
+          "sec": 617,
+          "title": "Boarding for Zurich",
+          "ife": false
+        },
+        {
+          "t": "11:12",
+          "sec": 672,
+          "title": "Etihad | Abu Dhabi to Zurich",
+          "ife": false
+        },
+        {
+          "t": "11:29",
+          "sec": 689,
+          "title": "Inflight Breakfast",
+          "ife": false
+        },
+        {
+          "t": "11:59",
+          "sec": 719,
+          "title": "First Glimpse of Switzerland 🇨🇭",
+          "ife": false
+        },
+        {
+          "t": "12:30",
+          "sec": 750,
+          "title": "Welcome to Zurich!",
+          "ife": false
+        },
+        {
+          "t": "12:44",
+          "sec": 764,
+          "title": "Zurich Airport & EES",
+          "ife": false
+        },
+        {
+          "t": "13:29",
+          "sec": 809,
+          "title": "Airport Driverless Metro",
+          "ife": false
+        },
+        {
+          "t": "14:20",
+          "sec": 860,
+          "title": "Switzerland Immigration",
+          "ife": false
+        },
+        {
+          "t": "15:57",
+          "sec": 957,
+          "title": "Zurich Airport to Zurich HB",
+          "ife": false
+        },
+        {
+          "t": "16:54",
+          "sec": 1014,
+          "title": "Zurich Airport Railway Station",
+          "ife": false
+        },
+        {
+          "t": "17:38",
+          "sec": 1058,
+          "title": "Swiss Train Experience",
+          "ife": false
+        },
+        {
+          "t": "18:27",
+          "sec": 1107,
+          "title": "Zurich HB Station",
+          "ife": false
+        },
+        {
+          "t": "18:38",
+          "sec": 1118,
+          "title": "Luggage Lockers at Zurich HB",
+          "ife": false
+        },
+        {
+          "t": "19:11",
+          "sec": 1151,
+          "title": "Locker Sizes & Availability",
+          "ife": false
+        },
+        {
+          "t": "19:44",
+          "sec": 1184,
+          "title": "Luggage Locker Prices",
+          "ife": false
+        },
+        {
+          "t": "20:12",
+          "sec": 1212,
+          "title": "How to Use Luggage Lockers",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 11
+        },
+        {
+          "keyword": "swiss",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=p6F0QVSs1xc",
+      "title": "Qantas QF16 Business Class Review – Better Than Expected?",
+      "year": 2026,
+      "published_at": "2026-11-07T23:32:40Z",
+      "channel_title": "Adam Campbell - Luxury Travel",
+      "view_count": 859,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SoUGeqocu3I",
+      "title": "Singapore Airlines Unveils NEW First Class, Business Class & More! ✈️ | Event Vlog",
+      "year": 2026,
+      "published_at": "2026-11-08T01:00:23Z",
+      "channel_title": "ikhwanhidayat",
+      "view_count": 3547,
+      "like_count": 92,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 7
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RMhHvNVupf4",
+      "title": "2026 AIR CANADA REVIEW: Premium Economy | Toronto (YYZ) to Seoul (ICN) | | Boeing 787-9 Dreamliner",
+      "year": 2026,
+      "published_at": "2026-11-06T19:58:25Z",
+      "channel_title": "City and Local",
+      "view_count": 181,
+      "like_count": 8,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "2:20 - Boarding, Fun Facts, Seat Map",
+          "ife": false
+        },
+        {
+          "t": "2:21",
+          "sec": 141,
+          "title": "5:32 - Onboard, Mobile App, Seat Details, Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "5:33",
+          "sec": 333,
+          "title": "9:10 - Aircraft Taxi, Takeoff",
+          "ife": false
+        },
+        {
+          "t": "9:11",
+          "sec": 551,
+          "title": "11:52 - Inflight Entertainment System",
+          "ife": true
+        },
+        {
+          "t": "11:52",
+          "sec": 712,
+          "title": "13:45 - Meal Services",
+          "ife": false
+        },
+        {
+          "t": "13:36",
+          "sec": 816,
+          "title": "14:02 - Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "14:03",
+          "sec": 843,
+          "title": "17:00 - Landing, Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 7
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CjckxJh8IaU",
+      "title": "Nosarieme Garrick | Etihad",
+      "year": 2026,
+      "published_at": "2026-11-07T10:00:14Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 415,
+      "like_count": 27,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-11-07T09:50:36.708000"
+  "last_updated": "2026-11-08T10:02:51.064642"
 }
