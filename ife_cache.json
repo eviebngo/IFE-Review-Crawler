@@ -189178,7 +189178,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=oHLsq0glSQc",
@@ -189329,7 +189331,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.829
     },
     {
       "url": "https://www.youtube.com/watch?v=naeVFpuuuq4",
@@ -189365,7 +189369,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=DXDKOUZrcEU",
@@ -189579,7 +189585,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=p6F0QVSs1xc",
@@ -189610,7 +189618,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=SoUGeqocu3I",
@@ -189664,7 +189674,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=RMhHvNVupf4",
@@ -189761,7 +189773,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=CjckxJh8IaU",
@@ -189790,8 +189804,1316 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kaysO2wmIyY",
+      "title": "Is Singapore Airlines 2013 Business Class Outdated? (14 Hours to Amsterdam SQ324)",
+      "year": 2026,
+      "published_at": "2026-11-08T10:00:06Z",
+      "channel_title": "windowseatguy",
+      "view_count": 1059,
+      "like_count": 11,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Singapore Changi Airport (SIN Terminal 3)",
+          "ife": false
+        },
+        {
+          "t": "01:06",
+          "sec": 66,
+          "title": "SilverKris Lounge Tour & Pre-Flight Dining",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "Boarding Singapore Airlines Airbus A350-900",
+          "ife": false
+        },
+        {
+          "t": "04:20",
+          "sec": 260,
+          "title": "Long-Haul Business Class Cabin & Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "05:04",
+          "sec": 304,
+          "title": "Full In-Flight Menu",
+          "ife": false
+        },
+        {
+          "t": "06:20",
+          "sec": 380,
+          "title": "Safety video demonstration, Rolls-Royce Trent XWB Engine Start & Pushback",
+          "ife": false
+        },
+        {
+          "t": "06:45",
+          "sec": 405,
+          "title": "Midnight Takeoff from Singapore Changi",
+          "ife": false
+        },
+        {
+          "t": "07:16",
+          "sec": 436,
+          "title": "KrisWorld IFE System",
+          "ife": true
+        },
+        {
+          "t": "08:43",
+          "sec": 523,
+          "title": "Lavatory visit",
+          "ife": false
+        },
+        {
+          "t": "08:55",
+          "sec": 535,
+          "title": "Turndown & Lie-Flat Bed Mode (Cabin Ambience)",
+          "ife": false
+        },
+        {
+          "t": "09:20",
+          "sec": 560,
+          "title": "Sunrise Breakfast Service - Singapore chicken rice from BTC & Menu Overview",
+          "ife": false
+        },
+        {
+          "t": "10:15",
+          "sec": 615,
+          "title": "Descent over the Netherlands",
+          "ife": false
+        },
+        {
+          "t": "10:39",
+          "sec": 639,
+          "title": "Touchdown at Amsterdam Schiphol (AMS)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bmbwxejmW0Q",
+      "title": "Flying Finnair's A350 intra-European route",
+      "year": 2026,
+      "published_at": "2026-11-07T02:00:09Z",
+      "channel_title": "Phlying Doctor",
+      "view_count": 202,
+      "like_count": 9,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "1:00",
+          "sec": 60,
+          "title": "My Lounge and carryon notes",
+          "ife": false
+        },
+        {
+          "t": "2:38",
+          "sec": 158,
+          "title": "Gate and today's aircraft",
+          "ife": false
+        },
+        {
+          "t": "3:20",
+          "sec": 200,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "4:15",
+          "sec": 255,
+          "title": "Pushback and departure",
+          "ife": false
+        },
+        {
+          "t": "5:16",
+          "sec": 316,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "6:00",
+          "sec": 360,
+          "title": "In-flight service",
+          "ife": false
+        },
+        {
+          "t": "6:59",
+          "sec": 419,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "7:35",
+          "sec": 455,
+          "title": "Thank you Europeans",
+          "ife": false
+        },
+        {
+          "t": "8:45",
+          "sec": 525,
+          "title": "Descent and cost breakdown",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 7
+        },
+        {
+          "keyword": "finnair",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ng-3olRO8Ug",
+      "title": "Copa Airlines 737 MAX 9 Dreams Business Class Review | 4 Years Later!",
+      "year": 2026,
+      "published_at": "2026-11-03T19:52:42Z",
+      "channel_title": "BrandonJohnson10K",
+      "view_count": 0,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ejbrXHTGEhw",
+      "title": "✈️Dallas to Heathrow via Atlanta | Delta A321 & Virgin Atlantic A350 | Flight reviews✈️",
+      "year": 2026,
+      "published_at": "2026-11-08T19:53:43Z",
+      "channel_title": "Shelley Wakeling",
+      "view_count": 41,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "virgin atlantic",
+          "mentions": 5
+        },
+        {
+          "keyword": "delta",
+          "mentions": 4
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a321",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_tOFEWP5zwY",
+      "title": "MSC Poesia Aft Balcony Cabin Review (Stateroom 11250)",
+      "year": 2026,
+      "published_at": "2026-11-07T14:30:17Z",
+      "channel_title": "Northern Viking Explorer",
+      "view_count": 284,
+      "like_count": 10,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "MSC Poesia Aft Balcony Cabin Review",
+          "ife": false
+        },
+        {
+          "t": "01:48",
+          "sec": 108,
+          "title": "Cabin Layout, Bed & Comfort",
+          "ife": false
+        },
+        {
+          "t": "04:36",
+          "sec": 276,
+          "title": "Electrical Outlets & Cabin Amenities",
+          "ife": false
+        },
+        {
+          "t": "05:48",
+          "sec": 348,
+          "title": "Aft Balcony & Wake Views",
+          "ife": false
+        },
+        {
+          "t": "08:27",
+          "sec": 507,
+          "title": "Storage, Closets & Luggage Space",
+          "ife": false
+        },
+        {
+          "t": "10:02",
+          "sec": 602,
+          "title": "Bathroom & Shower Review",
+          "ife": false
+        },
+        {
+          "t": "11:02",
+          "sec": 662,
+          "title": "Cabin Noise, Location & Overall Experience",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9z8McOvfizg",
+      "title": "ITA Airways Business Class Review Bangkok to Rome A330 Flight 12 Hours",
+      "year": 2026,
+      "published_at": "2026-10-30T17:00:18Z",
+      "channel_title": "Grounded Life Travel",
+      "view_count": 5444,
+      "like_count": 122,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hHLfpDflUxE",
+      "title": "TAP AIR PORTUGAL: Vale a Pena Viajar para a Europa na Classe Econômica da TAP?",
+      "year": 2026,
+      "published_at": "2026-11-07T14:00:03Z",
+      "channel_title": "Viaja Brito",
+      "view_count": 1155,
+      "like_count": 36,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Nossa viagem do Brasil para Portugal",
+          "ife": false
+        },
+        {
+          "t": "01:30",
+          "sec": 90,
+          "title": "Sala VIP no Aeroporto do Galeão",
+          "ife": false
+        },
+        {
+          "t": "02:43",
+          "sec": 163,
+          "title": "Internet para viajar pela Europa",
+          "ife": false
+        },
+        {
+          "t": "04:08",
+          "sec": 248,
+          "title": "Preparativos para o embarque",
+          "ife": false
+        },
+        {
+          "t": "05:34",
+          "sec": 334,
+          "title": "Embarcando com a TAP",
+          "ife": false
+        },
+        {
+          "t": "06:18",
+          "sec": 378,
+          "title": "Como é a classe econômica do Airbus A330neo",
+          "ife": false
+        },
+        {
+          "t": "08:24",
+          "sec": 504,
+          "title": "Decolagem e experiência a bordo",
+          "ife": false
+        },
+        {
+          "t": "08:57",
+          "sec": 537,
+          "title": "Jantar servido pela TAP",
+          "ife": false
+        },
+        {
+          "t": "10:19",
+          "sec": 619,
+          "title": "Bebidas e entretenimento",
+          "ife": false
+        },
+        {
+          "t": "10:33",
+          "sec": 633,
+          "title": "Configuração dos assentos",
+          "ife": false
+        },
+        {
+          "t": "11:51",
+          "sec": 711,
+          "title": "Imigração em Lisboa",
+          "ife": false
+        },
+        {
+          "t": "12:44",
+          "sec": 764,
+          "title": "Conexão e fiscalização de líquidos",
+          "ife": false
+        },
+        {
+          "t": "13:46",
+          "sec": 826,
+          "title": "Pontos positivos e negativos do voo",
+          "ife": false
+        },
+        {
+          "t": "15:48",
+          "sec": 948,
+          "title": "Café da manhã e serviço de bordo",
+          "ife": false
+        },
+        {
+          "t": "18:02",
+          "sec": 1082,
+          "title": "Problema com a bagagem de mão",
+          "ife": false
+        },
+        {
+          "t": "20:42",
+          "sec": 1242,
+          "title": "Chegada a Bruxelas",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "tap air portugal",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qupZo-oGBl4",
+      "title": "Etihad Business Class Review: Great In the Air, BUT Buyer Beware!",
+      "year": 2026,
+      "published_at": "2026-11-08T06:30:06Z",
+      "channel_title": "DennisBunnik Travels",
+      "view_count": 40029,
+      "like_count": 1458,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Off to Madrid via Abu Dhabi",
+          "ife": false
+        },
+        {
+          "t": "01:07",
+          "sec": 67,
+          "title": "Global Lounge First, KLIA",
+          "ife": false
+        },
+        {
+          "t": "03:00",
+          "sec": 180,
+          "title": "Wise (sponsor segment)",
+          "ife": false
+        },
+        {
+          "t": "04:31",
+          "sec": 271,
+          "title": "Today's Route & Sleep Management",
+          "ife": false
+        },
+        {
+          "t": "05:38",
+          "sec": 338,
+          "title": "Boarding the Etihad 787",
+          "ife": false
+        },
+        {
+          "t": "06:29",
+          "sec": 389,
+          "title": "Business class cabin and seat tour",
+          "ife": false
+        },
+        {
+          "t": "08:18",
+          "sec": 498,
+          "title": "Etihad dining on demand",
+          "ife": false
+        },
+        {
+          "t": "09:11",
+          "sec": 551,
+          "title": "The Etihad business class toilet",
+          "ife": false
+        },
+        {
+          "t": "10:17",
+          "sec": 617,
+          "title": "Amenities kit, pyjamas and bed mode",
+          "ife": false
+        },
+        {
+          "t": "11:51",
+          "sec": 711,
+          "title": "Abu Dhabi transit",
+          "ife": false
+        },
+        {
+          "t": "14:47",
+          "sec": 887,
+          "title": "Etihad Entertainment, Wi-Fi and breakfast",
+          "ife": true
+        },
+        {
+          "t": "15:54",
+          "sec": 954,
+          "title": "Etihad's fare traps: what to watch out for!",
+          "ife": false
+        },
+        {
+          "t": "17:16",
+          "sec": 1036,
+          "title": "Final verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 13
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "a330",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=10FFGQIaiZs",
+      "title": "Travel Day P&O Arvia Caribbean Fly Cruise | Norse Flight DISASTER",
+      "year": 2026,
+      "published_at": "2026-11-06T17:30:34Z",
+      "channel_title": "Unwrap the Map",
+      "view_count": 2360,
+      "like_count": 48,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "1:53",
+          "sec": 113,
+          "title": "London Gatwick Airport",
+          "ife": false
+        },
+        {
+          "t": "4:01",
+          "sec": 241,
+          "title": "Travel Day Disaster",
+          "ife": false
+        },
+        {
+          "t": "7:45",
+          "sec": 465,
+          "title": "Norse Atlantic Economy Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "12:17",
+          "sec": 737,
+          "title": "Travel Day Disaster Gets Worse",
+          "ife": false
+        },
+        {
+          "t": "13:12",
+          "sec": 792,
+          "title": "Leaving London",
+          "ife": false
+        },
+        {
+          "t": "14:12",
+          "sec": 852,
+          "title": "Inflight Experience and Food",
+          "ife": false
+        },
+        {
+          "t": "19:34",
+          "sec": 1174,
+          "title": "Arriving into Barbados",
+          "ife": false
+        },
+        {
+          "t": "20:05",
+          "sec": 1205,
+          "title": "Transfer to P&O Arvia",
+          "ife": false
+        },
+        {
+          "t": "20:30",
+          "sec": 1230,
+          "title": "Embarking P&O Arvia",
+          "ife": false
+        },
+        {
+          "t": "21:24",
+          "sec": 1284,
+          "title": "Conservatory Mini Suite Cabin Tour",
+          "ife": false
+        },
+        {
+          "t": "24:30",
+          "sec": 1470,
+          "title": "Final Thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yPyjS6OaRWA",
+      "title": "Biman Bangladesh Can F*ck Off - The Disgusting Truth 🇧🇩",
+      "year": 2026,
+      "published_at": "2026-11-08T18:00:09Z",
+      "channel_title": "Rue Photo & Travel",
+      "view_count": 10213,
+      "like_count": 107,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:16",
+          "sec": 16,
+          "title": "Early departure from Habiganj",
+          "ife": false
+        },
+        {
+          "t": "01:36",
+          "sec": 96,
+          "title": "Osmani International Airport Sylhet",
+          "ife": false
+        },
+        {
+          "t": "02:11",
+          "sec": 131,
+          "title": "Terminal check-in & duty free tour",
+          "ife": false
+        },
+        {
+          "t": "05:16",
+          "sec": 316,
+          "title": "Boarding Biman Boeing 787 Dreamliner",
+          "ife": false
+        },
+        {
+          "t": "06:15",
+          "sec": 375,
+          "title": "Cabin seats & inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "09:59",
+          "sec": 599,
+          "title": "Inflight meal 1: Beef curry & rice review",
+          "ife": false
+        },
+        {
+          "t": "11:24",
+          "sec": 684,
+          "title": "Inflight meal 2: Chicken biryani",
+          "ife": false
+        },
+        {
+          "t": "12:51",
+          "sec": 771,
+          "title": "Biman Bangladesh Shocking Crew Incident",
+          "ife": false
+        },
+        {
+          "t": "14:05",
+          "sec": 845,
+          "title": "Manchester Airport arrivals",
+          "ife": false
+        },
+        {
+          "t": "15:36",
+          "sec": 936,
+          "title": "Why we had to cut our trip short",
+          "ife": false
+        },
+        {
+          "t": "17:10",
+          "sec": 1030,
+          "title": "Trip wrap-up & channel updates",
+          "ife": false
+        },
+        {
+          "t": "17:48",
+          "sec": 1068,
+          "title": "Bonus scenes & bloopers",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3PcnQwxW0kI",
+      "title": "Singapore Airlines SQ194 Singapore to Hanoi | Boeing 737 MAX 8 Economy Class",
+      "year": 2026,
+      "published_at": "2026-11-01T00:00:27Z",
+      "channel_title": "WalkScape HDR",
+      "view_count": 466,
+      "like_count": 1,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00:00",
+          "sec": 0,
+          "title": "Welcome to WalkScape HDR",
+          "ife": false
+        },
+        {
+          "t": "00:02:52",
+          "sec": 172,
+          "title": "Changi Airport Departure Lounge",
+          "ife": false
+        },
+        {
+          "t": "00:07:18",
+          "sec": 438,
+          "title": "Boarding the Boeing 737 MAX 8",
+          "ife": false
+        },
+        {
+          "t": "00:14:55",
+          "sec": 895,
+          "title": "Onboard Safety Video",
+          "ife": false
+        },
+        {
+          "t": "00:20:53",
+          "sec": 1253,
+          "title": "Rainy Taxi at Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "00:34:10",
+          "sec": 2050,
+          "title": "Takeoff from Singapore",
+          "ife": false
+        },
+        {
+          "t": "00:39:22",
+          "sec": 2362,
+          "title": "Above the Clouds",
+          "ife": false
+        },
+        {
+          "t": "00:45:01",
+          "sec": 2701,
+          "title": "Muslim Meal (MOML) Service",
+          "ife": false
+        },
+        {
+          "t": "00:51:08",
+          "sec": 3068,
+          "title": "Chicken Pasta Lunch",
+          "ife": false
+        },
+        {
+          "t": "01:00:31",
+          "sec": 3631,
+          "title": "Economy Class Cabin Ambience",
+          "ife": false
+        },
+        {
+          "t": "01:05:56",
+          "sec": 3956,
+          "title": "Approaching Hanoi",
+          "ife": false
+        },
+        {
+          "t": "01:13:11",
+          "sec": 4391,
+          "title": "Sunset Over the Wing",
+          "ife": false
+        },
+        {
+          "t": "01:25:58",
+          "sec": 5158,
+          "title": "Touchdown at Noi Bai Airport",
+          "ife": false
+        },
+        {
+          "t": "01:33:27",
+          "sec": 5607,
+          "title": "Preparing to Disembark",
+          "ife": false
+        },
+        {
+          "t": "01:38:30",
+          "sec": 5910,
+          "title": "Noi Bai Terminal 2 & Immigration Experience",
+          "ife": false
+        },
+        {
+          "t": "01:43:15",
+          "sec": 6195,
+          "title": "Baggage Claim",
+          "ife": false
+        },
+        {
+          "t": "01:48:12",
+          "sec": 6492,
+          "title": "Next Journey: Hanoi Old Quarter",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 7
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=El-WHUX3DEc",
+      "title": "Singapore Airlines' S$2b cabin revamp: Bigger beds, new seats and upgraded meals",
+      "year": 2026,
+      "published_at": "2026-11-06T15:52:17Z",
+      "channel_title": "CNA",
+      "view_count": 55568,
+      "like_count": 178,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cAzYztLXIUs",
+      "title": "Atheist Dies & Meets Her Spirit Guide. She Was Sent Back With 12 Messages | Nancy Rynes",
+      "year": 2026,
+      "published_at": "2026-11-03T12:00:24Z",
+      "channel_title": "Dr. Mayim Bialik",
+      "view_count": 755677,
+      "like_count": 17097,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "05:29",
+          "sec": 329,
+          "title": "Science Turns To Skepticism",
+          "ife": false
+        },
+        {
+          "t": "14:42",
+          "sec": 882,
+          "title": "Butterfly Premonitions",
+          "ife": false
+        },
+        {
+          "t": "20:25",
+          "sec": 1225,
+          "title": "The Car Crash That Changed Everything",
+          "ife": false
+        },
+        {
+          "t": "26:32",
+          "sec": 1592,
+          "title": "Observer Self Awakens",
+          "ife": false
+        },
+        {
+          "t": "33:53",
+          "sec": 2033,
+          "title": "Rescue & Mystery Nurse",
+          "ife": false
+        },
+        {
+          "t": "50:18",
+          "sec": 3018,
+          "title": "Anesthesia Turns into NDE",
+          "ife": false
+        },
+        {
+          "t": "51:46",
+          "sec": 3106,
+          "title": "Returning \"Home\"",
+          "ife": false
+        },
+        {
+          "t": "1:03:18",
+          "sec": 3798,
+          "title": "Meeting The Guide",
+          "ife": false
+        },
+        {
+          "t": "1:06:50",
+          "sec": 4010,
+          "title": "Nancy's Soul Contract",
+          "ife": false
+        },
+        {
+          "t": "1:12:57",
+          "sec": 4377,
+          "title": "12 Life Lessons",
+          "ife": true
+        },
+        {
+          "t": "1:27:12",
+          "sec": 5232,
+          "title": "Life Review Ripples",
+          "ife": true
+        },
+        {
+          "t": "1:37:33",
+          "sec": 5853,
+          "title": "Why Religions Exist",
+          "ife": false
+        },
+        {
+          "t": "1:40:14",
+          "sec": 6014,
+          "title": "Forced Return to Body",
+          "ife": false
+        },
+        {
+          "t": "1:44:12",
+          "sec": 6252,
+          "title": "Grief After Coming Back",
+          "ife": false
+        },
+        {
+          "t": "1:45:46",
+          "sec": 6346,
+          "title": "Miraculous Healing",
+          "ife": false
+        },
+        {
+          "t": "1:58:58",
+          "sec": 7138,
+          "title": "Childhood NDE & Remote Viewing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vjIibe0dD7A",
+      "title": "SOMALIA AIRLINES - The Airline my GOVERNMENT WARNED ME NOT TO FLY!",
+      "year": 2026,
+      "published_at": "2026-11-07T10:30:09Z",
+      "channel_title": "Josh Cahill",
+      "view_count": 310542,
+      "like_count": 7685,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-08T10:02:51.064642"
+  "last_updated": "2026-11-09T11:11:41.941077"
 }
