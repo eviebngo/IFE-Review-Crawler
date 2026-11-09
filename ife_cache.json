@@ -56564,25 +56564,25 @@
         {
           "t": "00:00",
           "sec": 0,
-          "title": "New York (JFK) Boarding and Seat Tour",
+          "title": "Boarding and Seat Tour",
           "ife": false
         },
         {
           "t": "01:45",
           "sec": 105,
-          "title": "American Airlines Premium Economy Amenity Kit Review",
+          "title": "Amenity Kit Review",
           "ife": false
         },
         {
           "t": "02:07",
           "sec": 127,
-          "title": "In-Flight Entertainment System Review",
+          "title": "Entertainment System",
           "ife": true
         },
         {
           "t": "02:42",
           "sec": 162,
-          "title": "Transatlantic Dinner Service and Menu",
+          "title": "Dinner Service and Menu",
           "ife": false
         },
         {
@@ -56594,13 +56594,13 @@
         {
           "t": "04:18",
           "sec": 258,
-          "title": "In-Flight Wi-Fi Options and Pricing",
+          "title": "Wi-Fi Options and Pricing",
           "ife": true
         },
         {
           "t": "04:49",
           "sec": 289,
-          "title": "American Airlines Premium Economy Final Value Verdict",
+          "title": "Final Value Verdict",
           "ife": false
         }
       ],
