@@ -189931,7 +189931,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=bmbwxejmW0Q",
@@ -190037,7 +190039,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ng-3olRO8Ug",
@@ -190088,7 +190092,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.457
     },
     {
       "url": "https://www.youtube.com/watch?v=ejbrXHTGEhw",
@@ -190136,7 +190142,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=_tOFEWP5zwY",
@@ -190215,7 +190223,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=9z8McOvfizg",
@@ -190251,7 +190261,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=hHLfpDflUxE",
@@ -190392,7 +190404,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qupZo-oGBl4",
@@ -190523,7 +190537,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.429
     },
     {
       "url": "https://www.youtube.com/watch?v=10FFGQIaiZs",
@@ -190636,7 +190652,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.703
     },
     {
       "url": "https://www.youtube.com/watch?v=yPyjS6OaRWA",
@@ -190755,7 +190773,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.273
     },
     {
       "url": "https://www.youtube.com/watch?v=3PcnQwxW0kI",
@@ -190902,7 +190922,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=El-WHUX3DEc",
@@ -190944,7 +190966,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=cAzYztLXIUs",
@@ -191079,7 +191103,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.178
     },
     {
       "url": "https://www.youtube.com/watch?v=vjIibe0dD7A",
@@ -191112,8 +191138,648 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.481
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6NtXOQ5sRpw",
+      "title": "Overnight ANA from Bangkok BKK to TOKYO HANEDA (NH850, BKK ✈ HND Flight Review) | Mr. and Mrs. Hong",
+      "year": 2026,
+      "published_at": "2026-11-08T05:00:02Z",
+      "channel_title": "148.ca",
+      "view_count": 102,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nfiNDD1E9p4",
+      "title": "EVA Air 777 Business Class Review (4K) | Royal Laurel Class | Shanghai to Taipei",
+      "year": 2026,
+      "published_at": "2026-11-09T00:06:41Z",
+      "channel_title": "Miles to Luxury",
+      "view_count": 117,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Business Class Cabin and Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "02:20",
+          "sec": 140,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "04:00",
+          "sec": 240,
+          "title": "IFE Tour",
+          "ife": true
+        },
+        {
+          "t": "04:55",
+          "sec": 295,
+          "title": "Dinner Meal Service and Amenities",
+          "ife": false
+        },
+        {
+          "t": "05:47",
+          "sec": 347,
+          "title": "Landing and Final Reflections",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "china airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y52HQs4zFGI",
+      "title": "Flight Review | Air India (AI-965) Boeing 747-400 | Revisiting the Golden Era of Indian Aviation",
+      "year": 2026,
+      "published_at": "2026-11-07T22:01:13Z",
+      "channel_title": "Victor Sierra Aviation",
+      "view_count": 13192,
+      "like_count": 103,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "1:39",
+          "sec": 99,
+          "title": "Air India (Boeing 747-400) (VT-ESO) \"Khajuraho\" Flight Profile",
+          "ife": false
+        },
+        {
+          "t": "1:51",
+          "sec": 111,
+          "title": "Boarding (Air India Boeing 747-400)",
+          "ife": false
+        },
+        {
+          "t": "2:20",
+          "sec": 140,
+          "title": "Departure from Mumbai (VABB)",
+          "ife": false
+        },
+        {
+          "t": "5:43",
+          "sec": 343,
+          "title": "Economy Class Tour (Air India Boeing 747-400)",
+          "ife": false
+        },
+        {
+          "t": "5:59",
+          "sec": 359,
+          "title": "Seat Practicality Review (Air India Boeing 747-400)",
+          "ife": false
+        },
+        {
+          "t": "6:16",
+          "sec": 376,
+          "title": "Inflight Meal offerings (Air India)",
+          "ife": false
+        },
+        {
+          "t": "6:46",
+          "sec": 406,
+          "title": "Entering Hyderabad Airspace",
+          "ife": false
+        },
+        {
+          "t": "7:30",
+          "sec": 450,
+          "title": "Inflight Magazine (Shubh Yatra)(Air India)",
+          "ife": false
+        },
+        {
+          "t": "8:00",
+          "sec": 480,
+          "title": "Arriving at Hyderabad (VOHS)",
+          "ife": false
+        },
+        {
+          "t": "11:14",
+          "sec": 674,
+          "title": "My Flight Experience",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 12
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 12
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=myHith2zNgc",
+      "title": "Turkish Airlines Business Class IST   BOM Boeing 777300ER TK722",
+      "year": 2026,
+      "published_at": "2026-11-09T12:19:19Z",
+      "channel_title": "explorerErwin",
+      "view_count": 28,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:18",
+          "sec": 18,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "00:58",
+          "sec": 58,
+          "title": "Takeoff from Istanbul",
+          "ife": false
+        },
+        {
+          "t": "02:02",
+          "sec": 122,
+          "title": "Hot Towel Service",
+          "ife": false
+        },
+        {
+          "t": "02:12",
+          "sec": 132,
+          "title": "Business Class Seat Features",
+          "ife": false
+        },
+        {
+          "t": "04:14",
+          "sec": 254,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "04:35",
+          "sec": 275,
+          "title": "Dinner Menu & Meal Service",
+          "ife": false
+        },
+        {
+          "t": "05:34",
+          "sec": 334,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "05:58",
+          "sec": 358,
+          "title": "Salvatore Ferragamo Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "06:11",
+          "sec": 371,
+          "title": "Lie-Flat Bed & Sleep Mode",
+          "ife": false
+        },
+        {
+          "t": "06:22",
+          "sec": 382,
+          "title": "My Verdict & Ratings",
+          "ife": false
+        },
+        {
+          "t": "07:51",
+          "sec": 471,
+          "title": "Arrival into Mumbai",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1unOtzdz9v4",
+      "title": "My Own Suite to Manila? | Philippine Airlines A350-1000 Business Class",
+      "year": 2026,
+      "published_at": "2026-11-08T13:52:44Z",
+      "channel_title": "OwenTravels",
+      "view_count": 3942,
+      "like_count": 34,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "The US$295 upgrade",
+          "ife": false
+        },
+        {
+          "t": "00:20",
+          "sec": 20,
+          "title": "Bangkok Airport and check-in",
+          "ife": false
+        },
+        {
+          "t": "00:51",
+          "sec": 51,
+          "title": "Fast Track and immigration",
+          "ife": false
+        },
+        {
+          "t": "01:16",
+          "sec": 76,
+          "title": "Finding the Miracle Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:02",
+          "sec": 122,
+          "title": "Miracle Lounge experience",
+          "ife": false
+        },
+        {
+          "t": "02:56",
+          "sec": 176,
+          "title": "Our PAL A350-1000",
+          "ife": false
+        },
+        {
+          "t": "03:30",
+          "sec": 210,
+          "title": "Boarding and the crew welcome",
+          "ife": false
+        },
+        {
+          "t": "04:33",
+          "sec": 273,
+          "title": "Business Class seat tour and menu",
+          "ife": false
+        },
+        {
+          "t": "07:07",
+          "sec": 427,
+          "title": "Mabuhay Punch and meal order",
+          "ife": false
+        },
+        {
+          "t": "08:26",
+          "sec": 506,
+          "title": "Pushback and inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:25",
+          "sec": 625,
+          "title": "Flight deck announcement and safety video",
+          "ife": false
+        },
+        {
+          "t": "12:13",
+          "sec": 733,
+          "title": "Taxiing and aircraft spotting",
+          "ife": false
+        },
+        {
+          "t": "13:58",
+          "sec": 838,
+          "title": "Trying the fully flat seat",
+          "ife": false
+        },
+        {
+          "t": "14:39",
+          "sec": 879,
+          "title": "Lunch service and Bicol Express",
+          "ife": false
+        },
+        {
+          "t": "16:30",
+          "sec": 990,
+          "title": "Lavatory tour",
+          "ife": false
+        },
+        {
+          "t": "17:01",
+          "sec": 1021,
+          "title": "Privacy door and time to relax",
+          "ife": false
+        },
+        {
+          "t": "18:29",
+          "sec": 1109,
+          "title": "Sunset and my verdict",
+          "ife": false
+        },
+        {
+          "t": "19:22",
+          "sec": 1162,
+          "title": "Landing in Manila",
+          "ife": false
+        },
+        {
+          "t": "21:32",
+          "sec": 1292,
+          "title": "Taxiing to Terminal 1",
+          "ife": false
+        },
+        {
+          "t": "23:19",
+          "sec": 1399,
+          "title": "Arrival and closing thoughts",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=G72sDwVjtyY",
+      "title": "Turkish Airlines ECONOMY Better Than BA BUSINESS CLASS?! | A330 Review",
+      "year": 2026,
+      "published_at": "2026-11-08T20:11:45Z",
+      "channel_title": "mosmiles",
+      "view_count": 778,
+      "like_count": 19,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "british airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3QvwDJOw7bQ",
+      "title": "พาชมที่นั่งใหม่ Singapore Airlines — ครบ 4 คลาส First , Business , Premium Eco , Economy ใหม่",
+      "year": 2026,
+      "published_at": "2026-11-08T11:00:30Z",
+      "channel_title": "spin9",
+      "view_count": 194391,
+      "like_count": 1521,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        },
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "4k_display": true
+      },
+      "ife_specs": {
+        "wifi_type": "Starlink"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KX7I6acL2DY",
+      "title": "[TRIP REPORT] Eurowings Airbus A320 (ECONOMY) Cologne (CGN) - Palma de Mallorca (PMI)",
+      "year": 2026,
+      "published_at": "2026-11-06T17:00:38Z",
+      "channel_title": "theplanesguy",
+      "view_count": 470,
+      "like_count": 20,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-09T11:11:41.941077"
+  "last_updated": "2026-11-10T10:56:49.095280"
 }
