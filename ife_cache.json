@@ -57211,25 +57211,25 @@
         {
           "t": "00:00",
           "sec": 0,
-          "title": "New York John F Kennedy International Airport Boarding",
+          "title": "Boarding at JFK",
           "ife": false
         },
         {
           "t": "00:43",
           "sec": 43,
-          "title": "Airbus A350-1000 Economy Seat Tour",
+          "title": "Economy Seat Tour",
           "ife": false
         },
         {
           "t": "03:29",
           "sec": 209,
-          "title": "Takeoff from New York",
+          "title": "Departure",
           "ife": false
         },
         {
           "t": "04:07",
           "sec": 247,
-          "title": "Multi-Course Dinner Service",
+          "title": "Dinner Service",
           "ife": false
         },
         {
@@ -57241,13 +57241,13 @@
         {
           "t": "06:31",
           "sec": 391,
-          "title": "In-Flight Wi-Fi Speeds and Costs",
+          "title": "Wi-Fi Speeds and Pricing",
           "ife": true
         },
         {
           "t": "06:50",
           "sec": 410,
-          "title": "Mid-Flight Snack Options",
+          "title": "Mid-Flight Snack",
           "ife": false
         },
         {
@@ -57259,13 +57259,13 @@
         {
           "t": "08:22",
           "sec": 502,
-          "title": "Final Verdict and Value",
+          "title": "Final Verdict",
           "ife": false
         },
         {
           "t": "09:40",
           "sec": 580,
-          "title": "Tokyo Haneda Landing",
+          "title": "Arrival at Tokyo Haneda HND",
           "ife": false
         }
       ],
