@@ -69602,25 +69602,25 @@
         {
           "t": "00:00",
           "sec": 0,
-          "title": "Welcome to London Heathrow Terminal 5",
+          "title": "London Heathrow Terminal 5 Departure",
           "ife": false
         },
         {
           "t": "00:33",
           "sec": 33,
-          "title": "Cabin and Upper Deck Tour",
+          "title": "A380 Upper Deck Cabin and Seat Tour",
           "ife": false
         },
         {
           "t": "03:58",
           "sec": 238,
-          "title": "Takeoff",
+          "title": "Takeoff from London Heathrow",
           "ife": false
         },
         {
           "t": "04:06",
           "sec": 246,
-          "title": "Lunch Service",
+          "title": "Transatlantic Lunch Service",
           "ife": false
         },
         {
@@ -69632,19 +69632,19 @@
         {
           "t": "05:48",
           "sec": 348,
-          "title": "Restroom Tour",
+          "title": "Aircraft Restroom Tour",
           "ife": false
         },
         {
           "t": "05:58",
           "sec": 358,
-          "title": "Snack Service",
+          "title": "Pre-Landing Snack Service",
           "ife": false
         },
         {
           "t": "06:32",
           "sec": 392,
-          "title": "Final Verdict and Landing at Washington Dulles",
+          "title": "Washington Dulles Arrival and Verdict",
           "ife": false
         }
       ],
