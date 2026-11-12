@@ -85932,7 +85932,7 @@
         {
           "t": "00:00",
           "sec": 0,
-          "title": "Boarding at Male (MLE)",
+          "title": "Boarding at Male",
           "ife": false
         },
         {
@@ -85980,7 +85980,7 @@
         {
           "t": "06:32",
           "sec": 392,
-          "title": "Approach and Landing at (DOH)",
+          "title": "Approach and Landing at Doha",
           "ife": false
         }
       ],
@@ -191825,7 +191825,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.694
     },
     {
       "url": "https://www.youtube.com/watch?v=Q1rsovzzt6s",
@@ -191887,7 +191889,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=vh9kvfExxqI",
@@ -191931,7 +191935,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.69
     },
     {
       "url": "https://www.youtube.com/watch?v=s_HMwsJV8JY",
@@ -191979,7 +191985,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=NoX7eAIxsaI",
@@ -192122,7 +192130,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.153
     },
     {
       "url": "https://www.youtube.com/watch?v=giH5qYaRIaA",
@@ -192249,8 +192259,888 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U97okePVwR0",
+      "title": "Business Class  🇺🇸 New York - Manila 🇵🇭  Philippines Airlines Airbus A350-1000 [FULL FLIGHT REPORT]",
+      "year": 2026,
+      "published_at": "2026-11-06T14:00:09Z",
+      "channel_title": "Razgriz Flight & Spotting",
+      "view_count": 352137,
+      "like_count": 3306,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "iberia",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CQfqy-W25fU",
+      "title": "AEROMEXICO 737 MAX 8/9 BUSINESS CLASS REVIEW",
+      "year": 2026,
+      "published_at": "2026-11-12T04:06:39Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 2880,
+      "like_count": 185,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:21",
+          "sec": 81,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "01:53",
+          "sec": 113,
+          "title": "Seat 2A & features",
+          "ife": false
+        },
+        {
+          "t": "02:46",
+          "sec": 166,
+          "title": "Takeoff / inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "03:47",
+          "sec": 227,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "05:31",
+          "sec": 331,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "06:20",
+          "sec": 380,
+          "title": "Aeromexico Salones Premier",
+          "ife": false
+        },
+        {
+          "t": "07:34",
+          "sec": 454,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "08:16",
+          "sec": 496,
+          "title": "Seat 4A",
+          "ife": false
+        },
+        {
+          "t": "09:32",
+          "sec": 572,
+          "title": "Taxi & takeoff",
+          "ife": false
+        },
+        {
+          "t": "13:16",
+          "sec": 796,
+          "title": "Breakfast service",
+          "ife": false
+        },
+        {
+          "t": "14:55",
+          "sec": 895,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "16:18",
+          "sec": 978,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "18:40",
+          "sec": 1120,
+          "title": "Cartagena vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        },
+        {
+          "keyword": "swiss",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mYTPACpfd44",
+      "title": "Real Travelers, Real Footage, Four Times the Clicks",
+      "year": 2026,
+      "published_at": "2026-11-10T11:16:33Z",
+      "channel_title": "Travel Tech Podcast",
+      "view_count": 9,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Cold open: why travelers want the real deal",
+          "ife": false
+        },
+        {
+          "t": "1:11",
+          "sec": 71,
+          "title": "Four startup titles after Lisbon, Amsterdam and Singapore",
+          "ife": false
+        },
+        {
+          "t": "3:24",
+          "sec": 204,
+          "title": "What actually happens after you win Startup of the Year",
+          "ife": false
+        },
+        {
+          "t": "5:20",
+          "sec": 320,
+          "title": "Proving to enterprise buyers you'll still be here in a year",
+          "ife": false
+        },
+        {
+          "t": "7:42",
+          "sec": 462,
+          "title": "Everybody wants video, nobody knows which department owns it",
+          "ife": false
+        },
+        {
+          "t": "10:41",
+          "sec": 641,
+          "title": "Making hotel \"things to do\" videos bookable",
+          "ife": false
+        },
+        {
+          "t": "11:14",
+          "sec": 674,
+          "title": "QR codes, guest uploads and miles for footage",
+          "ife": false
+        },
+        {
+          "t": "13:29",
+          "sec": 809,
+          "title": "A Diet Coke by the pool: building passenger profiles from video",
+          "ife": false
+        },
+        {
+          "t": "16:23",
+          "sec": 983,
+          "title": "UGC versus branded content, and the problem with destination dupes",
+          "ife": true
+        },
+        {
+          "t": "19:07",
+          "sec": 1147,
+          "title": "$100 per video: the correlation between watching and spending",
+          "ife": false
+        },
+        {
+          "t": "21:56",
+          "sec": 1316,
+          "title": "From the Letterman internship to directing Kidz Bop",
+          "ife": false
+        },
+        {
+          "t": "25:51",
+          "sec": 1551,
+          "title": "Rejected by every network, building it anyway, launching into a pandemic",
+          "ife": false
+        },
+        {
+          "t": "27:56",
+          "sec": 1676,
+          "title": "When Meta asked for travel videos to launch Facebook Reels",
+          "ife": false
+        },
+        {
+          "t": "30:07",
+          "sec": 1807,
+          "title": "Screen recorded fakes and reviewing 250,000 videos by hand",
+          "ife": true
+        },
+        {
+          "t": "34:15",
+          "sec": 2055,
+          "title": "\"You work in marketing?\" Being a female CEO in aviation",
+          "ife": false
+        },
+        {
+          "t": "36:44",
+          "sec": 2204,
+          "title": "The buy on board vision: from home screen to seatback map",
+          "ife": true
+        },
+        {
+          "t": "38:06",
+          "sec": 2286,
+          "title": "What makes traveler video perform",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eDd_kslJFPg",
+      "title": "LOT Polish Airlines Economy Class Experience ✈️ Delhi to Warsaw to Brussels | Full Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-11T10:05:17Z",
+      "channel_title": "EuroTrip Diary",
+      "view_count": 16,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TQkDXHVWxUQ",
+      "title": "#073 It's Not Horrible... Air China B787-9 Domestic Economy Class Review",
+      "year": 2026,
+      "published_at": "2026-11-10T13:00:13Z",
+      "channel_title": "The Cabin Report",
+      "view_count": 369,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction & CKG T3",
+          "ife": false
+        },
+        {
+          "t": "03:25",
+          "sec": 205,
+          "title": "Boarding & Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "06:43",
+          "sec": 403,
+          "title": "Takeoff from Chongqing",
+          "ife": false
+        },
+        {
+          "t": "09:00",
+          "sec": 540,
+          "title": "Onboard Amenities",
+          "ife": false
+        },
+        {
+          "t": "09:44",
+          "sec": 584,
+          "title": "In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:39",
+          "sec": 639,
+          "title": "Meal Service & Lavatory",
+          "ife": false
+        },
+        {
+          "t": "11:47",
+          "sec": 707,
+          "title": "Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "13:02",
+          "sec": 782,
+          "title": "Landing in Shanghai",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XEP52XfYbgE",
+      "title": "Is Cathay Pacific Premium Economy Worth It? A350 Long-Haul Review + External Camera Landings",
+      "year": 2026,
+      "published_at": "2026-11-11T05:09:17Z",
+      "channel_title": "SkyStaySmill",
+      "view_count": 1082,
+      "like_count": 11,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "00:46 preview",
+          "ife": false
+        },
+        {
+          "t": "00:47",
+          "sec": 47,
+          "title": "02:16 check in and airport",
+          "ife": false
+        },
+        {
+          "t": "02:17",
+          "sec": 137,
+          "title": "03:04 sky bridge",
+          "ife": false
+        },
+        {
+          "t": "03:05",
+          "sec": 185,
+          "title": "04:02 lounge",
+          "ife": false
+        },
+        {
+          "t": "04:03",
+          "sec": 243,
+          "title": "04:35 boarding",
+          "ife": false
+        },
+        {
+          "t": "04:36",
+          "sec": 276,
+          "title": "08:02 seat features",
+          "ife": false
+        },
+        {
+          "t": "08:03",
+          "sec": 483,
+          "title": "08:54 takeoff (external camera)",
+          "ife": false
+        },
+        {
+          "t": "08:55",
+          "sec": 535,
+          "title": "10:06 dinner",
+          "ife": false
+        },
+        {
+          "t": "10:07",
+          "sec": 607,
+          "title": "10:23 amenity kits",
+          "ife": false
+        },
+        {
+          "t": "10:24",
+          "sec": 624,
+          "title": "11:06 lavatory",
+          "ife": false
+        },
+        {
+          "t": "11:07",
+          "sec": 667,
+          "title": "11:58 breakfast",
+          "ife": false
+        },
+        {
+          "t": "11:59",
+          "sec": 719,
+          "title": "12:41 landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "tail_camera": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l5QPfMMbVIg",
+      "title": "COSTA RICA GREEN AIRWAYS CESSNA 208B Grand Caravan | Cobano - San José | Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-10T16:30:00Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 42485,
+      "like_count": 351,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=voXWEWLOWnU",
+      "title": "American Airlines 777-300ER Cabin Sound: JFK to LHR",
+      "year": 2026,
+      "published_at": "2026-11-11T16:56:47Z",
+      "channel_title": "First Travel",
+      "view_count": 10,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2bbsmssKb6o",
+      "title": "Cathay Pacific The Pier First Class Lounge - Hong Kong International Airport",
+      "year": 2026,
+      "published_at": "2026-11-08T14:04:01Z",
+      "channel_title": "First Travel",
+      "view_count": 141,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Location",
+          "ife": false
+        },
+        {
+          "t": "00:14",
+          "sec": 14,
+          "title": "Private Shower Suite Tour",
+          "ife": false
+        },
+        {
+          "t": "00:42",
+          "sec": 42,
+          "title": "Foot Massage and Day Suites",
+          "ife": false
+        },
+        {
+          "t": "01:16",
+          "sec": 76,
+          "title": "Dining Room",
+          "ife": false
+        },
+        {
+          "t": "01:59",
+          "sec": 119,
+          "title": "The Pantry and Bar",
+          "ife": false
+        },
+        {
+          "t": "03:07",
+          "sec": 187,
+          "title": "The Bureau",
+          "ife": false
+        },
+        {
+          "t": "03:18",
+          "sec": 198,
+          "title": "Final Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v0AiQU-MvKg",
+      "title": "Japan Airlines 767 Cabin Sounds | Singapore to Tokyo Haneda",
+      "year": 2026,
+      "published_at": "2026-11-04T14:22:30Z",
+      "channel_title": "First Travel",
+      "view_count": 83,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Beginning Final Descent over Japan",
+          "ife": false
+        },
+        {
+          "t": "27:05",
+          "sec": 1625,
+          "title": "Final Approach to Tokyo Haneda",
+          "ife": false
+        },
+        {
+          "t": "30:00",
+          "sec": 1800,
+          "title": "Touchdown at Tokyo Haneda",
+          "ife": false
+        },
+        {
+          "t": "30:44",
+          "sec": 1844,
+          "title": "Taxiing - Gate Arrival",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 3
+        },
+        {
+          "keyword": "jal",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lxMPJ9JVmsU",
+      "title": "Christmas Market Outfits You Will Actually Wear That are Comfortable and Warm",
+      "year": 2026,
+      "published_at": "2026-11-10T23:17:02Z",
+      "channel_title": "Travel Tips by Laurie",
+      "view_count": 23928,
+      "like_count": 588,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Travel outfits to wear at Christmas Markets",
+          "ife": false
+        },
+        {
+          "t": "00:21",
+          "sec": 21,
+          "title": "Walking boots that can get wet",
+          "ife": false
+        },
+        {
+          "t": "2:08",
+          "sec": 128,
+          "title": "Comfortable walking shoes",
+          "ife": false
+        },
+        {
+          "t": "4:09",
+          "sec": 249,
+          "title": "Wear warm base layers",
+          "ife": false
+        },
+        {
+          "t": "5:16",
+          "sec": 316,
+          "title": "Packable jacket",
+          "ife": false
+        },
+        {
+          "t": "7:08",
+          "sec": 428,
+          "title": "Pack outer layers",
+          "ife": false
+        },
+        {
+          "t": "8:04",
+          "sec": 484,
+          "title": "Comfortable pants water repellent or waterproof",
+          "ife": false
+        },
+        {
+          "t": "10:07",
+          "sec": 607,
+          "title": "Pack waterproof gloves",
+          "ife": false
+        },
+        {
+          "t": "10:35",
+          "sec": 635,
+          "title": "Travel essentials to wear at Christmas Market trip",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-11T10:36:13.086301"
+  "last_updated": "2026-11-12T10:51:05.653073"
 }
