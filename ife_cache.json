@@ -193824,7 +193824,98 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Panasonic eX3",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction to Premium Economy Series and EVA Air",
+          "ife": false
+        },
+        {
+          "t": "00:26",
+          "sec": 26,
+          "title": "Munich Departure and Itinerary Background",
+          "ife": false
+        },
+        {
+          "t": "03:32",
+          "sec": 212,
+          "title": "EVA Air History, North American Network, and Star Alliance",
+          "ife": false
+        },
+        {
+          "t": "06:14",
+          "sec": 374,
+          "title": "Boeing 777-300ER Cabin Layout and Seat History",
+          "ife": false
+        },
+        {
+          "t": "07:34",
+          "sec": 454,
+          "title": "Seat Features, Armrest Design, and Wiggle Room",
+          "ife": false
+        },
+        {
+          "t": "09:41",
+          "sec": 581,
+          "title": "Safety Video and Takeoff from Munich",
+          "ife": false
+        },
+        {
+          "t": "12:12",
+          "sec": 732,
+          "title": "Comfort Items: Pillows, Blankets, and Amenities",
+          "ife": false
+        },
+        {
+          "t": "13:30",
+          "sec": 810,
+          "title": "First Meal Service: Pork Cutlet and Smoked Duck Appetizer",
+          "ife": false
+        },
+        {
+          "t": "14:44",
+          "sec": 884,
+          "title": "Mid-Flight Snack: Roast Beef Panini",
+          "ife": false
+        },
+        {
+          "t": "15:08",
+          "sec": 908,
+          "title": "Lavatory Ratios and Hunter Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "16:09",
+          "sec": 969,
+          "title": "Pre-Landing Breakfast: Cheddar Cheese Frittata",
+          "ife": false
+        },
+        {
+          "t": "16:40",
+          "sec": 1000,
+          "title": "Premium Economy Rankings and Wiggle Room Metric",
+          "ife": false
+        },
+        {
+          "t": "18:40",
+          "sec": 1120,
+          "title": "Transit in Taipei and Lounge Visit",
+          "ife": false
+        },
+        {
+          "t": "21:20",
+          "sec": 1280,
+          "title": "Regional Connecting Flight to Bangkok and Meal Service",
+          "ife": false
+        },
+        {
+          "t": "24:15",
+          "sec": 1455,
+          "title": "Final Verdict: Why EVA Air Leads the Rankings",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
