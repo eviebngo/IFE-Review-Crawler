@@ -192313,7 +192313,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=CQfqy-W25fU",
@@ -192469,7 +192471,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=mYTPACpfd44",
@@ -192598,7 +192602,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=eDd_kslJFPg",
@@ -192626,7 +192632,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": -0.026
     },
     {
       "url": "https://www.youtube.com/watch?v=TQkDXHVWxUQ",
@@ -192719,7 +192727,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=XEP52XfYbgE",
@@ -192842,7 +192852,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=l5QPfMMbVIg",
@@ -192866,7 +192878,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.459
     },
     {
       "url": "https://www.youtube.com/watch?v=voXWEWLOWnU",
@@ -192908,7 +192922,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=2bbsmssKb6o",
@@ -192982,7 +192998,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=v0AiQU-MvKg",
@@ -193052,7 +193070,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=lxMPJ9JVmsU",
@@ -193139,8 +193159,708 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=18F8Q0rvPLA",
+      "title": "Is This United's Best Domestic Seat? | B737 Max First Class Review",
+      "year": 2026,
+      "published_at": "2026-11-11T18:38:00Z",
+      "channel_title": "Ethan Wandering Wonders",
+      "view_count": 30,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Boarding United First Class & Welcome Drinks",
+          "ife": false
+        },
+        {
+          "t": "0:30",
+          "sec": 30,
+          "title": "Seat Details: \"Privacy Wings\"",
+          "ife": false
+        },
+        {
+          "t": "1:00",
+          "sec": 60,
+          "title": "Seat Specs Explained: Pitch vs. Legroom",
+          "ife": false
+        },
+        {
+          "t": "1:50",
+          "sec": 110,
+          "title": "In-Flight Entertainment (Touchscreen & Remote)",
+          "ife": true
+        },
+        {
+          "t": "2:15",
+          "sec": 135,
+          "title": "ANA’s International Business Class & “The Room” Teaser",
+          "ife": false
+        },
+        {
+          "t": "2:40",
+          "sec": 160,
+          "title": "Seat Details: Power Panel",
+          "ife": false
+        },
+        {
+          "t": "3:10",
+          "sec": 190,
+          "title": "Under 900-Mile Snack Service & Descent",
+          "ife": false
+        },
+        {
+          "t": "4:50",
+          "sec": 290,
+          "title": "Arrival in Boston & United Club Lounge Teaser",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HhS5LIm4MRc",
+      "title": "Thai Airways Royal First Class Flight Review: Bangkok to Tokyo on the Boeing 777-300ER",
+      "year": 2026,
+      "published_at": "2026-11-13T05:43:37Z",
+      "channel_title": "ST Travel",
+      "view_count": 4852,
+      "like_count": 123,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:32",
+          "sec": 32,
+          "title": "Bangkok Suvarnabhumi Airport",
+          "ife": false
+        },
+        {
+          "t": "01:57",
+          "sec": 117,
+          "title": "First Class Check-in",
+          "ife": false
+        },
+        {
+          "t": "04:18",
+          "sec": 258,
+          "title": "First Class Area within the Royal Orchid Lounge",
+          "ife": false
+        },
+        {
+          "t": "11:10",
+          "sec": 670,
+          "title": "Royal First Lounge",
+          "ife": false
+        },
+        {
+          "t": "15:10",
+          "sec": 910,
+          "title": "Boarding the Boeing 777-300ER",
+          "ife": false
+        },
+        {
+          "t": "16:10",
+          "sec": 970,
+          "title": "First Class Seats",
+          "ife": false
+        },
+        {
+          "t": "19:33",
+          "sec": 1173,
+          "title": "New Safety Video",
+          "ife": false
+        },
+        {
+          "t": "20:56",
+          "sec": 1256,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "23:56",
+          "sec": 1436,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "24:48",
+          "sec": 1488,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "28:15",
+          "sec": 1695,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "32:31",
+          "sec": 1951,
+          "title": "Amenity Kit & Loungewear",
+          "ife": false
+        },
+        {
+          "t": "34:58",
+          "sec": 2098,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "35:38",
+          "sec": 2138,
+          "title": "Full-flat Bed",
+          "ife": false
+        },
+        {
+          "t": "37:04",
+          "sec": 2224,
+          "title": "Light Meal",
+          "ife": false
+        },
+        {
+          "t": "38:53",
+          "sec": 2333,
+          "title": "In-flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "41:30",
+          "sec": 2490,
+          "title": "Preparing for Landing",
+          "ife": false
+        },
+        {
+          "t": "42:18",
+          "sec": 2538,
+          "title": "In-flight Magazine",
+          "ife": false
+        },
+        {
+          "t": "44:03",
+          "sec": 2643,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "45:42",
+          "sec": 2742,
+          "title": "Heading to the gate (plus some thoughts)",
+          "ife": false
+        },
+        {
+          "t": "47:42",
+          "sec": 2862,
+          "title": "Disembarkation",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3qeYwtPR2hA",
+      "title": "Japan Airlines Premium Economy Review – Is It Worth $2,500?",
+      "year": 2026,
+      "published_at": "2026-11-11T12:27:03Z",
+      "channel_title": "Anna Travels",
+      "view_count": 46,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "japan airlines",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wA3MWGyLfGs",
+      "title": "Surabaya to Singapore | Singapore Airlines Boeing 737-8 Economy Class Flight & Juanda Airport",
+      "year": 2026,
+      "published_at": "2026-11-13T10:00:08Z",
+      "channel_title": "Clement Ying – Flight Reviews & Journeys",
+      "view_count": 1,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction – Singapore Airlines Surabaya to Singapore",
+          "ife": false
+        },
+        {
+          "t": "00:59",
+          "sec": 59,
+          "title": "Juanda International Airport (SUB)",
+          "ife": false
+        },
+        {
+          "t": "04:30",
+          "sec": 270,
+          "title": "Boarding Singapore Airlines SQ927 (B737-8)",
+          "ife": false
+        },
+        {
+          "t": "04:42",
+          "sec": 282,
+          "title": "Economy class seat",
+          "ife": false
+        },
+        {
+          "t": "04:57",
+          "sec": 297,
+          "title": "Pushback and taxiing in Singapore",
+          "ife": false
+        },
+        {
+          "t": "05:40",
+          "sec": 340,
+          "title": "Take-off from Juanda International Airport",
+          "ife": false
+        },
+        {
+          "t": "06:26",
+          "sec": 386,
+          "title": "In-flight meal service (economy class)",
+          "ife": false
+        },
+        {
+          "t": "07:17",
+          "sec": 437,
+          "title": "Landing in Singapore Changi Airport (SIN)",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8LqPJksYXx8",
+      "title": "Trip Report | Delta | Boeing 757-200 | New York (JFK) - Atlanta (ATL)",
+      "year": 2026,
+      "published_at": "2026-11-11T16:30:16Z",
+      "channel_title": "IFlyPlanes",
+      "view_count": 512,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "New York JFK Airport",
+          "ife": false
+        },
+        {
+          "t": "1:33",
+          "sec": 93,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "1:58",
+          "sec": 118,
+          "title": "Seat Review",
+          "ife": false
+        },
+        {
+          "t": "2:16",
+          "sec": 136,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "3:14",
+          "sec": 194,
+          "title": "Taxi",
+          "ife": false
+        },
+        {
+          "t": "3:33",
+          "sec": 213,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "3:58",
+          "sec": 238,
+          "title": "Flight Overview",
+          "ife": false
+        },
+        {
+          "t": "4:21",
+          "sec": 261,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "5:01",
+          "sec": 301,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "5:29",
+          "sec": 329,
+          "title": "Catering",
+          "ife": false
+        },
+        {
+          "t": "5:52",
+          "sec": 352,
+          "title": "In-flight Entertainment Review",
+          "ife": true
+        },
+        {
+          "t": "7:13",
+          "sec": 433,
+          "title": "Seat Features",
+          "ife": false
+        },
+        {
+          "t": "7:59",
+          "sec": 479,
+          "title": "Descent",
+          "ife": false
+        },
+        {
+          "t": "8:11",
+          "sec": 491,
+          "title": "Delta App + Wi-Fi System Review",
+          "ife": true
+        },
+        {
+          "t": "10:03",
+          "sec": 603,
+          "title": "Approach + Summary",
+          "ife": false
+        },
+        {
+          "t": "10:58",
+          "sec": 658,
+          "title": "Approach",
+          "ife": false
+        },
+        {
+          "t": "11:17",
+          "sec": 677,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "11:48",
+          "sec": 708,
+          "title": "Taxi to Gate",
+          "ife": false
+        },
+        {
+          "t": "12:35",
+          "sec": 755,
+          "title": "Deboarding",
+          "ife": false
+        },
+        {
+          "t": "12:45",
+          "sec": 765,
+          "title": "Atlanta Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ln6EHc5h3yA",
+      "title": "Qatar or Emirates for 12 Hours in Economy? The Winner Might Surprise You",
+      "year": 2026,
+      "published_at": "2026-11-13T00:05:01Z",
+      "channel_title": "THE FLIGHT WORLD 360",
+      "view_count": 2,
+      "like_count": 1,
+      "ife_system": "Oryx One",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "The Battle of the Longhaul Giants",
+          "ife": false
+        },
+        {
+          "t": "0:38",
+          "sec": 38,
+          "title": "Stepping Inside the Cabin Experience",
+          "ife": false
+        },
+        {
+          "t": "1:54",
+          "sec": 114,
+          "title": "The Hidden Truth About Seat Layouts",
+          "ife": false
+        },
+        {
+          "t": "4:58",
+          "sec": 298,
+          "title": "Entertainment and Dining Face-Off",
+          "ife": true
+        },
+        {
+          "t": "11:53",
+          "sec": 713,
+          "title": "The Final Verdict on Longhaul Comfort",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 7
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 6
+        },
+        {
+          "keyword": "a380",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8Jc-63Pk9wE",
+      "title": "EVA AIR Premium Economy Review: The World's First 🇹🇼",
+      "year": 2026,
+      "published_at": "2026-11-12T13:15:01Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 38976,
+      "like_count": 1093,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "eva air",
+          "mentions": 8
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-12T10:51:05.653073"
+  "last_updated": "2026-11-13T10:46:58.153887"
 }
