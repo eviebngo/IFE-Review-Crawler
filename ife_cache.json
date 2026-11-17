@@ -196234,7 +196234,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=p7_gISbV7IQ",
@@ -196283,7 +196285,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=V_WCHcx2N4o",
@@ -196315,7 +196319,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=QuVmldfS_vU",
@@ -196413,7 +196419,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=xqH9rNHAsdw",
@@ -196515,7 +196523,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=z0pYzEgj6Mw",
@@ -196721,7 +196731,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.867
     },
     {
       "url": "https://www.youtube.com/watch?v=VSTYFRuo3y4",
@@ -196848,7 +196860,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=MuImzlDwVYk",
@@ -196892,7 +196906,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.599
     },
     {
       "url": "https://www.youtube.com/watch?v=zJo5PCfKIJw",
@@ -196933,7 +196949,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=KfUvL_EkPXs",
@@ -196969,7 +196987,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=8OgB6ymCNf8",
@@ -197014,7 +197034,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=LX15dD7Ahdo",
@@ -197054,7 +197076,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=6QHU2anrOps",
@@ -197190,7 +197214,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=h95n7HAPEWQ",
@@ -197222,8 +197248,150 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.421
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zkKMz486g4Q",
+      "title": "Singapore Airlines Business Class Flight Review from Manchester to Singapore - 28 to 30 August, 2026",
+      "year": 2026,
+      "published_at": "2026-11-16T16:00:03Z",
+      "channel_title": "Moss Travel Media",
+      "view_count": 118,
+      "like_count": 2,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_Nyow7VP5Wg",
+      "title": "I Tried Singapore Airlines' Most Expensive Seat for 13 Hours",
+      "year": 2026,
+      "published_at": "2026-11-16T12:11:13Z",
+      "channel_title": "Muslim Xplorer",
+      "view_count": 69,
+      "like_count": 2,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Boarding SQ308 to London",
+          "ife": false
+        },
+        {
+          "t": "0:27",
+          "sec": 27,
+          "title": "Welcome on board",
+          "ife": false
+        },
+        {
+          "t": "0:53",
+          "sec": 53,
+          "title": "The Suite (seat 2F)",
+          "ife": false
+        },
+        {
+          "t": "1:24",
+          "sec": 84,
+          "title": "Entertainment",
+          "ife": true
+        },
+        {
+          "t": "1:36",
+          "sec": 96,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "2:27",
+          "sec": 147,
+          "title": "Bedtime",
+          "ife": false
+        },
+        {
+          "t": "2:56",
+          "sec": 176,
+          "title": "The lavatory",
+          "ife": false
+        },
+        {
+          "t": "3:20",
+          "sec": 200,
+          "title": "Dinner",
+          "ife": false
+        },
+        {
+          "t": "3:36",
+          "sec": 216,
+          "title": "Highlights",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "quality": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-16T10:53:58.147599"
+  "last_updated": "2026-11-17T11:39:45.764426"
 }
