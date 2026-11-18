@@ -146696,7 +146696,62 @@
       "ife_system": null,
       "ife_system_inferred": false,
       "ife_system_guess": "Emirates ICE",
-      "chapters": [],
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Dubai International Airport",
+          "ife": false
+        },
+        {
+          "t": "00:38",
+          "sec": 38,
+          "title": "Boarding Emirates Boeing 777",
+          "ife": false
+        },
+        {
+          "t": "01:07",
+          "sec": 67,
+          "title": "Check-in Tip & Seat Selection",
+          "ife": false
+        },
+        {
+          "t": "01:36",
+          "sec": 96,
+          "title": "Takeoff & Dubai Aerial Views",
+          "ife": false
+        },
+        {
+          "t": "02:06",
+          "sec": 126,
+          "title": "In-flight Breakfast Review",
+          "ife": false
+        },
+        {
+          "t": "02:32",
+          "sec": 152,
+          "title": "Relaxing in the Cabin",
+          "ife": false
+        },
+        {
+          "t": "02:56",
+          "sec": 176,
+          "title": "Flying Over the Alps",
+          "ife": false
+        },
+        {
+          "t": "03:26",
+          "sec": 206,
+          "title": "Landing in Manchester & Driving Out",
+          "ife": false
+        },
+        {
+          "t": "03:56",
+          "sec": 236,
+          "title": "Upcoming Road Trip Plans & Outro",
+          "ife": false
+        }
+      ],
       "media_type": "video",
       "airlines_mentioned": [
         {
