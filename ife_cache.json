@@ -197298,7 +197298,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=_Nyow7VP5Wg",
@@ -197390,8 +197392,725 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3qX7p34HsUQ",
+      "title": "INSIDE EMIRATES A380 BUSINESS CLASS! ✈️ Is The Luxury Lounge Worth It?",
+      "year": 2026,
+      "published_at": "2026-11-16T08:00:11Z",
+      "channel_title": "Ek TRAVEL ",
+      "view_count": 8,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6lZa3dyEYb4",
+      "title": "Emirates Boeing 777-300 Economy Class Review - Tall Man Tested: Seat Pitch, Width, Food & Legroom",
+      "year": 2026,
+      "published_at": "2026-11-18T02:47:46Z",
+      "channel_title": "Motivated Travel | Family Reviews, Guides and Tips",
+      "view_count": 28,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Emirates B777-300 Review",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "Check-In and Bag Drop",
+          "ife": false
+        },
+        {
+          "t": "02:51",
+          "sec": 171,
+          "title": "Economy Class Cabin Design",
+          "ife": false
+        },
+        {
+          "t": "03:34",
+          "sec": 214,
+          "title": "Legroom and Seat Pitch",
+          "ife": false
+        },
+        {
+          "t": "04:24",
+          "sec": 264,
+          "title": "Seat Storage and Tray Table",
+          "ife": false
+        },
+        {
+          "t": "05:43",
+          "sec": 343,
+          "title": "USB Power and Headphones",
+          "ife": false
+        },
+        {
+          "t": "06:23",
+          "sec": 383,
+          "title": "Headrest and Cabin Controls",
+          "ife": false
+        },
+        {
+          "t": "07:16",
+          "sec": 436,
+          "title": "Economy Class Breakfast",
+          "ife": false
+        },
+        {
+          "t": "08:44",
+          "sec": 524,
+          "title": "Toilets",
+          "ife": false
+        },
+        {
+          "t": "09:51",
+          "sec": 591,
+          "title": "Aisle Seat for Tall Passengers",
+          "ife": false
+        },
+        {
+          "t": "11:16",
+          "sec": 676,
+          "title": "ice Entertainment System",
+          "ife": true
+        },
+        {
+          "t": "12:49",
+          "sec": 769,
+          "title": "Movies and TV",
+          "ife": true
+        },
+        {
+          "t": "13:51",
+          "sec": 831,
+          "title": "In-Seat Games",
+          "ife": false
+        },
+        {
+          "t": "14:43",
+          "sec": 883,
+          "title": "Drinks and Staff",
+          "ife": false
+        },
+        {
+          "t": "15:36",
+          "sec": 936,
+          "title": "Economy Lunch",
+          "ife": false
+        },
+        {
+          "t": "16:16",
+          "sec": 976,
+          "title": "Is It Worth It?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 16
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 13
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "content_count": "49+"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VYPHopA8wrg",
+      "title": "Singapore Airlines 737 Max 8 Business Class: Still a Singapore Airlines Business Class Experience?",
+      "year": 2026,
+      "published_at": "2026-11-17T14:00:20Z",
+      "channel_title": "ONESkyFlyer",
+      "view_count": 650,
+      "like_count": 7,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Start of Singapore Airlines 737 Max 8 Business Class Flight Review",
+          "ife": false
+        },
+        {
+          "t": "0:19",
+          "sec": 19,
+          "title": "Hanoi Airport",
+          "ife": false
+        },
+        {
+          "t": "1:19",
+          "sec": 79,
+          "title": "Singapore Airlines Business Class lounge",
+          "ife": false
+        },
+        {
+          "t": "2:13",
+          "sec": 133,
+          "title": "Singapore Airlines 737 Max 8",
+          "ife": false
+        },
+        {
+          "t": "3:40",
+          "sec": 220,
+          "title": "Singapore Airlines Business Class Seat",
+          "ife": false
+        },
+        {
+          "t": "6:05",
+          "sec": 365,
+          "title": "Singapore Airlines Business Class Service",
+          "ife": false
+        },
+        {
+          "t": "8:14",
+          "sec": 494,
+          "title": "Singapore Airlines Business Class Menu",
+          "ife": false
+        },
+        {
+          "t": "8:25",
+          "sec": 505,
+          "title": "Singapore Airlines Business Class in-flight entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:34",
+          "sec": 634,
+          "title": "Singapore Airlines Business Class Experience",
+          "ife": false
+        },
+        {
+          "t": "11:23",
+          "sec": 683,
+          "title": "Singapore Airlines Business Class Toilet",
+          "ife": false
+        },
+        {
+          "t": "11:51",
+          "sec": 711,
+          "title": "Singapore Airlines 737 Max 8 Business Class Review",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 18
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 8
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 8
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6DePPdYUym0",
+      "title": "DELTA FLIGHT REVIEW - Los Angeles to San Fransisco (DL2725)",
+      "year": 2026,
+      "published_at": "2026-11-12T13:00:12Z",
+      "channel_title": "Ariel Waraney",
+      "view_count": 56,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bsAtraX5w6c",
+      "title": "Flight Review: China Airlines INCREDIBLE A321NEO | Taipei to Hong Kong | Economy Class",
+      "year": 2026,
+      "published_at": "2026-11-14T11:45:32Z",
+      "channel_title": "Heathrow Flyer",
+      "view_count": 280,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Taipei Airport",
+          "ife": false
+        },
+        {
+          "t": "1:10",
+          "sec": 70,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:15",
+          "sec": 135,
+          "title": "Departure from Taipei",
+          "ife": false
+        },
+        {
+          "t": "03:48",
+          "sec": 228,
+          "title": "Collaboration with Level 8",
+          "ife": false
+        },
+        {
+          "t": "04:40",
+          "sec": 280,
+          "title": "Economy Class",
+          "ife": false
+        },
+        {
+          "t": "05:19",
+          "sec": 319,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "05:46",
+          "sec": 346,
+          "title": "Inflight Entertainment System",
+          "ife": true
+        },
+        {
+          "t": "06:17",
+          "sec": 377,
+          "title": "Approach into Hong Kong",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 4
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1REhAXA1Ri4",
+      "title": "Dhaka to Seoul 🇧🇩🇰🇷 | China Southern Airlines Trip Report | Full Journey to Korea via China",
+      "year": 2026,
+      "published_at": "2026-11-17T12:15:21Z",
+      "channel_title": "Ghalib's World",
+      "view_count": 64,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Journey Begins: Dhaka to Korea",
+          "ife": false
+        },
+        {
+          "t": "00:20",
+          "sec": 20,
+          "title": "Airport Experience & Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Check-in at the Airport",
+          "ife": false
+        },
+        {
+          "t": "01:20",
+          "sec": 80,
+          "title": "Airport Walk & Waiting Area",
+          "ife": false
+        },
+        {
+          "t": "02:20",
+          "sec": 140,
+          "title": "Heading Towards the Aircraft",
+          "ife": false
+        },
+        {
+          "t": "02:50",
+          "sec": 170,
+          "title": "Boarding China Southern Airlines",
+          "ife": false
+        },
+        {
+          "t": "03:20",
+          "sec": 200,
+          "title": "Economy Class Seat Experience",
+          "ife": false
+        },
+        {
+          "t": "03:50",
+          "sec": 230,
+          "title": "In-flight Entertainment & Cabin",
+          "ife": true
+        },
+        {
+          "t": "04:40",
+          "sec": 280,
+          "title": "Night Flight Experience",
+          "ife": false
+        },
+        {
+          "t": "05:20",
+          "sec": 320,
+          "title": "Flight Map & Journey Progress",
+          "ife": false
+        },
+        {
+          "t": "05:40",
+          "sec": 340,
+          "title": "China Southern In-flight Meal",
+          "ife": false
+        },
+        {
+          "t": "06:40",
+          "sec": 400,
+          "title": "Cabin & Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "07:20",
+          "sec": 440,
+          "title": "Night-time Flight Experience",
+          "ife": false
+        },
+        {
+          "t": "08:00",
+          "sec": 480,
+          "title": "Disembarking from the Aircraft",
+          "ife": false
+        },
+        {
+          "t": "08:40",
+          "sec": 520,
+          "title": "Airport Transit Experience",
+          "ife": false
+        },
+        {
+          "t": "09:00",
+          "sec": 540,
+          "title": "Walking Through the Airport",
+          "ife": false
+        },
+        {
+          "t": "09:20",
+          "sec": 560,
+          "title": "Transit Airport Experience",
+          "ife": false
+        },
+        {
+          "t": "09:40",
+          "sec": 580,
+          "title": "Connecting Journey",
+          "ife": false
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "Second Flight Experience",
+          "ife": false
+        },
+        {
+          "t": "11:00",
+          "sec": 660,
+          "title": "Cabin & Passenger Experience",
+          "ife": false
+        },
+        {
+          "t": "11:40",
+          "sec": 700,
+          "title": "Take-off and Aerial Views",
+          "ife": false
+        },
+        {
+          "t": "12:40",
+          "sec": 760,
+          "title": "In-flight Meal",
+          "ife": false
+        },
+        {
+          "t": "13:00",
+          "sec": 780,
+          "title": "Landing in Korea",
+          "ife": false
+        },
+        {
+          "t": "13:40",
+          "sec": 820,
+          "title": "Arrival Airport Experience",
+          "ife": false
+        },
+        {
+          "t": "14:00",
+          "sec": 840,
+          "title": "Final Moments in Korea",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "china southern",
+          "mentions": 10
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NObvwAAWakc",
+      "title": "Flying African First Airbus A350-1000 | Ethiopian Airlines | Addis Ababa to Johannesburg |Aerofly Fs",
+      "year": 2026,
+      "published_at": "2026-11-17T14:13:52Z",
+      "channel_title": "AviationLensBySaif ",
+      "view_count": 30,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=s1aqs0YWLDo",
+      "title": "NRT-KUL 日本成田到吉隆坡,飞一趟马航A330neo商务舱，我竟疯狂连刷4个贵宾室？4 Lounges in 1 Trip?  MAS A330neo Business Class Review",
+      "year": 2026,
+      "published_at": "2026-11-09T12:04:39Z",
+      "channel_title": "Life with KJD Family",
+      "view_count": 1433,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "jal",
+          "mentions": 3
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 7
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qTj_BTdfREo",
+      "title": "SOMALIA - FLYING BETWEEN TWO COUNTRIES AT WAR!",
+      "year": 2026,
+      "published_at": "2026-11-14T09:00:26Z",
+      "channel_title": "Josh Cahill",
+      "view_count": 261658,
+      "like_count": 5617,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-17T11:39:45.764426"
+  "last_updated": "2026-11-18T11:25:26.122041"
 }
