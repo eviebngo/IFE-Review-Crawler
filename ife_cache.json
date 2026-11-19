@@ -197489,7 +197489,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.294
     },
     {
       "url": "https://www.youtube.com/watch?v=6lZa3dyEYb4",
@@ -197632,7 +197634,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=VYPHopA8wrg",
@@ -197744,7 +197748,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=6DePPdYUym0",
@@ -197773,7 +197779,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=bsAtraX5w6c",
@@ -197871,7 +197879,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=1REhAXA1Ri4",
@@ -198055,7 +198065,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=NObvwAAWakc",
@@ -198099,7 +198111,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=s1aqs0YWLDo",
@@ -198140,7 +198154,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=qTj_BTdfREo",
@@ -198164,8 +198180,979 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.636
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VUFijLYCRXE",
+      "title": "Shenzhen Airlines: I prefer premium economy over this shocking business class...",
+      "year": 2026,
+      "published_at": "2026-11-19T03:58:59Z",
+      "channel_title": "Jayden Wong",
+      "view_count": 7116,
+      "like_count": 221,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & check-in",
+          "ife": false
+        },
+        {
+          "t": "01:30",
+          "sec": 90,
+          "title": "Shenzhen Airlines King Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:32",
+          "sec": 152,
+          "title": "Boarding flight ZH229",
+          "ife": false
+        },
+        {
+          "t": "04:39",
+          "sec": 279,
+          "title": "Seat 11A & features",
+          "ife": false
+        },
+        {
+          "t": "06:42",
+          "sec": 402,
+          "title": "Taxi & takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:00",
+          "sec": 600,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "12:30",
+          "sec": 750,
+          "title": "Bed mode",
+          "ife": false
+        },
+        {
+          "t": "14:27",
+          "sec": 867,
+          "title": "Conclusion",
+          "ife": false
+        },
+        {
+          "t": "16:43",
+          "sec": 1003,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "18:05",
+          "sec": 1085,
+          "title": "Singapore vlog",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        },
+        {
+          "keyword": "etihad",
+          "mentions": 1
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 1
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "a380",
+          "mentions": 2
+        },
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "777",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-tknHuCilrE",
+      "title": "I Flew Singapore Airlines A380 SUITES… Does First Class Get ANY Better?",
+      "year": 2026,
+      "published_at": "2026-11-18T19:37:03Z",
+      "channel_title": "mosmiles",
+      "view_count": 351,
+      "like_count": 22,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:29",
+          "sec": 29,
+          "title": "Check-in",
+          "ife": false
+        },
+        {
+          "t": "00:55",
+          "sec": 55,
+          "title": "Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:55",
+          "sec": 295,
+          "title": "Buggy to gate",
+          "ife": false
+        },
+        {
+          "t": "05:12",
+          "sec": 312,
+          "title": "Boarding/seat mix up",
+          "ife": false
+        },
+        {
+          "t": "05:55",
+          "sec": 355,
+          "title": "Suite tour",
+          "ife": false
+        },
+        {
+          "t": "06:58",
+          "sec": 418,
+          "title": "Push back/take off",
+          "ife": false
+        },
+        {
+          "t": "07:29",
+          "sec": 449,
+          "title": "Seat controls",
+          "ife": false
+        },
+        {
+          "t": "08:16",
+          "sec": 496,
+          "title": "Storage",
+          "ife": false
+        },
+        {
+          "t": "08:35",
+          "sec": 515,
+          "title": "Charging ports",
+          "ife": false
+        },
+        {
+          "t": "09:03",
+          "sec": 543,
+          "title": "Sliding door",
+          "ife": false
+        },
+        {
+          "t": "09:12",
+          "sec": 552,
+          "title": "Coffee and juice",
+          "ife": false
+        },
+        {
+          "t": "09:18",
+          "sec": 558,
+          "title": "Swivel chair and TV",
+          "ife": false
+        },
+        {
+          "t": "09:51",
+          "sec": 591,
+          "title": "Wifi",
+          "ife": true
+        },
+        {
+          "t": "10:01",
+          "sec": 601,
+          "title": "Tablet controls",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "Headphones",
+          "ife": false
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "Amenity kit",
+          "ife": false
+        },
+        {
+          "t": "10:45",
+          "sec": 645,
+          "title": "Breakfast service/menus",
+          "ife": false
+        },
+        {
+          "t": "13:26",
+          "sec": 806,
+          "title": "Toilet review",
+          "ife": false
+        },
+        {
+          "t": "14:30",
+          "sec": 870,
+          "title": "Bed turn down",
+          "ife": false
+        },
+        {
+          "t": "15:05",
+          "sec": 905,
+          "title": "Pyjamas",
+          "ife": false
+        },
+        {
+          "t": "15:11",
+          "sec": 911,
+          "title": "Cupboard",
+          "ife": false
+        },
+        {
+          "t": "15:30",
+          "sec": 930,
+          "title": "IFE problem",
+          "ife": true
+        },
+        {
+          "t": "15:50",
+          "sec": 950,
+          "title": "Final comments",
+          "ife": false
+        },
+        {
+          "t": "17:15",
+          "sec": 1035,
+          "title": "Cost",
+          "ife": false
+        },
+        {
+          "t": "18:58",
+          "sec": 1138,
+          "title": "Bye to crew",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi",
+        "controller": "Tablet"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oqD3YJ2FRc0",
+      "title": "PR 511: Manila to Singapore via Philippine Airlines",
+      "year": 2026,
+      "published_at": "2026-11-18T11:39:12Z",
+      "channel_title": "AtTheWorldoflex",
+      "view_count": 11,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MHQ56x2IC_s",
+      "title": "United Airlines Polaris Business Class Review: LHR-ORD (Boeing 767-300ER)",
+      "year": 2026,
+      "published_at": "2026-11-17T21:45:17Z",
+      "channel_title": "Mel's Miles",
+      "view_count": 3181,
+      "like_count": 96,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "0:56",
+          "sec": 56,
+          "title": "Flight Day Begins",
+          "ife": false
+        },
+        {
+          "t": "3:48",
+          "sec": 228,
+          "title": "Time To Board",
+          "ife": false
+        },
+        {
+          "t": "5:17",
+          "sec": 317,
+          "title": "Cabin and Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "8:22",
+          "sec": 502,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "10:11",
+          "sec": 611,
+          "title": "Menu and Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "13:16",
+          "sec": 796,
+          "title": "Meal Service",
+          "ife": false
+        },
+        {
+          "t": "15:24",
+          "sec": 924,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "16:03",
+          "sec": 963,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "17:35",
+          "sec": 1055,
+          "title": "Naptime",
+          "ife": false
+        },
+        {
+          "t": "19:00",
+          "sec": 1140,
+          "title": "Pre-landing Meal",
+          "ife": false
+        },
+        {
+          "t": "19:47",
+          "sec": 1187,
+          "title": "Final Thoughts and Landing",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FKnzLKD3xFc",
+      "title": "United Polaris Business Class to Lisbon, Portugal | Newark to Lisbon Flight Review & Miles Upgrade!",
+      "year": 2026,
+      "published_at": "2026-11-18T21:06:58Z",
+      "channel_title": "Follow Your Heart",
+      "view_count": 36,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "united airlines",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OQescrjk2Rg",
+      "title": "Delta First Class Has a Consistency Problem",
+      "year": 2026,
+      "published_at": "2026-11-18T14:58:22Z",
+      "channel_title": "Nonstop Dan",
+      "view_count": 65513,
+      "like_count": 1346,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Is Delta the best US airline?",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Delta’s hubs and loyal fans",
+          "ife": false
+        },
+        {
+          "t": "01:12",
+          "sec": 72,
+          "title": "Delta’s fleet: Boeing vs Airbus",
+          "ife": false
+        },
+        {
+          "t": "02:12",
+          "sec": 132,
+          "title": "Boarding in Puerto Vallarta",
+          "ife": false
+        },
+        {
+          "t": "02:58",
+          "sec": 178,
+          "title": "Old 737-900ER first class seat",
+          "ife": false
+        },
+        {
+          "t": "04:02",
+          "sec": 242,
+          "title": "Takeoff from Puerto Vallarta",
+          "ife": false
+        },
+        {
+          "t": "04:17",
+          "sec": 257,
+          "title": "Lavatory and amenity products",
+          "ife": false
+        },
+        {
+          "t": "04:38",
+          "sec": 278,
+          "title": "Free Wi-Fi and drinks",
+          "ife": true
+        },
+        {
+          "t": "05:34",
+          "sec": 334,
+          "title": "Meal catered from Mexico",
+          "ife": false
+        },
+        {
+          "t": "06:10",
+          "sec": 370,
+          "title": "Recline issue and landing in LA",
+          "ife": false
+        },
+        {
+          "t": "06:48",
+          "sec": 408,
+          "title": "Service inconsistency in the US",
+          "ife": false
+        },
+        {
+          "t": "07:00",
+          "sec": 420,
+          "title": "Tracing my ancestry with MyHeritage",
+          "ife": false
+        },
+        {
+          "t": "08:43",
+          "sec": 523,
+          "title": "Delta first class pricing",
+          "ife": false
+        },
+        {
+          "t": "09:37",
+          "sec": 577,
+          "title": "Delta’s newest 737 cabin",
+          "ife": false
+        },
+        {
+          "t": "10:30",
+          "sec": 630,
+          "title": "Pre-departure drinks of choice",
+          "ife": false
+        },
+        {
+          "t": "11:07",
+          "sec": 667,
+          "title": "Upgraded lavatory",
+          "ife": false
+        },
+        {
+          "t": "11:23",
+          "sec": 683,
+          "title": "New seat: no USB-C or Bluetooth",
+          "ife": true
+        },
+        {
+          "t": "12:18",
+          "sec": 738,
+          "title": "Best meal of the series",
+          "ife": false
+        },
+        {
+          "t": "13:20",
+          "sec": 800,
+          "title": "Entertainment and arrival in Seattle",
+          "ife": true
+        },
+        {
+          "t": "14:00",
+          "sec": 840,
+          "title": "Verdict: is Delta the best?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 13
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 7
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true,
+        "bluetooth_audio": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ATxOskVgUfw",
+      "title": "🇰🇷 How good is Korean Air’s long-haul economy? Seoul to Amsterdam in-depth review | 777-300ER KE925",
+      "year": 2026,
+      "published_at": "2026-11-18T02:41:45Z",
+      "channel_title": "Learn and Travel with Dr Guo",
+      "view_count": 151,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:13",
+          "sec": 13,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "00:33",
+          "sec": 33,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "01:24",
+          "sec": 84,
+          "title": "Amenities",
+          "ife": false
+        },
+        {
+          "t": "01:43",
+          "sec": 103,
+          "title": "Take-0ff",
+          "ife": false
+        },
+        {
+          "t": "02:00",
+          "sec": 120,
+          "title": "Lunch",
+          "ife": false
+        },
+        {
+          "t": "04:13",
+          "sec": 253,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "05:35",
+          "sec": 335,
+          "title": "WiFi",
+          "ife": true
+        },
+        {
+          "t": "05:52",
+          "sec": 352,
+          "title": "Mid-flight snacks",
+          "ife": false
+        },
+        {
+          "t": "06:28",
+          "sec": 388,
+          "title": "Second meal",
+          "ife": false
+        },
+        {
+          "t": "07:53",
+          "sec": 473,
+          "title": "Price and conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 21
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 19
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CKeld9f8XOQ",
+      "title": "Cathay Pacific in Regional Premium Economy — Beijing Peking to Hong Kong (Boeing 777-300ER)",
+      "year": 2026,
+      "published_at": "2026-11-18T12:00:04Z",
+      "channel_title": "mangochico",
+      "view_count": 40,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "The Great Wall of China",
+          "ife": false
+        },
+        {
+          "t": "00:10",
+          "sec": 10,
+          "title": "Heavies on the apron",
+          "ife": false
+        },
+        {
+          "t": "00:40",
+          "sec": 40,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "01:15",
+          "sec": 75,
+          "title": "Seat",
+          "ife": false
+        },
+        {
+          "t": "02:11",
+          "sec": 131,
+          "title": "Amenities",
+          "ife": false
+        },
+        {
+          "t": "02:21",
+          "sec": 141,
+          "title": "Flimsy IFE AGAIN",
+          "ife": true
+        },
+        {
+          "t": "03:00",
+          "sec": 180,
+          "title": "Beef Dinner",
+          "ife": false
+        },
+        {
+          "t": "03:35",
+          "sec": 215,
+          "title": "Arrival",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EjeJKuHXJ2w",
+      "title": "[TRIP REPORT] TAP Air Portugal Airbus A320neo (ECONOMY XTRA) Palma de Mallorca (PMI) - Lisbon (LIS)",
+      "year": 2026,
+      "published_at": "2026-11-13T17:00:02Z",
+      "channel_title": "theplanesguy",
+      "view_count": 887,
+      "like_count": 17,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "tap air portugal",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ReEVHlWMSLM",
+      "title": "Beyond The Paint: Special Etihad x McLaren Racing Livery | Etihad",
+      "year": 2026,
+      "published_at": "2026-11-16T11:29:47Z",
+      "channel_title": "Etihad Airways",
+      "view_count": 1201,
+      "like_count": 31,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-11-18T11:25:26.122041"
+  "last_updated": "2026-11-19T11:29:15.958052"
 }
