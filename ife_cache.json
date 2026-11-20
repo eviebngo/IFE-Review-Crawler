@@ -198320,7 +198320,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.481
     },
     {
       "url": "https://www.youtube.com/watch?v=-tknHuCilrE",
@@ -198523,7 +198525,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=oqD3YJ2FRc0",
@@ -198547,7 +198551,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=MHQ56x2IC_s",
@@ -198660,7 +198666,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.421
     },
     {
       "url": "https://www.youtube.com/watch?v=FKnzLKD3xFc",
@@ -198698,7 +198706,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.475
     },
     {
       "url": "https://www.youtube.com/watch?v=OQescrjk2Rg",
@@ -198878,7 +198888,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.402
     },
     {
       "url": "https://www.youtube.com/watch?v=ATxOskVgUfw",
@@ -198988,7 +199000,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=CKeld9f8XOQ",
@@ -199082,7 +199096,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=EjeJKuHXJ2w",
@@ -199122,7 +199138,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ReEVHlWMSLM",
@@ -199151,8 +199169,923 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "positive",
+      "sentiment_score": 0.402
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8GYKe-Je2UY",
+      "title": "CATHAY PACIFIC Got Its New Premium Economy Wrong 🇭🇰",
+      "year": 2026,
+      "published_at": "2026-11-19T12:00:29Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 58246,
+      "like_count": 1245,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction to Cathay Pacific Retrofitted Premium Economy",
+          "ife": false
+        },
+        {
+          "t": "00:26",
+          "sec": 26,
+          "title": "Hong Kong Departure and Tokyo Haneda Itinerary",
+          "ife": false
+        },
+        {
+          "t": "01:28",
+          "sec": 88,
+          "title": "Flight Expectations: Seat Comfort and Meal Service",
+          "ife": false
+        },
+        {
+          "t": "03:18",
+          "sec": 198,
+          "title": "Cathay Pacific Premium Economy History and Evolution",
+          "ife": false
+        },
+        {
+          "t": "04:43",
+          "sec": 283,
+          "title": "New Cabin Features: Privacy Wings, 4K Screens, and Storage",
+          "ife": true
+        },
+        {
+          "t": "05:28",
+          "sec": 328,
+          "title": "Hong Kong Lounge Visit and Noodle Bar",
+          "ife": false
+        },
+        {
+          "t": "06:57",
+          "sec": 417,
+          "title": "Boarding the Retrofitted Boeing 777-300ER and Cabin Aesthetics",
+          "ife": false
+        },
+        {
+          "t": "08:38",
+          "sec": 518,
+          "title": "Seat Dimensions, Headrest Flaws, and Footrest Design",
+          "ife": false
+        },
+        {
+          "t": "10:52",
+          "sec": 652,
+          "title": "Armrest Wiggle Room, Leg Rest, and Cabin Dividers",
+          "ife": false
+        },
+        {
+          "t": "13:20",
+          "sec": 800,
+          "title": "Scratchy Pillowcase and Tray Table Layout",
+          "ife": false
+        },
+        {
+          "t": "13:49",
+          "sec": 829,
+          "title": "Breakfast Service: Dim Sum Platter and Meal Score",
+          "ife": false
+        },
+        {
+          "t": "14:28",
+          "sec": 868,
+          "title": "Recline Flaws: Tray Table Pinch and Crushed Cups",
+          "ife": false
+        },
+        {
+          "t": "15:47",
+          "sec": 947,
+          "title": "Power Outlet Issues, Turbulence Drop, and Crew Service",
+          "ife": false
+        },
+        {
+          "t": "16:57",
+          "sec": 1017,
+          "title": "In-Flight Entertainment, Headphones, and Bathroom Ratio",
+          "ife": true
+        },
+        {
+          "t": "17:33",
+          "sec": 1053,
+          "title": "Final Verdict: Why Seat Pitch Fails and Brand Score",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 10
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8gnnm142NEk",
+      "title": "🇵🇭 Manila - Paris CDG 🇫🇷  Air France Airbus A350 [FULL FLIGHT REPORT] Economy Class + Lounge",
+      "year": 2026,
+      "published_at": "2026-11-13T13:58:33Z",
+      "channel_title": "Razgriz Flight & Spotting",
+      "view_count": 189489,
+      "like_count": 1813,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air france",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Jy0PicnotSs",
+      "title": "Is CATHAY PACIFIC Economy Class Back to Its Best? 🇭🇰",
+      "year": 2026,
+      "published_at": "2026-11-14T12:00:01Z",
+      "channel_title": "The Flip Flop Traveller",
+      "view_count": 59173,
+      "like_count": 1226,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 12
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 2
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TEa2XbArVPQ",
+      "title": "Royal Jordanian vs Qatar: Last Minute Disaster!",
+      "year": 2026,
+      "published_at": "2026-11-15T17:00:04Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 18772,
+      "like_count": 297,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:24",
+          "sec": 24,
+          "title": "Royal Jordanian overview",
+          "ife": false
+        },
+        {
+          "t": "01:41",
+          "sec": 101,
+          "title": "Qatar Airways overview",
+          "ife": false
+        },
+        {
+          "t": "02:57",
+          "sec": 177,
+          "title": "Royal Jordanian boarding",
+          "ife": false
+        },
+        {
+          "t": "03:32",
+          "sec": 212,
+          "title": "Royal Jordanian seat",
+          "ife": false
+        },
+        {
+          "t": "04:43",
+          "sec": 283,
+          "title": "Qatar Airways boarding",
+          "ife": false
+        },
+        {
+          "t": "05:10",
+          "sec": 310,
+          "title": "Qatar Airways seat",
+          "ife": false
+        },
+        {
+          "t": "06:01",
+          "sec": 361,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "06:19",
+          "sec": 379,
+          "title": "Plaud",
+          "ife": false
+        },
+        {
+          "t": "08:09",
+          "sec": 489,
+          "title": "Royal Jordanian meal",
+          "ife": false
+        },
+        {
+          "t": "09:22",
+          "sec": 562,
+          "title": "Qatar Airways meal",
+          "ife": false
+        },
+        {
+          "t": "10:50",
+          "sec": 650,
+          "title": "Season 2 tournament bracket",
+          "ife": false
+        },
+        {
+          "t": "11:14",
+          "sec": 674,
+          "title": "Royal Jordanian tech",
+          "ife": false
+        },
+        {
+          "t": "12:50",
+          "sec": 770,
+          "title": "Qatar Airways tech",
+          "ife": false
+        },
+        {
+          "t": "14:07",
+          "sec": 847,
+          "title": "Royal Jordanian service",
+          "ife": false
+        },
+        {
+          "t": "15:02",
+          "sec": 902,
+          "title": "Qatar Airways service",
+          "ife": false
+        },
+        {
+          "t": "16:25",
+          "sec": 985,
+          "title": "Royal Jordanian efficiency",
+          "ife": false
+        },
+        {
+          "t": "17:04",
+          "sec": 1024,
+          "title": "Qatar Airways efficiency",
+          "ife": false
+        },
+        {
+          "t": "17:40",
+          "sec": 1060,
+          "title": "Final results",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a320",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ldijq3VD4Go",
+      "title": "Flying ANA to Japan 🇯🇵 | Manila to Sapporo Flight Experience & Food Review ✈️ #fyp #japan #travel",
+      "year": 2026,
+      "published_at": "2026-11-18T12:00:16Z",
+      "channel_title": "Clarise Wanders",
+      "view_count": 13,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TeAXoTqckug",
+      "title": "This Route is Crazy! .....QANTAS A380 from Africa to Australia",
+      "year": 2026,
+      "published_at": "2026-11-20T05:15:26Z",
+      "channel_title": "Forgot My Passport",
+      "view_count": 371,
+      "like_count": 24,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qantas",
+          "mentions": 9
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "jal",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S9d9PBZBMZY",
+      "title": "Saudi Airlines Business Class Experience | Karach | Business Class Review  |NilizCookBook",
+      "year": 2026,
+      "published_at": "2026-11-17T12:00:35Z",
+      "channel_title": "Niliz Cook Book",
+      "view_count": 2332,
+      "like_count": 39,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eRxV_GydsbM",
+      "title": "VIETNAM AIRLINES Airbus A321 | Hanoi 🇻🇳 to 🇸🇬 Singapore ✈️ Economy Class Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-07T08:00:25Z",
+      "channel_title": "Roam with Jerome",
+      "view_count": 2084,
+      "like_count": 20,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:10",
+          "sec": 10,
+          "title": "Noi Bai International Airport – Hanoi",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "Vietnam Airlines check-in experience",
+          "ife": false
+        },
+        {
+          "t": "02:00",
+          "sec": 120,
+          "title": "SH Premium Lounge",
+          "ife": false
+        },
+        {
+          "t": "02:37",
+          "sec": 157,
+          "title": "Boarding the Airbus A321",
+          "ife": false
+        },
+        {
+          "t": "03:44",
+          "sec": 224,
+          "title": "Business Class seat",
+          "ife": false
+        },
+        {
+          "t": "04:05",
+          "sec": 245,
+          "title": "Economy Class cabin and seat review",
+          "ife": false
+        },
+        {
+          "t": "07:38",
+          "sec": 458,
+          "title": "Aircraft lavatory and cleanliness review",
+          "ife": false
+        },
+        {
+          "t": "08:45",
+          "sec": 525,
+          "title": "Inflight service",
+          "ife": false
+        },
+        {
+          "t": "09:06",
+          "sec": 546,
+          "title": "Pushback and Aircraft take-off from Hanoi",
+          "ife": false
+        },
+        {
+          "t": "11:29",
+          "sec": 689,
+          "title": "Inflight food and drinks - Breakfast Meal",
+          "ife": false
+        },
+        {
+          "t": "12:34",
+          "sec": 754,
+          "title": "Midflight Ambiance",
+          "ife": false
+        },
+        {
+          "t": "13:47",
+          "sec": 827,
+          "title": "Preparing for Arrival",
+          "ife": false
+        },
+        {
+          "t": "14:26",
+          "sec": 866,
+          "title": "Landing at Singapore Changi Airport",
+          "ife": false
+        },
+        {
+          "t": "15:40",
+          "sec": 940,
+          "title": "Final thoughts and flight rating",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 7
+        },
+        {
+          "keyword": "a321",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NVjHsIQC7b4",
+      "title": "EMIRATES ECONOMY REVIEW | LYON - DUBAI | 777-300ER",
+      "year": 2026,
+      "published_at": "2026-11-17T21:29:11Z",
+      "channel_title": "FF Aviation",
+      "view_count": 313,
+      "like_count": 3,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "1:59",
+          "sec": 119,
+          "title": "Seat",
+          "ife": false
+        },
+        {
+          "t": "3:19",
+          "sec": 199,
+          "title": "Pushback & Engine Startup",
+          "ife": false
+        },
+        {
+          "t": "5:26",
+          "sec": 326,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "7:20",
+          "sec": 440,
+          "title": "IFE",
+          "ife": true
+        },
+        {
+          "t": "8:18",
+          "sec": 498,
+          "title": "Dinner",
+          "ife": false
+        },
+        {
+          "t": "9:10",
+          "sec": 550,
+          "title": "Cabin & Snack",
+          "ife": false
+        },
+        {
+          "t": "10:48",
+          "sec": 648,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "12:15",
+          "sec": 735,
+          "title": "Rating",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0vfgEbyUhkw",
+      "title": "THAI AIRWAYS A321NEO BUSINESS CLASS EXPERIENCE | TG250 Krabi to Bangkok with Flat-Bed Seats",
+      "year": 2026,
+      "published_at": "2026-11-20T10:30:30Z",
+      "channel_title": "Traveller TP",
+      "view_count": 1,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:28",
+          "sec": 28,
+          "title": "Check In",
+          "ife": false
+        },
+        {
+          "t": "01:28",
+          "sec": 88,
+          "title": "Inside the terminal",
+          "ife": false
+        },
+        {
+          "t": "01:49",
+          "sec": 109,
+          "title": "Plane Spotting",
+          "ife": false
+        },
+        {
+          "t": "04:06",
+          "sec": 246,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "05:06",
+          "sec": 306,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "08:33",
+          "sec": 513,
+          "title": "Saftey video",
+          "ife": false
+        },
+        {
+          "t": "08:39",
+          "sec": 519,
+          "title": "Push back",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "Engine startup",
+          "ife": false
+        },
+        {
+          "t": "14:28",
+          "sec": 868,
+          "title": "Taxi to runway",
+          "ife": false
+        },
+        {
+          "t": "16:02",
+          "sec": 962,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "18:55",
+          "sec": 1135,
+          "title": "Crew serving meals",
+          "ife": false
+        },
+        {
+          "t": "20:35",
+          "sec": 1235,
+          "title": "IFE review",
+          "ife": true
+        },
+        {
+          "t": "22:00",
+          "sec": 1320,
+          "title": "Crew serving drinks",
+          "ife": false
+        },
+        {
+          "t": "22:52",
+          "sec": 1372,
+          "title": "Toilet review",
+          "ife": false
+        },
+        {
+          "t": "25:52",
+          "sec": 1552,
+          "title": "A little chat with crew",
+          "ife": false
+        },
+        {
+          "t": "26:13",
+          "sec": 1573,
+          "title": "Descending",
+          "ife": false
+        },
+        {
+          "t": "28:48",
+          "sec": 1728,
+          "title": "Landing at BKK",
+          "ife": false
+        },
+        {
+          "t": "36:43",
+          "sec": 2203,
+          "title": "Conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a321",
+          "mentions": 5
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CqU_QU0hlbA",
+      "title": "6 Stranded Travel Tips if an FAA Ground Stop Happens #stranded #traveltips",
+      "year": 2026,
+      "published_at": "2026-11-14T17:33:43Z",
+      "channel_title": "Travel Tips by Laurie",
+      "view_count": 96994,
+      "like_count": 3419,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-19T11:29:15.958052"
+  "last_updated": "2026-11-20T11:11:25.106588"
 }
