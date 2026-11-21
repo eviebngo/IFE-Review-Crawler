@@ -199309,7 +199309,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.477
     },
     {
       "url": "https://www.youtube.com/watch?v=8gnnm142NEk",
@@ -199356,7 +199358,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Jy0PicnotSs",
@@ -199405,7 +199409,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=TEa2XbArVPQ",
@@ -199565,7 +199571,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.659
     },
     {
       "url": "https://www.youtube.com/watch?v=Ldijq3VD4Go",
@@ -199597,7 +199605,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=TeAXoTqckug",
@@ -199645,7 +199655,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.4
     },
     {
       "url": "https://www.youtube.com/watch?v=S9d9PBZBMZY",
@@ -199672,7 +199684,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=eRxV_GydsbM",
@@ -199798,7 +199812,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=NVjHsIQC7b4",
@@ -199894,7 +199910,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0vfgEbyUhkw",
@@ -200051,7 +200069,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=CqU_QU0hlbA",
@@ -200084,8 +200104,523 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "negative",
+      "sentiment_score": -0.296
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Hcv0hXdPkiA",
+      "title": "CATHAY PACIFIC'S 438-SEAT BOEING 777-300 | Economy Class | Hong Kong - Jakarta",
+      "year": 2026,
+      "published_at": "2026-11-21T03:30:36Z",
+      "channel_title": "Ryan So Fly",
+      "view_count": 1399,
+      "like_count": 60,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 8
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        },
+        {
+          "keyword": "china eastern",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 9
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 8
+        },
+        {
+          "keyword": "a380",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6FJ45eYmyHU",
+      "title": "TUI Premium Economy Is Massively Underrated",
+      "year": 2026,
+      "published_at": "2026-11-15T16:00:15Z",
+      "channel_title": "Charles On Travels",
+      "view_count": 33413,
+      "like_count": 318,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "TUI Premium Economy Check In",
+          "ife": false
+        },
+        {
+          "t": "02:15",
+          "sec": 135,
+          "title": "No1 lounge Gatwick",
+          "ife": false
+        },
+        {
+          "t": "03:11",
+          "sec": 191,
+          "title": "Boarding the TUI 787-9",
+          "ife": false
+        },
+        {
+          "t": "03:53",
+          "sec": 233,
+          "title": "TUI Premium Economy Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "06:19",
+          "sec": 379,
+          "title": "Takeoff and Pricing",
+          "ife": false
+        },
+        {
+          "t": "07:29",
+          "sec": 449,
+          "title": "TUI IFE and loo review",
+          "ife": true
+        },
+        {
+          "t": "08:34",
+          "sec": 514,
+          "title": "TUI Premium Economy Food and Drink",
+          "ife": false
+        },
+        {
+          "t": "10:47",
+          "sec": 647,
+          "title": "TUI Premium bed mode",
+          "ife": false
+        },
+        {
+          "t": "12:13",
+          "sec": 733,
+          "title": "Second Meal",
+          "ife": false
+        },
+        {
+          "t": "12:46",
+          "sec": 766,
+          "title": "Is TUI Premium Economy Worth It?",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "level",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3oigQdWTkAU",
+      "title": "QATAR AIRWAYS QR 628 Doha to Lahore on their brand new BOEING 787-9 Dreamliner Full Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-20T12:15:11Z",
+      "channel_title": "That Nomadic Scientist",
+      "view_count": 42,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 9
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 9
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 6
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FryPiOiZFhY",
+      "title": "Singapore Airlines ECONOMY vs BUSINESS CLASS – TWO COMPLETELY DIFFERENT WORLDS?! 🤯✈️",
+      "year": 2026,
+      "published_at": "2026-11-13T10:05:50Z",
+      "channel_title": "Charles Shan | Eagle Jetss",
+      "view_count": 588,
+      "like_count": 6,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0RfjD3ji9Eg",
+      "title": "Cathay Pacific Business Class Review (CX 161) | Online Exclusive Dining & Congee Breakfast!",
+      "year": 2026,
+      "published_at": "2026-11-19T10:06:18Z",
+      "channel_title": "Caterina Explores - Find Your Happy",
+      "view_count": 124,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Boarding & Seat 18A Overview",
+          "ife": false
+        },
+        {
+          "t": "0:17",
+          "sec": 17,
+          "title": "Armrest, Legrest & Side Storage",
+          "ife": false
+        },
+        {
+          "t": "1:21",
+          "sec": 81,
+          "title": "Slippers & Bedding Setup",
+          "ife": false
+        },
+        {
+          "t": "1:41",
+          "sec": 101,
+          "title": "Hot Towel & Breakfast Card Tip",
+          "ife": false
+        },
+        {
+          "t": "2:20",
+          "sec": 140,
+          "title": "Pre-Departure Drink & Fold-Away Screen",
+          "ife": true
+        },
+        {
+          "t": "2:42",
+          "sec": 162,
+          "title": "Full Menu & Online Exclusive Pre-Orders",
+          "ife": false
+        },
+        {
+          "t": "3:10",
+          "sec": 190,
+          "title": "Overnight Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "4:18",
+          "sec": 258,
+          "title": "Sleep & Morning Sunrise Over the Clouds",
+          "ife": false
+        },
+        {
+          "t": "4:35",
+          "sec": 275,
+          "title": "Congee & Century Egg Breakfast",
+          "ife": false
+        },
+        {
+          "t": "5:30",
+          "sec": 330,
+          "title": "Amenity Kit, Vanity Mirror & Seat Controls",
+          "ife": false
+        },
+        {
+          "t": "7:03",
+          "sec": 423,
+          "title": "Morning Landing in Sydney",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 2
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rgEvM2BdjCA",
+      "title": "Delta A350-900 Transcontinental Delta ONE Trip Report",
+      "year": 2026,
+      "published_at": "2026-11-20T20:51:20Z",
+      "channel_title": "iTripReport",
+      "view_count": 7661,
+      "like_count": 179,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "delta",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MbtqAGpC_G4",
+      "title": "Most asked questions about HIA layovers",
+      "year": 2026,
+      "published_at": "2026-11-19T11:50:45Z",
+      "channel_title": "Qatar Airways",
+      "view_count": 7306,
+      "like_count": 94,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:11",
+          "sec": 11,
+          "title": "Can I leave HIA during my layover?",
+          "ife": false
+        },
+        {
+          "t": "00:41",
+          "sec": 41,
+          "title": "How long should my layover be at HIA?",
+          "ife": false
+        },
+        {
+          "t": "01:04",
+          "sec": 64,
+          "title": "What is the difference between a layover and a stopover?",
+          "ife": false
+        },
+        {
+          "t": "01:22",
+          "sec": 82,
+          "title": "Can I leave HIA during my overnight layover?",
+          "ife": false
+        },
+        {
+          "t": "01:39",
+          "sec": 99,
+          "title": "Do I need to pick up my luggage during a layover?",
+          "ife": false
+        },
+        {
+          "t": "01:52",
+          "sec": 112,
+          "title": "What can I do in Doha during my layover?",
+          "ife": false
+        },
+        {
+          "t": "02:16",
+          "sec": 136,
+          "title": "Can I stay at a hotel without clearing immigration?",
+          "ife": false
+        },
+        {
+          "t": "02:30",
+          "sec": 150,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {},
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gEruYSO60d8",
+      "title": "Beautiful Landing in Geneva, Switzerland (4K)",
+      "year": 2026,
+      "published_at": "2026-11-12T13:01:18Z",
+      "channel_title": "Qatar Airways",
+      "view_count": 551063,
+      "like_count": 1259,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Oryx One",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "qatar airways",
+          "mentions": 2
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 1
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "4k_display": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Official"
     }
   ],
-  "last_updated": "2026-11-20T11:11:25.106588"
+  "last_updated": "2026-11-21T10:51:02.342770"
 }
