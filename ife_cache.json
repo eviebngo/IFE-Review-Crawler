@@ -200158,7 +200158,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=6FJ45eYmyHU",
@@ -200260,7 +200262,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=3oigQdWTkAU",
@@ -200308,7 +200312,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=FryPiOiZFhY",
@@ -200339,7 +200345,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=0RfjD3ji9Eg",
@@ -200446,7 +200454,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.2
     },
     {
       "url": "https://www.youtube.com/watch?v=rgEvM2BdjCA",
@@ -200491,7 +200501,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=MbtqAGpC_G4",
@@ -200575,7 +200587,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=gEruYSO60d8",
@@ -200619,8 +200633,705 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Official"
+      "source_name": "Official",
+      "sentiment": "positive",
+      "sentiment_score": 0.599
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lNjIYH8nBzA",
+      "title": "We Scored Cathay Pacific airline Out of 100",
+      "year": 2026,
+      "published_at": "2026-11-21T12:30:10Z",
+      "channel_title": "FlyFi Travel App",
+      "view_count": 35,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "The Cathay Pacific Experience",
+          "ife": false
+        },
+        {
+          "t": "1:15",
+          "sec": 75,
+          "title": "Airport Experience & Lounge Hop (The Pier vs. The Wing)",
+          "ife": false
+        },
+        {
+          "t": "3:30",
+          "sec": 210,
+          "title": "Boarding & First Impressions (Aircraft & Fleet)",
+          "ife": false
+        },
+        {
+          "t": "5:05",
+          "sec": 305,
+          "title": "The Cabin & Seats (Economy, Premium Economy, and Business Class!)",
+          "ife": false
+        },
+        {
+          "t": "7:40",
+          "sec": 460,
+          "title": "The Truth About the Food (In-Flight Catering)",
+          "ife": false
+        },
+        {
+          "t": "9:50",
+          "sec": 590,
+          "title": "Amenities, Wi-Fi & In-Flight Entertainment (IFE)",
+          "ife": true
+        },
+        {
+          "t": "12:15",
+          "sec": 735,
+          "title": "Cabin Crew & Hospitality",
+          "ife": false
+        },
+        {
+          "t": "13:50",
+          "sec": 830,
+          "title": "Is It Worth The Money?",
+          "ife": false
+        },
+        {
+          "t": "15:10",
+          "sec": 910,
+          "title": "THE FINAL SCORE",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GJsLYN0CM3Y",
+      "title": "#074 The World's Densest: Cathay Pacific A330 Regional Business Class!",
+      "year": 2026,
+      "published_at": "2026-11-21T13:00:37Z",
+      "channel_title": "The Cabin Report",
+      "view_count": 543,
+      "like_count": 12,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction & PVG T2",
+          "ife": false
+        },
+        {
+          "t": "01:29",
+          "sec": 89,
+          "title": "Cathay Pacific Lounge",
+          "ife": false
+        },
+        {
+          "t": "04:08",
+          "sec": 248,
+          "title": "Boarding & Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "06:23",
+          "sec": 383,
+          "title": "LOUD Takeoff from Shanghai",
+          "ife": false
+        },
+        {
+          "t": "09:10",
+          "sec": 550,
+          "title": "Onboard Amenities",
+          "ife": false
+        },
+        {
+          "t": "09:37",
+          "sec": 577,
+          "title": "In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "10:20",
+          "sec": 620,
+          "title": "Food, Service & Lavatory",
+          "ife": false
+        },
+        {
+          "t": "11:32",
+          "sec": 692,
+          "title": "Conclusion & Scores",
+          "ife": false
+        },
+        {
+          "t": "12:17",
+          "sec": 737,
+          "title": "Landing in Hong Kong",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ELAYMnw_PWw",
+      "title": "Flight Review: Lufthansa | Frankfurt to Chennai | A340-300 Economy Class",
+      "year": 2026,
+      "published_at": "2026-11-21T11:12:18Z",
+      "channel_title": "Heathrow Flyer",
+      "view_count": 1380,
+      "like_count": 14,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Frankfurt Airport",
+          "ife": false
+        },
+        {
+          "t": "00:45",
+          "sec": 45,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "01:10",
+          "sec": 70,
+          "title": "A340-300",
+          "ife": false
+        },
+        {
+          "t": "02:30",
+          "sec": 150,
+          "title": "Departure from Frankfurt",
+          "ife": false
+        },
+        {
+          "t": "04:40",
+          "sec": 280,
+          "title": "Economy Class",
+          "ife": false
+        },
+        {
+          "t": "05:55",
+          "sec": 355,
+          "title": "Lunch Service",
+          "ife": false
+        },
+        {
+          "t": "06:10",
+          "sec": 370,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "07:16",
+          "sec": 436,
+          "title": "Pre-Landing Snack",
+          "ife": false
+        },
+        {
+          "t": "07:53",
+          "sec": 473,
+          "title": "Approach into Chennai",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RiLRJgB6dNU",
+      "title": "FLYDUBAI BOEING 737 MAX 8 (Economy) | Dubai - Krakow | Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-20T16:30:15Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 11643,
+      "like_count": 134,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 6
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=340tteva9e4",
+      "title": "Oman Air vs MEA: Not What I Expected!",
+      "year": 2026,
+      "published_at": "2026-11-09T13:00:31Z",
+      "channel_title": "Fly Man Yann",
+      "view_count": 18404,
+      "like_count": 347,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:38",
+          "sec": 38,
+          "title": "Oman Air overview",
+          "ife": false
+        },
+        {
+          "t": "01:49",
+          "sec": 109,
+          "title": "MEA overview",
+          "ife": false
+        },
+        {
+          "t": "02:48",
+          "sec": 168,
+          "title": "Oman Air boarding",
+          "ife": false
+        },
+        {
+          "t": "03:25",
+          "sec": 205,
+          "title": "Oman Air seat",
+          "ife": false
+        },
+        {
+          "t": "04:11",
+          "sec": 251,
+          "title": "MEA boarding",
+          "ife": false
+        },
+        {
+          "t": "04:33",
+          "sec": 273,
+          "title": "MEA seat",
+          "ife": false
+        },
+        {
+          "t": "05:25",
+          "sec": 325,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "05:43",
+          "sec": 343,
+          "title": "Oman Air meal",
+          "ife": false
+        },
+        {
+          "t": "06:50",
+          "sec": 410,
+          "title": "MEA meal",
+          "ife": false
+        },
+        {
+          "t": "08:14",
+          "sec": 494,
+          "title": "GSou Snow",
+          "ife": false
+        },
+        {
+          "t": "09:50",
+          "sec": 590,
+          "title": "Season 2 tournament bracket",
+          "ife": false
+        },
+        {
+          "t": "10:17",
+          "sec": 617,
+          "title": "Oman Air tech",
+          "ife": false
+        },
+        {
+          "t": "11:07",
+          "sec": 667,
+          "title": "MEA tech",
+          "ife": false
+        },
+        {
+          "t": "12:34",
+          "sec": 754,
+          "title": "Oman Air service",
+          "ife": false
+        },
+        {
+          "t": "13:54",
+          "sec": 834,
+          "title": "MEA service",
+          "ife": false
+        },
+        {
+          "t": "15:10",
+          "sec": 910,
+          "title": "Oman Air efficiency",
+          "ife": false
+        },
+        {
+          "t": "15:39",
+          "sec": 939,
+          "title": "MEA efficiency",
+          "ife": false
+        },
+        {
+          "t": "16:11",
+          "sec": 971,
+          "title": "Final results",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "737",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "737 max",
+          "mentions": 1
+        },
+        {
+          "keyword": "a321neo",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZnTnfRVIKf0",
+      "title": "[4K GE Engine Sounds] Qantas Airbus A330 Pushback & Start at BNE",
+      "year": 2026,
+      "published_at": "2026-11-20T11:00:08Z",
+      "channel_title": "Aviation380HD",
+      "view_count": 323,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "KrisWorld",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 4
+        },
+        {
+          "keyword": "cathay pacific",
+          "mentions": 2
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 2
+        },
+        {
+          "keyword": "emirates",
+          "mentions": 1
+        },
+        {
+          "keyword": "qatar airways",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 11
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 10
+        },
+        {
+          "keyword": "737",
+          "mentions": 8
+        },
+        {
+          "keyword": "a330",
+          "mentions": 8
+        },
+        {
+          "keyword": "777",
+          "mentions": 6
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "4k_display": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ad17E9zIS8I",
+      "title": "Etihad 787-9 Economy Class | Abu Dhabi ✈ Geneva",
+      "year": 2026,
+      "published_at": "2026-11-14T15:00:16Z",
+      "channel_title": "macker",
+      "view_count": 6153,
+      "like_count": 44,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Zayed Int'l Airport",
+          "ife": false
+        },
+        {
+          "t": "01:31",
+          "sec": 91,
+          "title": "Seatmap",
+          "ife": false
+        },
+        {
+          "t": "02:19",
+          "sec": 139,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "02:32",
+          "sec": 152,
+          "title": "Seat tour",
+          "ife": false
+        },
+        {
+          "t": "03:48",
+          "sec": 228,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "04:51",
+          "sec": 291,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "06:13",
+          "sec": 373,
+          "title": "Snack service",
+          "ife": false
+        },
+        {
+          "t": "06:33",
+          "sec": 393,
+          "title": "Inflight entertainment",
+          "ife": true
+        },
+        {
+          "t": "07:27",
+          "sec": 447,
+          "title": "Tote bag",
+          "ife": false
+        },
+        {
+          "t": "07:51",
+          "sec": 471,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "08:58",
+          "sec": 538,
+          "title": "Meal service (breakfast)",
+          "ife": false
+        },
+        {
+          "t": "09:39",
+          "sec": 579,
+          "title": "Inflight",
+          "ife": false
+        },
+        {
+          "t": "10:30",
+          "sec": 630,
+          "title": "Comments",
+          "ife": false
+        },
+        {
+          "t": "11:03",
+          "sec": 663,
+          "title": "Landing & taxi",
+          "ife": false
+        },
+        {
+          "t": "12:16",
+          "sec": 736,
+          "title": "Deboarding & Geneva Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 2
+        },
+        {
+          "keyword": "eva air",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 3
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-21T10:51:02.342770"
+  "last_updated": "2026-11-22T10:58:35.643421"
 }
