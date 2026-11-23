@@ -200725,7 +200725,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=GJsLYN0CM3Y",
@@ -200821,7 +200823,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ELAYMnw_PWw",
@@ -200913,7 +200917,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=RiLRJgB6dNU",
@@ -200958,7 +200964,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=340tteva9e4",
@@ -201125,7 +201133,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=ZnTnfRVIKf0",
@@ -201195,7 +201205,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=Ad17E9zIS8I",
@@ -201330,8 +201342,816 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cZrqycbs9lI",
+      "title": "Singapore Airlines 787-10 Business Class to Bali – Worth It for Just 2.5 Hours?",
+      "year": 2026,
+      "published_at": "2026-11-22T11:15:11Z",
+      "channel_title": "Zacc Travels",
+      "view_count": 438,
+      "like_count": 8,
+      "ife_system": "KrisWorld",
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "singapore airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 5
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-10",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L73LX1sQsWs",
+      "title": "11 Hours in the World's Best First Class | Etihad A380 Apartment",
+      "year": 2026,
+      "published_at": "2026-11-22T23:00:19Z",
+      "channel_title": "Jasper Goh",
+      "view_count": 149,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:36",
+          "sec": 36,
+          "title": "Check-in",
+          "ife": false
+        },
+        {
+          "t": "01:10",
+          "sec": 70,
+          "title": "Etihad First Class Lounge & Complimentary Spa Service",
+          "ife": false
+        },
+        {
+          "t": "01:38",
+          "sec": 98,
+          "title": "Etihad First Class Lounge Overview",
+          "ife": false
+        },
+        {
+          "t": "02:13",
+          "sec": 133,
+          "title": "Etihad First Class Lounge Shower",
+          "ife": false
+        },
+        {
+          "t": "02:41",
+          "sec": 161,
+          "title": "Etihad First Class Lounge Dining",
+          "ife": false
+        },
+        {
+          "t": "04:42",
+          "sec": 282,
+          "title": "Etihad First Class Cabin Layout",
+          "ife": false
+        },
+        {
+          "t": "05:31",
+          "sec": 331,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "06:33",
+          "sec": 393,
+          "title": "Etihad Apartments Seat Features & Amenities",
+          "ife": false
+        },
+        {
+          "t": "09:09",
+          "sec": 549,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "09:22",
+          "sec": 562,
+          "title": "Wifi & In-flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "09:51",
+          "sec": 591,
+          "title": "Dinner Service",
+          "ife": false
+        },
+        {
+          "t": "12:52",
+          "sec": 772,
+          "title": "Lavatory & In-flight Shower",
+          "ife": false
+        },
+        {
+          "t": "13:52",
+          "sec": 832,
+          "title": "Bed Mode",
+          "ife": false
+        },
+        {
+          "t": "14:52",
+          "sec": 892,
+          "title": "Breakfast Service",
+          "ife": false
+        },
+        {
+          "t": "15:37",
+          "sec": 937,
+          "title": "Additional Amenities & Finjan Cups",
+          "ife": false
+        },
+        {
+          "t": "16:49",
+          "sec": 1009,
+          "title": "Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "18:17",
+          "sec": 1097,
+          "title": "Cost Breakdown",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "etihad",
+          "mentions": 14
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        },
+        {
+          "keyword": "american airlines",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y7-FfkzT1x4",
+      "title": "[British Airways Club World Suite: BA32 Hong Kong to London Heathrow] Airbus A350-1000 Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-23T08:00:31Z",
+      "channel_title": "Eurasia Transport Explorer",
+      "view_count": 244,
+      "like_count": 15,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "british airways",
+          "mentions": 3
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 4
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AT7CCYvpKo0",
+      "title": "🇫🇷  Paris CDG - Istanbul  🇹🇷  Turkish Airlines Airbus A350 [FULL FLIGHT REPORT] Economy Class",
+      "year": 2026,
+      "published_at": "2026-11-20T13:04:03Z",
+      "channel_title": "Razgriz Flight & Spotting",
+      "view_count": 121792,
+      "like_count": 1350,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a330",
+          "mentions": 3
+        },
+        {
+          "keyword": "a350",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3lM0IYR4vbE",
+      "title": "Turkish Airlines B787 Business Class | Miami–Istanbul (Michelin star dining at 39 000ft!) SUBTITLES",
+      "year": 2026,
+      "published_at": "2026-11-22T13:00:23Z",
+      "channel_title": "Travel Expertos",
+      "view_count": 208,
+      "like_count": 6,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro & Flight Preview",
+          "ife": false
+        },
+        {
+          "t": "03:37",
+          "sec": 217,
+          "title": "Journey to Miami Airport",
+          "ife": false
+        },
+        {
+          "t": "03:59",
+          "sec": 239,
+          "title": "Business Class Check-in",
+          "ife": false
+        },
+        {
+          "t": "04:40",
+          "sec": 280,
+          "title": "Transfer to the Lounge",
+          "ife": false
+        },
+        {
+          "t": "05:22",
+          "sec": 322,
+          "title": "Turkish Airlines Lounge Miami",
+          "ife": false
+        },
+        {
+          "t": "06:19",
+          "sec": 379,
+          "title": "Our Aircraft: TC-LLA",
+          "ife": false
+        },
+        {
+          "t": "06:58",
+          "sec": 418,
+          "title": "Lounge Buffet",
+          "ife": false
+        },
+        {
+          "t": "07:27",
+          "sec": 447,
+          "title": "Transfer to Gate J7",
+          "ife": false
+        },
+        {
+          "t": "09:10",
+          "sec": 550,
+          "title": "Boarding TK158",
+          "ife": false
+        },
+        {
+          "t": "09:48",
+          "sec": 588,
+          "title": "Welcome Onboard",
+          "ife": false
+        },
+        {
+          "t": "10:10",
+          "sec": 610,
+          "title": "Business Class Seat 6K",
+          "ife": false
+        },
+        {
+          "t": "10:49",
+          "sec": 649,
+          "title": "Seat Storage & Controls",
+          "ife": false
+        },
+        {
+          "t": "11:37",
+          "sec": 697,
+          "title": "Tray Table",
+          "ife": false
+        },
+        {
+          "t": "11:56",
+          "sec": 716,
+          "title": "Pre-Departure Amenities",
+          "ife": false
+        },
+        {
+          "t": "12:53",
+          "sec": 773,
+          "title": "Entertainment Setup & Flight Map",
+          "ife": true
+        },
+        {
+          "t": "13:34",
+          "sec": 814,
+          "title": "Flying Chef & Menus",
+          "ife": false
+        },
+        {
+          "t": "14:18",
+          "sec": 858,
+          "title": "Pre-Departure Drinks",
+          "ife": false
+        },
+        {
+          "t": "14:34",
+          "sec": 874,
+          "title": "Pushback from Miami",
+          "ife": false
+        },
+        {
+          "t": "18:08",
+          "sec": 1088,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "20:33",
+          "sec": 1233,
+          "title": "Taxi for Takeoff",
+          "ife": false
+        },
+        {
+          "t": "30:28",
+          "sec": 1828,
+          "title": "Line-up & Takeoff from Miami",
+          "ife": false
+        },
+        {
+          "t": "33:12",
+          "sec": 1992,
+          "title": "Miami from Above",
+          "ife": false
+        },
+        {
+          "t": "38:30",
+          "sec": 2310,
+          "title": "Above the Clouds",
+          "ife": false
+        },
+        {
+          "t": "40:06",
+          "sec": 2406,
+          "title": "Getting Comfortable",
+          "ife": false
+        },
+        {
+          "t": "40:25",
+          "sec": 2425,
+          "title": "Denon Headphones",
+          "ife": false
+        },
+        {
+          "t": "41:03",
+          "sec": 2463,
+          "title": "Lanvin Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "41:54",
+          "sec": 2514,
+          "title": "Slippers",
+          "ife": false
+        },
+        {
+          "t": "42:19",
+          "sec": 2539,
+          "title": "Reading Light & Seat Features",
+          "ife": false
+        },
+        {
+          "t": "43:54",
+          "sec": 2634,
+          "title": "Seat Controls & IFE Remote",
+          "ife": true
+        },
+        {
+          "t": "44:25",
+          "sec": 2665,
+          "title": "PLANET Entertainment System",
+          "ife": true
+        },
+        {
+          "t": "46:05",
+          "sec": 2765,
+          "title": "Interactive Flight Map",
+          "ife": false
+        },
+        {
+          "t": "46:49",
+          "sec": 2809,
+          "title": "Drinks & Mixed Nuts",
+          "ife": false
+        },
+        {
+          "t": "47:04",
+          "sec": 2824,
+          "title": "Canapés",
+          "ife": false
+        },
+        {
+          "t": "47:18",
+          "sec": 2838,
+          "title": "Table Setting",
+          "ife": false
+        },
+        {
+          "t": "48:04",
+          "sec": 2884,
+          "title": "Business Class Meal: Starters & Soup",
+          "ife": false
+        },
+        {
+          "t": "48:58",
+          "sec": 2938,
+          "title": "Beef Brochette Main Course",
+          "ife": false
+        },
+        {
+          "t": "50:24",
+          "sec": 3024,
+          "title": "Dessert & Cheese",
+          "ife": false
+        },
+        {
+          "t": "51:00",
+          "sec": 3060,
+          "title": "Mattress Topper & Bedding",
+          "ife": false
+        },
+        {
+          "t": "51:18",
+          "sec": 3078,
+          "title": "Lavatory Tour",
+          "ife": false
+        },
+        {
+          "t": "52:14",
+          "sec": 3134,
+          "title": "Relaxing Onboard",
+          "ife": false
+        },
+        {
+          "t": "53:29",
+          "sec": 3209,
+          "title": "Blanket & Cabin Atmosphere",
+          "ife": false
+        },
+        {
+          "t": "54:10",
+          "sec": 3250,
+          "title": "Dimmable Windows",
+          "ife": false
+        },
+        {
+          "t": "55:05",
+          "sec": 3305,
+          "title": "Fully Flat Bed",
+          "ife": false
+        },
+        {
+          "t": "56:09",
+          "sec": 3369,
+          "title": "Popcorn & Movie Time",
+          "ife": false
+        },
+        {
+          "t": "56:44",
+          "sec": 3404,
+          "title": "Flight Progress",
+          "ife": false
+        },
+        {
+          "t": "57:34",
+          "sec": 3454,
+          "title": "Overnight Lavatory Visit",
+          "ife": false
+        },
+        {
+          "t": "58:10",
+          "sec": 3490,
+          "title": "Settling Down for Rest",
+          "ife": false
+        },
+        {
+          "t": "58:56",
+          "sec": 3536,
+          "title": "Cabin & Flight Map",
+          "ife": false
+        },
+        {
+          "t": "59:26",
+          "sec": 3566,
+          "title": "Business Class Food Menu",
+          "ife": false
+        },
+        {
+          "t": "1:00:10",
+          "sec": 3610,
+          "title": "Wine & Drinks Menu",
+          "ife": false
+        },
+        {
+          "t": "1:00:42",
+          "sec": 3642,
+          "title": "Boeing 787-9 Safety Card",
+          "ife": false
+        },
+        {
+          "t": "1:00:58",
+          "sec": 3658,
+          "title": "Entertainment & Seat Controls",
+          "ife": true
+        },
+        {
+          "t": "1:01:34",
+          "sec": 3694,
+          "title": "Seat Upright & Cabin Details",
+          "ife": false
+        },
+        {
+          "t": "1:02:04",
+          "sec": 3724,
+          "title": "Business Class Breakfast",
+          "ife": false
+        },
+        {
+          "t": "1:03:20",
+          "sec": 3800,
+          "title": "Pre-Arrival Chocolates",
+          "ife": false
+        },
+        {
+          "t": "1:03:30",
+          "sec": 3810,
+          "title": "Preparing for Arrival",
+          "ife": false
+        },
+        {
+          "t": "1:03:52",
+          "sec": 3832,
+          "title": "Aircraft Camera & Night Views",
+          "ife": false
+        },
+        {
+          "t": "1:04:50",
+          "sec": 3890,
+          "title": "Final Thoughts & Flight Verdict",
+          "ife": false
+        },
+        {
+          "t": "1:07:10",
+          "sec": 4030,
+          "title": "Istanbul History & Night Approach",
+          "ife": false
+        },
+        {
+          "t": "1:13:52",
+          "sec": 4432,
+          "title": "Landing in Istanbul",
+          "ife": false
+        },
+        {
+          "t": "1:15:52",
+          "sec": 4552,
+          "title": "Welcome to Istanbul & Taxi to the Gate",
+          "ife": false
+        },
+        {
+          "t": "1:21:08",
+          "sec": 4868,
+          "title": "Deboarding TK158",
+          "ife": false
+        },
+        {
+          "t": "1:21:43",
+          "sec": 4903,
+          "title": "Inside Istanbul Airport",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "turkish airlines",
+          "mentions": 6
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "screen_size": "18\"",
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=koP3FoLPy8w",
+      "title": "@AmericanAirlines has in flight entertainment I enjoy #cinema #films #movies",
+      "year": 2026,
+      "published_at": "2026-11-09T18:41:18Z",
+      "channel_title": "Victor-Alan",
+      "view_count": 16,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8trxkuuoSq8",
+      "title": "Saudia Airlines Flight Review 2026 ✈️ Manchester to Lahore via Jeddah | Food, Cabin & Landing",
+      "year": 2026,
+      "published_at": "2026-11-20T16:12:02Z",
+      "channel_title": "Travel With Zeeshan Malik",
+      "view_count": 338,
+      "like_count": 4,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {
+        "controller": "Handheld remote"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-22T10:58:35.643421"
+  "last_updated": "2026-11-23T12:04:11.766778"
 }
