@@ -201396,7 +201396,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=L73LX1sQsWs",
@@ -201557,7 +201559,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.637
     },
     {
       "url": "https://www.youtube.com/watch?v=Y7-FfkzT1x4",
@@ -201602,7 +201606,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=AT7CCYvpKo0",
@@ -201653,7 +201659,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=3lM0IYR4vbE",
@@ -202091,7 +202099,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=koP3FoLPy8w",
@@ -202122,7 +202132,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.718
     },
     {
       "url": "https://www.youtube.com/watch?v=8trxkuuoSq8",
@@ -202150,8 +202162,803 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HdK4inZrMgc",
+      "title": "Flying American Airlines’ Boeing 787-9! Worth It?",
+      "year": 2026,
+      "published_at": "2026-11-24T00:05:10Z",
+      "channel_title": "Adventures of an AvGeek",
+      "view_count": 71,
+      "like_count": 2,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "0:50",
+          "sec": 50,
+          "title": "DFW Airport",
+          "ife": false
+        },
+        {
+          "t": "1:41",
+          "sec": 101,
+          "title": "Seat",
+          "ife": false
+        },
+        {
+          "t": "2:34",
+          "sec": 154,
+          "title": "Service",
+          "ife": false
+        },
+        {
+          "t": "2:51",
+          "sec": 171,
+          "title": "Av-Con 2027",
+          "ife": false
+        },
+        {
+          "t": "3:38",
+          "sec": 218,
+          "title": "Entertainment",
+          "ife": true
+        },
+        {
+          "t": "4:27",
+          "sec": 267,
+          "title": "Final Thoughts",
+          "ife": false
+        },
+        {
+          "t": "4:53",
+          "sec": 293,
+          "title": "ORD Heavies!",
+          "ife": false
+        },
+        {
+          "t": "5:40",
+          "sec": 340,
+          "title": "Additional Thoughts",
+          "ife": false
+        },
+        {
+          "t": "6:33",
+          "sec": 393,
+          "title": "Conclusion",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "american airlines",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 6
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 5
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wQx6fH4zDOE",
+      "title": "Air India's NEW nonstop and LONGEST Dreamliner flight to Delhi SURPRISED me (it’s brutal)",
+      "year": 2026,
+      "published_at": "2026-11-19T20:00:27Z",
+      "channel_title": "Ryan Dawson",
+      "view_count": 85636,
+      "like_count": 679,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 5
+        },
+        {
+          "keyword": "ana",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "dreamliner",
+          "mentions": 6
+        },
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yXe_XFELBYI",
+      "title": "I Flew 19 HOURS on Lufthansa’s FLAGSHIP Flight  to India! 🇮🇳",
+      "year": 2026,
+      "published_at": "2026-11-23T13:00:27Z",
+      "channel_title": "harry's vlogs",
+      "view_count": 57352,
+      "like_count": 927,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "lufthansa",
+          "mentions": 11
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Tj_knd9MdKQ",
+      "title": "Korean Air Economy Class: Better Than Expected?",
+      "year": 2026,
+      "published_at": "2026-11-22T15:00:08Z",
+      "channel_title": "VoyagersSmith",
+      "view_count": 220,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Introduction",
+          "ife": false
+        },
+        {
+          "t": "00:20",
+          "sec": 20,
+          "title": "Channel Intro",
+          "ife": false
+        },
+        {
+          "t": "00:44",
+          "sec": 44,
+          "title": "A Quick History",
+          "ife": false
+        },
+        {
+          "t": "01:11",
+          "sec": 71,
+          "title": "The Aircraft",
+          "ife": false
+        },
+        {
+          "t": "01:33",
+          "sec": 93,
+          "title": "The Seat",
+          "ife": false
+        },
+        {
+          "t": "02:14",
+          "sec": 134,
+          "title": "Service",
+          "ife": false
+        },
+        {
+          "t": "02:56",
+          "sec": 176,
+          "title": "Amenities",
+          "ife": false
+        },
+        {
+          "t": "03:12",
+          "sec": 192,
+          "title": "Entertainment",
+          "ife": true
+        },
+        {
+          "t": "03:52",
+          "sec": 232,
+          "title": "The Surprise",
+          "ife": false
+        },
+        {
+          "t": "05:26",
+          "sec": 326,
+          "title": "The Meal",
+          "ife": false
+        },
+        {
+          "t": "05:47",
+          "sec": 347,
+          "title": "The Verdict",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "korean air",
+          "mentions": 14
+        },
+        {
+          "keyword": "ana",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "787",
+          "mentions": 4
+        },
+        {
+          "keyword": "dreamliner",
+          "mentions": 4
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "connectivity": true,
+        "4k_display": true,
+        "quality": true,
+        "seat": true,
+        "usb_power": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "controller": "Touchscreen"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=exafwCmZ_DA",
+      "title": "Thai Airways A350 Economy Class Review | TG416 Kuala Lumpur to Bangkok",
+      "year": 2026,
+      "published_at": "2026-11-21T02:18:01Z",
+      "channel_title": "Pipo Travelgeek",
+      "view_count": 842,
+      "like_count": 17,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 5
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        },
+        {
+          "keyword": "787",
+          "mentions": 1
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 1
+        },
+        {
+          "keyword": "787-9",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nXhnAhk4Dhw",
+      "title": "Air Canada Premium Economy Review ✈️ Is It Worth the Upgrade?",
+      "year": 2026,
+      "published_at": "2026-11-14T11:00:24Z",
+      "channel_title": "Tom & Jenny - Culinary Pilgrims",
+      "view_count": 103,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "ana",
+          "mentions": 12
+        },
+        {
+          "keyword": "air canada",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ijJyrI-pJTk",
+      "title": "✈️ Flying to UZBEKISTAN On A Boeing 767! | Uzbekistan Airways (Istanbul-Tashkent) | TRIP REPORT",
+      "year": 2026,
+      "published_at": "2026-11-11T13:00:05Z",
+      "channel_title": "FlyingHigh Aviation",
+      "view_count": 13574,
+      "like_count": 101,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Viasat (streaming)",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "| Intro - Istanbul Airport",
+          "ife": false
+        },
+        {
+          "t": "00:52",
+          "sec": 52,
+          "title": "| Check In and Duty Free Area",
+          "ife": false
+        },
+        {
+          "t": "03:00",
+          "sec": 180,
+          "title": "| At The Gate + Aircraft Info",
+          "ife": false
+        },
+        {
+          "t": "03:32",
+          "sec": 212,
+          "title": "| Boarding",
+          "ife": false
+        },
+        {
+          "t": "03:45",
+          "sec": 225,
+          "title": "| Seat and Amenities",
+          "ife": false
+        },
+        {
+          "t": "04:15",
+          "sec": 255,
+          "title": "| Pushback and Flight Info",
+          "ife": false
+        },
+        {
+          "t": "04:30",
+          "sec": 270,
+          "title": "| Nice Startup Sound!",
+          "ife": false
+        },
+        {
+          "t": "05:25",
+          "sec": 325,
+          "title": "| Takeoff and Spectacular Istanbul Views!",
+          "ife": false
+        },
+        {
+          "t": "09:23",
+          "sec": 563,
+          "title": "| In-Flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "12:12",
+          "sec": 732,
+          "title": "| Meal Service",
+          "ife": false
+        },
+        {
+          "t": "12:56",
+          "sec": 776,
+          "title": "| The Cabin",
+          "ife": false
+        },
+        {
+          "t": "13:28",
+          "sec": 808,
+          "title": "| Approaching Tashkent and More Info!",
+          "ife": false
+        },
+        {
+          "t": "14:50",
+          "sec": 890,
+          "title": "| Landing",
+          "ife": false
+        },
+        {
+          "t": "16:32",
+          "sec": 992,
+          "title": "| Deboarding",
+          "ife": false
+        },
+        {
+          "t": "16:45",
+          "sec": 1005,
+          "title": "| Tashkent Airport - Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "boeing",
+          "mentions": 8
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 3
+        },
+        {
+          "keyword": "787",
+          "mentions": 2
+        },
+        {
+          "keyword": "a320",
+          "mentions": 2
+        },
+        {
+          "keyword": "a321",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yeg4Piuj4mg",
+      "title": "Emirates New A350 Business Class Flight Review: New Dubai–Helsinki Route",
+      "year": 2026,
+      "published_at": "2026-11-23T13:25:20Z",
+      "channel_title": "Luxury Travel Club",
+      "view_count": 24947,
+      "like_count": 267,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "00:35",
+          "sec": 35,
+          "title": "Connecting at Dubai International Airport",
+          "ife": false
+        },
+        {
+          "t": "01:28",
+          "sec": 88,
+          "title": "Business Class Lounge (Concourse A)",
+          "ife": false
+        },
+        {
+          "t": "14:02",
+          "sec": 842,
+          "title": "Heading to Gate A6",
+          "ife": false
+        },
+        {
+          "t": "15:46",
+          "sec": 946,
+          "title": "Boarding the Airbus A350-900",
+          "ife": false
+        },
+        {
+          "t": "17:28",
+          "sec": 1048,
+          "title": "Business Class Seats",
+          "ife": false
+        },
+        {
+          "t": "22:36",
+          "sec": 1356,
+          "title": "Safety Video",
+          "ife": false
+        },
+        {
+          "t": "23:16",
+          "sec": 1396,
+          "title": "External Cameras & Flight Map",
+          "ife": false
+        },
+        {
+          "t": "25:15",
+          "sec": 1515,
+          "title": "Takeoff",
+          "ife": false
+        },
+        {
+          "t": "28:02",
+          "sec": 1682,
+          "title": "Wi-Fi",
+          "ife": true
+        },
+        {
+          "t": "30:19",
+          "sec": 1819,
+          "title": "Menu",
+          "ife": false
+        },
+        {
+          "t": "32:22",
+          "sec": 1942,
+          "title": "Social Area",
+          "ife": false
+        },
+        {
+          "t": "33:15",
+          "sec": 1995,
+          "title": "Breakfast",
+          "ife": false
+        },
+        {
+          "t": "35:22",
+          "sec": 2122,
+          "title": "Amenity Kit & Loungewear",
+          "ife": false
+        },
+        {
+          "t": "36:20",
+          "sec": 2180,
+          "title": "Lavatory",
+          "ife": false
+        },
+        {
+          "t": "37:15",
+          "sec": 2235,
+          "title": "In-flight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "41:50",
+          "sec": 2510,
+          "title": "Lunch",
+          "ife": false
+        },
+        {
+          "t": "45:06",
+          "sec": 2706,
+          "title": "In-flight Magazine",
+          "ife": false
+        },
+        {
+          "t": "45:50",
+          "sec": 2750,
+          "title": "Before Landing",
+          "ife": false
+        },
+        {
+          "t": "48:57",
+          "sec": 2937,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "51:05",
+          "sec": 3065,
+          "title": "Disembarkation",
+          "ife": false
+        },
+        {
+          "t": "52:30",
+          "sec": 3150,
+          "title": "Entry into Finland",
+          "ife": false
+        },
+        {
+          "t": "53:15",
+          "sec": 3195,
+          "title": "Chauffeur Service",
+          "ife": false
+        },
+        {
+          "t": "54:18",
+          "sec": 3258,
+          "title": "Next Video",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 8
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 5
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "connectivity": true,
+        "seat": true,
+        "tail_camera": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yef38zL1aoQ",
+      "title": "[TRIP REPORT] TAP Air Portugal Airbus A330-900neo (ECONOMY PRIME) Lisbon (LIS) - Miami (MIA)",
+      "year": 2026,
+      "published_at": "2026-11-20T17:00:01Z",
+      "channel_title": "theplanesguy",
+      "view_count": 5635,
+      "like_count": 66,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "tap air portugal",
+          "mentions": 2
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a330",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-23T12:04:11.766778"
+  "last_updated": "2026-11-24T13:29:32.657135"
 }
