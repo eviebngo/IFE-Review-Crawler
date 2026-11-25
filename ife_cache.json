@@ -202279,7 +202279,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.294
     },
     {
       "url": "https://www.youtube.com/watch?v=wQx6fH4zDOE",
@@ -202336,7 +202338,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.389
     },
     {
       "url": "https://www.youtube.com/watch?v=yXe_XFELBYI",
@@ -202368,7 +202372,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.345
     },
     {
       "url": "https://www.youtube.com/watch?v=Tj_knd9MdKQ",
@@ -202496,7 +202502,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.44
     },
     {
       "url": "https://www.youtube.com/watch?v=exafwCmZ_DA",
@@ -202548,7 +202556,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=nXhnAhk4Dhw",
@@ -202583,7 +202593,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "positive",
+      "sentiment_score": 0.226
     },
     {
       "url": "https://www.youtube.com/watch?v=ijJyrI-pJTk",
@@ -202722,7 +202734,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=yeg4Piuj4mg",
@@ -202917,7 +202931,9 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
-      "source_name": "Creator"
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
     },
     {
       "url": "https://www.youtube.com/watch?v=yef38zL1aoQ",
@@ -202957,8 +202973,580 @@
       "captions": [],
       "transcript_full": "",
       "source_tier": 2,
+      "source_name": "Creator",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PchXpQat8Yc",
+      "title": "My BEST Flight Ever from India! - Emirates Economy Class | Bengaluru to Dubai | Trip Report",
+      "year": 2026,
+      "published_at": "2026-11-25T09:06:01Z",
+      "channel_title": "The Layover Aviation",
+      "view_count": 3429,
+      "like_count": 155,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 9
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "777",
+          "mentions": 3
+        },
+        {
+          "keyword": "boeing",
+          "mentions": 3
+        }
+      ],
+      "ife_features": {
+        "content": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z2dsZ3SIUzY",
+      "title": "Emirates Airbus A380 Business Class Trip Report | Singapore to Dubai 🇸🇬🇦🇪",
+      "year": 2026,
+      "published_at": "2026-11-25T10:00:00Z",
+      "channel_title": "Flying Asia",
+      "view_count": 137,
+      "like_count": 5,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 6
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 5
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 4
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JfwpmPm_qhI",
+      "title": "Emirates A380 Flight Vlog: Milan to Dubai 🇮🇹✈️🇦🇪",
+      "year": 2026,
+      "published_at": "2026-11-16T18:02:00Z",
+      "channel_title": "LIVΣЯΛ14",
+      "view_count": 49,
+      "like_count": 0,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Emirates ICE",
+      "chapters": [
+        {
+          "t": "0:00",
+          "sec": 0,
+          "title": "Malpensa Express Train to Milan Airport 🚆🇮🇹",
+          "ife": false
+        },
+        {
+          "t": "0:21",
+          "sec": 21,
+          "title": "Duty-Free & Airport Lounge Relaxing 🛋️☕",
+          "ife": false
+        },
+        {
+          "t": "1:23",
+          "sec": 83,
+          "title": "Boarding the Giant Emirates A380 ✈️",
+          "ife": false
+        },
+        {
+          "t": "1:55",
+          "sec": 115,
+          "title": "Takeoff & Window Seat Cloud Views 🛫☁️",
+          "ife": false
+        },
+        {
+          "t": "2:27",
+          "sec": 147,
+          "title": "In-Flight Entertainment & Movies 🎬",
+          "ife": true
+        },
+        {
+          "t": "3:15",
+          "sec": 195,
+          "title": "Emirates Economy Class Meal Review 🍽️😋",
+          "ife": false
+        },
+        {
+          "t": "4:10",
+          "sec": 250,
+          "title": "Building a LEGO Spider-Man Set Mid-Flight! 🕷️🧱",
+          "ife": false
+        },
+        {
+          "t": "4:41",
+          "sec": 281,
+          "title": "Smooth Landing in Dubai (DXB) 🇦🇪🌆",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "emirates",
+          "mentions": 8
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a380",
+          "mentions": 6
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 1
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "content": true,
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7argz-cwX34",
+      "title": "Cathay Pacific Premium Economy vs Economy 2027 – Is It REALLY Worth the Upgrade?",
+      "year": 2026,
+      "published_at": "2026-11-24T13:30:16Z",
+      "channel_title": "Luxe Fleet",
+      "view_count": 87,
+      "like_count": 1,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "StudioCX",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "cathay pacific",
+          "mentions": 4
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "connectivity": true,
+        "seat": true,
+        "usb_power": true
+      },
+      "ife_specs": {
+        "wifi_type": "Wi-Fi"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-IFzhinoZdg",
+      "title": "PHILIPPINE AIRLINES | SAN FRANCISCO-MANILA | BUSINESS CLASS | AIRBUS A350-1000 | RP-C3510 | PR105",
+      "year": 2026,
+      "published_at": "2026-11-21T04:00:08Z",
+      "channel_title": "Coddiwompling Miguel",
+      "view_count": 23342,
+      "like_count": 151,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [
+        {
+          "t": "00:00",
+          "sec": 0,
+          "title": "Intro",
+          "ife": false
+        },
+        {
+          "t": "01:25",
+          "sec": 85,
+          "title": "Flight Path",
+          "ife": false
+        },
+        {
+          "t": "02:30",
+          "sec": 150,
+          "title": "Mabuhay Lounge?",
+          "ife": false
+        },
+        {
+          "t": "03:02",
+          "sec": 182,
+          "title": "Our plane for this flight",
+          "ife": false
+        },
+        {
+          "t": "04:51",
+          "sec": 291,
+          "title": "Boarding",
+          "ife": false
+        },
+        {
+          "t": "05:23",
+          "sec": 323,
+          "title": "My Seat - 1K",
+          "ife": false
+        },
+        {
+          "t": "05:37",
+          "sec": 337,
+          "title": "Pre Departure Beverage and Oshibori",
+          "ife": false
+        },
+        {
+          "t": "06:01",
+          "sec": 361,
+          "title": "Seat Tour",
+          "ife": false
+        },
+        {
+          "t": "08:23",
+          "sec": 503,
+          "title": "Inflight Menus",
+          "ife": false
+        },
+        {
+          "t": "09:53",
+          "sec": 593,
+          "title": "Safety Card and Mabuhay Magazine",
+          "ife": false
+        },
+        {
+          "t": "11:07",
+          "sec": 667,
+          "title": "Lavatory Check",
+          "ife": false
+        },
+        {
+          "t": "11:46",
+          "sec": 706,
+          "title": "Safety Briefing",
+          "ife": false
+        },
+        {
+          "t": "12:00",
+          "sec": 720,
+          "title": "Pushback",
+          "ife": false
+        },
+        {
+          "t": "12:06",
+          "sec": 726,
+          "title": "Take off",
+          "ife": false
+        },
+        {
+          "t": "14:01",
+          "sec": 841,
+          "title": "Headphones",
+          "ife": false
+        },
+        {
+          "t": "14:12",
+          "sec": 852,
+          "title": "Slippers",
+          "ife": false
+        },
+        {
+          "t": "14:30",
+          "sec": 870,
+          "title": "Seat Controls",
+          "ife": false
+        },
+        {
+          "t": "15:13",
+          "sec": 913,
+          "title": "Privacy Door",
+          "ife": false
+        },
+        {
+          "t": "15:33",
+          "sec": 933,
+          "title": "Inflight Entertainment",
+          "ife": true
+        },
+        {
+          "t": "17:13",
+          "sec": 1033,
+          "title": "Guess the song",
+          "ife": false
+        },
+        {
+          "t": "17:33",
+          "sec": 1053,
+          "title": "Post Departure Meal Service",
+          "ife": false
+        },
+        {
+          "t": "19:08",
+          "sec": 1148,
+          "title": "Amenity Kit",
+          "ife": false
+        },
+        {
+          "t": "20:13",
+          "sec": 1213,
+          "title": "Bed Mode",
+          "ife": false
+        },
+        {
+          "t": "21:41",
+          "sec": 1301,
+          "title": "Mid Flight Meal",
+          "ife": false
+        },
+        {
+          "t": "22:06",
+          "sec": 1326,
+          "title": "Guess the Movie",
+          "ife": false
+        },
+        {
+          "t": "22:21",
+          "sec": 1341,
+          "title": "Pre Arrival Meal Service",
+          "ife": false
+        },
+        {
+          "t": "23:25",
+          "sec": 1405,
+          "title": "Initial Descent",
+          "ife": false
+        },
+        {
+          "t": "23:46",
+          "sec": 1426,
+          "title": "Final Approach",
+          "ife": false
+        },
+        {
+          "t": "24:45",
+          "sec": 1485,
+          "title": "Landing",
+          "ife": false
+        },
+        {
+          "t": "25:25",
+          "sec": 1525,
+          "title": "Sneak peek of my next video",
+          "ife": false
+        },
+        {
+          "t": "26:07",
+          "sec": 1567,
+          "title": "Outro",
+          "ife": false
+        }
+      ],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 2
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 2
+        },
+        {
+          "keyword": "a350-1000",
+          "mentions": 2
+        }
+      ],
+      "ife_features": {
+        "content": true,
+        "seat": true,
+        "moving_map": true
+      },
+      "ife_specs": {
+        "controller": "Tablet"
+      },
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_byl5G1smkM",
+      "title": "THAI Airways Airbus A350-900 | Bangkok to Singapore | TG403",
+      "year": 2026,
+      "published_at": "2026-11-23T11:30:17Z",
+      "channel_title": "Outsider's Aviation",
+      "view_count": 1261,
+      "like_count": 20,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Thales AVANT",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "thai airways",
+          "mentions": 7
+        }
+      ],
+      "aircraft_mentioned": [
+        {
+          "keyword": "a350",
+          "mentions": 7
+        },
+        {
+          "keyword": "airbus",
+          "mentions": 6
+        },
+        {
+          "keyword": "a350-900",
+          "mentions": 5
+        }
+      ],
+      "ife_features": {
+        "entertainment_system": true,
+        "seat": true,
+        "tail_camera": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yymWx-nLcbM",
+      "title": "MOKULELE AIRLINES CESSNA 208B Grand caravan | Honolulu - Molokai | Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-24T16:30:02Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 35217,
+      "like_count": 481,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bb9H79NKV8U",
+      "title": "ARGENTINA AIR FORCE / LADE EMBRAER 140 | Mar Del Plata - Buenos Aires | Flight Review",
+      "year": 2026,
+      "published_at": "2026-11-17T16:30:12Z",
+      "channel_title": "Million Miles Marc",
+      "view_count": 59259,
+      "like_count": 332,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": null,
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
+      "source_name": "Creator"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_pMPJXGPQK0",
+      "title": "What Happened to the Rest of Air India?",
+      "year": 2026,
+      "published_at": "2026-11-22T05:54:46Z",
+      "channel_title": "Flight Formula",
+      "view_count": 95035,
+      "like_count": 1706,
+      "ife_system": null,
+      "ife_system_inferred": false,
+      "ife_system_guess": "Panasonic eX3",
+      "chapters": [],
+      "media_type": "video",
+      "airlines_mentioned": [
+        {
+          "keyword": "air india",
+          "mentions": 1
+        },
+        {
+          "keyword": "qantas",
+          "mentions": 1
+        }
+      ],
+      "aircraft_mentioned": [],
+      "ife_features": {
+        "seat": true
+      },
+      "ife_specs": {},
+      "transcript_available": false,
+      "transcript_excerpt": null,
+      "captions": [],
+      "transcript_full": "",
+      "source_tier": 2,
       "source_name": "Creator"
     }
   ],
-  "last_updated": "2026-11-24T13:29:32.657135"
+  "last_updated": "2026-11-25T12:25:42.313753"
 }
